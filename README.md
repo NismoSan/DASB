@@ -3,10 +3,6 @@
   <p align="center">
     A Dark Ages proxy, bot framework, and protocol toolkit for Node.js
     <br />
-    <a href="DOCUMENTATION.md"><strong>Documentation</strong></a>
-    &nbsp;&middot;&nbsp;
-    <a href="DARKAGES-PROTOCOL.md"><strong>Protocol Reference</strong></a>
-    &nbsp;&middot;&nbsp;
     <a href="https://github.com/NismoSan/DASB/issues"><strong>Issues</strong></a>
   </p>
 </p>
@@ -81,7 +77,7 @@ All configuration is managed through three files:
 | `bot-config.json` | Bot accounts, server address, feature toggles, chat games, scheduled messages |
 | `discord-hooks.json` | Discord webhook rules and message filtering |
 
-Copy the `.example` versions and fill in your values. See [DOCUMENTATION.md](DOCUMENTATION.md) for the full configuration reference.
+Copy the `.example` versions and fill in your values.
 
 ### Environment Variables
 
@@ -107,10 +103,6 @@ npm run typecheck
 npm run build:all
 ```
 
-## Deployment
-
-See [DEPLOYMENT.md](DEPLOYMENT.md) for production setup with PM2 on a Linux VPS.
-
 ## Project Structure
 
 ```
@@ -125,10 +117,6 @@ panel/            # Built frontend assets (HTML, CSS, JS)
 data/             # Game data — collision maps, opcodes, monster definitions
 WorldLogs/        # Map metadata exports
 ```
-
-## Protocol Documentation
-
-The [Dark Ages Protocol Reference](DARKAGES-PROTOCOL.md) contains comprehensive documentation of the game's network protocol, including packet structures, opcodes, encryption, and connection flow.
 
 ## Acknowledgments
 
