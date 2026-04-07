@@ -1,0 +1,39 @@
+{
+  "Number": 302,
+  "Name": "Mileth White Magic Master",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth White Magic Maste",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 8": {
+      "MapId": 500,
+      "X": 81,
+      "Y": 73,
+      "Point": "81, 73"
+    },
+    "14, 7": {
+      "MapId": 500,
+      "X": 81,
+      "Y": 73,
+      "Point": "81, 73"
+    },
+    "8, 14": {
+      "MapId": 301,
+      "X": 12,
+      "Y": 1,
+      "Point": "12, 1"
+    },
+    "7, 14": {
+      "MapId": 301,
+      "X": 12,
+      "Y": 1,
+      "Point": "12, 1"
+    }
+  },
+  "WorldMaps": {}
+}

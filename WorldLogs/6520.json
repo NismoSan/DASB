@@ -1,0 +1,38 @@
+{
+  "Number": 6520,
+  "Name": "Oren Island Bank",
+  "Description": null,
+  "DisplayName": "Oren Island Bank",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 8": {
+      "MapId": 6228,
+      "X": 77,
+      "Y": 90,
+      "Point": "77, 90"
+    },
+    "19, 9": {
+      "MapId": 6228,
+      "X": 77,
+      "Y": 90,
+      "Point": "77, 90"
+    },
+    "19, 10": {
+      "MapId": 6228,
+      "X": 77,
+      "Y": 90,
+      "Point": "77, 90"
+    },
+    "19, 11": {
+      "MapId": 6228,
+      "X": 77,
+      "Y": 90,
+      "Point": "77, 90"
+    }
+  },
+  "WorldMaps": {}
+}

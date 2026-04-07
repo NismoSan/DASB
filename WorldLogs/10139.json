@@ -1,0 +1,37 @@
+{
+  "Number": 10139,
+  "Name": "Andor 39",
+  "Description": null,
+  "DisplayName": "Andor 39",
+  "Size": {
+    "Width": 40,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 22": {
+      "MapId": 10146,
+      "X": 27,
+      "Y": 8,
+      "Point": "27, 8"
+    },
+    "1, 23": {
+      "MapId": 10146,
+      "X": 27,
+      "Y": 9,
+      "Point": "27, 9"
+    },
+    "23, 1": {
+      "MapId": 10140,
+      "X": 16,
+      "Y": 28,
+      "Point": "16, 28"
+    },
+    "22, 1": {
+      "MapId": 10140,
+      "X": 15,
+      "Y": 28,
+      "Point": "15, 28"
+    }
+  }
+}

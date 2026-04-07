@@ -1,0 +1,33 @@
+{
+  "Number": 5008,
+  "Name": "Cthonic Remains 8",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Cthonic Remains 8",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "46, 53": {
+      "MapId": 5007,
+      "X": 49,
+      "Y": 53,
+      "Point": "49, 53"
+    },
+    "73, 43": {
+      "MapId": 5009,
+      "X": 75,
+      "Y": 42,
+      "Point": "75, 42"
+    },
+    "46, 72": {
+      "MapId": 5009,
+      "X": 75,
+      "Y": 42,
+      "Point": "75, 42"
+    }
+  },
+  "WorldMaps": {}
+}

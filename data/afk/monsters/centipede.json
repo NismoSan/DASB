@@ -1,0 +1,22 @@
+{
+  "templateKey": "centipede",
+  "name": "Centipede",
+  "sprite": 20,
+  "level": 2,
+  "maxHp": 250,
+  "maxMp": 0,
+  "stats": { "str": 6, "int": 1, "wis": 1, "con": 6, "dex": 9 },
+  "ac": 105,
+  "aggroRange": 5,
+  "moveIntervalMs": 1100,
+  "assailIntervalMs": 1900,
+  "skillIntervalMs": 10000,
+  "spellIntervalMs": 10000,
+  "wanderIntervalMs": 3500,
+  "expReward": 40,
+  "goldDrop": { "min": 8, "max": 20 },
+  "lootTableKey": "centipede_loot",
+  "skills": [],
+  "spells": [],
+  "respawnMs": 22000
+}

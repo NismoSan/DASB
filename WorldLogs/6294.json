@@ -1,0 +1,33 @@
+{
+  "Number": 6294,
+  "Name": "Manor Room 133",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Manor Room 133",
+  "Size": {
+    "Width": 21,
+    "Height": 11
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 10": {
+      "MapId": 6122,
+      "X": 9,
+      "Y": 33,
+      "Point": "9, 33"
+    },
+    "12, 10": {
+      "MapId": 6122,
+      "X": 9,
+      "Y": 33,
+      "Point": "9, 33"
+    },
+    "14, 11": {
+      "MapId": 6122,
+      "X": 9,
+      "Y": 33,
+      "Point": "9, 33"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,51 @@
+{
+  "Number": 614,
+  "Name": "East Woodland 18-1",
+  "WalkSpot": "23, 20",
+  "Description": null,
+  "DisplayName": "East Woodland 18-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "24, 0": {
+      "MapId": 615,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "23, 0": {
+      "MapId": 615,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "49, 23": {
+      "MapId": 617,
+      "X": 1,
+      "Y": 24,
+      "Point": "1, 24"
+    },
+    "49, 24": {
+      "MapId": 617,
+      "X": 1,
+      "Y": 23,
+      "Point": "1, 23"
+    },
+    "25, 49": {
+      "MapId": 613,
+      "X": 23,
+      "Y": 2,
+      "Point": "23, 2"
+    },
+    "26, 49": {
+      "MapId": 613,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    }
+  },
+  "WorldMaps": {}
+}

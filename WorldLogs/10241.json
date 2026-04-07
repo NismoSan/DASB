@@ -1,0 +1,25 @@
+{
+  "Number": 10241,
+  "Name": "Andor 141",
+  "Description": null,
+  "DisplayName": "Andor 141",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "22, 1": {
+      "MapId": 10242,
+      "X": 17,
+      "Y": 28,
+      "Point": "17, 28"
+    },
+    "23, 1": {
+      "MapId": 10242,
+      "X": 18,
+      "Y": 28,
+      "Point": "18, 28"
+    }
+  }
+}

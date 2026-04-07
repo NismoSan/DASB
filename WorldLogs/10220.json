@@ -1,0 +1,37 @@
+{
+  "Number": 10220,
+  "Name": "Andor 120",
+  "Description": null,
+  "DisplayName": "Andor 120",
+  "Size": {
+    "Width": 40,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 23": {
+      "MapId": 10227,
+      "X": 28,
+      "Y": 9,
+      "Point": "28, 9"
+    },
+    "1, 22": {
+      "MapId": 10227,
+      "X": 28,
+      "Y": 8,
+      "Point": "28, 8"
+    },
+    "22, 1": {
+      "MapId": 10221,
+      "X": 17,
+      "Y": 27,
+      "Point": "17, 27"
+    },
+    "23, 1": {
+      "MapId": 10221,
+      "X": 18,
+      "Y": 27,
+      "Point": "18, 27"
+    }
+  }
+}

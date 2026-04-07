@@ -1,0 +1,27 @@
+{
+  "Number": 1961,
+  "Name": "Empty Building",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Empty Building",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 14": {
+      "MapId": 662,
+      "X": 38,
+      "Y": 14,
+      "Point": "38, 14"
+    },
+    "6, 14": {
+      "MapId": 662,
+      "X": 37,
+      "Y": 14,
+      "Point": "37, 14"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,33 @@
+{
+  "Number": 8295,
+  "Name": "Aman Lounge",
+  "WalkSpot": "12, 7",
+  "Description": null,
+  "DisplayName": "Aman Lounge",
+  "Size": {
+    "Width": 25,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "15, 19": {
+      "MapId": 8300,
+      "X": 92,
+      "Y": 9,
+      "Point": "92, 9"
+    },
+    "16, 19": {
+      "MapId": 8300,
+      "X": 93,
+      "Y": 9,
+      "Point": "93, 9"
+    },
+    "17, 19": {
+      "MapId": 8300,
+      "X": 94,
+      "Y": 9,
+      "Point": "94, 9"
+    }
+  },
+  "WorldMaps": {}
+}

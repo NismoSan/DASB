@@ -1,0 +1,21 @@
+{
+  "Number": 2914,
+  "Name": "Blossom Forest 7",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blossom Forest 7",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 0": {
+      "MapId": 2915,
+      "X": 7,
+      "Y": 9,
+      "Point": "7, 9"
+    }
+  },
+  "WorldMaps": {}
+}

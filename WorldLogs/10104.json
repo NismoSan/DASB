@@ -1,0 +1,37 @@
+{
+  "Number": 10104,
+  "Name": "Andor 4",
+  "Description": null,
+  "DisplayName": "Andor 4",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 16": {
+      "MapId": 10101,
+      "X": 3,
+      "Y": 23,
+      "Point": "3, 23"
+    },
+    "30, 15": {
+      "MapId": 10101,
+      "X": 3,
+      "Y": 22,
+      "Point": "3, 22"
+    },
+    "1, 22": {
+      "MapId": 10111,
+      "X": 28,
+      "Y": 10,
+      "Point": "28, 10"
+    },
+    "1, 23": {
+      "MapId": 10111,
+      "X": 28,
+      "Y": 11,
+      "Point": "28, 11"
+    }
+  }
+}

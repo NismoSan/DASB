@@ -1,0 +1,21 @@
+{
+  "Number": 5259,
+  "Name": "Warrior Trainer 2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Warrior Trainer 2",
+  "Size": {
+    "Width": 7,
+    "Height": 7
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 0": {
+      "MapId": 5256,
+      "X": 5,
+      "Y": 11,
+      "Point": "5, 11"
+    }
+  },
+  "WorldMaps": {}
+}

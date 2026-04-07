@@ -1,0 +1,20 @@
+{
+  "Number": 3041,
+  "Name": "Loures Library",
+  "Description": null,
+  "DisplayName": "Loures Library",
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 15": {
+      "MapId": 123,
+      "X": 5,
+      "Y": 2,
+      "Point": "5, 2"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,44 @@
+{
+  "Number": 6702,
+  "Name": "Oren Ruins Gateway3",
+  "Description": null,
+  "DisplayName": "Oren Ruins Gateway3",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "27, 0": {
+      "MapId": 6700,
+      "X": 33,
+      "Y": 68,
+      "Point": "33, 68"
+    },
+    "26, 0": {
+      "MapId": 6700,
+      "X": 32,
+      "Y": 68,
+      "Point": "32, 68"
+    },
+    "25, 0": {
+      "MapId": 6700,
+      "X": 31,
+      "Y": 68,
+      "Point": "31, 68"
+    },
+    "24, 0": {
+      "MapId": 6700,
+      "X": 30,
+      "Y": 68,
+      "Point": "30, 68"
+    },
+    "45, 30": {
+      "MapId": 6924,
+      "X": 21,
+      "Y": 32,
+      "Point": "21, 32"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,21 @@
+{
+  "Number": 7071,
+  "Name": "Battle of Mount Merry",
+  "WalkSpot": "38, 38",
+  "Description": null,
+  "DisplayName": "Battle of Mount Merry",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 1,
+  "Portals": {
+    "43, 48": {
+      "MapId": 7050,
+      "X": 29,
+      "Y": 11,
+      "Point": "29, 11"
+    }
+  },
+  "WorldMaps": {}
+}

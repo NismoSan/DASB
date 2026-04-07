@@ -1,0 +1,39 @@
+{
+  "Number": 199,
+  "Name": "Piet Dungeon 4-3",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Dungeon 4-3",
+  "Size": {
+    "Width": 40,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 3": {
+      "MapId": 218,
+      "X": 17,
+      "Y": 22,
+      "Point": "17, 22"
+    },
+    "0, 21": {
+      "MapId": 196,
+      "X": 42,
+      "Y": 3,
+      "Point": "42, 3"
+    },
+    "0, 20": {
+      "MapId": 196,
+      "X": 42,
+      "Y": 3,
+      "Point": "42, 3"
+    },
+    "0, 19": {
+      "MapId": 196,
+      "X": 42,
+      "Y": 3,
+      "Point": "42, 3"
+    }
+  },
+  "WorldMaps": {}
+}

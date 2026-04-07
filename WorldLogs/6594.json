@@ -1,0 +1,27 @@
+{
+  "Number": 6594,
+  "Name": "Sewer Maze 14",
+  "WalkSpot": "17, 15",
+  "Description": null,
+  "DisplayName": "Sewer Maze 14",
+  "Size": {
+    "Width": 40,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 39": {
+      "MapId": 6590,
+      "X": 11,
+      "Y": 2,
+      "Point": "11, 2"
+    },
+    "14, 39": {
+      "MapId": 6590,
+      "X": 12,
+      "Y": 2,
+      "Point": "12, 2"
+    }
+  },
+  "WorldMaps": {}
+}

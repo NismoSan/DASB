@@ -1,0 +1,27 @@
+{
+  "Number": 663,
+  "Name": "Grassland Village",
+  "WalkSpot": "43, 92",
+  "Description": null,
+  "DisplayName": "Grassland Village",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "58, 0": {
+      "MapId": 908,
+      "X": 25,
+      "Y": 47,
+      "Point": "25, 47"
+    },
+    "59, 0": {
+      "MapId": 908,
+      "X": 26,
+      "Y": 47,
+      "Point": "26, 47"
+    }
+  },
+  "WorldMaps": {}
+}

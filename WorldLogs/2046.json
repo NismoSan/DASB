@@ -1,0 +1,51 @@
+{
+  "Number": 2046,
+  "Name": "House Macabre Yard 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "House Macabre Yard 1",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "58, 99": {
+      "MapId": 2052,
+      "X": 10,
+      "Y": 4,
+      "Point": "10, 4"
+    },
+    "59, 99": {
+      "MapId": 2052,
+      "X": 10,
+      "Y": 4,
+      "Point": "10, 4"
+    },
+    "60, 99": {
+      "MapId": 2052,
+      "X": 10,
+      "Y": 4,
+      "Point": "10, 4"
+    },
+    "57, 99": {
+      "MapId": 2052,
+      "X": 10,
+      "Y": 4,
+      "Point": "10, 4"
+    },
+    "99, 42": {
+      "MapId": 2049,
+      "X": 2,
+      "Y": 42,
+      "Point": "2, 42"
+    },
+    "0, 42": {
+      "MapId": 2047,
+      "X": 97,
+      "Y": 42,
+      "Point": "97, 42"
+    }
+  },
+  "WorldMaps": {}
+}

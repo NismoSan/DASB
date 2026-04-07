@@ -1,0 +1,27 @@
+{
+  "Number": 167,
+  "Name": "Abel Storage",
+  "WalkSpot": "6, 6",
+  "Description": null,
+  "DisplayName": "Abel Storage",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 11": {
+      "MapId": 502,
+      "X": 13,
+      "Y": 9,
+      "Point": "13, 9"
+    },
+    "6, 11": {
+      "MapId": 502,
+      "X": 14,
+      "Y": 9,
+      "Point": "14, 9"
+    }
+  },
+  "WorldMaps": {}
+}

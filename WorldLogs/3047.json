@@ -1,0 +1,27 @@
+{
+  "Number": 3047,
+  "Name": "Mileth Lore",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Lore",
+  "Size": {
+    "Width": 14,
+    "Height": 14
+  },
+  "Flags": 0,
+  "Portals": {
+    "3, 13": {
+      "MapId": 3043,
+      "X": 28,
+      "Y": 12,
+      "Point": "28, 12"
+    },
+    "4, 13": {
+      "MapId": 3043,
+      "X": 29,
+      "Y": 12,
+      "Point": "29, 12"
+    }
+  },
+  "WorldMaps": {}
+}

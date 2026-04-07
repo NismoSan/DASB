@@ -1,0 +1,19 @@
+{
+  "Number": 9384,
+  "Name": "Plamit Research",
+  "Description": null,
+  "DisplayName": "Plamit Research",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 13": {
+      "MapId": 9378,
+      "X": 8,
+      "Y": 42,
+      "Point": "8, 42"
+    }
+  }
+}

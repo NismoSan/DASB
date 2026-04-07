@@ -1,0 +1,55 @@
+{
+  "Number": 6992,
+  "Name": "DeadwoodForest4",
+  "Description": null,
+  "DisplayName": "Deadwood Forest",
+  "Size": {
+    "Width": 40,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "15, 0": {
+      "MapId": 6996,
+      "X": 15,
+      "Y": 28,
+      "Point": "15, 28"
+    },
+    "14, 0": {
+      "MapId": 6996,
+      "X": 14,
+      "Y": 28,
+      "Point": "14, 28"
+    },
+    "13, 0": {
+      "MapId": 6996,
+      "X": 13,
+      "Y": 28,
+      "Point": "13, 28"
+    },
+    "16, 0": {
+      "MapId": 6996,
+      "X": 16,
+      "Y": 28,
+      "Point": "16, 28"
+    },
+    "12, 0": {
+      "MapId": 6996,
+      "X": 12,
+      "Y": 28,
+      "Point": "12, 28"
+    },
+    "11, 0": {
+      "MapId": 6996,
+      "X": 11,
+      "Y": 28,
+      "Point": "11, 28"
+    },
+    "10, 0": {
+      "MapId": 6996,
+      "X": 10,
+      "Y": 28,
+      "Point": "10, 28"
+    }
+  }
+}

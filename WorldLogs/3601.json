@@ -1,0 +1,33 @@
+{
+  "Number": 3601,
+  "Name": "Chaos 2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 2",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 14": {
+      "MapId": 3634,
+      "X": 24,
+      "Y": 14,
+      "Point": "24, 14"
+    },
+    "68, 33": {
+      "MapId": 3602,
+      "X": 48,
+      "Y": 11,
+      "Point": "48, 11"
+    },
+    "44, 68": {
+      "MapId": 3602,
+      "X": 47,
+      "Y": 11,
+      "Point": "47, 11"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,7 @@
+{
+  "watch": ["panel.js", "data/"],
+  "ext": "js,json",
+  "ignore": ["lib/", "panel/panel.min.*", "node_modules/", "data/collision/"],
+  "delay": 1000,
+  "signal": "SIGTERM"
+}

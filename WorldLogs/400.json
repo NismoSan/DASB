@@ -1,0 +1,27 @@
+{
+  "Number": 400,
+  "Name": "Mileth Special Skill Master",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Special Skill Mas",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 14": {
+      "MapId": 500,
+      "X": 14,
+      "Y": 42,
+      "Point": "14, 42"
+    },
+    "7, 14": {
+      "MapId": 500,
+      "X": 14,
+      "Y": 42,
+      "Point": "14, 42"
+    }
+  },
+  "WorldMaps": {}
+}

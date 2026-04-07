@@ -1,0 +1,33 @@
+{
+  "Number": 8296,
+  "Name": "Aman Bazaar",
+  "WalkSpot": "11, 8",
+  "Description": null,
+  "DisplayName": "Aman Bazaar",
+  "Size": {
+    "Width": 25,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "24, 11": {
+      "MapId": 8300,
+      "X": 41,
+      "Y": 109,
+      "Point": "41, 109"
+    },
+    "24, 10": {
+      "MapId": 8300,
+      "X": 41,
+      "Y": 108,
+      "Point": "41, 108"
+    },
+    "24, 9": {
+      "MapId": 8300,
+      "X": 41,
+      "Y": 107,
+      "Point": "41, 107"
+    }
+  },
+  "WorldMaps": {}
+}

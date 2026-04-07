@@ -1,0 +1,27 @@
+{
+  "Number": 416,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Suomi White Magic Master",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 7": {
+      "MapId": 503,
+      "X": 16,
+      "Y": 86,
+      "Point": "16, 86"
+    },
+    "14, 8": {
+      "MapId": 503,
+      "X": 16,
+      "Y": 87,
+      "Point": "16, 87"
+    }
+  },
+  "WorldMaps": {}
+}

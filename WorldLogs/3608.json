@@ -1,0 +1,39 @@
+{
+  "Number": 3608,
+  "Name": "Chaos 9",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 9",
+  "Size": {
+    "Width": 60,
+    "Height": 60
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 27": {
+      "MapId": 3607,
+      "X": 65,
+      "Y": 19,
+      "Point": "65, 19"
+    },
+    "4, 59": {
+      "MapId": 3609,
+      "X": 8,
+      "Y": 3,
+      "Point": "8, 3"
+    },
+    "5, 59": {
+      "MapId": 3609,
+      "X": 8,
+      "Y": 3,
+      "Point": "8, 3"
+    },
+    "6, 59": {
+      "MapId": 3609,
+      "X": 8,
+      "Y": 4,
+      "Point": "8, 4"
+    }
+  },
+  "WorldMaps": {}
+}

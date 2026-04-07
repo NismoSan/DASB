@@ -1,0 +1,39 @@
+{
+  "Number": 914,
+  "Name": "caladh beithir 5",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "caladh beithir 5",
+  "Size": {
+    "Width": 100,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "61, 9": {
+      "MapId": 910,
+      "X": 23,
+      "Y": 77,
+      "Point": "23, 77"
+    },
+    "82, 76": {
+      "MapId": 919,
+      "X": 45,
+      "Y": 15,
+      "Point": "45, 15"
+    },
+    "81, 76": {
+      "MapId": 919,
+      "X": 45,
+      "Y": 15,
+      "Point": "45, 15"
+    },
+    "62, 77": {
+      "MapId": 917,
+      "X": 26,
+      "Y": 6,
+      "Point": "26, 6"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 2903,
+  "Name": "Unknown 2903",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Veltain Mine 3",
+  "Size": {
+    "Width": 150,
+    "Height": 150
+  },
+  "Flags": 0,
+  "Portals": {
+    "123, 1": {
+      "MapId": 2906,
+      "X": 14,
+      "Y": 30,
+      "Point": "14, 30"
+    },
+    "68, 131": {
+      "MapId": 2901,
+      "X": 5,
+      "Y": 16,
+      "Point": "5, 16"
+    }
+  },
+  "WorldMaps": {}
+}

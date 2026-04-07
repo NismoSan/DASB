@@ -1,0 +1,39 @@
+{
+  "Number": 659,
+  "Name": "Mine 23-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mine 23-1",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "46, 99": {
+      "MapId": 658,
+      "X": 39,
+      "Y": 1,
+      "Point": "39, 1"
+    },
+    "47, 99": {
+      "MapId": 658,
+      "X": 40,
+      "Y": 1,
+      "Point": "40, 1"
+    },
+    "13, 53": {
+      "MapId": 649,
+      "X": 68,
+      "Y": 88,
+      "Point": "68, 88"
+    },
+    "13, 52": {
+      "MapId": 649,
+      "X": 68,
+      "Y": 87,
+      "Point": "68, 87"
+    }
+  },
+  "WorldMaps": {}
+}

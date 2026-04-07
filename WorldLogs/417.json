@@ -1,0 +1,39 @@
+{
+  "Number": 417,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Suomi Black Magic Master",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 14": {
+      "MapId": 414,
+      "X": 12,
+      "Y": 1,
+      "Point": "12, 1"
+    },
+    "8, 14": {
+      "MapId": 414,
+      "X": 12,
+      "Y": 1,
+      "Point": "12, 1"
+    },
+    "14, 8": {
+      "MapId": 503,
+      "X": 79,
+      "Y": 74,
+      "Point": "79, 74"
+    },
+    "14, 7": {
+      "MapId": 503,
+      "X": 79,
+      "Y": 74,
+      "Point": "79, 74"
+    }
+  },
+  "WorldMaps": {}
+}

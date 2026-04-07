@@ -1,0 +1,21 @@
+{
+  "Number": 1006,
+  "Name": "Shinewood Herbal Shop",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shinewood Herbal Shop",
+  "Size": {
+    "Width": 10,
+    "Height": 10
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 5": {
+      "MapId": 553,
+      "X": 17,
+      "Y": 37,
+      "Point": "17, 37"
+    }
+  },
+  "WorldMaps": {}
+}

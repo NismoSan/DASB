@@ -1,0 +1,51 @@
+{
+  "Number": 11321,
+  "Name": "Unknown 11321",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Muisir Path 21",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 22": {
+      "MapId": 11322,
+      "X": 48,
+      "Y": 22,
+      "Point": "48, 22"
+    },
+    "25, 49": {
+      "MapId": 11300,
+      "X": 28,
+      "Y": 2,
+      "Point": "28, 2"
+    },
+    "24, 49": {
+      "MapId": 11300,
+      "X": 27,
+      "Y": 2,
+      "Point": "27, 2"
+    },
+    "0, 24": {
+      "MapId": 11322,
+      "X": 47,
+      "Y": 24,
+      "Point": "47, 24"
+    },
+    "0, 23": {
+      "MapId": 11322,
+      "X": 48,
+      "Y": 23,
+      "Point": "48, 23"
+    },
+    "0, 25": {
+      "MapId": 11322,
+      "X": 48,
+      "Y": 25,
+      "Point": "48, 25"
+    }
+  },
+  "WorldMaps": {}
+}

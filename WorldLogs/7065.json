@@ -1,0 +1,21 @@
+{
+  "Number": 7065,
+  "Name": "Mount Merry 4-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mount Merry 4-2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 48": {
+      "MapId": 7050,
+      "X": 27,
+      "Y": 3,
+      "Point": "27, 3"
+    }
+  },
+  "WorldMaps": {}
+}

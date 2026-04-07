@@ -1,0 +1,33 @@
+{
+  "Number": 992,
+  "Name": "Unknown 992",
+  "WalkSpot": "73, 38",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 11",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "39, 99": {
+      "MapId": 547,
+      "X": 47,
+      "Y": 1,
+      "Point": "47, 1"
+    },
+    "38, 99": {
+      "MapId": 547,
+      "X": 46,
+      "Y": 1,
+      "Point": "46, 1"
+    },
+    "37, 99": {
+      "MapId": 547,
+      "X": 45,
+      "Y": 1,
+      "Point": "45, 1"
+    }
+  },
+  "WorldMaps": {}
+}

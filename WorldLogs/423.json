@@ -1,0 +1,27 @@
+{
+  "Number": 423,
+  "Name": "Rucesion Goods Shop",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Rucesion Goods Shop",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 14": {
+      "MapId": 505,
+      "X": 7,
+      "Y": 24,
+      "Point": "7, 24"
+    },
+    "7, 14": {
+      "MapId": 505,
+      "X": 7,
+      "Y": 24,
+      "Point": "7, 24"
+    }
+  },
+  "WorldMaps": {}
+}

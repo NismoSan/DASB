@@ -1,0 +1,20 @@
+{
+  "Number": 124,
+  "Name": "Loures 3 Floor Magic Room",
+  "Description": null,
+  "DisplayName": "Loures 3 Floor Magic Roo",
+  "Size": {
+    "Width": 10,
+    "Height": 10
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 6": {
+      "MapId": 123,
+      "X": 1,
+      "Y": 5,
+      "Point": "1, 5"
+    }
+  },
+  "WorldMaps": {}
+}

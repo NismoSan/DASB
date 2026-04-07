@@ -1,0 +1,21 @@
+{
+  "Number": 10271,
+  "Name": "Unknown 10271",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Yun Moo's Weapon Shop",
+  "Size": {
+    "Width": 17,
+    "Height": 17
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 17": {
+      "MapId": 10265,
+      "X": 73,
+      "Y": 35,
+      "Point": "73, 35"
+    }
+  },
+  "WorldMaps": {}
+}

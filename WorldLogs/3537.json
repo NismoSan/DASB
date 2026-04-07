@@ -1,0 +1,19 @@
+{
+  "Number": 3537,
+  "Name": "Wizard Dedication",
+  "Description": null,
+  "DisplayName": "Wizard Dedication",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 11": {
+      "MapId": 393,
+      "X": 2,
+      "Y": 5,
+      "Point": "2, 5"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Number": 3602,
+  "Name": "Chaos 3",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 3",
+  "Size": {
+    "Width": 80,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "47, 10": {
+      "MapId": 3601,
+      "X": 43,
+      "Y": 66,
+      "Point": "43, 66"
+    },
+    "77, 39": {
+      "MapId": 3604,
+      "X": 4,
+      "Y": 36,
+      "Point": "4, 36"
+    },
+    "26, 77": {
+      "MapId": 3603,
+      "X": 19,
+      "Y": 3,
+      "Point": "19, 3"
+    }
+  },
+  "WorldMaps": {}
+}

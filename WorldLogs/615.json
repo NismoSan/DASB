@@ -1,0 +1,45 @@
+{
+  "Number": 615,
+  "Name": "East Woodland 19-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "East Woodland 19-2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "24, 50": {
+      "MapId": 614,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    },
+    "49, 26": {
+      "MapId": 618,
+      "X": 1,
+      "Y": 23,
+      "Point": "1, 23"
+    },
+    "49, 25": {
+      "MapId": 618,
+      "X": 1,
+      "Y": 23,
+      "Point": "1, 23"
+    },
+    "25, 49": {
+      "MapId": 614,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    },
+    "26, 49": {
+      "MapId": 614,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    }
+  },
+  "WorldMaps": {}
+}

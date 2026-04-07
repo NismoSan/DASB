@@ -1,0 +1,57 @@
+{
+  "Number": 11718,
+  "Name": "Sacred Forest 18-3",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Sacred Forest 18-3",
+  "Size": {
+    "Width": 60,
+    "Height": 60
+  },
+  "Flags": 0,
+  "Portals": {
+    "59, 15": {
+      "MapId": 11717,
+      "X": 2,
+      "Y": 3,
+      "Point": "2, 3"
+    },
+    "59, 14": {
+      "MapId": 11717,
+      "X": 2,
+      "Y": 2,
+      "Point": "2, 2"
+    },
+    "0, 25": {
+      "MapId": 11719,
+      "X": 57,
+      "Y": 29,
+      "Point": "57, 29"
+    },
+    "0, 26": {
+      "MapId": 11719,
+      "X": 57,
+      "Y": 30,
+      "Point": "57, 30"
+    },
+    "0, 24": {
+      "MapId": 11719,
+      "X": 57,
+      "Y": 28,
+      "Point": "57, 28"
+    },
+    "0, 23": {
+      "MapId": 11719,
+      "X": 57,
+      "Y": 27,
+      "Point": "57, 27"
+    },
+    "59, 17": {
+      "MapId": 11717,
+      "X": 2,
+      "Y": 5,
+      "Point": "2, 5"
+    }
+  },
+  "WorldMaps": {}
+}

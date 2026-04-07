@@ -1,0 +1,21 @@
+{
+  "Number": 165,
+  "Name": "Piet Weapon Shop",
+  "WalkSpot": "1, 10",
+  "Description": null,
+  "DisplayName": "Piet Weapon Shop",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 14": {
+      "MapId": 501,
+      "X": 49,
+      "Y": 29,
+      "Point": "49, 29"
+    }
+  },
+  "WorldMaps": {}
+}

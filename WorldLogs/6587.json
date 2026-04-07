@@ -1,0 +1,27 @@
+{
+  "Number": 6587,
+  "Name": "Sewer Maze 7",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Sewer Maze 7",
+  "Size": {
+    "Width": 39,
+    "Height": 26
+  },
+  "Flags": 0,
+  "Portals": {
+    "38, 12": {
+      "MapId": 6583,
+      "X": 1,
+      "Y": 17,
+      "Point": "1, 17"
+    },
+    "1, 12": {
+      "MapId": 6592,
+      "X": 48,
+      "Y": 8,
+      "Point": "48, 8"
+    }
+  },
+  "WorldMaps": {}
+}

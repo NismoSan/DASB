@@ -1,0 +1,37 @@
+{
+  "Number": 3617,
+  "Name": "Chaos 18",
+  "Description": null,
+  "DisplayName": "Chaos 18",
+  "Size": {
+    "Width": 80,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "26, 0": {
+      "MapId": 3616,
+      "X": 30,
+      "Y": 76,
+      "Point": "30, 76"
+    },
+    "79, 17": {
+      "MapId": 3618,
+      "X": 3,
+      "Y": 34,
+      "Point": "3, 34"
+    },
+    "79, 18": {
+      "MapId": 3618,
+      "X": 3,
+      "Y": 34,
+      "Point": "3, 34"
+    },
+    "79, 19": {
+      "MapId": 3618,
+      "X": 3,
+      "Y": 34,
+      "Point": "3, 34"
+    }
+  }
+}

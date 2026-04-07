@@ -1,0 +1,33 @@
+{
+  "Number": 6000,
+  "Name": "Unknown 6000",
+  "WalkSpot": "14, 16",
+  "Description": null,
+  "DisplayName": "Eingren Manor Entrance",
+  "Size": {
+    "Width": 60,
+    "Height": 60
+  },
+  "Flags": 2,
+  "Portals": {
+    "57, 56": {
+      "MapId": 6001,
+      "X": 3,
+      "Y": 2,
+      "Point": "3, 2"
+    },
+    "57, 55": {
+      "MapId": 6001,
+      "X": 2,
+      "Y": 2,
+      "Point": "2, 2"
+    },
+    "12, 13": {
+      "MapId": 6002,
+      "X": 37,
+      "Y": 22,
+      "Point": "37, 22"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,37 @@
+{
+  "Number": 10146,
+  "Name": "Andor 46",
+  "Description": null,
+  "DisplayName": "Andor 46",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "18, 30": {
+      "MapId": 10145,
+      "X": 15,
+      "Y": 3,
+      "Point": "15, 3"
+    },
+    "17, 30": {
+      "MapId": 10145,
+      "X": 14,
+      "Y": 3,
+      "Point": "14, 3"
+    },
+    "30, 8": {
+      "MapId": 10139,
+      "X": 3,
+      "Y": 22,
+      "Point": "3, 22"
+    },
+    "30, 9": {
+      "MapId": 10139,
+      "X": 3,
+      "Y": 23,
+      "Point": "3, 23"
+    }
+  }
+}

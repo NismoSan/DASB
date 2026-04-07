@@ -1,0 +1,27 @@
+{
+  "Number": 3042,
+  "Name": "Mileth Library",
+  "WalkSpot": "3, 2",
+  "Description": null,
+  "DisplayName": "Mileth Library",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 11": {
+      "MapId": 3043,
+      "X": 18,
+      "Y": 12,
+      "Point": "18, 12"
+    },
+    "6, 11": {
+      "MapId": 3043,
+      "X": 19,
+      "Y": 12,
+      "Point": "19, 12"
+    }
+  },
+  "WorldMaps": {}
+}

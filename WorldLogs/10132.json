@@ -1,0 +1,37 @@
+{
+  "Number": 10132,
+  "Name": "Andor 32",
+  "Description": null,
+  "DisplayName": "Andor 32",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "29, 15": {
+      "MapId": 10128,
+      "X": 3,
+      "Y": 15,
+      "Point": "3, 15"
+    },
+    "29, 14": {
+      "MapId": 10128,
+      "X": 3,
+      "Y": 14,
+      "Point": "3, 14"
+    },
+    "1, 22": {
+      "MapId": 10135,
+      "X": 27,
+      "Y": 14,
+      "Point": "27, 14"
+    },
+    "1, 23": {
+      "MapId": 10135,
+      "X": 27,
+      "Y": 15,
+      "Point": "27, 15"
+    }
+  }
+}

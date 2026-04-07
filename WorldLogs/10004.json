@@ -1,0 +1,38 @@
+{
+  "Number": 10004,
+  "Name": "Asilon Inn",
+  "Description": null,
+  "DisplayName": "Asilon Inn",
+  "Size": {
+    "Width": 21,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 14": {
+      "MapId": 10000,
+      "X": 50,
+      "Y": 52,
+      "Point": "50, 52"
+    },
+    "8, 14": {
+      "MapId": 10000,
+      "X": 50,
+      "Y": 52,
+      "Point": "50, 52"
+    },
+    "9, 14": {
+      "MapId": 10000,
+      "X": 51,
+      "Y": 52,
+      "Point": "51, 52"
+    },
+    "10, 14": {
+      "MapId": 10000,
+      "X": 51,
+      "Y": 52,
+      "Point": "51, 52"
+    }
+  },
+  "WorldMaps": {}
+}

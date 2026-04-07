@@ -1,0 +1,39 @@
+{
+  "Number": 8991,
+  "Name": "Assassin Dungeon 2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Assassin Dungeon 2",
+  "Size": {
+    "Width": 35,
+    "Height": 35
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 31": {
+      "MapId": 8990,
+      "X": 8,
+      "Y": 9,
+      "Point": "8, 9"
+    },
+    "14, 4": {
+      "MapId": 8992,
+      "X": 14,
+      "Y": 30,
+      "Point": "14, 30"
+    },
+    "16, 4": {
+      "MapId": 8992,
+      "X": 16,
+      "Y": 30,
+      "Point": "16, 30"
+    },
+    "15, 31": {
+      "MapId": 8990,
+      "X": 8,
+      "Y": 9,
+      "Point": "8, 9"
+    }
+  },
+  "WorldMaps": {}
+}

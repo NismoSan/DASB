@@ -1,0 +1,39 @@
+{
+  "Number": 185,
+  "Name": "Coast",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Coast",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 47": {
+      "MapId": 502,
+      "X": 44,
+      "Y": 64,
+      "Point": "44, 64"
+    },
+    "6, 47": {
+      "MapId": 502,
+      "X": 44,
+      "Y": 64,
+      "Point": "44, 64"
+    },
+    "11, 47": {
+      "MapId": 502,
+      "X": 45,
+      "Y": 64,
+      "Point": "45, 64"
+    },
+    "26, 31": {
+      "MapId": 207,
+      "X": 21,
+      "Y": 1,
+      "Point": "21, 1"
+    }
+  },
+  "WorldMaps": {}
+}

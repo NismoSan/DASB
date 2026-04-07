@@ -1,0 +1,26 @@
+{
+  "Number": 110,
+  "Name": "Loures 1 Floor Corridor",
+  "Description": null,
+  "DisplayName": "Loures 1 Floor Corridor",
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 15": {
+      "MapId": 109,
+      "X": 5,
+      "Y": 2,
+      "Point": "5, 2"
+    },
+    "8, 0": {
+      "MapId": 120,
+      "X": 6,
+      "Y": 7,
+      "Point": "6, 7"
+    }
+  },
+  "WorldMaps": {}
+}

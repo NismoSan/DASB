@@ -1,0 +1,26 @@
+{
+  "Number": 6718,
+  "Name": "Nobis Storage",
+  "Description": null,
+  "DisplayName": "Nobis Storage",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 19": {
+      "MapId": 6700,
+      "X": 44,
+      "Y": 26,
+      "Point": "44, 26"
+    },
+    "10, 19": {
+      "MapId": 6700,
+      "X": 44,
+      "Y": 26,
+      "Point": "44, 26"
+    }
+  },
+  "WorldMaps": {}
+}

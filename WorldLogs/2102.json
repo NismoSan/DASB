@@ -1,0 +1,63 @@
+{
+  "Number": 2102,
+  "Name": "Mount Giragan 16",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mount Giragan 16",
+  "Size": {
+    "Width": 15,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 39": {
+      "MapId": 2092,
+      "X": 82,
+      "Y": 1,
+      "Point": "82, 1"
+    },
+    "5, 0": {
+      "MapId": 2103,
+      "X": 54,
+      "Y": 98,
+      "Point": "54, 98"
+    },
+    "7, 0": {
+      "MapId": 2103,
+      "X": 56,
+      "Y": 97,
+      "Point": "56, 97"
+    },
+    "7, 39": {
+      "MapId": 2092,
+      "X": 83,
+      "Y": 1,
+      "Point": "83, 1"
+    },
+    "8, 39": {
+      "MapId": 2092,
+      "X": 84,
+      "Y": 2,
+      "Point": "84, 2"
+    },
+    "9, 39": {
+      "MapId": 2092,
+      "X": 85,
+      "Y": 1,
+      "Point": "85, 1"
+    },
+    "6, 0": {
+      "MapId": 2103,
+      "X": 55,
+      "Y": 98,
+      "Point": "55, 98"
+    },
+    "4, 0": {
+      "MapId": 2103,
+      "X": 53,
+      "Y": 98,
+      "Point": "53, 98"
+    }
+  },
+  "WorldMaps": {}
+}

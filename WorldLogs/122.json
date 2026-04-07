@@ -1,0 +1,26 @@
+{
+  "Number": 122,
+  "Name": "Loures 1 Floor Weapon Storage",
+  "Description": null,
+  "DisplayName": "Loures 1 Floor Weapon St",
+  "Size": {
+    "Width": 10,
+    "Height": 10
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 9": {
+      "MapId": 120,
+      "X": 8,
+      "Y": 2,
+      "Point": "8, 2"
+    },
+    "9, 5": {
+      "MapId": 378,
+      "X": 2,
+      "Y": 7,
+      "Point": "2, 7"
+    }
+  },
+  "WorldMaps": {}
+}

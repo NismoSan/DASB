@@ -1,0 +1,69 @@
+{
+  "Number": 6609,
+  "Name": "Oren Island Jungle 8",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Island Jungle 8",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 0,
+  "Portals": {
+    "69, 48": {
+      "MapId": 6608,
+      "X": 2,
+      "Y": 13,
+      "Point": "2, 13"
+    },
+    "69, 47": {
+      "MapId": 6608,
+      "X": 2,
+      "Y": 13,
+      "Point": "2, 13"
+    },
+    "69, 49": {
+      "MapId": 6608,
+      "X": 2,
+      "Y": 13,
+      "Point": "2, 13"
+    },
+    "69, 51": {
+      "MapId": 6608,
+      "X": 2,
+      "Y": 13,
+      "Point": "2, 13"
+    },
+    "69, 50": {
+      "MapId": 6608,
+      "X": 2,
+      "Y": 13,
+      "Point": "2, 13"
+    },
+    "0, 20": {
+      "MapId": 6610,
+      "X": 67,
+      "Y": 50,
+      "Point": "67, 50"
+    },
+    "0, 19": {
+      "MapId": 6610,
+      "X": 67,
+      "Y": 50,
+      "Point": "67, 50"
+    },
+    "0, 18": {
+      "MapId": 6610,
+      "X": 67,
+      "Y": 50,
+      "Point": "67, 50"
+    },
+    "0, 17": {
+      "MapId": 6610,
+      "X": 67,
+      "Y": 50,
+      "Point": "67, 50"
+    }
+  },
+  "WorldMaps": {}
+}

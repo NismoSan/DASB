@@ -1,0 +1,14 @@
+{
+  "Number": 7403,
+  "Name": "Loures Sewer Canal 3",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Loures Sewer Canal 3",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {},
+  "WorldMaps": {}
+}

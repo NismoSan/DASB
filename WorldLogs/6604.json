@@ -1,0 +1,39 @@
+{
+  "Number": 6604,
+  "Name": "Oren Island Jungle 3",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Island Jungle 3",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 0,
+  "Portals": {
+    "69, 21": {
+      "MapId": 6603,
+      "X": 2,
+      "Y": 34,
+      "Point": "2, 34"
+    },
+    "69, 20": {
+      "MapId": 6603,
+      "X": 2,
+      "Y": 34,
+      "Point": "2, 34"
+    },
+    "69, 19": {
+      "MapId": 6603,
+      "X": 2,
+      "Y": 32,
+      "Point": "2, 32"
+    },
+    "69, 18": {
+      "MapId": 6603,
+      "X": 2,
+      "Y": 32,
+      "Point": "2, 32"
+    }
+  },
+  "WorldMaps": {}
+}

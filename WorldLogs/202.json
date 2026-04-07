@@ -1,0 +1,21 @@
+{
+  "Number": 202,
+  "Name": "Piet Inn Corridor 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Inn Corridor 1",
+  "Size": {
+    "Width": 5,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "4, 13": {
+      "MapId": 150,
+      "X": 1,
+      "Y": 10,
+      "Point": "1, 10"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,51 @@
+{
+  "Number": 3005,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Lover's Glade",
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 15": {
+      "MapId": 622,
+      "X": 95,
+      "Y": 1,
+      "Point": "95, 1"
+    },
+    "6, 15": {
+      "MapId": 622,
+      "X": 96,
+      "Y": 1,
+      "Point": "96, 1"
+    },
+    "7, 15": {
+      "MapId": 622,
+      "X": 97,
+      "Y": 1,
+      "Point": "97, 1"
+    },
+    "8, 15": {
+      "MapId": 622,
+      "X": 98,
+      "Y": 1,
+      "Point": "98, 1"
+    },
+    "9, 15": {
+      "MapId": 622,
+      "X": 99,
+      "Y": 1,
+      "Point": "99, 1"
+    },
+    "4, 15": {
+      "MapId": 622,
+      "X": 94,
+      "Y": 1,
+      "Point": "94, 1"
+    }
+  },
+  "WorldMaps": {}
+}

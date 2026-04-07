@@ -1,0 +1,27 @@
+{
+  "Number": 6806,
+  "Name": "Garamonde Theatre",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Garamonde Theatre",
+  "Size": {
+    "Width": 22,
+    "Height": 29
+  },
+  "Flags": 0,
+  "Portals": {
+    "21, 15": {
+      "MapId": 503,
+      "X": 12,
+      "Y": 30,
+      "Point": "12, 30"
+    },
+    "21, 16": {
+      "MapId": 503,
+      "X": 12,
+      "Y": 29,
+      "Point": "12, 29"
+    }
+  },
+  "WorldMaps": {}
+}

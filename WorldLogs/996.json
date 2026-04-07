@@ -1,0 +1,33 @@
+{
+  "Number": 996,
+  "Name": "Shinewood Forest 26",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 26",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "39, 99": {
+      "MapId": 563,
+      "X": 19,
+      "Y": 0,
+      "Point": "19, 0"
+    },
+    "99, 15": {
+      "MapId": 997,
+      "X": 1,
+      "Y": 12,
+      "Point": "1, 12"
+    },
+    "99, 14": {
+      "MapId": 997,
+      "X": 1,
+      "Y": 11,
+      "Point": "1, 11"
+    }
+  },
+  "WorldMaps": {}
+}

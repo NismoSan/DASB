@@ -1,0 +1,21 @@
+{
+  "Number": 917,
+  "Name": "caladh beithir 8",
+  "WalkSpot": "22, 22",
+  "Description": null,
+  "DisplayName": "caladh beithir 8",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "26, 3": {
+      "MapId": 914,
+      "X": 62,
+      "Y": 76,
+      "Point": "62, 76"
+    }
+  },
+  "WorldMaps": {}
+}

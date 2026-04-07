@@ -1,0 +1,39 @@
+{
+  "Number": 8999,
+  "Name": "InsectHuntingGround1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Insect Hunting Ground1",
+  "Size": {
+    "Width": 30,
+    "Height": 30
+  },
+  "Flags": 64,
+  "Portals": {
+    "29, 12": {
+      "MapId": 133,
+      "X": 5,
+      "Y": 10,
+      "Point": "5, 10"
+    },
+    "29, 13": {
+      "MapId": 133,
+      "X": 6,
+      "Y": 10,
+      "Point": "6, 10"
+    },
+    "29, 14": {
+      "MapId": 133,
+      "X": 7,
+      "Y": 10,
+      "Point": "7, 10"
+    },
+    "29, 15": {
+      "MapId": 133,
+      "X": 8,
+      "Y": 10,
+      "Point": "8, 10"
+    }
+  },
+  "WorldMaps": {}
+}

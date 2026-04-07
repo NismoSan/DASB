@@ -1,0 +1,39 @@
+{
+  "Number": 6588,
+  "Name": "Sewer Maze 9",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Sewer Maze 9",
+  "Size": {
+    "Width": 26,
+    "Height": 38
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 1": {
+      "MapId": 6584,
+      "X": 12,
+      "Y": 65,
+      "Point": "12, 65"
+    },
+    "12, 37": {
+      "MapId": 6583,
+      "X": 16,
+      "Y": 9,
+      "Point": "16, 9"
+    },
+    "13, 37": {
+      "MapId": 6583,
+      "X": 17,
+      "Y": 9,
+      "Point": "17, 9"
+    },
+    "12, 1": {
+      "MapId": 6584,
+      "X": 13,
+      "Y": 65,
+      "Point": "13, 65"
+    }
+  },
+  "WorldMaps": {}
+}

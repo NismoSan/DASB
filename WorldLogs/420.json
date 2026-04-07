@@ -1,0 +1,33 @@
+{
+  "Number": 420,
+  "Name": "Rucesion Weapon Shop",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Rucesion Weapon Shop",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 0": {
+      "MapId": 421,
+      "X": 1,
+      "Y": 10,
+      "Point": "1, 10"
+    },
+    "7, 14": {
+      "MapId": 505,
+      "X": 32,
+      "Y": 34,
+      "Point": "32, 34"
+    },
+    "6, 14": {
+      "MapId": 505,
+      "X": 32,
+      "Y": 34,
+      "Point": "32, 34"
+    }
+  },
+  "WorldMaps": {}
+}

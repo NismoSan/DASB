@@ -1,0 +1,27 @@
+{
+  "Number": 145,
+  "Name": "Mileth Inn Room 8",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Inn Room 8",
+  "Size": {
+    "Width": 8,
+    "Height": 8
+  },
+  "Flags": 0,
+  "Portals": {
+    "4, 7": {
+      "MapId": 201,
+      "X": 8,
+      "Y": 1,
+      "Point": "8, 1"
+    },
+    "5, 7": {
+      "MapId": 201,
+      "X": 8,
+      "Y": 1,
+      "Point": "8, 1"
+    }
+  },
+  "WorldMaps": {}
+}

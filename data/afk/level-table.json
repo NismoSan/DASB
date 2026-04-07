@@ -1,0 +1,22 @@
+[
+  { "level": 1, "expRequired": 100, "hpGain": 50, "mpGain": 30, "statPoints": 2 },
+  { "level": 2, "expRequired": 250, "hpGain": 55, "mpGain": 32, "statPoints": 2 },
+  { "level": 3, "expRequired": 500, "hpGain": 60, "mpGain": 35, "statPoints": 2 },
+  { "level": 4, "expRequired": 900, "hpGain": 65, "mpGain": 38, "statPoints": 2 },
+  { "level": 5, "expRequired": 1500, "hpGain": 70, "mpGain": 40, "statPoints": 2 },
+  { "level": 6, "expRequired": 2500, "hpGain": 80, "mpGain": 45, "statPoints": 2 },
+  { "level": 7, "expRequired": 4000, "hpGain": 90, "mpGain": 50, "statPoints": 2 },
+  { "level": 8, "expRequired": 6000, "hpGain": 100, "mpGain": 55, "statPoints": 2 },
+  { "level": 9, "expRequired": 9000, "hpGain": 110, "mpGain": 60, "statPoints": 2 },
+  { "level": 10, "expRequired": 13000, "hpGain": 120, "mpGain": 65, "statPoints": 3 },
+  { "level": 11, "expRequired": 18000, "hpGain": 130, "mpGain": 70, "statPoints": 2 },
+  { "level": 12, "expRequired": 25000, "hpGain": 140, "mpGain": 75, "statPoints": 2 },
+  { "level": 13, "expRequired": 35000, "hpGain": 150, "mpGain": 80, "statPoints": 2 },
+  { "level": 14, "expRequired": 48000, "hpGain": 160, "mpGain": 85, "statPoints": 2 },
+  { "level": 15, "expRequired": 65000, "hpGain": 170, "mpGain": 90, "statPoints": 2 },
+  { "level": 16, "expRequired": 85000, "hpGain": 180, "mpGain": 95, "statPoints": 2 },
+  { "level": 17, "expRequired": 110000, "hpGain": 190, "mpGain": 100, "statPoints": 2 },
+  { "level": 18, "expRequired": 140000, "hpGain": 200, "mpGain": 105, "statPoints": 2 },
+  { "level": 19, "expRequired": 180000, "hpGain": 210, "mpGain": 110, "statPoints": 2 },
+  { "level": 20, "expRequired": 250000, "hpGain": 230, "mpGain": 120, "statPoints": 3 }
+]

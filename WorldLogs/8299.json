@@ -1,0 +1,33 @@
+{
+  "Number": 8299,
+  "Name": "Aman Bank",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Aman Bank",
+  "Size": {
+    "Width": 17,
+    "Height": 17
+  },
+  "Flags": 0,
+  "Portals": {
+    "16, 9": {
+      "MapId": 8300,
+      "X": 9,
+      "Y": 39,
+      "Point": "9, 39"
+    },
+    "16, 10": {
+      "MapId": 8300,
+      "X": 9,
+      "Y": 40,
+      "Point": "9, 40"
+    },
+    "16, 11": {
+      "MapId": 8300,
+      "X": 9,
+      "Y": 41,
+      "Point": "9, 41"
+    }
+  },
+  "WorldMaps": {}
+}

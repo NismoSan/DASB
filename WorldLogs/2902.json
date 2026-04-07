@@ -1,0 +1,33 @@
+{
+  "Number": 2902,
+  "Name": "Unknown 2902",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Veltain Mine 2",
+  "Size": {
+    "Width": 180,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "64, 97": {
+      "MapId": 2901,
+      "X": 14,
+      "Y": 5,
+      "Point": "14, 5"
+    },
+    "65, 97": {
+      "MapId": 2901,
+      "X": 15,
+      "Y": 6,
+      "Point": "15, 6"
+    },
+    "99, 82": {
+      "MapId": 2905,
+      "X": 14,
+      "Y": 5,
+      "Point": "14, 5"
+    }
+  },
+  "WorldMaps": {}
+}

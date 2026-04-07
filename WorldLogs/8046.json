@@ -1,0 +1,39 @@
+{
+  "Number": 8046,
+  "Name": "Shell Weapon Shop",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shell Weapon Shop",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 14": {
+      "MapId": 8012,
+      "X": 27,
+      "Y": 37,
+      "Point": "27, 37"
+    },
+    "7, 14": {
+      "MapId": 8012,
+      "X": 27,
+      "Y": 37,
+      "Point": "27, 37"
+    },
+    "14, 8": {
+      "MapId": 8012,
+      "X": 29,
+      "Y": 31,
+      "Point": "29, 31"
+    },
+    "14, 9": {
+      "MapId": 8012,
+      "X": 29,
+      "Y": 31,
+      "Point": "29, 31"
+    }
+  },
+  "WorldMaps": {}
+}

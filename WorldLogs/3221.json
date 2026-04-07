@@ -1,0 +1,21 @@
+{
+  "Number": 3221,
+  "Name": "Shrine of Danaan",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shrine of Danaan",
+  "Size": {
+    "Width": 13,
+    "Height": 17
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 7": {
+      "MapId": 3210,
+      "X": 34,
+      "Y": 50,
+      "Point": "34, 50"
+    }
+  },
+  "WorldMaps": {}
+}

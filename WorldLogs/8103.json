@@ -1,0 +1,33 @@
+{
+  "Number": 8103,
+  "Name": "Blackstar Crypt 8",
+  "WalkSpot": "20, 2",
+  "Description": null,
+  "DisplayName": "Blackstar Crypt 8",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "21, 0": {
+      "MapId": 8109,
+      "X": 23,
+      "Y": 22,
+      "Point": "23, 22"
+    },
+    "19, 0": {
+      "MapId": 8109,
+      "X": 21,
+      "Y": 22,
+      "Point": "21, 22"
+    },
+    "20, 0": {
+      "MapId": 8109,
+      "X": 22,
+      "Y": 22,
+      "Point": "22, 22"
+    }
+  },
+  "WorldMaps": {}
+}

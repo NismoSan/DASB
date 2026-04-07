@@ -1,0 +1,25 @@
+{
+  "Number": 10248,
+  "Name": "Andor 148",
+  "Description": null,
+  "DisplayName": "Andor 148",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "21, 1": {
+      "MapId": 10249,
+      "X": 14,
+      "Y": 28,
+      "Point": "14, 28"
+    },
+    "22, 1": {
+      "MapId": 10249,
+      "X": 15,
+      "Y": 28,
+      "Point": "15, 28"
+    }
+  }
+}

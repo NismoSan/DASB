@@ -1,0 +1,39 @@
+{
+  "Number": 655,
+  "Name": "Mine 4-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mine 4-1",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 53": {
+      "MapId": 629,
+      "X": 60,
+      "Y": 84,
+      "Point": "60, 84"
+    },
+    "13, 52": {
+      "MapId": 629,
+      "X": 60,
+      "Y": 83,
+      "Point": "60, 83"
+    },
+    "67, 14": {
+      "MapId": 632,
+      "X": 2,
+      "Y": 51,
+      "Point": "2, 51"
+    },
+    "68, 14": {
+      "MapId": 632,
+      "X": 2,
+      "Y": 53,
+      "Point": "2, 53"
+    }
+  },
+  "WorldMaps": {}
+}

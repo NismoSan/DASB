@@ -1,0 +1,33 @@
+{
+  "Number": 8100,
+  "Name": "Blackstar Crypt 4",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blackstar Crypt 4",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "3, 19": {
+      "MapId": 8101,
+      "X": 11,
+      "Y": 2,
+      "Point": "11, 2"
+    },
+    "2, 19": {
+      "MapId": 8101,
+      "X": 10,
+      "Y": 2,
+      "Point": "10, 2"
+    },
+    "1, 19": {
+      "MapId": 8101,
+      "X": 9,
+      "Y": 2,
+      "Point": "9, 2"
+    }
+  },
+  "WorldMaps": {}
+}

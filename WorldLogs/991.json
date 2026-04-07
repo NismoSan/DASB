@@ -1,0 +1,27 @@
+{
+  "Number": 991,
+  "Name": "Shinewood Forest 8",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 8",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 0": {
+      "MapId": 545,
+      "X": 42,
+      "Y": 98,
+      "Point": "42, 98"
+    },
+    "20, 0": {
+      "MapId": 545,
+      "X": 43,
+      "Y": 98,
+      "Point": "43, 98"
+    }
+  },
+  "WorldMaps": {}
+}

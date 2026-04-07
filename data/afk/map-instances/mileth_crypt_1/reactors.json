@@ -1,0 +1,13 @@
+{
+  "mapId": 3006,
+  "reactors": [
+    {
+      "sourceX": 5,
+      "sourceY": 1,
+      "targetMapId": 6700,
+      "targetX": 35,
+      "targetY": 3,
+      "label": "Shadow Mileth"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Number": 946,
+  "Name": "Dubhaim Chamber",
+  "WalkSpot": "14, 16",
+  "Description": null,
+  "DisplayName": "Dubhaim Chamber",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "37, 49": {
+      "MapId": 339,
+      "X": 10,
+      "Y": 2,
+      "Point": "10, 2"
+    },
+    "38, 49": {
+      "MapId": 339,
+      "X": 11,
+      "Y": 2,
+      "Point": "11, 2"
+    },
+    "39, 49": {
+      "MapId": 339,
+      "X": 12,
+      "Y": 2,
+      "Point": "12, 2"
+    }
+  },
+  "WorldMaps": {}
+}

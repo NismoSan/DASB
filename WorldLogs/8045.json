@@ -1,0 +1,33 @@
+{
+  "Number": 8045,
+  "Name": "Shell Home",
+  "WalkSpot": "5, 8",
+  "Description": null,
+  "DisplayName": "Shell Home",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 8": {
+      "MapId": 8008,
+      "X": 28,
+      "Y": 20,
+      "Point": "28, 20"
+    },
+    "7, 14": {
+      "MapId": 8008,
+      "X": 26,
+      "Y": 26,
+      "Point": "26, 26"
+    },
+    "8, 14": {
+      "MapId": 8008,
+      "X": 26,
+      "Y": 26,
+      "Point": "26, 26"
+    }
+  },
+  "WorldMaps": {}
+}

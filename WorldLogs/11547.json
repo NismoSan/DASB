@@ -1,0 +1,33 @@
+{
+  "Number": 11547,
+  "Name": "Unknown 11547",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tavaly Magic Master",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 14": {
+      "MapId": 11500,
+      "X": 85,
+      "Y": 80,
+      "Point": "85, 80"
+    },
+    "9, 14": {
+      "MapId": 11500,
+      "X": 84,
+      "Y": 80,
+      "Point": "84, 80"
+    },
+    "8, 14": {
+      "MapId": 11500,
+      "X": 83,
+      "Y": 80,
+      "Point": "83, 80"
+    }
+  },
+  "WorldMaps": {}
+}

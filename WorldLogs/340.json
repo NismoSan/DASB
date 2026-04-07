@@ -1,0 +1,34 @@
+{
+  "Number": 340,
+  "Name": "Dubhaim Castle",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Dubhaim Castle",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "34, 10": {
+      "MapId": 326,
+      "X": 9,
+      "Y": 20,
+      "Point": "9, 20"
+    }
+  },
+  "WorldMaps": {
+    "24, 49": {
+      "3082": "2, 1",
+      "3095": "3, 1"
+    },
+    "25, 49": {
+      "3082": "4, 1",
+      "3095": "5, 1"
+    },
+    "26, 49": {
+      "3082": "0, 1",
+      "3095": "3, 1"
+    }
+  }
+}

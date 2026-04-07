@@ -1,0 +1,11 @@
+{
+  "templateKey": "wolf_pelt",
+  "name": "Wolf's Pelt",
+  "sprite": 152,
+  "color": 0,
+  "stackable": true,
+  "maxStack": 99,
+  "type": "misc",
+  "sellValue": 25,
+  "buyValue": 0
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 94,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Crypt 27-2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 26": {
+      "MapId": 91,
+      "X": 2,
+      "Y": 12,
+      "Point": "2, 12"
+    },
+    "35, 27": {
+      "MapId": 96,
+      "X": 11,
+      "Y": 18,
+      "Point": "11, 18"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,227 @@
+{
+  "hubMapNumber": 6700,
+  "hubSpawnX": 35,
+  "hubSpawnY": 35,
+  "hallMapNumber": 6705,
+  "hallSpawnX": 35,
+  "hallSpawnY": 35,
+  "hubNpcs": {
+    "gymGuide": {
+      "mapNumber": 6700,
+      "x": 33,
+      "y": 35,
+      "direction": 1,
+      "sprite": 1,
+      "name": "Gym Guide"
+    },
+    "leagueClerk": {
+      "mapNumber": 6700,
+      "x": 35,
+      "y": 33,
+      "direction": 2,
+      "sprite": 1,
+      "name": "League Clerk"
+    },
+    "healer": {
+      "mapNumber": 6700,
+      "x": 37,
+      "y": 35,
+      "direction": 3,
+      "sprite": 1,
+      "name": "League Healer"
+    },
+    "exitKeeper": {
+      "mapNumber": 6700,
+      "x": 35,
+      "y": 37,
+      "direction": 0,
+      "sprite": 1,
+      "name": "Return Keeper"
+    }
+  },
+  "hallNpcs": {
+    "standingsKeeper": {
+      "mapNumber": 6705,
+      "x": 33,
+      "y": 35,
+      "direction": 1,
+      "sprite": 1,
+      "name": "Standings Keeper"
+    },
+    "registrar": {
+      "mapNumber": 6705,
+      "x": 35,
+      "y": 33,
+      "direction": 2,
+      "sprite": 1,
+      "name": "Hall Registrar"
+    },
+    "exitKeeper": {
+      "mapNumber": 6705,
+      "x": 37,
+      "y": 35,
+      "direction": 3,
+      "sprite": 1,
+      "name": "Hall Guide"
+    }
+  },
+  "gyms": [
+    {
+      "id": "stone",
+      "name": "Stone Gym",
+      "mapNumber": 6701,
+      "spawnX": 35,
+      "spawnY": 35,
+      "trainerNpc": {
+        "mapNumber": 6701,
+        "x": 38,
+        "y": 35,
+        "direction": 3,
+        "sprite": 1,
+        "name": "Marshal Flint"
+      },
+      "monster": {
+        "speciesName": "Goblin",
+        "nickname": "Cragtooth",
+        "level": 12,
+        "nature": "Bold",
+        "moves": ["Mud Slap", "Rock Throw", "Tackle", null]
+      },
+      "rewardMonsterXp": 40,
+      "badgeReward": {
+        "kind": "legend",
+        "rewardKey": "stone-badge",
+        "icon": 0,
+        "color": 2,
+        "key": "Proxy League",
+        "text": "Stone Gym Badge"
+      }
+    },
+    {
+      "id": "ember",
+      "name": "Ember Gym",
+      "mapNumber": 6702,
+      "spawnX": 35,
+      "spawnY": 35,
+      "trainerNpc": {
+        "mapNumber": 6702,
+        "x": 38,
+        "y": 35,
+        "direction": 3,
+        "sprite": 1,
+        "name": "Captain Ember"
+      },
+      "monster": {
+        "speciesName": "Scorpion",
+        "nickname": "Singeclaw",
+        "level": 14,
+        "nature": "Adamant",
+        "moves": ["Ember", "Flame Claw", "Inferno", "Tackle"]
+      },
+      "rewardMonsterXp": 50,
+      "badgeReward": {
+        "kind": "legend",
+        "rewardKey": "ember-badge",
+        "icon": 0,
+        "color": 4,
+        "key": "Proxy League",
+        "text": "Ember Gym Badge"
+      }
+    },
+    {
+      "id": "gale",
+      "name": "Gale Gym",
+      "mapNumber": 6703,
+      "spawnX": 35,
+      "spawnY": 35,
+      "trainerNpc": {
+        "mapNumber": 6703,
+        "x": 38,
+        "y": 35,
+        "direction": 3,
+        "sprite": 1,
+        "name": "Scout Gale"
+      },
+      "monster": {
+        "speciesName": "Wolf",
+        "nickname": "Skyrush",
+        "level": 16,
+        "nature": "Jolly",
+        "moves": ["Bite", "Howl", "Fang Strike", "Tackle"]
+      },
+      "rewardMonsterXp": 60,
+      "badgeReward": {
+        "kind": "legend",
+        "rewardKey": "gale-badge",
+        "icon": 0,
+        "color": 9,
+        "key": "Proxy League",
+        "text": "Gale Gym Badge"
+      }
+    }
+  ],
+  "champion": {
+    "id": "champion",
+    "name": "Champion Aster",
+    "mapNumber": 6704,
+    "spawnX": 35,
+    "spawnY": 35,
+    "trainerNpc": {
+      "mapNumber": 6704,
+      "x": 38,
+      "y": 35,
+      "direction": 3,
+      "sprite": 1,
+      "name": "Champion Aster"
+    },
+    "monster": {
+      "speciesName": "Phantom",
+      "nickname": "Starveil",
+      "level": 20,
+      "nature": "Modest",
+      "moves": ["Spark", "Flash", "Arcane Bolt", "Mind Blast"]
+    },
+    "rewardMonsterXp": 75,
+    "clearReward": {
+      "kind": "legend",
+      "rewardKey": "champion-crown",
+      "icon": 0,
+      "color": 15,
+      "key": "Proxy League",
+      "text": "Season Champion"
+    }
+  },
+  "rankRewards": [
+    {
+      "maxRank": 1,
+      "rewards": [
+        {
+          "kind": "legend",
+          "rewardKey": "rank-1-legend",
+          "icon": 0,
+          "color": 15,
+          "key": "Proxy League",
+          "text": "League Season Winner"
+        },
+        {
+          "kind": "nametag_style",
+          "rewardKey": "rank-1-style",
+          "style": 2
+        }
+      ]
+    },
+    {
+      "maxRank": 3,
+      "rewards": [
+        {
+          "kind": "legend",
+          "rewardKey": "rank-3-legend",
+          "icon": 0,
+          "color": 7,
+          "key": "Proxy League",
+          "text": "League Season Podium"
+        }
+      ]
+    }
+  ]
+}

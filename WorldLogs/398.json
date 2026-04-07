@@ -1,0 +1,27 @@
+{
+  "Number": 398,
+  "Name": "Unknown 398",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chief Wizard Hall",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 11": {
+      "MapId": 397,
+      "X": 7,
+      "Y": 2,
+      "Point": "7, 2"
+    },
+    "7, 11": {
+      "MapId": 397,
+      "X": 7,
+      "Y": 2,
+      "Point": "7, 2"
+    }
+  },
+  "WorldMaps": {}
+}

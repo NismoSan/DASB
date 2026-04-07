@@ -1,0 +1,14 @@
+{
+  "Number": 10240,
+  "Name": "Andor140",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Andor 140",
+  "Size": {
+    "Width": 28,
+    "Height": 28
+  },
+  "Flags": 0,
+  "Portals": {},
+  "WorldMaps": {}
+}

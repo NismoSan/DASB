@@ -1,0 +1,51 @@
+{
+  "Number": 2053,
+  "Name": "Unknown 2053",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Filth Forest 5",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 2,
+  "Portals": {
+    "68, 99": {
+      "MapId": 6946,
+      "X": 11,
+      "Y": 2,
+      "Point": "11, 2"
+    },
+    "67, 99": {
+      "MapId": 6946,
+      "X": 10,
+      "Y": 2,
+      "Point": "10, 2"
+    },
+    "66, 99": {
+      "MapId": 6946,
+      "X": 9,
+      "Y": 2,
+      "Point": "9, 2"
+    },
+    "65, 99": {
+      "MapId": 6946,
+      "X": 8,
+      "Y": 2,
+      "Point": "8, 2"
+    },
+    "53, 0": {
+      "MapId": 2054,
+      "X": 53,
+      "Y": 97,
+      "Point": "53, 97"
+    },
+    "52, 0": {
+      "MapId": 2054,
+      "X": 52,
+      "Y": 97,
+      "Point": "52, 97"
+    }
+  },
+  "WorldMaps": {}
+}

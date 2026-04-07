@@ -1,0 +1,33 @@
+{
+  "Number": 3214,
+  "Name": "Blackstar Village Research",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blackstar Village Resear",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 11": {
+      "MapId": 3210,
+      "X": 29,
+      "Y": 31,
+      "Point": "29, 31"
+    },
+    "14, 10": {
+      "MapId": 3210,
+      "X": 29,
+      "Y": 30,
+      "Point": "29, 30"
+    },
+    "14, 12": {
+      "MapId": 3210,
+      "X": 29,
+      "Y": 32,
+      "Point": "29, 32"
+    }
+  },
+  "WorldMaps": {}
+}

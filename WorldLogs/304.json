@@ -1,0 +1,25 @@
+{
+  "Number": 304,
+  "Name": "Piet White Magic Master",
+  "Description": null,
+  "DisplayName": "Piet White Magic Master",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 8": {
+      "MapId": 501,
+      "X": 30,
+      "Y": 55,
+      "Point": "30, 55"
+    },
+    "14, 7": {
+      "MapId": 501,
+      "X": 30,
+      "Y": 55,
+      "Point": "30, 55"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Number": 8994,
+  "Name": "Lost Ruins 2",
+  "WalkSpot": "9, 20",
+  "Description": null,
+  "DisplayName": "Lost Ruins 2",
+  "Size": {
+    "Width": 100,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "99, 22": {
+      "MapId": 8995,
+      "X": 8,
+      "Y": 67,
+      "Point": "8, 67"
+    },
+    "99, 23": {
+      "MapId": 8995,
+      "X": 5,
+      "Y": 66,
+      "Point": "5, 66"
+    },
+    "99, 24": {
+      "MapId": 8995,
+      "X": 5,
+      "Y": 70,
+      "Point": "5, 70"
+    },
+    "99, 25": {
+      "MapId": 8995,
+      "X": 10,
+      "Y": 69,
+      "Point": "10, 69"
+    },
+    "99, 26": {
+      "MapId": 8995,
+      "X": 7,
+      "Y": 72,
+      "Point": "7, 72"
+    }
+  },
+  "WorldMaps": {}
+}

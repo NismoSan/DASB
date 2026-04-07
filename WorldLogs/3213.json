@@ -1,0 +1,27 @@
+{
+  "Number": 3213,
+  "Name": "Blackstar Village Armory",
+  "WalkSpot": "5, 8",
+  "Description": null,
+  "DisplayName": "Blackstar Village Armory",
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 14": {
+      "MapId": 3210,
+      "X": 54,
+      "Y": 69,
+      "Point": "54, 69"
+    },
+    "7, 14": {
+      "MapId": 3210,
+      "X": 53,
+      "Y": 69,
+      "Point": "53, 69"
+    }
+  },
+  "WorldMaps": {}
+}

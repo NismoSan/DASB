@@ -1,0 +1,33 @@
+{
+  "Number": 3009,
+  "Name": "Shrine of Cail - Undine",
+  "WalkSpot": "7, 6",
+  "Description": null,
+  "DisplayName": "Shrine of Cail - Undine",
+  "Size": {
+    "Width": 25,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 6": {
+      "MapId": 3008,
+      "X": 11,
+      "Y": 6,
+      "Point": "11, 6"
+    },
+    "23, 7": {
+      "MapId": 3008,
+      "X": 11,
+      "Y": 7,
+      "Point": "11, 7"
+    },
+    "23, 8": {
+      "MapId": 3008,
+      "X": 11,
+      "Y": 7,
+      "Point": "11, 7"
+    }
+  },
+  "WorldMaps": {}
+}

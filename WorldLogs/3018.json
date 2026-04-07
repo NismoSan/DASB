@@ -1,0 +1,27 @@
+{
+  "Number": 3018,
+  "Name": "Shrine of Sgrios - Dubhaim",
+  "WalkSpot": "8, 6",
+  "Description": null,
+  "DisplayName": "Shrine of Sgrios - Dubha",
+  "Size": {
+    "Width": 25,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 6": {
+      "MapId": 320,
+      "X": 4,
+      "Y": 19,
+      "Point": "4, 19"
+    },
+    "23, 7": {
+      "MapId": 320,
+      "X": 4,
+      "Y": 19,
+      "Point": "4, 19"
+    }
+  },
+  "WorldMaps": {}
+}

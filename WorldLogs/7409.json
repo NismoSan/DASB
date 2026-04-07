@@ -1,0 +1,27 @@
+{
+  "Number": 7409,
+  "Name": "Loures Sewer Canal 9",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Loures Sewer Canal 9",
+  "Size": {
+    "Width": 25,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "20, 0": {
+      "MapId": 7402,
+      "X": 26,
+      "Y": 47,
+      "Point": "26, 47"
+    },
+    "19, 0": {
+      "MapId": 7402,
+      "X": 25,
+      "Y": 47,
+      "Point": "25, 47"
+    }
+  },
+  "WorldMaps": {}
+}

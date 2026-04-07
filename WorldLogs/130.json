@@ -1,0 +1,27 @@
+{
+  "Number": 130,
+  "Name": "Mileth Goods Shop",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Goods Shop",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 14": {
+      "MapId": 500,
+      "X": 43,
+      "Y": 59,
+      "Point": "43, 59"
+    },
+    "7, 14": {
+      "MapId": 500,
+      "X": 42,
+      "Y": 59,
+      "Point": "42, 59"
+    }
+  },
+  "WorldMaps": {}
+}

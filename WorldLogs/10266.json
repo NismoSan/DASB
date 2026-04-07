@@ -1,0 +1,27 @@
+{
+  "Number": 10266,
+  "Name": "Unknown 10266",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "KimHwa Inn",
+  "Size": {
+    "Width": 26,
+    "Height": 35
+  },
+  "Flags": 0,
+  "Portals": {
+    "25, 28": {
+      "MapId": 10265,
+      "X": 25,
+      "Y": 44,
+      "Point": "25, 44"
+    },
+    "25, 27": {
+      "MapId": 10265,
+      "X": 25,
+      "Y": 44,
+      "Point": "25, 44"
+    }
+  },
+  "WorldMaps": {}
+}

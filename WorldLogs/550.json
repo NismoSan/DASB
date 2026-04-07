@@ -1,0 +1,19 @@
+{
+  "Number": 550,
+  "Name": "Shinewood Forest 14",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 14",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "18, 0": {
+      "MapId": 554,
+      "X": 29,
+      "Y": 48,
+      "Point": "29, 48"
+    }
+  }
+}

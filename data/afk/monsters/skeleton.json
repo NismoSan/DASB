@@ -1,0 +1,22 @@
+{
+  "templateKey": "skeleton",
+  "name": "Skeleton",
+  "sprite": 44,
+  "level": 7,
+  "maxHp": 1200,
+  "maxMp": 100,
+  "stats": { "str": 15, "int": 5, "wis": 3, "con": 12, "dex": 8 },
+  "ac": 80,
+  "aggroRange": 7,
+  "moveIntervalMs": 1000,
+  "assailIntervalMs": 1500,
+  "skillIntervalMs": 5000,
+  "spellIntervalMs": 6000,
+  "wanderIntervalMs": 3000,
+  "expReward": 250,
+  "goldDrop": { "min": 50, "max": 150 },
+  "lootTableKey": "skeleton_loot",
+  "skills": ["assault"],
+  "spells": [],
+  "respawnMs": 35000
+}

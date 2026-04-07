@@ -1,0 +1,39 @@
+{
+  "Number": 3011,
+  "Name": "Shrine of Luathas - Rucesion",
+  "WalkSpot": "6, 6",
+  "Description": null,
+  "DisplayName": "Shrine of Luathas - Ruce",
+  "Size": {
+    "Width": 25,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 7": {
+      "MapId": 3010,
+      "X": 12,
+      "Y": 6,
+      "Point": "12, 6"
+    },
+    "23, 5": {
+      "MapId": 3010,
+      "X": 12,
+      "Y": 4,
+      "Point": "12, 4"
+    },
+    "23, 6": {
+      "MapId": 3010,
+      "X": 12,
+      "Y": 5,
+      "Point": "12, 5"
+    },
+    "23, 8": {
+      "MapId": 3010,
+      "X": 12,
+      "Y": 6,
+      "Point": "12, 6"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,33 @@
+{
+  "Number": 4611,
+  "Name": "Porte Forest 4-R",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Porte Forest 4-R",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 21": {
+      "MapId": 4610,
+      "X": 48,
+      "Y": 30,
+      "Point": "48, 30"
+    },
+    "0, 22": {
+      "MapId": 4610,
+      "X": 48,
+      "Y": 30,
+      "Point": "48, 30"
+    },
+    "0, 20": {
+      "MapId": 4610,
+      "X": 48,
+      "Y": 30,
+      "Point": "48, 30"
+    }
+  },
+  "WorldMaps": {}
+}

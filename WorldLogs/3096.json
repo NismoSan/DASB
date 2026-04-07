@@ -1,0 +1,63 @@
+{
+  "Number": 3096,
+  "Name": "Dark Mileth College",
+  "WalkSpot": "65, 58",
+  "Description": null,
+  "DisplayName": "Dark Mileth College",
+  "Size": {
+    "Width": 75,
+    "Height": 75
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 31": {
+      "MapId": 3014,
+      "X": 11,
+      "Y": 15,
+      "Point": "11, 15"
+    },
+    "65, 62": {
+      "MapId": 3150,
+      "X": 11,
+      "Y": 9,
+      "Point": "11, 9"
+    },
+    "0, 32": {
+      "MapId": 3014,
+      "X": 12,
+      "Y": 13,
+      "Point": "12, 13"
+    },
+    "0, 29": {
+      "MapId": 3014,
+      "X": 11,
+      "Y": 17,
+      "Point": "11, 17"
+    },
+    "65, 61": {
+      "MapId": 3151,
+      "X": 12,
+      "Y": 7,
+      "Point": "12, 7"
+    },
+    "66, 62": {
+      "MapId": 3150,
+      "X": 12,
+      "Y": 10,
+      "Point": "12, 10"
+    },
+    "66, 61": {
+      "MapId": 3150,
+      "X": 12,
+      "Y": 10,
+      "Point": "12, 10"
+    },
+    "0, 30": {
+      "MapId": 3014,
+      "X": 10,
+      "Y": 14,
+      "Point": "10, 14"
+    }
+  },
+  "WorldMaps": {}
+}

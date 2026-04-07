@@ -1,0 +1,63 @@
+{
+  "Number": 7406,
+  "Name": "Loures Sewer Canal 6",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Loures Sewer Canal 6",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 8": {
+      "MapId": 7408,
+      "X": 2,
+      "Y": 11,
+      "Point": "2, 11"
+    },
+    "7, 0": {
+      "MapId": 7407,
+      "X": 9,
+      "Y": 18,
+      "Point": "9, 18"
+    },
+    "6, 0": {
+      "MapId": 7407,
+      "X": 8,
+      "Y": 18,
+      "Point": "8, 18"
+    },
+    "19, 9": {
+      "MapId": 7408,
+      "X": 2,
+      "Y": 11,
+      "Point": "2, 11"
+    },
+    "0, 18": {
+      "MapId": 7401,
+      "X": 47,
+      "Y": 32,
+      "Point": "47, 32"
+    },
+    "0, 17": {
+      "MapId": 7401,
+      "X": 47,
+      "Y": 31,
+      "Point": "47, 31"
+    },
+    "15, 19": {
+      "MapId": 7414,
+      "X": 6,
+      "Y": 2,
+      "Point": "6, 2"
+    },
+    "14, 19": {
+      "MapId": 7414,
+      "X": 5,
+      "Y": 2,
+      "Point": "5, 2"
+    }
+  },
+  "WorldMaps": {}
+}

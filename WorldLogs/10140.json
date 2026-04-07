@@ -1,0 +1,37 @@
+{
+  "Number": 10140,
+  "Name": "Andor 40",
+  "Description": null,
+  "DisplayName": "Andor 40",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "16, 30": {
+      "MapId": 10139,
+      "X": 23,
+      "Y": 3,
+      "Point": "23, 3"
+    },
+    "15, 30": {
+      "MapId": 10139,
+      "X": 22,
+      "Y": 3,
+      "Point": "22, 3"
+    },
+    "1, 22": {
+      "MapId": 10147,
+      "X": 27,
+      "Y": 14,
+      "Point": "27, 14"
+    },
+    "1, 23": {
+      "MapId": 10147,
+      "X": 27,
+      "Y": 15,
+      "Point": "27, 15"
+    }
+  }
+}

@@ -1,0 +1,8876 @@
+[
+  {
+    "mapId": 0,
+    "mapName": "Mileth Crypt 31",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 1,
+    "mapName": "Mileth Crypt 1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 2,
+    "mapName": "Crypt 2-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3,
+    "mapName": "Crypt 2-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 4,
+    "mapName": "Crypt 2-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5,
+    "mapName": "Crypt 3-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6,
+    "mapName": "Crypt 3-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7,
+    "mapName": "Crypt 3-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8,
+    "mapName": "Crypt 4-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9,
+    "mapName": "Crypt 4-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10,
+    "mapName": "Crypt 4-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11,
+    "mapName": "Crypt 5-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 12,
+    "mapName": "Crypt 5-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 13,
+    "mapName": "Crypt 6-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 14,
+    "mapName": "Crypt 6-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 15,
+    "mapName": "Crypt 6-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 16,
+    "mapName": "Crypt 7-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 17,
+    "mapName": "Crypt 7-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 18,
+    "mapName": "Crypt 7-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 19,
+    "mapName": "Crypt 7-4",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 22,
+    "mapName": "Crypt 8-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 26,
+    "mapName": "Crypt 9-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 29,
+    "mapName": "Crypt 10-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 30,
+    "mapName": "Crypt 10-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 31,
+    "mapName": "Crypt 10-4",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 34,
+    "mapName": "Crypt 11-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 35,
+    "mapName": "Crypt 11-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 37,
+    "mapName": "Crypt 12-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 38,
+    "mapName": "Crypt 12-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 40,
+    "mapName": "Crypt 13-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 41,
+    "mapName": "Crypt 13-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 43,
+    "mapName": "Crypt 14-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 44,
+    "mapName": "Crypt 14-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 47,
+    "mapName": "Crypt 15-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 48,
+    "mapName": "Crypt 15-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 49,
+    "mapName": "Crypt 15-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 51,
+    "mapName": "Crypt 16-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 55,
+    "mapName": "Crypt 17-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 56,
+    "mapName": "Crypt 17-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 57,
+    "mapName": "Crypt 17-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 59,
+    "mapName": "Crypt 18-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 60,
+    "mapName": "Crypt 18-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 61,
+    "mapName": "Crypt 18-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 63,
+    "mapName": "Crypt 19-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 64,
+    "mapName": "Crypt 19-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 66,
+    "mapName": "Crypt 20-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 68,
+    "mapName": "Crypt 21-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 69,
+    "mapName": "Crypt 21-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 70,
+    "mapName": "Crypt 21-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 72,
+    "mapName": "Crypt 22-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 73,
+    "mapName": "Crypt 22-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 77,
+    "mapName": "Crypt 23-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 78,
+    "mapName": "Crypt 23-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 81,
+    "mapName": "Crypt 24-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 82,
+    "mapName": "Crypt 24-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 84,
+    "mapName": "Crypt 24-5",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 86,
+    "mapName": "Crypt 25-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 87,
+    "mapName": "Crypt 25-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 91,
+    "mapName": "Crypt 26-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 92,
+    "mapName": "Crypt 26-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 94,
+    "mapName": "Crypt 27-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 95,
+    "mapName": "Crypt 27-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 96,
+    "mapName": "Crypt 28-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 97,
+    "mapName": "Crypt 29-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 98,
+    "mapName": "Crypt 29-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 99,
+    "mapName": "Crypt 30-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 100,
+    "mapName": "Crypt 30-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 101,
+    "mapName": "Crypt 30-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 109,
+    "mapName": "Loures 1 Floor Hall",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 110,
+    "mapName": "Loures 1 Floor Corridor",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 111,
+    "mapName": "Loures 2 Floor Empty Room 1",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 112,
+    "mapName": "Guild Master's Room",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 113,
+    "mapName": "Loures 2 Floor Main Room",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 114,
+    "mapName": "Loures 2 Floor Restaurant",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 115,
+    "mapName": "Loures 3 Floor Office",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 116,
+    "mapName": "Loures 2 Floor Tavern",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 117,
+    "mapName": "Loures 2 Floor Bed Room",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 118,
+    "mapName": "Loures 2 Floor Weapon Storage",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 119,
+    "mapName": "Loures 2 Floor Hall",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 120,
+    "mapName": "Loures 1 Floor Restaurant",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 121,
+    "mapName": "Loures 1 Floor Bed Room",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 122,
+    "mapName": "Loures 1 Floor Weapon Storage",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 123,
+    "mapName": "Loures 3 Floor Corridor",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 124,
+    "mapName": "Loures 3 Floor Magic Room",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 126,
+    "mapName": "Loures 2 Floor Corridor",
+    "width": 5,
+    "height": 33
+  },
+  {
+    "mapId": 127,
+    "mapName": "Mileth Magic Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 128,
+    "mapName": "Mileth Messenger",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 129,
+    "mapName": "Mileth Restaurant",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 130,
+    "mapName": "Mileth Goods Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 132,
+    "mapName": "Mileth Weapon Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 133,
+    "mapName": "Mileth Armor Shop",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 134,
+    "mapName": "Mileth Tavern",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 135,
+    "mapName": "Mileth Bank",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 136,
+    "mapName": "Mileth Inn",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 137,
+    "mapName": "Mileth Inn Room 1",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 138,
+    "mapName": "Mileth Inn Room 10",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 139,
+    "mapName": "Mileth Inn Room 2",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 140,
+    "mapName": "Mileth Inn Room 3",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 141,
+    "mapName": "Mileth Inn Room 4",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 142,
+    "mapName": "Mileth Inn Room 5",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 143,
+    "mapName": "Mileth Inn Room 6",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 144,
+    "mapName": "Mileth Inn Room 7",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 145,
+    "mapName": "Mileth Inn Room 8",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 146,
+    "mapName": "Mileth Inn Room 9",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 148,
+    "mapName": "Unknown 148",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 149,
+    "mapName": "Piet Tavern",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 150,
+    "mapName": "Piet Inn",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 161,
+    "mapName": "Piet Magic Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 162,
+    "mapName": "Piet Restaurant",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 163,
+    "mapName": "Piet Armor Shop",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 165,
+    "mapName": "Piet Weapon Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 167,
+    "mapName": "Abel Storage",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 168,
+    "mapName": "Abel Tavern",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 180,
+    "mapName": "Abel Magic Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 181,
+    "mapName": "Abel Restaurant",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 182,
+    "mapName": "Abel Armor Shop",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 183,
+    "mapName": "Abel Goods Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 184,
+    "mapName": "Abel Weapon Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 185,
+    "mapName": "Coast",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 187,
+    "mapName": "Piet Dungeon 1-1",
+    "width": 26,
+    "height": 26
+  },
+  {
+    "mapId": 189,
+    "mapName": "Piet Dungeon 2-1",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 190,
+    "mapName": "Piet Dungeon 2-2",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 191,
+    "mapName": "Piet Dungeon 3-1",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 193,
+    "mapName": "Piet Dungeon 3-2",
+    "width": 26,
+    "height": 26
+  },
+  {
+    "mapId": 194,
+    "mapName": "Piet Dungeon 3-3",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 196,
+    "mapName": "Piet Dungeon 3-4",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 197,
+    "mapName": "Piet Dungeon 4-1",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 198,
+    "mapName": "Piet Dungeon 4-2",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 199,
+    "mapName": "Piet Dungeon 4-3",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 200,
+    "mapName": "Mileth Inn Corridor 1",
+    "width": 5,
+    "height": 17
+  },
+  {
+    "mapId": 201,
+    "mapName": "Mileth Inn Corridor 2",
+    "width": 17,
+    "height": 5
+  },
+  {
+    "mapId": 202,
+    "mapName": "Piet Inn Corridor 1",
+    "width": 5,
+    "height": 15
+  },
+  {
+    "mapId": 207,
+    "mapName": "Abel Dungeon 1-1",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 209,
+    "mapName": "Abel Dungeon 2-2",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 217,
+    "mapName": "Piet Dungeon 5-2",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 218,
+    "mapName": "Piet Dungeon 5-3",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 219,
+    "mapName": "Piet Dungeon 6-1",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 220,
+    "mapName": "Piet Dungeon 6-2",
+    "width": 26,
+    "height": 26
+  },
+  {
+    "mapId": 221,
+    "mapName": "Piet Dungeon 6-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 222,
+    "mapName": "Piet Dungeon 7-1",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 223,
+    "mapName": "Piet Dungeon 7-2",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 225,
+    "mapName": "Piet Dungeon 8-2",
+    "width": 26,
+    "height": 26
+  },
+  {
+    "mapId": 226,
+    "mapName": "Piet Dungeon 8-3",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 229,
+    "mapName": "Piet Dungeon 9-3",
+    "width": 26,
+    "height": 26
+  },
+  {
+    "mapId": 230,
+    "mapName": "Piet Dungeon 9-4",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 233,
+    "mapName": "Piet Dungeon 10-3",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 234,
+    "mapName": "Piet Dungeon 10-4",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 237,
+    "mapName": "Piet Dungeon 11-3",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 240,
+    "mapName": "Piet Dungeon 12-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 243,
+    "mapName": "Piet Dungeon 13-2",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 244,
+    "mapName": "Piet Dungeon 13-3",
+    "width": 26,
+    "height": 26
+  },
+  {
+    "mapId": 246,
+    "mapName": "Piet Dungeon 14-2",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 247,
+    "mapName": "Piet Dungeon 14-3",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 251,
+    "mapName": "Piet Dungeon 15-3",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 252,
+    "mapName": "Piet Dungeon 15-4",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 256,
+    "mapName": "Piet Dungeon 16-3",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 257,
+    "mapName": "Piet Dungeon 16-4",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 259,
+    "mapName": "Piet Dungeon 17-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 260,
+    "mapName": "Piet Dungeon 17-3",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 261,
+    "mapName": "Piet Dungeon 18-1",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 262,
+    "mapName": "Abel Dungeon 3-3",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 263,
+    "mapName": "Abel Dungeon 3-4",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 266,
+    "mapName": "Abel Dungeon 4-3",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 269,
+    "mapName": "Abel Dungeon 5-3",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 271,
+    "mapName": "Abel Dungeon 6-2",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 273,
+    "mapName": "Abel Dungeon 7-2",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 276,
+    "mapName": "Abel Dungeon 8-2",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 280,
+    "mapName": "Abel Dungeon 9-3",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 283,
+    "mapName": "Abel Dungeon 10-2",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 301,
+    "mapName": "Mileth Combat Skill Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 302,
+    "mapName": "Mileth White Magic Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 303,
+    "mapName": "Rucesion Special Skill Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 304,
+    "mapName": "Piet White Magic Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 305,
+    "mapName": "Abel Combat Skill Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 306,
+    "mapName": "Undine Black Magic Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 319,
+    "mapName": "Dubhaim Castle West Corridor",
+    "width": 9,
+    "height": 40
+  },
+  {
+    "mapId": 320,
+    "mapName": "Dubhaim Castle West 1-1",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 326,
+    "mapName": "Dubhaim Castle North 1-1",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 327,
+    "mapName": "Dubhaim Castle North 2-1",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 328,
+    "mapName": "Dubhaim Castle North 2-3",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 330,
+    "mapName": "Dubhaim Castle North 2-2",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 333,
+    "mapName": "Dubhaim Castle North 3-2",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 334,
+    "mapName": "Dubhaim Castle North 4-3",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 336,
+    "mapName": "Dubhaim Castle North 4-2",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 337,
+    "mapName": "Dubhaim Castle North 6-1",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 338,
+    "mapName": "Dubhaim Castle North 5-2",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 339,
+    "mapName": "Dubhaim Castle North 6-2",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "mapId": 340,
+    "mapName": "Dubhaim Castle",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 341,
+    "mapName": "Path Temple 3",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 342,
+    "mapName": "Path Temple 7",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 343,
+    "mapName": "Path Temple 5",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 344,
+    "mapName": "Path Temple 6",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 345,
+    "mapName": "Chief Priest Hall",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 346,
+    "mapName": "Chief Rogue Hall",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 347,
+    "mapName": "Chief Warrior Hall",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 348,
+    "mapName": "Chief Monk Hall",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 378,
+    "mapName": "Loures Dungeon",
+    "width": 30,
+    "height": 10
+  },
+  {
+    "mapId": 381,
+    "mapName": "Race Ticket Shop",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 386,
+    "mapName": "Piet Empty Room 1",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 388,
+    "mapName": "Abel Empty Room 1",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 389,
+    "mapName": "Abel Jeph's Room",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 390,
+    "mapName": "Abel Fish Market",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 393,
+    "mapName": "Path Reception",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 394,
+    "mapName": "Path Sitting Room",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 395,
+    "mapName": "Path Temple 1",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 396,
+    "mapName": "Path Temple 4",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 397,
+    "mapName": "Path Temple 8",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 398,
+    "mapName": "Unknown 398",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 399,
+    "mapName": "Path Temple 2",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 400,
+    "mapName": "Mileth Special Skill Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 401,
+    "mapName": "Mileth Black Magic Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 410,
+    "mapName": "Suomi Weapon Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 412,
+    "mapName": "Suomi Restaurant",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 413,
+    "mapName": "Suomi Tavern",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 414,
+    "mapName": "Suomi Combat Skill Maste",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 415,
+    "mapName": "Suomi Special Skill Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 416,
+    "mapName": "Suomi White Magic Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 417,
+    "mapName": "Suomi Black Magic Master",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 420,
+    "mapName": "Rucesion Weapon Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 421,
+    "mapName": "Rucesion Armor Shop",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 422,
+    "mapName": "Rucesion Bank",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 423,
+    "mapName": "Rucesion Goods Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 424,
+    "mapName": "Rucesion Empty Room 1",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 425,
+    "mapName": "Crypt Vestibule",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 426,
+    "mapName": "Piet Dungeon Vestibule",
+    "width": 26,
+    "height": 26
+  },
+  {
+    "mapId": 431,
+    "mapName": "Undine Armor Shop",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 432,
+    "mapName": "Undine Storage",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 435,
+    "mapName": "Cthonic Ruins2",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 449,
+    "mapName": "West Woodland",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 451,
+    "mapName": "West Woodland 9-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 452,
+    "mapName": "West Woods 10-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 453,
+    "mapName": "West Woods 11-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 454,
+    "mapName": "West Woods 12-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 456,
+    "mapName": "West Woods 14-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 457,
+    "mapName": "West Woods 15-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 458,
+    "mapName": "West Woodland 16-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 459,
+    "mapName": "West Woodland 17-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 460,
+    "mapName": "West Woodland 17-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 486,
+    "mapName": "RucInn1",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 496,
+    "mapName": "Rucesion Inn Corridor 1",
+    "width": 5,
+    "height": 15
+  },
+  {
+    "mapId": 498,
+    "mapName": "Rucesion Inn",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 500,
+    "mapName": "Mileth Village",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 501,
+    "mapName": "Piet Village",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 502,
+    "mapName": "Abel",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 503,
+    "mapName": "Suomi Village",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 504,
+    "mapName": "Undine Village",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 505,
+    "mapName": "Rucesion Village",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 542,
+    "mapName": "Shinewood Forest",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 543,
+    "mapName": "Shinewood Forest 4",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 544,
+    "mapName": "Shinewood Forest 5",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 545,
+    "mapName": "Shinewood Forest 7",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 546,
+    "mapName": "Shinewood Forest 9",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 547,
+    "mapName": "Shinewood Forest 10",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 548,
+    "mapName": "Shinewood Forest 16",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 550,
+    "mapName": "Shinewood Forest 14",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 551,
+    "mapName": "Shinewood Forest 12",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 552,
+    "mapName": "Shinewood Forest 19",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 553,
+    "mapName": "Shinewood Forest 17",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 554,
+    "mapName": "Shinewood Forest 15",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 555,
+    "mapName": "Shinewood Forest 32",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 556,
+    "mapName": "Shinewood Forest 28",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 557,
+    "mapName": "Shinewood Forest 30",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 558,
+    "mapName": "Shinewood Forest 21",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 559,
+    "mapName": "Shinewood Forest 22",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 560,
+    "mapName": "Shinewood Forest 29",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 561,
+    "mapName": "Shinewood Forest 23",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 562,
+    "mapName": "Shinewood Forest 24",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 563,
+    "mapName": "Shinewood Forest 25",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 564,
+    "mapName": "Shinewood Forest 3",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 565,
+    "mapName": "SW2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 566,
+    "mapName": "Unknown 566",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 567,
+    "mapName": "Shinewood37",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 568,
+    "mapName": "Shinewood38",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 600,
+    "mapName": "EW-Crossroads",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 601,
+    "mapName": "East Woodland 3-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 602,
+    "mapName": "East Woodland 4-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 613,
+    "mapName": "East Woodland 19-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 614,
+    "mapName": "East Woodland 18-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 615,
+    "mapName": "East Woodland 19-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 616,
+    "mapName": "East Woodland 14-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 617,
+    "mapName": "East Woodland 15-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 618,
+    "mapName": "East Woodland 20-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 619,
+    "mapName": "East Woodland 17-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 620,
+    "mapName": "East Woodland 16-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 622,
+    "mapName": "Enchanted Garden",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 623,
+    "mapName": "Wastelands",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 624,
+    "mapName": "Mine 1-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 625,
+    "mapName": "Mine 2-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 626,
+    "mapName": "Mine 7-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 627,
+    "mapName": "Mine 8-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 628,
+    "mapName": "Mine 2-2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 629,
+    "mapName": "Mine 3-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 630,
+    "mapName": "Mine 6-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 631,
+    "mapName": "Mine 7-2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 632,
+    "mapName": "Mine 5-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 634,
+    "mapName": "Mine 8-2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 635,
+    "mapName": "Mine 17-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 636,
+    "mapName": "Mine 18-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 637,
+    "mapName": "Mine 19-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 638,
+    "mapName": "Mine 9-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 639,
+    "mapName": "Mine 16-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 640,
+    "mapName": "Mine 15-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 641,
+    "mapName": "Mine 14-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 642,
+    "mapName": "Mine 10-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 643,
+    "mapName": "Mine 13-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 644,
+    "mapName": "Mine 20-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 645,
+    "mapName": "Mine 25-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 646,
+    "mapName": "Mine 26-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 648,
+    "mapName": "Mine 21-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 649,
+    "mapName": "Mine 24-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 650,
+    "mapName": "Mine 27-2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 652,
+    "mapName": "Mine 28-2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 653,
+    "mapName": "Mine 29-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 654,
+    "mapName": "Mine 3-2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 655,
+    "mapName": "Mine 4-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 656,
+    "mapName": "Mine 11-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 657,
+    "mapName": "Mine 12-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 658,
+    "mapName": "Mine 22-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 659,
+    "mapName": "Mine 23-1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 660,
+    "mapName": "Kasmanium Mine",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 662,
+    "mapName": "Tagor ",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 663,
+    "mapName": "Grassland Village",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 666,
+    "mapName": "Feasgar Village",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 667,
+    "mapName": "Feasgar Kingdom",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 675,
+    "mapName": "Druid Circle",
+    "width": 24,
+    "height": 24
+  },
+  {
+    "mapId": 701,
+    "mapName": "Grass Field",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 702,
+    "mapName": "Grass Battle Field",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 706,
+    "mapName": "Oren Tower",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 707,
+    "mapName": "Tower 1-2",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 708,
+    "mapName": "Tower 1-3",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 709,
+    "mapName": "Tower 1-4",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 710,
+    "mapName": "Tower 2-1",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 711,
+    "mapName": "Tower 2-2",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 712,
+    "mapName": "Tower 2-3",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 713,
+    "mapName": "Tower 2-4",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 714,
+    "mapName": "Tower 3-1",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 715,
+    "mapName": "Oren Tower Maze",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 717,
+    "mapName": "Mileth Training Room",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 718,
+    "mapName": "Tagor Church",
+    "width": 18,
+    "height": 25
+  },
+  {
+    "mapId": 719,
+    "mapName": "Rucesion Church",
+    "width": 41,
+    "height": 25
+  },
+  {
+    "mapId": 908,
+    "mapName": "Grasslands 21",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 910,
+    "mapName": "caladh beithir 1",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 911,
+    "mapName": "caladh beithir 2",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 914,
+    "mapName": "caladh beithir 5",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 915,
+    "mapName": "caladh beithir 6",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 917,
+    "mapName": "caladh beithir 8",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 918,
+    "mapName": "caladh beithir 9",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 919,
+    "mapName": "caladh beithir 10",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 920,
+    "mapName": "caladh beithir 11",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 922,
+    "mapName": "caladh beithir 13",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 923,
+    "mapName": "caladh beithir 14",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 925,
+    "mapName": "caladh beithir 16",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 926,
+    "mapName": "caladh beithir 17",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 927,
+    "mapName": "caladh beithir 18",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 929,
+    "mapName": "caladh beithir 20",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 930,
+    "mapName": "caladh beithir 21",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 931,
+    "mapName": "caladh beithir 22",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 932,
+    "mapName": "caladh beithir 23",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 933,
+    "mapName": "caladh beithir 24",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 934,
+    "mapName": "caladh beithir 25",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 935,
+    "mapName": "caladh beithir 26",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 936,
+    "mapName": "caladh beithir 27",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 937,
+    "mapName": "caladh beithir 28",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 940,
+    "mapName": "caladh beithir 31",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 941,
+    "mapName": "caladh beithir 32",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 942,
+    "mapName": "caladh beithir 33",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 943,
+    "mapName": "caladh beithir 34",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 945,
+    "mapName": "caladh beithir 36",
+    "width": 100,
+    "height": 80
+  },
+  {
+    "mapId": 946,
+    "mapName": "Dubhaim Chamber",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 950,
+    "mapName": "Suomi Inn",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 969,
+    "mapName": "Grasslands 20",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 970,
+    "mapName": "Grasslands 1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 980,
+    "mapName": "Grasslands 11",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 981,
+    "mapName": "Grasslands 12",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 982,
+    "mapName": "Grasslands 13",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 983,
+    "mapName": "Grasslands 14",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 984,
+    "mapName": "Grasslands 15",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 985,
+    "mapName": "Grasslands 16",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 986,
+    "mapName": "Grasslands 17",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 987,
+    "mapName": "Grasslands 18",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 988,
+    "mapName": "Grasslands 19",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 989,
+    "mapName": "Shinewood Forest 35",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 991,
+    "mapName": "Shinewood Forest 8",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 992,
+    "mapName": "Unknown 992",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 993,
+    "mapName": "Shinewood Forest 33",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 996,
+    "mapName": "Shinewood Forest 26",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 997,
+    "mapName": "Shinewood Forest 27",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 998,
+    "mapName": "Shinewood Forest 34",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 999,
+    "mapName": "Shinewood Forest 31",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 1001,
+    "mapName": "Gate of Lighter Slumber 1",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 1006,
+    "mapName": "Shinewood Herbal Shop",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 1007,
+    "mapName": "Shinewood Home",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 1247,
+    "mapName": "Unknown 1247",
+    "width": 70,
+    "height": 50
+  },
+  {
+    "mapId": 1960,
+    "mapName": "Tagor Inn",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "mapId": 1961,
+    "mapName": "Empty Building",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 1963,
+    "mapName": "Unknown 1963",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 1964,
+    "mapName": "Rangers",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 1965,
+    "mapName": "Unknown 1965",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 1966,
+    "mapName": "Tagor Storage",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "mapId": 1967,
+    "mapName": "Tagor Magic Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 1968,
+    "mapName": "Tagor Armor Shop",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 1969,
+    "mapName": "Tagor Messenger",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 1971,
+    "mapName": "Lost Souls Pass 1",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 1975,
+    "mapName": "Lost Souls Pass 5",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 1978,
+    "mapName": "Unknown 1978",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 2038,
+    "mapName": "Unknown 2038",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2040,
+    "mapName": "Unknown 2040",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2041,
+    "mapName": "Unknown 2041",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2046,
+    "mapName": "House Macabre Yard 1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2047,
+    "mapName": "House Macabre Yard 2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2049,
+    "mapName": "House Macabre Yard 4",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2051,
+    "mapName": "Unknown 2051",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2052,
+    "mapName": "House Macabre",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 2053,
+    "mapName": "Unknown 2053",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2054,
+    "mapName": "Unknown 2054",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2055,
+    "mapName": "Unknown 2055",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2056,
+    "mapName": "Unknown 2056",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2083,
+    "mapName": "Ice Cave 23",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2084,
+    "mapName": "Ice Cave 24",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2085,
+    "mapName": "Ice Cave 25",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2086,
+    "mapName": "Ice Cave 26",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2087,
+    "mapName": "Ice Cave 27",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2088,
+    "mapName": "Mount Giragan 2",
+    "width": 15,
+    "height": 40
+  },
+  {
+    "mapId": 2089,
+    "mapName": "Mount Gigaran 3",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2090,
+    "mapName": "Mount Giragan 4",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2091,
+    "mapName": "Mount Giragan 5",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2092,
+    "mapName": "Mount Giragan 6",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2093,
+    "mapName": "Mount Giragan 7",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2094,
+    "mapName": "Mount Giragan 8",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2095,
+    "mapName": "Mount Giragan 9",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2096,
+    "mapName": "Mount Giragan 10",
+    "width": 15,
+    "height": 40
+  },
+  {
+    "mapId": 2097,
+    "mapName": "Mount Giragan 11",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2098,
+    "mapName": "Mount Giragan 12",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2099,
+    "mapName": "Mount Giragan 13",
+    "width": 15,
+    "height": 40
+  },
+  {
+    "mapId": 2102,
+    "mapName": "Mount Giragan 16",
+    "width": 15,
+    "height": 40
+  },
+  {
+    "mapId": 2103,
+    "mapName": "Mount Giragan 17",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2104,
+    "mapName": "Mount Giragan 18",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2105,
+    "mapName": "Mount Giragan 19",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2106,
+    "mapName": "Mount Giragan 20",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2107,
+    "mapName": "Unknown 2107",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2108,
+    "mapName": "Mount Giragan 22",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2109,
+    "mapName": "Mount Giragan 23",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2110,
+    "mapName": "Unknown 2110",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 2111,
+    "mapName": "Mount Giragan 25",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2112,
+    "mapName": "Mount Giragan 26",
+    "width": 15,
+    "height": 40
+  },
+  {
+    "mapId": 2120,
+    "mapName": "Mount Giragan",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 2140,
+    "mapName": "Loures Garden",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 2141,
+    "mapName": "Lovers Maze Garden",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 2601,
+    "mapName": "Unknown 2601",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 2669,
+    "mapName": "Feasgar Throne",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 2900,
+    "mapName": "Veltain Mines Enterance",
+    "width": 20,
+    "height": 22
+  },
+  {
+    "mapId": 2901,
+    "mapName": "Veltain Mines",
+    "width": 35,
+    "height": 35
+  },
+  {
+    "mapId": 2902,
+    "mapName": "Unknown 2902",
+    "width": 180,
+    "height": 100
+  },
+  {
+    "mapId": 2903,
+    "mapName": "Unknown 2903",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "mapId": 2904,
+    "mapName": "Unknown 2904",
+    "width": 150,
+    "height": 102
+  },
+  {
+    "mapId": 2905,
+    "mapName": "Unknown 2905",
+    "width": 35,
+    "height": 35
+  },
+  {
+    "mapId": 2906,
+    "mapName": "Unknown 2906",
+    "width": 35,
+    "height": 35
+  },
+  {
+    "mapId": 2907,
+    "mapName": "Unknown 2907",
+    "width": 35,
+    "height": 35
+  },
+  {
+    "mapId": 2908,
+    "mapName": "Unknown 2908",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2909,
+    "mapName": "Unknown 2909",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2910,
+    "mapName": "Unknown 2910",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2911,
+    "mapName": "Blossom Forest 4",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2912,
+    "mapName": "Blossom Forest 5",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2913,
+    "mapName": "Blossom Forest 6",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2914,
+    "mapName": "Blossom Forest 7",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2915,
+    "mapName": "Blossom Forest 8",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 2916,
+    "mapName": "Blossom Forest 9",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3004,
+    "mapName": "Suomi Grape Farmer",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 3005,
+    "mapName": "Lover's Glade",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 3006,
+    "mapName": "Mileth Village Way",
+    "width": 16,
+    "height": 24
+  },
+  {
+    "mapId": 3007,
+    "mapName": "Shrine of Glioca - Mileth",
+    "width": 25,
+    "height": 16
+  },
+  {
+    "mapId": 3008,
+    "mapName": "Undine",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3009,
+    "mapName": "Shrine of Cail - Undine",
+    "width": 25,
+    "height": 16
+  },
+  {
+    "mapId": 3010,
+    "mapName": "Rucesion Village Way",
+    "width": 24,
+    "height": 16
+  },
+  {
+    "mapId": 3011,
+    "mapName": "Shrine of Luathas - Rucesion",
+    "width": 25,
+    "height": 16
+  },
+  {
+    "mapId": 3012,
+    "mapName": "Loures",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3013,
+    "mapName": "Shrine of Gramail - Loures",
+    "width": 25,
+    "height": 16
+  },
+  {
+    "mapId": 3014,
+    "mapName": "Abel",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3015,
+    "mapName": "Shrine of Fiosachd - Abel",
+    "width": 25,
+    "height": 16
+  },
+  {
+    "mapId": 3016,
+    "mapName": "Suomi",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3017,
+    "mapName": "Shrine of Deoch - Suomi",
+    "width": 25,
+    "height": 16
+  },
+  {
+    "mapId": 3018,
+    "mapName": "Shrine of Sgrios - Dubhaim",
+    "width": 25,
+    "height": 16
+  },
+  {
+    "mapId": 3019,
+    "mapName": "Shrine of Ceannlaidir - Piet",
+    "width": 25,
+    "height": 16
+  },
+  {
+    "mapId": 3020,
+    "mapName": "Piet",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3025,
+    "mapName": "Mileth Commons",
+    "width": 32,
+    "height": 16
+  },
+  {
+    "mapId": 3026,
+    "mapName": "Mileth Hall",
+    "width": 12,
+    "height": 16
+  },
+  {
+    "mapId": 3028,
+    "mapName": "Mileth Sgath Pit",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 3037,
+    "mapName": "Mileth College",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3041,
+    "mapName": "Loures Library",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 3042,
+    "mapName": "Mileth Library",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 3043,
+    "mapName": "Mileth College",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3044,
+    "mapName": "Unknown 3044",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "mapId": 3045,
+    "mapName": "Unknown 3045",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "mapId": 3046,
+    "mapName": "Mileth Philosophy",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "mapId": 3047,
+    "mapName": "Mileth Lore",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "mapId": 3048,
+    "mapName": "Rucesion Commons",
+    "width": 20,
+    "height": 12
+  },
+  {
+    "mapId": 3049,
+    "mapName": "Rucesion Hall",
+    "width": 12,
+    "height": 16
+  },
+  {
+    "mapId": 3050,
+    "mapName": "Rucesion Justice Hall",
+    "width": 14,
+    "height": 20
+  },
+  {
+    "mapId": 3052,
+    "mapName": "Pravat Cave",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3053,
+    "mapName": "Pravat Heart",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 3054,
+    "mapName": "Pravat Prole Ground",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3055,
+    "mapName": "Pravat Shallow",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3056,
+    "mapName": "Pravat Hearth",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3057,
+    "mapName": "Pravat Works",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3058,
+    "mapName": "Pravat Deep",
+    "width": 24,
+    "height": 24
+  },
+  {
+    "mapId": 3059,
+    "mapName": "Pravat West Entrance",
+    "width": 14,
+    "height": 21
+  },
+  {
+    "mapId": 3060,
+    "mapName": "Astrid",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3061,
+    "mapName": "Astrid South-East",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 3062,
+    "mapName": "Astrid South",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 3063,
+    "mapName": "Astrid North-East",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 3064,
+    "mapName": "Astrid Center",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 3065,
+    "mapName": "Astrid South-West",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 3066,
+    "mapName": "Unknown 3066",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 3067,
+    "mapName": "Astrid North-West",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 3068,
+    "mapName": "Great Sylvan Glade",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 3070,
+    "mapName": "Loures Cyril Corridor",
+    "width": 10,
+    "height": 10
+  },
+  {
+    "mapId": 3071,
+    "mapName": "Mehadi Swamp",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3072,
+    "mapName": "Mehadi Hema",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 3073,
+    "mapName": "Unknown 3073",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 3074,
+    "mapName": "Chandi Mukul Gathering",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 3075,
+    "mapName": "Unknown 3075",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 3076,
+    "mapName": "Mehadi Shashi",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 3077,
+    "mapName": "Mehadi Heart West",
+    "width": 18,
+    "height": 12
+  },
+  {
+    "mapId": 3078,
+    "mapName": "Mehadi Swamp",
+    "width": 12,
+    "height": 18
+  },
+  {
+    "mapId": 3079,
+    "mapName": "Mileth",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3080,
+    "mapName": "East Woodland",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3081,
+    "mapName": "Rucesion Port Threshold",
+    "width": 14,
+    "height": 7
+  },
+  {
+    "mapId": 3082,
+    "mapName": "Rucesion Threshold",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "mapId": 3083,
+    "mapName": "Unknown 3083",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 3084,
+    "mapName": "Ancient Dwarven Cave",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 3085,
+    "mapName": "Aosda Prayer Ground at K",
+    "width": 16,
+    "height": 20
+  },
+  {
+    "mapId": 3086,
+    "mapName": "Aosda Deoch Shrine",
+    "width": 9,
+    "height": 10
+  },
+  {
+    "mapId": 3087,
+    "mapName": "Aosda Gramail Shrine",
+    "width": 9,
+    "height": 10
+  },
+  {
+    "mapId": 3095,
+    "mapName": "Dubhaim Castle Threshold",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "mapId": 3096,
+    "mapName": "Dark Mileth College",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 3150,
+    "mapName": "Dark Contest Hall 1",
+    "width": 18,
+    "height": 18
+  },
+  {
+    "mapId": 3151,
+    "mapName": "Dark Contest Hall 2",
+    "width": 18,
+    "height": 18
+  },
+  {
+    "mapId": 3200,
+    "mapName": "Loures Soccer Field",
+    "width": 43,
+    "height": 68
+  },
+  {
+    "mapId": 3210,
+    "mapName": "Blackstar Village",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3211,
+    "mapName": "Blackstar Village Inn",
+    "width": 27,
+    "height": 27
+  },
+  {
+    "mapId": 3212,
+    "mapName": "Blackstar Village Bank",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 3213,
+    "mapName": "Blackstar Village Armory",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 3214,
+    "mapName": "Blackstar Village Research",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 3220,
+    "mapName": "Blackstar Church",
+    "width": 18,
+    "height": 25
+  },
+  {
+    "mapId": 3221,
+    "mapName": "Shrine of Danaan",
+    "width": 13,
+    "height": 17
+  },
+  {
+    "mapId": 3271,
+    "mapName": "Loures Castle",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 3272,
+    "mapName": "Loures Entrance Yard",
+    "width": 65,
+    "height": 61
+  },
+  {
+    "mapId": 3537,
+    "mapName": "Wizard Dedication",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 3601,
+    "mapName": "Chaos 2",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 3602,
+    "mapName": "Chaos 3",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 3603,
+    "mapName": "Chaos 4",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3604,
+    "mapName": "Chaos 5",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3605,
+    "mapName": "Chaos 6",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 3606,
+    "mapName": "Chaos 7",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 3607,
+    "mapName": "Chaos 8",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 3608,
+    "mapName": "Chaos 9",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 3609,
+    "mapName": "Chaos 10",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 3610,
+    "mapName": "Chaos 11",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 3611,
+    "mapName": "Chaos 12",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 3612,
+    "mapName": "Chaos 13",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 3613,
+    "mapName": "Chaos 14",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 3614,
+    "mapName": "Chaos 15",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3615,
+    "mapName": "Chaos 16",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3616,
+    "mapName": "Chaos 17",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 3617,
+    "mapName": "Chaos 18",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 3618,
+    "mapName": "Chaos 19",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 3619,
+    "mapName": "Chaos 20",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 3620,
+    "mapName": "Chaos 21",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 3621,
+    "mapName": "Chaos 22",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 3622,
+    "mapName": "Chaos 23",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 3623,
+    "mapName": "Chaos 24",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 3624,
+    "mapName": "Chaos 25",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 3625,
+    "mapName": "Chaos 26",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3626,
+    "mapName": "Chaos 27",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3627,
+    "mapName": "Chaos 28",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 3628,
+    "mapName": "Chaos 29",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 3629,
+    "mapName": "Chaos 30",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 3630,
+    "mapName": "Chaos 31",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3631,
+    "mapName": "Chaos 32",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 3632,
+    "mapName": "Chaos 33",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 3634,
+    "mapName": "Chaos Enterance",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 3635,
+    "mapName": "Chaos Entrance",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3636,
+    "mapName": "Chaos Shelter",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3926,
+    "mapName": "Loures Market",
+    "width": 78,
+    "height": 80
+  },
+  {
+    "mapId": 3927,
+    "mapName": "Loures Store 1",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3928,
+    "mapName": "Loures Store 2",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3929,
+    "mapName": "Loures Store 3",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3930,
+    "mapName": "Loures Store 4",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3931,
+    "mapName": "Loures Store 5",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3932,
+    "mapName": "Loures Store 6",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3933,
+    "mapName": "Loures Store 7",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3934,
+    "mapName": "Loures Store 8",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3935,
+    "mapName": "Loures Canal - Skrull Enterance",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3936,
+    "mapName": "Loures Store 10",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3937,
+    "mapName": "Loures Store 11",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3938,
+    "mapName": "Loures Canal Enterance",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3939,
+    "mapName": "Loures Store 13",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3940,
+    "mapName": "Loures Canal - Blob Enterance",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3941,
+    "mapName": "Loures Store 15",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3942,
+    "mapName": "Loures Store 16",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3950,
+    "mapName": "Gladiator Arena Entrance",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 3993,
+    "mapName": "Recovery Camp",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 4000,
+    "mapName": "Shifting Swamp North",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 4001,
+    "mapName": "Shifting Swamp West",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 4002,
+    "mapName": "Shifting Swamp East",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 4003,
+    "mapName": "Shifting Swamp South",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 4335,
+    "mapName": "Chaos 34 Portals",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 4600,
+    "mapName": "Porte Forest Waitingroom",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 4603,
+    "mapName": "Porte Forest 2-L",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 4604,
+    "mapName": "Porte Forest 2-C",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 4606,
+    "mapName": "Porte Forest 3-L",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 4607,
+    "mapName": "Porte Forest 3-C",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 4608,
+    "mapName": "Porte Forest 3-R",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 4609,
+    "mapName": "Porte Forest 4-L",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 4610,
+    "mapName": "Porte Forest 4-C",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 4611,
+    "mapName": "Porte Forest 4-R",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 4612,
+    "mapName": "Porte Forest Path",
+    "width": 20,
+    "height": 40
+  },
+  {
+    "mapId": 4614,
+    "mapName": "Porte Forest Shop",
+    "width": 19,
+    "height": 19
+  },
+  {
+    "mapId": 4720,
+    "mapName": "Karlopos Island",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 5001,
+    "mapName": "Cthonic Remains 1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5002,
+    "mapName": "Cthonic Remains 2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5003,
+    "mapName": "Cthonic Remains 3",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5004,
+    "mapName": "Cthonic Remains 4",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5005,
+    "mapName": "Cthonic Remains 5",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5006,
+    "mapName": "Cthonic Remains 6",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5007,
+    "mapName": "Cthonic Remains 7",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5008,
+    "mapName": "Cthonic Remains 8",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5009,
+    "mapName": "Cthonic Remains 9",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5010,
+    "mapName": "Cthonic Remains 10",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5011,
+    "mapName": "Cthonic Remains 11",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5012,
+    "mapName": "Cthonic Remains 12",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5013,
+    "mapName": "Cthonic Remains 13",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5014,
+    "mapName": "Cthonic Remains 14",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5015,
+    "mapName": "Cthonic Remains 15",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5016,
+    "mapName": "Cthonic Remains 16",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5017,
+    "mapName": "Cthonic Remains 17",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5018,
+    "mapName": "Cthonic Remains 18",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5019,
+    "mapName": "Cthonic Remains 19",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5020,
+    "mapName": "Cthonic Remains 20",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5021,
+    "mapName": "Cthonic Remains 21",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5022,
+    "mapName": "Cthonic Remains 22",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5023,
+    "mapName": "Cthonic Remains 23",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5024,
+    "mapName": "Cthonic Remains 24",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5025,
+    "mapName": "Cthonic Remains 25",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5026,
+    "mapName": "Cthonic Remains 26",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5027,
+    "mapName": "Cthonic Remains 27",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5028,
+    "mapName": "Cthonic Remains 28",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5029,
+    "mapName": "Cthonic Remains 29",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5030,
+    "mapName": "Cthonic Remains 30",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5031,
+    "mapName": "Cthonic Remains 30",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5032,
+    "mapName": "Unknown 5032",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 5035,
+    "mapName": "Unknown 5035",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 5036,
+    "mapName": "Unknown 5036",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 5037,
+    "mapName": "Unknown 5037",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5038,
+    "mapName": "Unknown 5038",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 5039,
+    "mapName": "Cthonic Remains 39",
+    "width": 65,
+    "height": 65
+  },
+  {
+    "mapId": 5041,
+    "mapName": "Cthonic Remains 41",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5042,
+    "mapName": "Cthonic Remains 42",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 5043,
+    "mapName": "Cthonic Remains 43",
+    "width": 25,
+    "height": 150
+  },
+  {
+    "mapId": 5044,
+    "mapName": "Cthonic Remains 44",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5046,
+    "mapName": "Cthonic Remains 46",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5047,
+    "mapName": "Cthonic Remains 47",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 5048,
+    "mapName": "Cthonic Remains 48",
+    "width": 20,
+    "height": 200
+  },
+  {
+    "mapId": 5049,
+    "mapName": "Cthonic Remains 49",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 5050,
+    "mapName": "Cthonic Remains 50",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 5051,
+    "mapName": "Cthonic Remains 51",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 5052,
+    "mapName": "Cthonic Remains 52",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 5053,
+    "mapName": "Cthonic Remains 53",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5054,
+    "mapName": "Cthonic Remains 54",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5055,
+    "mapName": "Cthonic Remains 55",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 5056,
+    "mapName": "Cthonic Remains 56",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "mapId": 5098,
+    "mapName": "Macabre Study 4-2",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 5101,
+    "mapName": "Macabre Cellar 4-5",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 5110,
+    "mapName": "Lynith Sea",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5111,
+    "mapName": "Lynith Sea 1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5112,
+    "mapName": "Lynith Sea 2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5114,
+    "mapName": "Lynith Sea 4",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5115,
+    "mapName": "Lynith Sea 5",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5116,
+    "mapName": "Lynith Sea 6",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5117,
+    "mapName": "Lynith Sea 7",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5118,
+    "mapName": "Lynith Sea 8",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 5201,
+    "mapName": "Undine Field",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 5205,
+    "mapName": "Undine North Field",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 5210,
+    "mapName": "Cedar Grove",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 5220,
+    "mapName": "Sapphire Stream",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 5231,
+    "mapName": "Coliseum Arena",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 5232,
+    "mapName": "Coliseum Entrance",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "mapId": 5233,
+    "mapName": "Coliseum Gauntlet",
+    "width": 14,
+    "height": 30
+  },
+  {
+    "mapId": 5251,
+    "mapName": "Warrior Training Barracks",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 5252,
+    "mapName": "Warrior Foyer",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 5253,
+    "mapName": "Warrior Hallway",
+    "width": 7,
+    "height": 16
+  },
+  {
+    "mapId": 5254,
+    "mapName": "Warrior Hallway2",
+    "width": 16,
+    "height": 7
+  },
+  {
+    "mapId": 5255,
+    "mapName": "Warrior Blacksmith",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 5256,
+    "mapName": "Warrior Trainer",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 5257,
+    "mapName": "Warrior Training Room",
+    "width": 37,
+    "height": 37
+  },
+  {
+    "mapId": 5258,
+    "mapName": "Warrior Training Room2",
+    "width": 37,
+    "height": 37
+  },
+  {
+    "mapId": 5259,
+    "mapName": "Warrior Trainer 2",
+    "width": 7,
+    "height": 7
+  },
+  {
+    "mapId": 5263,
+    "mapName": "Training Dojo 4",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 5264,
+    "mapName": "Training Dojo 5",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 5266,
+    "mapName": "Training Dojo 7",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 5267,
+    "mapName": "Training Dojo 8",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 5268,
+    "mapName": "TrainingDojo9",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 6000,
+    "mapName": "Unknown 6000",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 6001,
+    "mapName": "Unknown 6001",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6002,
+    "mapName": "Unknown 6002",
+    "width": 60,
+    "height": 25
+  },
+  {
+    "mapId": 6099,
+    "mapName": "Unknown 6099",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6100,
+    "mapName": "Unknown 6100",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6101,
+    "mapName": "Unknown 6101",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6102,
+    "mapName": "Unknown 6102",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 6103,
+    "mapName": "Unknown 6103",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6104,
+    "mapName": "Unknown 6104",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6105,
+    "mapName": "Unknown 6105",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6106,
+    "mapName": "Unknown 6106",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6107,
+    "mapName": "Unknown 6107",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6108,
+    "mapName": "Unknown 6108",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6109,
+    "mapName": "Unknown 6109",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 6110,
+    "mapName": "Unknown 6110",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6111,
+    "mapName": "Unknown 6111",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6112,
+    "mapName": "Unknown 6112",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6113,
+    "mapName": "Unknown 6113",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6114,
+    "mapName": "Unknown 6114",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6115,
+    "mapName": "Unknown 6115",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6116,
+    "mapName": "Unknown 6116",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6117,
+    "mapName": "Unknown 6117",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6119,
+    "mapName": "Unknown 6119",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6120,
+    "mapName": "Unknown 6120",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6121,
+    "mapName": "Unknown 6121",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6122,
+    "mapName": "Unknown 6122",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6123,
+    "mapName": "Unknown 6123",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6124,
+    "mapName": "Unknown 6124",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6125,
+    "mapName": "Unknown 6125",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6126,
+    "mapName": "Unknown 6126",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6127,
+    "mapName": "Unknown 6127",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6128,
+    "mapName": "Unknown 6128",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6129,
+    "mapName": "Unknown 6129",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6130,
+    "mapName": "Unknown 6130",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 6131,
+    "mapName": "Unknown 6131",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6132,
+    "mapName": "Unknown 6132",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 6133,
+    "mapName": "Unknown 6133",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 6134,
+    "mapName": "Unknown 6134",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6135,
+    "mapName": "Unknown 6135",
+    "width": 30,
+    "height": 35
+  },
+  {
+    "mapId": 6136,
+    "mapName": "Unknown 6136",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6137,
+    "mapName": "Unknown 6137",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6138,
+    "mapName": "Unknown 6138",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6139,
+    "mapName": "Unknown 6139",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6140,
+    "mapName": "Unknown 6140",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6146,
+    "mapName": "Unknown 6146",
+    "width": 18,
+    "height": 18
+  },
+  {
+    "mapId": 6165,
+    "mapName": "Manor Room 6",
+    "width": 11,
+    "height": 21
+  },
+  {
+    "mapId": 6198,
+    "mapName": "Manor Room 39",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 6223,
+    "mapName": "Manor Room 64",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 6228,
+    "mapName": "Oren Island",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 6232,
+    "mapName": "Unknown 6232",
+    "width": 29,
+    "height": 25
+  },
+  {
+    "mapId": 6233,
+    "mapName": "Unknown 6233",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 6236,
+    "mapName": "Unknown 6236",
+    "width": 11,
+    "height": 21
+  },
+  {
+    "mapId": 6238,
+    "mapName": "Unknown 6238",
+    "width": 16,
+    "height": 15
+  },
+  {
+    "mapId": 6243,
+    "mapName": "Manor Room 82",
+    "width": 11,
+    "height": 21
+  },
+  {
+    "mapId": 6247,
+    "mapName": "Unknown 6247",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 6274,
+    "mapName": "Unknown 6274",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 6294,
+    "mapName": "Manor Room 133",
+    "width": 21,
+    "height": 11
+  },
+  {
+    "mapId": 6354,
+    "mapName": "Unknown 6354",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 6500,
+    "mapName": "Oren Island Shop0",
+    "width": 30,
+    "height": 15
+  },
+  {
+    "mapId": 6501,
+    "mapName": "Oren Island Shop1",
+    "width": 30,
+    "height": 15
+  },
+  {
+    "mapId": 6502,
+    "mapName": "Oren Island Shop2",
+    "width": 30,
+    "height": 15
+  },
+  {
+    "mapId": 6503,
+    "mapName": "Oren Island Downstairs0",
+    "width": 13,
+    "height": 20
+  },
+  {
+    "mapId": 6504,
+    "mapName": "Oren Island Downstairs1",
+    "width": 13,
+    "height": 20
+  },
+  {
+    "mapId": 6506,
+    "mapName": "Oren Island Upstairs0",
+    "width": 13,
+    "height": 20
+  },
+  {
+    "mapId": 6508,
+    "mapName": "Oren Sewers Entrance",
+    "width": 13,
+    "height": 20
+  },
+  {
+    "mapId": 6509,
+    "mapName": "Oren Island House0",
+    "width": 30,
+    "height": 15
+  },
+  {
+    "mapId": 6511,
+    "mapName": "Oren Island House2",
+    "width": 30,
+    "height": 15
+  },
+  {
+    "mapId": 6512,
+    "mapName": "Oren Island Throne Room",
+    "width": 21,
+    "height": 32
+  },
+  {
+    "mapId": 6513,
+    "mapName": "Octavio's Armory",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6516,
+    "mapName": "Oren Island Magic Shop1",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6518,
+    "mapName": "Chef Deleon's Bistro",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6520,
+    "mapName": "Oren Bank",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6521,
+    "mapName": "Oren Island Armor Shoppe",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6524,
+    "mapName": "Franchesco's Tavern",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6525,
+    "mapName": "Oren Island Ruins0",
+    "width": 100,
+    "height": 150
+  },
+  {
+    "mapId": 6530,
+    "mapName": "Oren Ruins 1-1",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6531,
+    "mapName": "Oren Ruins 1-2",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6532,
+    "mapName": "Oren Ruins 1-3",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6533,
+    "mapName": "Oren Ruins 1-4",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6534,
+    "mapName": "Unknown 6534",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6535,
+    "mapName": "Oren Ruins 2-2",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6536,
+    "mapName": "Oren Ruins 2-3",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6537,
+    "mapName": "Oren Ruins 2-4",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6538,
+    "mapName": "Oren Ruins 3-1",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6539,
+    "mapName": "Oren Ruins 3-2",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6540,
+    "mapName": "Oren Ruins 3-3",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6541,
+    "mapName": "Oren Ruins 3-4",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "mapId": 6542,
+    "mapName": "Oren Ruins 1-5",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6544,
+    "mapName": "Oren Ruins 1-7",
+    "width": 70,
+    "height": 90
+  },
+  {
+    "mapId": 6545,
+    "mapName": "Oren Ruins 1-8",
+    "width": 90,
+    "height": 90
+  },
+  {
+    "mapId": 6546,
+    "mapName": "Oren Ruins 1-9",
+    "width": 90,
+    "height": 70
+  },
+  {
+    "mapId": 6547,
+    "mapName": "Oren Ruins 1-10",
+    "width": 90,
+    "height": 70
+  },
+  {
+    "mapId": 6548,
+    "mapName": "Oren Ruins 1-11",
+    "width": 90,
+    "height": 70
+  },
+  {
+    "mapId": 6549,
+    "mapName": "Oren Ruins 1-12",
+    "width": 90,
+    "height": 90
+  },
+  {
+    "mapId": 6550,
+    "mapName": "Oren Ruins 1-13",
+    "width": 70,
+    "height": 90
+  },
+  {
+    "mapId": 6551,
+    "mapName": "Oren Ruins 1-14",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6552,
+    "mapName": "Oren Ruins 1-15",
+    "width": 90,
+    "height": 70
+  },
+  {
+    "mapId": 6553,
+    "mapName": "Oren Ruins 1-16",
+    "width": 90,
+    "height": 70
+  },
+  {
+    "mapId": 6554,
+    "mapName": "Oren Ruins 1-17",
+    "width": 90,
+    "height": 90
+  },
+  {
+    "mapId": 6555,
+    "mapName": "Oren Ruins 1-18",
+    "width": 70,
+    "height": 90
+  },
+  {
+    "mapId": 6556,
+    "mapName": "Oren Ruins 1-19",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6557,
+    "mapName": "Unknown 6557",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6558,
+    "mapName": "Oren Ruins 2-6",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6559,
+    "mapName": "Oren Ruins 2-7",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6560,
+    "mapName": "Oren Ruins 2-8",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6561,
+    "mapName": "Oren Ruins 2-9",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6562,
+    "mapName": "Oren Ruins 2-10",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6563,
+    "mapName": "Oren Ruins 2-11",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6564,
+    "mapName": "Oren Ruins 2-12",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6565,
+    "mapName": "Oren Ruins 2-13",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6566,
+    "mapName": "Oren Ruins 2-14",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6567,
+    "mapName": "Oren Ruins 2-15",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6568,
+    "mapName": "Oren Ruins 2-16",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6569,
+    "mapName": "Oren Ruins 3-5",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6570,
+    "mapName": "Oren Ruins 3-6",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6571,
+    "mapName": "Oren Ruins 3-7",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6572,
+    "mapName": "Oren Ruins 3-8",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6573,
+    "mapName": "Oren Ruins 3-9",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6574,
+    "mapName": "Oren Ruins 3-10",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6575,
+    "mapName": "Oren Ruins 3-11",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6576,
+    "mapName": "Oren Ruins 3-12",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6577,
+    "mapName": "Oren Ruins 3-13",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6578,
+    "mapName": "Oren Ruins 3-14",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6579,
+    "mapName": "Oren Ruins 3-15",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6580,
+    "mapName": "Oren Ruins 3-16",
+    "width": 50,
+    "height": 45
+  },
+  {
+    "mapId": 6581,
+    "mapName": "Sewer Maze 2",
+    "width": 30,
+    "height": 34
+  },
+  {
+    "mapId": 6582,
+    "mapName": "Sewer Maze 4",
+    "width": 30,
+    "height": 68
+  },
+  {
+    "mapId": 6583,
+    "mapName": "Sewer Maze 6",
+    "width": 30,
+    "height": 100
+  },
+  {
+    "mapId": 6584,
+    "mapName": "Sewer Maze 10",
+    "width": 60,
+    "height": 68
+  },
+  {
+    "mapId": 6585,
+    "mapName": "Sewer Maze 3",
+    "width": 26,
+    "height": 38
+  },
+  {
+    "mapId": 6586,
+    "mapName": "Sewer Maze 5",
+    "width": 26,
+    "height": 38
+  },
+  {
+    "mapId": 6587,
+    "mapName": "Sewer Maze 7",
+    "width": 39,
+    "height": 26
+  },
+  {
+    "mapId": 6588,
+    "mapName": "Sewer Maze 9",
+    "width": 26,
+    "height": 38
+  },
+  {
+    "mapId": 6589,
+    "mapName": "Sewer Maze 11",
+    "width": 39,
+    "height": 26
+  },
+  {
+    "mapId": 6590,
+    "mapName": "Sewer Maze 13",
+    "width": 26,
+    "height": 38
+  },
+  {
+    "mapId": 6591,
+    "mapName": "Sewer Maze 1",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6592,
+    "mapName": "Sewer Maze 8",
+    "width": 50,
+    "height": 25
+  },
+  {
+    "mapId": 6593,
+    "mapName": "Sewer Maze 12",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 6594,
+    "mapName": "Sewer Maze 14",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 6595,
+    "mapName": "Ruins Altar 1",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 6596,
+    "mapName": "Ruins Altar 2",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 6597,
+    "mapName": "Ruins Altar 3",
+    "width": 25,
+    "height": 40
+  },
+  {
+    "mapId": 6598,
+    "mapName": "Ruins Altar 4",
+    "width": 20,
+    "height": 40
+  },
+  {
+    "mapId": 6599,
+    "mapName": "Ruins Altar 5",
+    "width": 25,
+    "height": 40
+  },
+  {
+    "mapId": 6600,
+    "mapName": "Oren Island Path",
+    "width": 30,
+    "height": 25
+  },
+  {
+    "mapId": 6601,
+    "mapName": "Oren Island Jungle 0",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6602,
+    "mapName": "Oren Island Jungle 1",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6603,
+    "mapName": "Oren Island Jungle 2",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6604,
+    "mapName": "Oren Island Jungle 3",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6605,
+    "mapName": "Oren Island Jungle 4",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6607,
+    "mapName": "Oren Island Jungle 6",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6608,
+    "mapName": "Oren Island Jungle 7",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6609,
+    "mapName": "Oren Island Jungle 8",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6610,
+    "mapName": "Oren Island Jungle 9",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6611,
+    "mapName": "Oren Island Jungle 10",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6613,
+    "mapName": "Oren Island Jungle 12",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6614,
+    "mapName": "Oren Island Jungle 13",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6615,
+    "mapName": "Oren Island Jungle 14",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6618,
+    "mapName": "Oren Island Jungle 17",
+    "width": 41,
+    "height": 47
+  },
+  {
+    "mapId": 6619,
+    "mapName": "Oren Island Jungle 18",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 6623,
+    "mapName": "Oren Island Jungle Armory",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 6624,
+    "mapName": "Oren Island Jewelry Shop",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6625,
+    "mapName": "North Lynith Beach 1",
+    "width": 80,
+    "height": 50
+  },
+  {
+    "mapId": 6626,
+    "mapName": "North Lynith Beach 2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6627,
+    "mapName": "South Lynith Beach",
+    "width": 70,
+    "height": 30
+  },
+  {
+    "mapId": 6628,
+    "mapName": "Lynith Beach",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 6640,
+    "mapName": "Lynith Beach Way 1",
+    "width": 70,
+    "height": 60
+  },
+  {
+    "mapId": 6641,
+    "mapName": "Lynith Beach Way 2",
+    "width": 70,
+    "height": 60
+  },
+  {
+    "mapId": 6643,
+    "mapName": "Lynith Beach Way 4",
+    "width": 70,
+    "height": 60
+  },
+  {
+    "mapId": 6644,
+    "mapName": "Lynith Beach Way 5",
+    "width": 70,
+    "height": 60
+  },
+  {
+    "mapId": 6646,
+    "mapName": "Lynith Beach Way Boss 1",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 6651,
+    "mapName": "Lynith Beach Way Boss 2",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 6656,
+    "mapName": "Lynith Beach Way Boss 3",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 6700,
+    "mapName": "Nobis",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 6701,
+    "mapName": "Oren Ruins Gateway2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6702,
+    "mapName": "Oren Ruins Gateway3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6716,
+    "mapName": "Nobis Weapon Shop",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6717,
+    "mapName": "Nobis Restaurant",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6718,
+    "mapName": "Nobis Storage",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6719,
+    "mapName": "Nobis Tavern",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6720,
+    "mapName": "Nobis House 1",
+    "width": 30,
+    "height": 15
+  },
+  {
+    "mapId": 6721,
+    "mapName": "Nobis House 2",
+    "width": 13,
+    "height": 20
+  },
+  {
+    "mapId": 6806,
+    "mapName": "Garamonde Theatre",
+    "width": 22,
+    "height": 29
+  },
+  {
+    "mapId": 6924,
+    "mapName": "Oren Ruins Gateway",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 6925,
+    "mapName": "Loures Harbor",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 6926,
+    "mapName": "Loures Harbor Shop",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "mapId": 6927,
+    "mapName": "Loures Harbor Shop 2",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "mapId": 6928,
+    "mapName": "Grass Battle Field1",
+    "width": 32,
+    "height": 90
+  },
+  {
+    "mapId": 6929,
+    "mapName": "Grass Battle Field2",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 6930,
+    "mapName": "Grass Battle Field3",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 6931,
+    "mapName": "Grass Battle Field4",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 6932,
+    "mapName": "Grass Battle Field5",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 6933,
+    "mapName": "Loures Harbor Tavern",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6946,
+    "mapName": "Unknown 6946",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 6966,
+    "mapName": "Unknown 6966",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 6992,
+    "mapName": "DeadwoodForest4",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 6996,
+    "mapName": "Beal na Carraige",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 6997,
+    "mapName": "Water Temple Entrance",
+    "width": 35,
+    "height": 35
+  },
+  {
+    "mapId": 6998,
+    "mapName": "Water Spirit Temple",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 7050,
+    "mapName": "North Pole",
+    "width": 35,
+    "height": 30
+  },
+  {
+    "mapId": 7051,
+    "mapName": "Toy Factory",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7052,
+    "mapName": "Santa's Room",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 7053,
+    "mapName": "Elf Room",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 7054,
+    "mapName": "Reindeer Pen",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 7055,
+    "mapName": "Lift Room",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 7056,
+    "mapName": "Mount Merry 1-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7059,
+    "mapName": "Mount Merry 2-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7062,
+    "mapName": "Mount Merry 3-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7065,
+    "mapName": "Mount Merry 4-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7071,
+    "mapName": "Battle of Mount Merry",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7110,
+    "mapName": "Oren Fair",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 7111,
+    "mapName": "Oren Fair I",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 7300,
+    "mapName": "Pyramid Maze",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 7401,
+    "mapName": "Loures Sewer Canal 1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7402,
+    "mapName": "Loures Sewer Canal 2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7403,
+    "mapName": "Loures Sewer Canal 3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7404,
+    "mapName": "Loures Sewer Canal 4",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7405,
+    "mapName": "Unknown 7405",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 7406,
+    "mapName": "Loures Sewer Canal 6",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7407,
+    "mapName": "Unknown 7407",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7408,
+    "mapName": "Loures Sewer Canal 8",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 7409,
+    "mapName": "Loures Sewer Canal 9",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 7410,
+    "mapName": "Loures Sewer Canal 10",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7411,
+    "mapName": "Unknown 7411",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 7412,
+    "mapName": "Unknown 7412",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7413,
+    "mapName": "Loures Sewer Canal 13",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7414,
+    "mapName": "Loures Sewer Canal 14",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 7415,
+    "mapName": "Loures Sewer Canal 15",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7416,
+    "mapName": "Loures Sewer Canal 16",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7418,
+    "mapName": "Loures Sewer Canal 18",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7419,
+    "mapName": "Loures Sewer Canal 19",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7420,
+    "mapName": "Loures Sewer Canal 20",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7421,
+    "mapName": "Loures Sewer Canal 21",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7422,
+    "mapName": "Unknown 7422",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7423,
+    "mapName": "Unknown 7423",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7424,
+    "mapName": "Unknown 7424",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7425,
+    "mapName": "Unknown 7425",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7426,
+    "mapName": "Loures Sewer Canal 26",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7427,
+    "mapName": "Loures Sewer Canal 27",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 7429,
+    "mapName": "Loures Sewer Canal 29",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7430,
+    "mapName": "Loures Sewer Canal 30",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7431,
+    "mapName": "Loures Sewer Canal 31",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7432,
+    "mapName": "Loures Sewer Canal 32",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 7433,
+    "mapName": "Loures Sewer Canal 33",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7434,
+    "mapName": "Loures Sewer Canal 34",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 7435,
+    "mapName": "Loures Sewer Canal 35",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7436,
+    "mapName": "Loures Sewer Canal 36",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 7437,
+    "mapName": "Unknown 7437",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7438,
+    "mapName": "Unknown 7438",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7439,
+    "mapName": "Unknown 7439",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 7442,
+    "mapName": "Unknown 7442",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 8001,
+    "mapName": "Unknown Depths 1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8003,
+    "mapName": "Unknown Depths 3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8004,
+    "mapName": "Unknown Depths 4",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8005,
+    "mapName": "Unknown Depths 5",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8006,
+    "mapName": "Unknown Depths 6",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8007,
+    "mapName": "Unknown Depths 7",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8008,
+    "mapName": "Unknown Depths 8",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8009,
+    "mapName": "Unknown Depths 9",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8010,
+    "mapName": "Unknown Depths 10",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8011,
+    "mapName": "Unknown Depths 11",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8012,
+    "mapName": "Unknown Depths 12",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8013,
+    "mapName": "Unknown Depths 13",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8014,
+    "mapName": "Unknown Depths 14",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8015,
+    "mapName": "Wrecked Ship 2-6",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8016,
+    "mapName": "Wrecked Ship 2-1",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8017,
+    "mapName": "Wrecked Ship 2-2",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8018,
+    "mapName": "Wrecked Ship 2-3",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8019,
+    "mapName": "Wrecked Ship 2-4",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8020,
+    "mapName": "Wrecked Ship 2-5",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8021,
+    "mapName": "Wrecked Ship 3-5",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8022,
+    "mapName": "Wrecked Ship 5-1",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8023,
+    "mapName": "Wrecked Ship 5-7",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8024,
+    "mapName": "Wrecked Ship 3-1",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8025,
+    "mapName": "Wrecked Ship 3-2",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8026,
+    "mapName": "Wrecked Ship 3-3",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8027,
+    "mapName": "Wrecked Ship 4-5",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8028,
+    "mapName": "Wrecked Ship 4-4",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8029,
+    "mapName": "Wrecked Ship 3-6",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8030,
+    "mapName": "Wrecked Ship 4-1",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8031,
+    "mapName": "Wrecked Ship 4-2",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8032,
+    "mapName": "Wrecked Ship 4-3",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8033,
+    "mapName": "Wrecked Ship 5-6",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8034,
+    "mapName": "Wrecked Ship 3-4",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8035,
+    "mapName": "Wrecked Ship 5-2",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8036,
+    "mapName": "Wrecked Ship 5-3",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8037,
+    "mapName": "Wrecked Ship 5-4",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8038,
+    "mapName": "Wrecked Ship 5-5",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8039,
+    "mapName": "Wrecked Ship 1-5",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8040,
+    "mapName": "Wrecked Ship 1-6",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8041,
+    "mapName": "Wrecked Ship 1-1",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8042,
+    "mapName": "Wrecked Ship 1-2",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8043,
+    "mapName": "Wrecked Ship 1-3",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8044,
+    "mapName": "Wrecked Ship 1-4",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8045,
+    "mapName": "Shell Home",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 8046,
+    "mapName": "Shell Weapon Shop",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 8047,
+    "mapName": "Wrecked ship floor 5",
+    "width": 55,
+    "height": 20
+  },
+  {
+    "mapId": 8048,
+    "mapName": "Wrecked ship floor 4",
+    "width": 55,
+    "height": 20
+  },
+  {
+    "mapId": 8049,
+    "mapName": "Wrecked ship floor 3",
+    "width": 55,
+    "height": 20
+  },
+  {
+    "mapId": 8050,
+    "mapName": "Wrecked ship floor 2",
+    "width": 55,
+    "height": 20
+  },
+  {
+    "mapId": 8051,
+    "mapName": "Wrecked ship floor 1",
+    "width": 55,
+    "height": 20
+  },
+  {
+    "mapId": 8099,
+    "mapName": "Blackstar Crypt Entrance",
+    "width": 26,
+    "height": 26
+  },
+  {
+    "mapId": 8100,
+    "mapName": "Blackstar Crypt 4",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 8101,
+    "mapName": "Blackstar Crypt 5",
+    "width": 26,
+    "height": 26
+  },
+  {
+    "mapId": 8102,
+    "mapName": "Blackstar Crypt 3",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 8103,
+    "mapName": "Blackstar Crypt 8",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8104,
+    "mapName": "Blackstar Crypt 2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8105,
+    "mapName": "Blackstar Crypt 6",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8106,
+    "mapName": "Blackstar Crypt 7",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8107,
+    "mapName": "Blackstar Crypt 1",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 8109,
+    "mapName": "Blackstar Crypt 9",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 8110,
+    "mapName": "Blackstar Crypt 10",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8111,
+    "mapName": "Blackstar Crypt 11",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8112,
+    "mapName": "Blackstar Crypt 12",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8113,
+    "mapName": "Blackstar Crypt 13",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8114,
+    "mapName": "Blackstar Crypt 14",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8115,
+    "mapName": "Blackstar Crypt 15",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8116,
+    "mapName": "Blackstar Crypt 16",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8117,
+    "mapName": "Blackstar Crypt 17",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8119,
+    "mapName": "Blackstar Crypt 18",
+    "width": 60,
+    "height": 7
+  },
+  {
+    "mapId": 8120,
+    "mapName": "Blackstar Crypt Boss 1",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8295,
+    "mapName": "Aman Lounge",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "mapId": 8296,
+    "mapName": "Aman Bazaar",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "mapId": 8297,
+    "mapName": "Aman Inn",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "mapId": 8298,
+    "mapName": "Aman Cookhouse",
+    "width": 25,
+    "height": 20
+  },
+  {
+    "mapId": 8299,
+    "mapName": "AJ - Bank",
+    "width": 17,
+    "height": 17
+  },
+  {
+    "mapId": 8300,
+    "mapName": "AJ0 - Jungle",
+    "width": 130,
+    "height": 130
+  },
+  {
+    "mapId": 8301,
+    "mapName": "AJ1",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8302,
+    "mapName": "AJ2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8303,
+    "mapName": "AJ3",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8304,
+    "mapName": "AJ4",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8305,
+    "mapName": "AJ5",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8306,
+    "mapName": "AJ6 - Elemus",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8307,
+    "mapName": "AJ7",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8308,
+    "mapName": "AJ8",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8309,
+    "mapName": "AJ9",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8310,
+    "mapName": "AJ10 - HG",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8311,
+    "mapName": "AJ11",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8312,
+    "mapName": "AJ12",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8313,
+    "mapName": "AJ13",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8314,
+    "mapName": "AJ14 - CC",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8315,
+    "mapName": "AJ15",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8316,
+    "mapName": "AJ16",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8317,
+    "mapName": "AJ17",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8318,
+    "mapName": "AJ18 - Unknown",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8319,
+    "mapName": "AJ19",
+    "width": 50,
+    "height": 30
+  },
+  {
+    "mapId": 8320,
+    "mapName": "AJ20",
+    "width": 40,
+    "height": 50
+  },
+  {
+    "mapId": 8321,
+    "mapName": "AJ21",
+    "width": 30,
+    "height": 60
+  },
+  {
+    "mapId": 8322,
+    "mapName": "AJ22",
+    "width": 70,
+    "height": 30
+  },
+  {
+    "mapId": 8323,
+    "mapName": "AJ23",
+    "width": 20,
+    "height": 40
+  },
+  {
+    "mapId": 8324,
+    "mapName": "AJ24",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8325,
+    "mapName": "AJ25",
+    "width": 25,
+    "height": 50
+  },
+  {
+    "mapId": 8326,
+    "mapName": "AJ26",
+    "width": 70,
+    "height": 30
+  },
+  {
+    "mapId": 8327,
+    "mapName": "AJ27",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8328,
+    "mapName": "AJ28 - Hostile VIllage Ent",
+    "width": 20,
+    "height": 40
+  },
+  {
+    "mapId": 8329,
+    "mapName": "AJ29 - Hostile VIllage",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8330,
+    "mapName": "CC0",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8331,
+    "mapName": "CC1",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8332,
+    "mapName": "CC2",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8333,
+    "mapName": "CC3",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8334,
+    "mapName": "CC4",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8335,
+    "mapName": "CC5",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8336,
+    "mapName": "CC6",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8337,
+    "mapName": "CC7",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8338,
+    "mapName": "CC8",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8339,
+    "mapName": "CC9",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8340,
+    "mapName": "CC10",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8341,
+    "mapName": "CC11",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8342,
+    "mapName": "CC12",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8343,
+    "mapName": "CC13",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8344,
+    "mapName": "CC14",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8345,
+    "mapName": "YT1",
+    "width": 20,
+    "height": 60
+  },
+  {
+    "mapId": 8346,
+    "mapName": "YT2",
+    "width": 100,
+    "height": 20
+  },
+  {
+    "mapId": 8347,
+    "mapName": "YT3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8348,
+    "mapName": "YT4",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 8349,
+    "mapName": "YT5",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8350,
+    "mapName": "YT6",
+    "width": 60,
+    "height": 40
+  },
+  {
+    "mapId": 8351,
+    "mapName": "YT7",
+    "width": 50,
+    "height": 30
+  },
+  {
+    "mapId": 8352,
+    "mapName": "YT8",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 8353,
+    "mapName": "YT9",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 8354,
+    "mapName": "YT10",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 8355,
+    "mapName": "YT11",
+    "width": 50,
+    "height": 15
+  },
+  {
+    "mapId": 8356,
+    "mapName": "YT12",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 8357,
+    "mapName": "YT13 - Merchant",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 8358,
+    "mapName": "YT14 - Vines",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 8359,
+    "mapName": "YT15 - BagNPC",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8360,
+    "mapName": "YT16",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8361,
+    "mapName": "YT17",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8362,
+    "mapName": "YT18",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8363,
+    "mapName": "YT19",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8364,
+    "mapName": "YT20",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8365,
+    "mapName": "YT21",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8366,
+    "mapName": "YT22",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8367,
+    "mapName": "YT23",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8368,
+    "mapName": "YT24 - BossEnt",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8369,
+    "mapName": "YT25",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8370,
+    "mapName": "LuwellasHouse",
+    "width": 17,
+    "height": 17
+  },
+  {
+    "mapId": 8371,
+    "mapName": "YT27",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8372,
+    "mapName": "YT28",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 8400,
+    "mapName": "Mileth Floppy Field 1",
+    "width": 30,
+    "height": 45
+  },
+  {
+    "mapId": 8420,
+    "mapName": "Chadul's Realm 1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8421,
+    "mapName": "Chadul's Realm 2",
+    "width": 100,
+    "height": 20
+  },
+  {
+    "mapId": 8422,
+    "mapName": "Chadul's Realm 3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8423,
+    "mapName": "Chadul's Realm 4",
+    "width": 100,
+    "height": 20
+  },
+  {
+    "mapId": 8424,
+    "mapName": "Chadul's Realm 5",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8425,
+    "mapName": "Chadul's Realm 6",
+    "width": 100,
+    "height": 20
+  },
+  {
+    "mapId": 8426,
+    "mapName": "Chadul's Realm 7",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8427,
+    "mapName": "Chadul's Realm 8",
+    "width": 100,
+    "height": 20
+  },
+  {
+    "mapId": 8428,
+    "mapName": "Chadul's Realm 9",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8429,
+    "mapName": "Chadul's Realm 10",
+    "width": 20,
+    "height": 100
+  },
+  {
+    "mapId": 8430,
+    "mapName": "Chadul's Realm 11",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8431,
+    "mapName": "Chadul's Realm 12",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8432,
+    "mapName": "Chadul's Mileth 1",
+    "width": 12,
+    "height": 12
+  },
+  {
+    "mapId": 8433,
+    "mapName": "Chadul's Mileth 2",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8434,
+    "mapName": "Chadul's Mileth 3",
+    "width": 16,
+    "height": 24
+  },
+  {
+    "mapId": 8435,
+    "mapName": "Chadul's Abel 1",
+    "width": 16,
+    "height": 24
+  },
+  {
+    "mapId": 8436,
+    "mapName": "Chadul's Abel 2",
+    "width": 70,
+    "height": 78
+  },
+  {
+    "mapId": 8437,
+    "mapName": "Chadul's Pravat 1",
+    "width": 51,
+    "height": 26
+  },
+  {
+    "mapId": 8438,
+    "mapName": "Chadul's Piet 1",
+    "width": 24,
+    "height": 16
+  },
+  {
+    "mapId": 8439,
+    "mapName": "Chadul's Piet 2",
+    "width": 70,
+    "height": 70
+  },
+  {
+    "mapId": 8440,
+    "mapName": "Chadul's Rucesion 1",
+    "width": 6,
+    "height": 80
+  },
+  {
+    "mapId": 8441,
+    "mapName": "Chadul's Rucesion 2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 8442,
+    "mapName": "Chadul's Loures 1",
+    "width": 65,
+    "height": 77
+  },
+  {
+    "mapId": 8443,
+    "mapName": "Chadul's Loures 2",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 8444,
+    "mapName": "Chadul's Loures 3",
+    "width": 15,
+    "height": 33
+  },
+  {
+    "mapId": 8445,
+    "mapName": "Chadul's Loures 4",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "mapId": 8446,
+    "mapName": "Chadul's Loures 5",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 8984,
+    "mapName": "Lost Ruins 6",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 8987,
+    "mapName": "Lost Ruins 5",
+    "width": 100,
+    "height": 50
+  },
+  {
+    "mapId": 8989,
+    "mapName": "Lost Ruins 4",
+    "width": 50,
+    "height": 100
+  },
+  {
+    "mapId": 8990,
+    "mapName": "Assassin Dungeon 3",
+    "width": 35,
+    "height": 35
+  },
+  {
+    "mapId": 8991,
+    "mapName": "Assassin Dungeon 2",
+    "width": 35,
+    "height": 35
+  },
+  {
+    "mapId": 8992,
+    "mapName": "Assassin Dungeon 1",
+    "width": 35,
+    "height": 35
+  },
+  {
+    "mapId": 8993,
+    "mapName": "Lost Ruins 3",
+    "width": 50,
+    "height": 100
+  },
+  {
+    "mapId": 8994,
+    "mapName": "Lost Ruins 2",
+    "width": 100,
+    "height": 50
+  },
+  {
+    "mapId": 8995,
+    "mapName": "Lost Ruins 1",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "mapId": 8998,
+    "mapName": "Insect Hunting Ground2",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 8999,
+    "mapName": "InsectHuntingGround1",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 9350,
+    "mapName": "Plamit's Cave 1-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9351,
+    "mapName": "Plamit's Cave 2-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9352,
+    "mapName": "Plamit's Cave 2-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9353,
+    "mapName": "Plamit's Cave 3-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9354,
+    "mapName": "Plamit's Cave 3-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9355,
+    "mapName": "Plamit's Cave 3-3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9356,
+    "mapName": "Plamit's Cave 4-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9357,
+    "mapName": "Plamit's Cave 4-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9358,
+    "mapName": "Plamit's Cave 5-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9359,
+    "mapName": "Plamit's Cave 5-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9361,
+    "mapName": "Plamit's Cave 6-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9362,
+    "mapName": "Plamit's Cave 6-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9363,
+    "mapName": "Plamit's Cave 7-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9364,
+    "mapName": "Plamit's Cave 8-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9365,
+    "mapName": "Plamit's Cave 8-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9366,
+    "mapName": "Plamit's Cave 9-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9367,
+    "mapName": "Plamit's Cave 9-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9369,
+    "mapName": "Plamit's Cave 10-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9370,
+    "mapName": "Plamit's Cave 10-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9371,
+    "mapName": "Plamit's Cave 11-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9372,
+    "mapName": "Plamit's Cave 11-2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9374,
+    "mapName": "Plamit's Cave 11-4",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9375,
+    "mapName": "Plamit's Cave 12-1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9378,
+    "mapName": "Plamit Village",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 9379,
+    "mapName": "Plamit Inn",
+    "width": 21,
+    "height": 16
+  },
+  {
+    "mapId": 9380,
+    "mapName": "Plamit Bar",
+    "width": 18,
+    "height": 16
+  },
+  {
+    "mapId": 9381,
+    "mapName": "Bank of Plamit",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 9382,
+    "mapName": "Plamit Potion Shop",
+    "width": 15,
+    "height": 16
+  },
+  {
+    "mapId": 9383,
+    "mapName": "Plamit Armory",
+    "width": 21,
+    "height": 16
+  },
+  {
+    "mapId": 9384,
+    "mapName": "Plamit Research",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 10000,
+    "mapName": "Asilon",
+    "width": 90,
+    "height": 80
+  },
+  {
+    "mapId": 10001,
+    "mapName": "Asilon Weapon Shop",
+    "width": 21,
+    "height": 16
+  },
+  {
+    "mapId": 10004,
+    "mapName": "Asilon Inn",
+    "width": 21,
+    "height": 16
+  },
+  {
+    "mapId": 10006,
+    "mapName": "Asilon Bank",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 10007,
+    "mapName": "Asilon Store",
+    "width": 15,
+    "height": 16
+  },
+  {
+    "mapId": 10008,
+    "mapName": "Asilon Prairie 0",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10009,
+    "mapName": "Asilon Prairie 1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10010,
+    "mapName": "Asilon Prairie 2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10014,
+    "mapName": "Asilon Prairie 6",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10016,
+    "mapName": "Asilon Prairie 8",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10017,
+    "mapName": "Asilon Prairie 9",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10018,
+    "mapName": "Asilon Prairie 10",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10021,
+    "mapName": "Asilon Prairie 13",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10022,
+    "mapName": "Asilon Mines 22",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 10025,
+    "mapName": "Asilon Mines 25",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 10026,
+    "mapName": "Asilon Mines 26",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 10027,
+    "mapName": "Asilon Mines 27",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 10028,
+    "mapName": "Asilon Harbor",
+    "width": 55,
+    "height": 33
+  },
+  {
+    "mapId": 10029,
+    "mapName": "Asilon Mines 29",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 10031,
+    "mapName": "Noam Plains South",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 10032,
+    "mapName": "Noam Plains Southeast",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 10033,
+    "mapName": "Noam Plains East",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 10034,
+    "mapName": "Noam Plains 5",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10035,
+    "mapName": "Noam Plains 6",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10037,
+    "mapName": "Noam Plains 8",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10038,
+    "mapName": "Noam Plains 9",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10039,
+    "mapName": "Noam Plains 10",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10040,
+    "mapName": "Noam Plains 11",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10042,
+    "mapName": "Noam Plains 13",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10046,
+    "mapName": "Noam Plains 17",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10049,
+    "mapName": "Hwarone Village",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "mapId": 10050,
+    "mapName": "Desert of Fire 1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10051,
+    "mapName": "Desert of Fire 2",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10052,
+    "mapName": "Desert of Fire 3",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 10054,
+    "mapName": "Earth Spirit",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 10055,
+    "mapName": "Noam",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 10056,
+    "mapName": "Noam Inn",
+    "width": 18,
+    "height": 18
+  },
+  {
+    "mapId": 10057,
+    "mapName": "Noam Inn 2nd Floor",
+    "width": 6,
+    "height": 20
+  },
+  {
+    "mapId": 10061,
+    "mapName": "Noam Bank",
+    "width": 15,
+    "height": 12
+  },
+  {
+    "mapId": 10062,
+    "mapName": "Noam Pub",
+    "width": 18,
+    "height": 16
+  },
+  {
+    "mapId": 10101,
+    "mapName": "Andor",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10102,
+    "mapName": "Andor 2",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10104,
+    "mapName": "Andor 4",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10105,
+    "mapName": "Andor 5",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10106,
+    "mapName": "Andor 6",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10107,
+    "mapName": "Andor 7",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10108,
+    "mapName": "Andor 8",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10111,
+    "mapName": "Andor 11",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10112,
+    "mapName": "Andor 12",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10113,
+    "mapName": "Andor 13",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10115,
+    "mapName": "Andor 15",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10116,
+    "mapName": "Andor 16",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10117,
+    "mapName": "Andor 17",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10119,
+    "mapName": "Andor 19",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10120,
+    "mapName": "Andor 20",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10121,
+    "mapName": "Andor 21",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10124,
+    "mapName": "Andor 24",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10125,
+    "mapName": "Andor 25",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10126,
+    "mapName": "Andor 26",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10127,
+    "mapName": "Andor 27",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10128,
+    "mapName": "Andor 28",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10130,
+    "mapName": "Andor 30",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10132,
+    "mapName": "Andor 32",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10133,
+    "mapName": "Andor 33",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10135,
+    "mapName": "Andor 35",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10136,
+    "mapName": "Andor 36",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10137,
+    "mapName": "Andor 37",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10138,
+    "mapName": "Andor 38",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10139,
+    "mapName": "Andor 39",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10140,
+    "mapName": "Andor 40",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10143,
+    "mapName": "Andor 43",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10145,
+    "mapName": "Andor 45",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10146,
+    "mapName": "Andor 46",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10147,
+    "mapName": "Andor 47",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10148,
+    "mapName": "Andor 48",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10149,
+    "mapName": "Andor 49",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10151,
+    "mapName": "Andor 51",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10152,
+    "mapName": "Andor 52",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10153,
+    "mapName": "Andor 53",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10154,
+    "mapName": "Andor 54",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10155,
+    "mapName": "Andor 55",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10158,
+    "mapName": "Andor 58",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10159,
+    "mapName": "Andor 59",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10161,
+    "mapName": "Andor 61",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10164,
+    "mapName": "Andor 64",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10165,
+    "mapName": "Andor 65",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10166,
+    "mapName": "Andor 66",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10167,
+    "mapName": "Andor 67",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10169,
+    "mapName": "Andor 69",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10170,
+    "mapName": "Andor 70",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10171,
+    "mapName": "Andor 71",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10173,
+    "mapName": "Andor 73",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10174,
+    "mapName": "Andor 74",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10175,
+    "mapName": "Andor 75",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10176,
+    "mapName": "Andor 76",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10177,
+    "mapName": "Andor 77",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10178,
+    "mapName": "Andor 78",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10179,
+    "mapName": "Andor 79",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10180,
+    "mapName": "Andor 80",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10181,
+    "mapName": "Andor 81",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10182,
+    "mapName": "Andor 82",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10183,
+    "mapName": "Andor 83",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10185,
+    "mapName": "Andor 85",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10186,
+    "mapName": "Andor 86",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10187,
+    "mapName": "Andor 87",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10188,
+    "mapName": "Andor 88",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10189,
+    "mapName": "Andor 89",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10190,
+    "mapName": "Andor 90",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10193,
+    "mapName": "Andor 93",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10194,
+    "mapName": "Andor 94",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10195,
+    "mapName": "Andor 95",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10196,
+    "mapName": "Andor 96",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10197,
+    "mapName": "Andor 97",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10198,
+    "mapName": "Andor 98",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10201,
+    "mapName": "Andor 101",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10202,
+    "mapName": "Andor 102",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10203,
+    "mapName": "Andor 103",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10204,
+    "mapName": "Andor 104",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10205,
+    "mapName": "Andor 105",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10206,
+    "mapName": "Andor 106",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10207,
+    "mapName": "Andor 107",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10209,
+    "mapName": "Andor 109",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10210,
+    "mapName": "Andor 110",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10211,
+    "mapName": "Andor 111",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10212,
+    "mapName": "Andor 112",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10213,
+    "mapName": "Andor 113",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10214,
+    "mapName": "Andor 114",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10215,
+    "mapName": "Andor 115",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10216,
+    "mapName": "Andor 116",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10217,
+    "mapName": "Andor 117",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10218,
+    "mapName": "Andor 118",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10219,
+    "mapName": "Andor 119",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10220,
+    "mapName": "Andor 120",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10221,
+    "mapName": "Andor 121",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10222,
+    "mapName": "Andor 122",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10224,
+    "mapName": "Andor 124",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10225,
+    "mapName": "Andor 125",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10226,
+    "mapName": "Andor 126",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10227,
+    "mapName": "Andor 127",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10228,
+    "mapName": "Andor 128",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10229,
+    "mapName": "Andor 129",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10230,
+    "mapName": "Andor 130",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10231,
+    "mapName": "Andor 131",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10233,
+    "mapName": "Andor 133",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10234,
+    "mapName": "Andor 134",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10235,
+    "mapName": "Andor 135",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10236,
+    "mapName": "Andor 136",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10237,
+    "mapName": "Andor 137",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10238,
+    "mapName": "Andor 138",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10239,
+    "mapName": "Andor 139",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10240,
+    "mapName": "Andor140",
+    "width": 28,
+    "height": 28
+  },
+  {
+    "mapId": 10241,
+    "mapName": "Andor 141",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10242,
+    "mapName": "Andor 142",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10243,
+    "mapName": "Andor 143",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10244,
+    "mapName": "Andor 144",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10245,
+    "mapName": "Andor 145",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10246,
+    "mapName": "Andor 146",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10247,
+    "mapName": "Andor 147",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "mapId": 10248,
+    "mapName": "Andor 148",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10249,
+    "mapName": "Andor 149",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10250,
+    "mapName": "Andor 150",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "mapId": 10261,
+    "mapName": "Desert Dunes 1",
+    "width": 150,
+    "height": 100
+  },
+  {
+    "mapId": 10262,
+    "mapName": "Unknown 10262",
+    "width": 150,
+    "height": 100
+  },
+  {
+    "mapId": 10263,
+    "mapName": "Unknown 10263",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 10264,
+    "mapName": "Unknown 10264",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 10265,
+    "mapName": "Hwarone",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 10266,
+    "mapName": "Unknown 10266",
+    "width": 26,
+    "height": 35
+  },
+  {
+    "mapId": 10267,
+    "mapName": "Unknown 10267",
+    "width": 20,
+    "height": 10
+  },
+  {
+    "mapId": 10268,
+    "mapName": "Unknown 10268",
+    "width": 17,
+    "height": 17
+  },
+  {
+    "mapId": 10271,
+    "mapName": "Unknown 10271",
+    "width": 17,
+    "height": 17
+  },
+  {
+    "mapId": 10272,
+    "mapName": "Unknown 10272",
+    "width": 17,
+    "height": 17
+  },
+  {
+    "mapId": 10274,
+    "mapName": "Hwarone Bank",
+    "width": 17,
+    "height": 17
+  },
+  {
+    "mapId": 10276,
+    "mapName": "Hwarone Hall",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 10277,
+    "mapName": "Hwarone Council Hall",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 10281,
+    "mapName": "Oasis",
+    "width": 17,
+    "height": 17
+  },
+  {
+    "mapId": 10996,
+    "mapName": "Fire Sprit",
+    "width": 30,
+    "height": 30
+  },
+  {
+    "mapId": 10998,
+    "mapName": "Hwarone Caravan",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 10999,
+    "mapName": "Noes Caravan",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 11021,
+    "mapName": "Blossom Garden",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11300,
+    "mapName": "Unknown 11300",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11301,
+    "mapName": "Unknown 11301",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11304,
+    "mapName": "Unknown 11304",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11306,
+    "mapName": "Unknown 11306",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11307,
+    "mapName": "Unknown 11307",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11308,
+    "mapName": "Unknown 11308",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11309,
+    "mapName": "Unknown 11309",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11310,
+    "mapName": "Unknown 11310",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11311,
+    "mapName": "Unknown 11311",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11312,
+    "mapName": "Unknown 11312",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11314,
+    "mapName": "Unknown 11314",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11315,
+    "mapName": "Unknown 11315",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11316,
+    "mapName": "Unknown 11316",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11318,
+    "mapName": "Unknown 11318",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11319,
+    "mapName": "Unknown 11319",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11320,
+    "mapName": "Unknown 11320",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11321,
+    "mapName": "Unknown 11321",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11322,
+    "mapName": "Unknown 11322",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11323,
+    "mapName": "Unknown 11323",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11324,
+    "mapName": "Unknown 11324",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11325,
+    "mapName": "Unknown 11325",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11326,
+    "mapName": "Unknown 11326",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11327,
+    "mapName": "Unknown 11327",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11328,
+    "mapName": "Unknown 11328",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11329,
+    "mapName": "Unknown 11329",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11330,
+    "mapName": "Unknown 11330",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11331,
+    "mapName": "Unknown 11331",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11332,
+    "mapName": "Unknown 11332",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11333,
+    "mapName": "Unknown 11333",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11334,
+    "mapName": "Unknown 11334",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11335,
+    "mapName": "Unknown 11335",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11336,
+    "mapName": "Unknown 11336",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11337,
+    "mapName": "Unknown 11337",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11338,
+    "mapName": "Unknown 11338",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11342,
+    "mapName": "Unknown 11342",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11343,
+    "mapName": "Unknown 11343",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11344,
+    "mapName": "Unknown 11344",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11345,
+    "mapName": "Unknown 11345",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11347,
+    "mapName": "Unknown 11347",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11348,
+    "mapName": "Unknown 11348",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11349,
+    "mapName": "Unknown 11349",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11350,
+    "mapName": "Unknown 11350",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11352,
+    "mapName": "Unknown 11352",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11353,
+    "mapName": "Unknown 11353",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11354,
+    "mapName": "Unknown 11354",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11357,
+    "mapName": "Unknown 11357",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11358,
+    "mapName": "Unknown 11358",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11359,
+    "mapName": "Unknown 11359",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11360,
+    "mapName": "Unknown 11360",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11362,
+    "mapName": "Muisir Entrance",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 11363,
+    "mapName": "Unknown 11363",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 11500,
+    "mapName": "Tavaly Village",
+    "width": 100,
+    "height": 100
+  },
+  {
+    "mapId": 11501,
+    "mapName": "Sacred Forest 1-1",
+    "width": 50,
+    "height": 80
+  },
+  {
+    "mapId": 11502,
+    "mapName": "Sacred Forest 2-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11503,
+    "mapName": "Sacred Forest 3-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11504,
+    "mapName": "Sacred Forest 4-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11505,
+    "mapName": "Sacred Forest 5-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11506,
+    "mapName": "Sacred Forest 6-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11507,
+    "mapName": "Sacred Forest 7-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11508,
+    "mapName": "Sacred Forest 8-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11509,
+    "mapName": "Sacred Forest 9-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11510,
+    "mapName": "Sacred Forest 10-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11511,
+    "mapName": "Sacred Forest 11-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11512,
+    "mapName": "Sacred Forest 12-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11513,
+    "mapName": "Sacred Forest 13-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11514,
+    "mapName": "Sacred Forest 14-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11515,
+    "mapName": "Sacred Forest 15-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11516,
+    "mapName": "Sacred Forest 16-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11517,
+    "mapName": "Sacred Forest 17-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11518,
+    "mapName": "Sacred Forest 18-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11519,
+    "mapName": "Sacred Forest 19-1",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11520,
+    "mapName": "Sacred Forest 1-2",
+    "width": 50,
+    "height": 80
+  },
+  {
+    "mapId": 11521,
+    "mapName": "Sacred Forest 1-3",
+    "width": 50,
+    "height": 80
+  },
+  {
+    "mapId": 11540,
+    "mapName": "Tavaly Town Hall",
+    "width": 15,
+    "height": 30
+  },
+  {
+    "mapId": 11541,
+    "mapName": "Unknown 11541",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "mapId": 11542,
+    "mapName": "Unknown 11542",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 11543,
+    "mapName": "Unknown 11543",
+    "width": 25,
+    "height": 25
+  },
+  {
+    "mapId": 11544,
+    "mapName": "Unknown 11544",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 11545,
+    "mapName": "Unknown 11545",
+    "width": 15,
+    "height": 35
+  },
+  {
+    "mapId": 11546,
+    "mapName": "Merchant's Guild",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 11547,
+    "mapName": "Unknown 11547",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 11548,
+    "mapName": "Unknown 11548",
+    "width": 15,
+    "height": 15
+  },
+  {
+    "mapId": 11550,
+    "mapName": "Play Spiked Waiting Room",
+    "width": 13,
+    "height": 13
+  },
+  {
+    "mapId": 11602,
+    "mapName": "Sacred Forest 2-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11603,
+    "mapName": "Sacred Forest 3-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11604,
+    "mapName": "Sacred Forest 4-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11605,
+    "mapName": "Sacred Forest 5-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11606,
+    "mapName": "Sacred Forest 6-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11607,
+    "mapName": "Sacred Forest 7-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11608,
+    "mapName": "Sacred Forest 8-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11609,
+    "mapName": "Sacred Forest 9-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11610,
+    "mapName": "Sacred Forest 10-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11611,
+    "mapName": "Sacred Forest 11-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11612,
+    "mapName": "Sacred Forest 12-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11613,
+    "mapName": "Sacred Forest 13-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11614,
+    "mapName": "Sacred Forest 14-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11615,
+    "mapName": "Sacred Forest 15-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11616,
+    "mapName": "Sacred Forest 16-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11617,
+    "mapName": "Sacred Forest 17-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11618,
+    "mapName": "Sacred Forest 18-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11619,
+    "mapName": "Sacred Forest 19-2",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11702,
+    "mapName": "Sacred Forest 2-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11703,
+    "mapName": "Sacred Forest 3-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11704,
+    "mapName": "Sacred Forest 4-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11705,
+    "mapName": "Sacred Forest 5-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11706,
+    "mapName": "Sacred Forest 6-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11707,
+    "mapName": "Sacred Forest 7-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11708,
+    "mapName": "Sacred Forest 8-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11709,
+    "mapName": "Sacred Forest 9-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11710,
+    "mapName": "Sacred Forest 10-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11711,
+    "mapName": "Sacred Forest 11-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11712,
+    "mapName": "Sacred Forest 12-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11713,
+    "mapName": "Sacred Forest 13-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11714,
+    "mapName": "Sacred Forest 14-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11715,
+    "mapName": "Sacred Forest 15-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11716,
+    "mapName": "Sacred Forest 16-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11717,
+    "mapName": "Sacred Forest 17-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11718,
+    "mapName": "Sacred Forest 18-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 11719,
+    "mapName": "Sacred Forest 19-3",
+    "width": 60,
+    "height": 60
+  },
+  {
+    "mapId": 33333,
+    "mapName": "Pravat South Entrance",
+    "width": 51,
+    "height": 26
+  },
+  {
+    "mapId": 333333,
+    "mapName": "Pravat South Entrance",
+    "width": 51,
+    "height": 26
+  },
+  {
+    "mapId": 33331,
+    "mapName": "Pravat South Entrance",
+    "width": 51,
+    "height": 26
+  },
+  {
+    "mapId": 3029,
+    "mapName": "Tutorial: 1",
+    "width": 50,
+    "height": 50
+  },
+  {
+    "mapId": 3000,
+    "mapName": "Mileth Inn Room 0",
+    "width": 8,
+    "height": 8
+  },
+  {
+    "mapId": 33332,
+    "mapName": "Pravat South Entrance",
+    "width": 51,
+    "height": 26
+  },
+  {
+    "mapId": 999555,
+    "mapName": "Pravat South Entrance",
+    "width": 51,
+    "height": 26
+  },
+  {
+    "mapId": 99999,
+    "mapName": "Pravat West Entrance",
+    "width": 14,
+    "height": 21
+  },
+  {
+    "mapId": 969696,
+    "mapName": "Pravat West Entrance",
+    "width": 14,
+    "height": 21
+  },
+  {
+    "mapId": 979797,
+    "mapName": "Pravat West Entrance",
+    "width": 14,
+    "height": 21
+  },
+  {
+    "mapId": 989898,
+    "mapName": "Pravat West Entrance",
+    "width": 14,
+    "height": 21
+  }
+]

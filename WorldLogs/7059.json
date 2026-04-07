@@ -1,0 +1,21 @@
+{
+  "Number": 7059,
+  "Name": "Mount Merry 2-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mount Merry 2-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 11": {
+      "MapId": 7050,
+      "X": 31,
+      "Y": 13,
+      "Point": "31, 13"
+    }
+  },
+  "WorldMaps": {}
+}

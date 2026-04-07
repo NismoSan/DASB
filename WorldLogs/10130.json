@@ -1,0 +1,37 @@
+{
+  "Number": 10130,
+  "Name": "Andor 30",
+  "Description": null,
+  "DisplayName": "Andor 30",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "29, 15": {
+      "MapId": 10125,
+      "X": 4,
+      "Y": 15,
+      "Point": "4, 15"
+    },
+    "29, 14": {
+      "MapId": 10125,
+      "X": 3,
+      "Y": 14,
+      "Point": "3, 14"
+    },
+    "1, 22": {
+      "MapId": 10133,
+      "X": 36,
+      "Y": 22,
+      "Point": "36, 22"
+    },
+    "1, 23": {
+      "MapId": 10133,
+      "X": 36,
+      "Y": 23,
+      "Point": "36, 23"
+    }
+  }
+}

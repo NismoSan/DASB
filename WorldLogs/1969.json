@@ -1,0 +1,27 @@
+{
+  "Number": 1969,
+  "Name": "Tagor Messenger",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tagor Messenger",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 14": {
+      "MapId": 662,
+      "X": 29,
+      "Y": 54,
+      "Point": "29, 54"
+    },
+    "7, 14": {
+      "MapId": 662,
+      "X": 30,
+      "Y": 54,
+      "Point": "30, 54"
+    }
+  },
+  "WorldMaps": {}
+}

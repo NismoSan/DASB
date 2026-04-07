@@ -1,0 +1,51 @@
+{
+  "Number": 8099,
+  "Name": "Blackstar Crypt Entrance",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blackstar Crypt Entrance",
+  "Size": {
+    "Width": 26,
+    "Height": 26
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 25": {
+      "MapId": 3210,
+      "X": 68,
+      "Y": 32,
+      "Point": "68, 32"
+    },
+    "12, 25": {
+      "MapId": 3210,
+      "X": 70,
+      "Y": 31,
+      "Point": "70, 31"
+    },
+    "10, 0": {
+      "MapId": 8107,
+      "X": 17,
+      "Y": 22,
+      "Point": "17, 22"
+    },
+    "11, 0": {
+      "MapId": 8107,
+      "X": 18,
+      "Y": 22,
+      "Point": "18, 22"
+    },
+    "9, 0": {
+      "MapId": 8107,
+      "X": 16,
+      "Y": 22,
+      "Point": "16, 22"
+    },
+    "11, 25": {
+      "MapId": 3210,
+      "X": 69,
+      "Y": 31,
+      "Point": "69, 31"
+    }
+  },
+  "WorldMaps": {}
+}

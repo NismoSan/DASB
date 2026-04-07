@@ -1,0 +1,21 @@
+{
+  "Number": 7053,
+  "Name": "Elf Room",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Elf Room",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 8": {
+      "MapId": 7051,
+      "X": 2,
+      "Y": 16,
+      "Point": "2, 16"
+    }
+  },
+  "WorldMaps": {}
+}

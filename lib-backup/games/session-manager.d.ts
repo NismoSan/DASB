@@ -1,0 +1,16 @@
+export declare function splitMessage(text: string, maxLen: number): string[];
+export declare function sendGameResponse(playerName: string | null, text: string, isWhisper: boolean): void;
+export declare function emitActivity(player: string, gameType: string, action: string): void;
+export declare function getActiveGames(): any[];
+export declare function createSession(playerName: string, gameType: string, isWhisper: boolean, gameData: any): any;
+export declare function cancelSession(playerName: string): void;
+export declare function isOnCooldown(playerName: string): boolean;
+export declare function setCooldown(playerName: string): void;
+export declare function recordGame(playerName: string, won: boolean, gameType?: string): void;
+export declare function saveLeaderboard(updatedPlayerName: string): void;
+export declare function getLeaderboard(): any[];
+export declare function getLeaderboardByGame(gameType: string): any[];
+export declare function clearLeaderboard(): void;
+export declare function clearLeaderboardByGame(gameType: string): void;
+export declare function onCorrectAnswer(session: any): void;
+export declare function onWrongAnswer(session: any): void;

@@ -1,0 +1,51 @@
+{
+  "Number": 8438,
+  "Name": "Chadul's Piet 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chadul's Piet 1",
+  "Size": {
+    "Width": 24,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "16, 0": {
+      "MapId": 8437,
+      "X": 35,
+      "Y": 23,
+      "Point": "35, 23"
+    },
+    "15, 0": {
+      "MapId": 8437,
+      "X": 34,
+      "Y": 23,
+      "Point": "34, 23"
+    },
+    "23, 9": {
+      "MapId": 8439,
+      "X": 2,
+      "Y": 8,
+      "Point": "2, 8"
+    },
+    "23, 10": {
+      "MapId": 8439,
+      "X": 2,
+      "Y": 9,
+      "Point": "2, 9"
+    },
+    "23, 12": {
+      "MapId": 8439,
+      "X": 2,
+      "Y": 11,
+      "Point": "2, 11"
+    },
+    "23, 11": {
+      "MapId": 8439,
+      "X": 2,
+      "Y": 10,
+      "Point": "2, 10"
+    }
+  },
+  "WorldMaps": {}
+}

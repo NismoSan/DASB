@@ -1,0 +1,33 @@
+{
+  "Number": 5043,
+  "Name": "Cthonic Remains 43",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Cthonic Remains 43",
+  "Size": {
+    "Width": 25,
+    "Height": 150
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 149": {
+      "MapId": 5042,
+      "X": 52,
+      "Y": 3,
+      "Point": "52, 3"
+    },
+    "13, 0": {
+      "MapId": 5044,
+      "X": 46,
+      "Y": 96,
+      "Point": "46, 96"
+    },
+    "12, 0": {
+      "MapId": 5044,
+      "X": 46,
+      "Y": 96,
+      "Point": "46, 96"
+    }
+  },
+  "WorldMaps": {}
+}

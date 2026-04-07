@@ -1,0 +1,39 @@
+{
+  "Number": 11320,
+  "Name": "Unknown 11320",
+  "WalkSpot": "44, 11",
+  "Description": null,
+  "DisplayName": "Muisir Path 20",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 22": {
+      "MapId": 11319,
+      "X": 48,
+      "Y": 22,
+      "Point": "48, 22"
+    },
+    "0, 23": {
+      "MapId": 11319,
+      "X": 48,
+      "Y": 23,
+      "Point": "48, 23"
+    },
+    "0, 24": {
+      "MapId": 11319,
+      "X": 48,
+      "Y": 24,
+      "Point": "48, 24"
+    },
+    "0, 25": {
+      "MapId": 11319,
+      "X": 48,
+      "Y": 25,
+      "Point": "48, 25"
+    }
+  },
+  "WorldMaps": {}
+}

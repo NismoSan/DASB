@@ -1,0 +1,25 @@
+{
+  "Number": 6581,
+  "Name": "Sewer Maze 2",
+  "Description": null,
+  "DisplayName": "Sewer Maze 2",
+  "Size": {
+    "Width": 30,
+    "Height": 34
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 32": {
+      "MapId": 6591,
+      "X": 8,
+      "Y": 1,
+      "Point": "8, 1"
+    },
+    "16, 1": {
+      "MapId": 6585,
+      "X": 12,
+      "Y": 36,
+      "Point": "12, 36"
+    }
+  }
+}

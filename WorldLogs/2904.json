@@ -1,0 +1,21 @@
+{
+  "Number": 2904,
+  "Name": "Unknown 2904",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Veltain Mine 4",
+  "Size": {
+    "Width": 150,
+    "Height": 102
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 83": {
+      "MapId": 2907,
+      "X": 24,
+      "Y": 12,
+      "Point": "24, 12"
+    }
+  },
+  "WorldMaps": {}
+}

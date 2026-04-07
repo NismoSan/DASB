@@ -1,0 +1,21 @@
+{
+  "Number": 2913,
+  "Name": "Blossom Forest 6",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blossom Forest 6",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 0": {
+      "MapId": 2914,
+      "X": 9,
+      "Y": 8,
+      "Point": "9, 8"
+    }
+  },
+  "WorldMaps": {}
+}

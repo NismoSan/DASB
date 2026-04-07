@@ -1,0 +1,14 @@
+{
+  "Number": 11300,
+  "Name": "Unknown 11300",
+  "WalkSpot": "33, 30",
+  "Description": null,
+  "DisplayName": "Muisir Village",
+  "Size": {
+    "Width": 60,
+    "Height": 60
+  },
+  "Flags": 0,
+  "Portals": {},
+  "WorldMaps": {}
+}

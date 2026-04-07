@@ -1,0 +1,33 @@
+{
+  "Number": 9357,
+  "Name": "Plamit's Cave 4-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Plamit's Cave 4-2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "48, 39": {
+      "MapId": 9358,
+      "X": 29,
+      "Y": 3,
+      "Point": "29, 3"
+    },
+    "29, 0": {
+      "MapId": 9355,
+      "X": 20,
+      "Y": 20,
+      "Point": "20, 20"
+    },
+    "25, 48": {
+      "MapId": 9359,
+      "X": 2,
+      "Y": 26,
+      "Point": "2, 26"
+    }
+  },
+  "WorldMaps": {}
+}

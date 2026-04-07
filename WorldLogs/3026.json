@@ -1,0 +1,21 @@
+{
+  "Number": 3026,
+  "Name": "Mileth Hall",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Hall",
+  "Size": {
+    "Width": 12,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 15": {
+      "MapId": 3025,
+      "X": 5,
+      "Y": 8,
+      "Point": "5, 8"
+    }
+  },
+  "WorldMaps": {}
+}

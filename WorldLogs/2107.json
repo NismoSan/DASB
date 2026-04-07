@@ -1,0 +1,39 @@
+{
+  "Number": 2107,
+  "Name": "Unknown 2107",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mount Giragan 21",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "99, 45": {
+      "MapId": 2106,
+      "X": 1,
+      "Y": 10,
+      "Point": "1, 10"
+    },
+    "99, 46": {
+      "MapId": 2106,
+      "X": 1,
+      "Y": 11,
+      "Point": "1, 11"
+    },
+    "99, 47": {
+      "MapId": 2106,
+      "X": 1,
+      "Y": 12,
+      "Point": "1, 12"
+    },
+    "99, 48": {
+      "MapId": 2106,
+      "X": 1,
+      "Y": 14,
+      "Point": "1, 14"
+    }
+  },
+  "WorldMaps": {}
+}

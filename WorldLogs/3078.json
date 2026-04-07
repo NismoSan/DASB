@@ -1,0 +1,51 @@
+{
+  "Number": 3078,
+  "Name": "Mehadi Heart East",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mehadi Heart East",
+  "Size": {
+    "Width": 12,
+    "Height": 18
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 2": {
+      "MapId": 4003,
+      "X": 30,
+      "Y": 12,
+      "Point": "30, 12"
+    },
+    "0, 3": {
+      "MapId": 4003,
+      "X": 30,
+      "Y": 13,
+      "Point": "30, 13"
+    },
+    "2, 17": {
+      "MapId": 3077,
+      "X": 16,
+      "Y": 1,
+      "Point": "16, 1"
+    },
+    "0, 15": {
+      "MapId": 3077,
+      "X": 16,
+      "Y": 1,
+      "Point": "16, 1"
+    },
+    "1, 17": {
+      "MapId": 3077,
+      "X": 15,
+      "Y": 1,
+      "Point": "15, 1"
+    },
+    "0, 16": {
+      "MapId": 3077,
+      "X": 16,
+      "Y": 2,
+      "Point": "16, 2"
+    }
+  },
+  "WorldMaps": {}
+}

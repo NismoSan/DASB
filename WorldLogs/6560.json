@@ -1,0 +1,27 @@
+{
+  "Number": 6560,
+  "Name": "Oren Ruins 2-8",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Ruins 2-8",
+  "Size": {
+    "Width": 50,
+    "Height": 45
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 15": {
+      "MapId": 6559,
+      "X": 48,
+      "Y": 22,
+      "Point": "48, 22"
+    },
+    "10, 44": {
+      "MapId": 6561,
+      "X": 21,
+      "Y": 1,
+      "Point": "21, 1"
+    }
+  },
+  "WorldMaps": {}
+}

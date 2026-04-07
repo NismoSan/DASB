@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protocol version="1.0">
+  <!-- Server-to-Client (Incoming) Opcodes -->
+  <opcodes direction="in">
+    <opcode hex="0x00" name="Encryption">
+      <field name="Code" type="Byte" />
+      <field name="Checksum" type="UInt32" />
+      <field name="Seed" type="Byte" />
+      <field name="Key" type="String8" />
+    </opcode>
+    <opcode hex="0x02" name="LoginMessage">
+      <field name="Code" type="Byte" />
+      <field name="Message" type="String8" />
+    </opcode>
+    <opcode hex="0x03" name="Redirect">
+      <field name="Address" type="Bytes" length="4" />
+      <field name="Port" type="UInt16" />
+      <field name="Remaining" type="Byte" />
+      <field name="Seed" type="Byte" />
+      <field name="Key" type="String8" />
+      <field name="Name" type="String8" />
+      <field name="Id" type="UInt32" />
+    </opcode>
+    <opcode hex="0x04" name="MapLocation">
+      <field name="X" type="UInt16" />
+      <field name="Y" type="UInt16" />
+    </opcode>
+    <opcode hex="0x05" name="UserId">
+      <field name="Id" type="UInt32" />
+    </opcode>
+    <opcode hex="0x07" name="AddEntity">
+      <field name="X" type="UInt16" />
+      <field name="Y" type="UInt16" />
+      <field name="Serial" type="UInt32" />
+      <field name="Sprite" type="UInt16" />
+      <field name="Unknown1" type="Bytes" length="4" />
+      <field name="Direction" type="Byte" />
+      <field name="Unknown2" type="Byte" />
+      <field name="CreatureType" type="Byte" />
+    </opcode>
+    <opcode hex="0x08" name="RemoveEntity">
+      <field name="Serial" type="UInt32" />
+    </opcode>
+    <opcode hex="0x0A" name="Chat">
+      <field name="Channel" type="Byte" />
+      <field name="Message" type="String8" />
+    </opcode>
+    <opcode hex="0x0B" name="WalkResponse">
+      <field name="Direction" type="Byte" />
+    </opcode>
+    <opcode hex="0x0C" name="EntityWalk">
+      <field name="Serial" type="UInt32" />
+      <field name="X" type="UInt16" />
+      <field name="Y" type="UInt16" />
+      <field name="Direction" type="Byte" />
+    </opcode>
+    <opcode hex="0x0D" name="PublicMessage">
+      <field name="Type" type="Byte" />
+      <field name="Serial" type="UInt32" />
+      <field name="Message" type="String8" />
+    </opcode>
+    <opcode hex="0x0E" name="RemoveEntity">
+      <field name="Serial" type="UInt32" />
+    </opcode>
+    <opcode hex="0x0F" name="AddWorldItem">
+      <field name="X" type="UInt16" />
+      <field name="Y" type="UInt16" />
+      <field name="Serial" type="UInt32" />
+      <field name="Sprite" type="UInt16" />
+      <field name="Color" type="Byte" />
+    </opcode>
+    <opcode hex="0x11" name="EntityDirection">
+      <field name="Serial" type="UInt32" />
+      <field name="Direction" type="Byte" />
+    </opcode>
+    <opcode hex="0x15" name="MapData">
+      <field name="MapNumber" type="UInt16" />
+      <field name="MapWidth" type="Byte" />
+      <field name="MapHeight" type="Byte" />
+    </opcode>
+    <opcode hex="0x17" name="AddSpell">
+      <field name="Slot" type="Byte" />
+      <field name="Sprite" type="UInt16" />
+      <field name="Type" type="Byte" />
+      <field name="Name" type="String8" />
+      <field name="Prompt" type="String8" />
+      <field name="Lines" type="Byte" />
+    </opcode>
+    <opcode hex="0x18" name="RemoveSpell">
+      <field name="Slot" type="Byte" />
+    </opcode>
+    <opcode hex="0x1A" name="Animation">
+      <field name="Serial" type="UInt32" />
+      <field name="AnimationId" type="UInt16" />
+      <field name="Speed" type="UInt16" />
+    </opcode>
+    <opcode hex="0x1F" name="MapChanged" />
+    <opcode hex="0x29" name="AnimateEntity">
+      <field name="Serial" type="UInt32" />
+      <field name="AnimationId" type="UInt16" />
+      <field name="Speed" type="UInt16" />
+      <field name="X" type="UInt16" />
+      <field name="Y" type="UInt16" />
+      <field name="Unknown" type="UInt16" />
+    </opcode>
+    <opcode hex="0x2C" name="AddSkill">
+      <field name="Slot" type="Byte" />
+      <field name="Sprite" type="UInt16" />
+      <field name="Name" type="String8" />
+    </opcode>
+    <opcode hex="0x2D" name="RemoveSkill">
+      <field name="Slot" type="Byte" />
+    </opcode>
+    <opcode hex="0x2E" name="WorldMapMessage" />
+    <opcode hex="0x2F" name="NpcDialog" />
+    <opcode hex="0x31" name="MapDoor">
+      <field name="X" type="UInt16" />
+      <field name="Y" type="UInt16" />
+      <field name="IsOpen" type="Byte" />
+      <field name="IsOpenRight" type="Byte" />
+    </opcode>
+    <opcode hex="0x33" name="ShowUser">
+      <field name="Serial" type="UInt32" />
+    </opcode>
+    <opcode hex="0x34" name="PlayerProfile" />
+    <opcode hex="0x36" name="UserList" />
+    <opcode hex="0x37" name="AddItem">
+      <field name="Slot" type="Byte" />
+      <field name="Sprite" type="UInt16" />
+      <field name="Color" type="Byte" />
+      <field name="Name" type="String8" />
+      <field name="Count" type="UInt32" />
+      <field name="Stackable" type="Byte" />
+      <field name="MaxDurability" type="UInt32" />
+      <field name="CurrentDurability" type="UInt32" />
+    </opcode>
+    <opcode hex="0x38" name="RemoveItem">
+      <field name="Slot" type="Byte" />
+    </opcode>
+    <opcode hex="0x39" name="UpdateStats" />
+    <opcode hex="0x3A" name="HealthBar">
+      <field name="Serial" type="UInt32" />
+      <field name="HpPercent" type="Byte" />
+      <field name="Sound" type="Byte" />
+    </opcode>
+    <opcode hex="0x3B" name="PingA">
+      <field name="HiByte" type="Byte" />
+      <field name="LoByte" type="Byte" />
+    </opcode>
+    <opcode hex="0x3C" name="MapTransfer" />
+    <opcode hex="0x42" name="ExchangeMessage" />
+    <opcode hex="0x4B" name="ExchangeSlot" />
+    <opcode hex="0x4C" name="EndingSignal" />
+    <opcode hex="0x58" name="MapTransferComplete" />
+    <opcode hex="0x67" name="MapChanging" />
+    <opcode hex="0x68" name="PingB">
+      <field name="Timestamp" type="Int32" />
+    </opcode>
+    <opcode hex="0x6F" name="LightLevel">
+      <field name="Level" type="Byte" />
+    </opcode>
+    <opcode hex="0x7E" name="Welcome" />
+  </opcodes>
+
+  <!-- Client-to-Server (Outgoing) Opcodes -->
+  <opcodes direction="out">
+    <opcode hex="0x00" name="Version">
+      <field name="Version" type="Int16" />
+      <field name="Patch" type="Byte" />
+      <field name="Key" type="Byte" />
+      <field name="Unknown" type="Byte" />
+    </opcode>
+    <opcode hex="0x03" name="Login">
+      <field name="Name" type="String8" />
+      <field name="Password" type="String8" />
+    </opcode>
+    <opcode hex="0x05" name="RequestMapData" />
+    <opcode hex="0x06" name="Walk">
+      <field name="Direction" type="Byte" />
+      <field name="StepCount" type="Byte" />
+    </opcode>
+    <opcode hex="0x0B" name="EndingResponse">
+      <field name="Code" type="Byte" />
+    </opcode>
+    <opcode hex="0x0E" name="Chat">
+      <field name="Channel" type="Byte" />
+      <field name="Message" type="String8" />
+    </opcode>
+    <opcode hex="0x10" name="ConfirmIdentity">
+      <field name="Seed" type="Byte" />
+      <field name="Key" type="String8" />
+      <field name="Name" type="String8" />
+      <field name="Id" type="UInt32" />
+      <field name="Unknown" type="Byte" />
+    </opcode>
+    <opcode hex="0x11" name="Turn">
+      <field name="Direction" type="Byte" />
+    </opcode>
+    <opcode hex="0x18" name="RequestUserList" />
+    <opcode hex="0x19" name="Whisper">
+      <field name="Target" type="String8" />
+      <field name="Message" type="String8" />
+    </opcode>
+    <opcode hex="0x1D" name="Emote">
+      <field name="EmoteId" type="Byte" />
+    </opcode>
+    <opcode hex="0x29" name="ExchangeRequest" />
+    <opcode hex="0x2D" name="EnterWorld" />
+    <opcode hex="0x38" name="Refresh" />
+    <opcode hex="0x3F" name="WorldMapClick" />
+    <opcode hex="0x43" name="UseSpell">
+      <field name="Slot" type="Byte" />
+    </opcode>
+    <opcode hex="0x45" name="PongA">
+      <field name="LoByte" type="Byte" />
+      <field name="HiByte" type="Byte" />
+    </opcode>
+    <opcode hex="0x4A" name="ExchangeAction" />
+    <opcode hex="0x57" name="EncryptAck">
+      <field name="Unknown1" type="Byte" />
+      <field name="Unknown2" type="Byte" />
+      <field name="Unknown3" type="Byte" />
+    </opcode>
+    <opcode hex="0x62" name="MagicBytes">
+      <field name="Byte1" type="Byte" />
+      <field name="Byte2" type="Byte" />
+      <field name="Byte3" type="Byte" />
+      <field name="Byte4" type="Byte" />
+      <field name="Byte5" type="Byte" />
+      <field name="Byte6" type="Byte" />
+      <field name="Byte7" type="Byte" />
+      <field name="Byte8" type="Byte" />
+    </opcode>
+    <opcode hex="0x75" name="PongB">
+      <field name="ServerTimestamp" type="Int32" />
+      <field name="ClientTimestamp" type="Int32" />
+    </opcode>
+  </opcodes>
+</protocol>

@@ -1,0 +1,57 @@
+{
+  "Number": 8050,
+  "Name": "Wrecked ship floor 2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Wrecked ship floor 2",
+  "Size": {
+    "Width": 55,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "16, 2": {
+      "MapId": 8016,
+      "X": 13,
+      "Y": 26,
+      "Point": "13, 26"
+    },
+    "24, 3": {
+      "MapId": 8017,
+      "X": 18,
+      "Y": 27,
+      "Point": "18, 27"
+    },
+    "30, 2": {
+      "MapId": 8018,
+      "X": 18,
+      "Y": 27,
+      "Point": "18, 27"
+    },
+    "35, 2": {
+      "MapId": 8019,
+      "X": 18,
+      "Y": 27,
+      "Point": "18, 27"
+    },
+    "41, 2": {
+      "MapId": 8020,
+      "X": 18,
+      "Y": 27,
+      "Point": "18, 27"
+    },
+    "25, 19": {
+      "MapId": 8015,
+      "X": 7,
+      "Y": 3,
+      "Point": "7, 3"
+    },
+    "0, 11": {
+      "MapId": 8049,
+      "X": 14,
+      "Y": 7,
+      "Point": "14, 7"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,33 @@
+{
+  "Number": 7051,
+  "Name": "Toy Factory",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Toy Factory",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 18": {
+      "MapId": 7050,
+      "X": 8,
+      "Y": 13,
+      "Point": "8, 13"
+    },
+    "0, 15": {
+      "MapId": 7053,
+      "X": 8,
+      "Y": 8,
+      "Point": "8, 8"
+    },
+    "18, 5": {
+      "MapId": 7052,
+      "X": 2,
+      "Y": 12,
+      "Point": "2, 12"
+    }
+  },
+  "WorldMaps": {}
+}

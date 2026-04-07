@@ -1,0 +1,38 @@
+{
+  "Number": 6502,
+  "Name": "Oren Island Shop2",
+  "Description": null,
+  "DisplayName": "Oren Island Shop2",
+  "Size": {
+    "Width": 30,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 14": {
+      "MapId": 6228,
+      "X": 28,
+      "Y": 105,
+      "Point": "28, 105"
+    },
+    "13, 14": {
+      "MapId": 6228,
+      "X": 28,
+      "Y": 105,
+      "Point": "28, 105"
+    },
+    "14, 14": {
+      "MapId": 6228,
+      "X": 28,
+      "Y": 105,
+      "Point": "28, 105"
+    },
+    "15, 14": {
+      "MapId": 6228,
+      "X": 28,
+      "Y": 105,
+      "Point": "28, 105"
+    }
+  },
+  "WorldMaps": {}
+}

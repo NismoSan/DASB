@@ -1,0 +1,27 @@
+{
+  "Number": 2910,
+  "Name": "Unknown 2910",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blossom Forest 3",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 19": {
+      "MapId": 2909,
+      "X": 5,
+      "Y": 9,
+      "Point": "5, 9"
+    },
+    "5, 0": {
+      "MapId": 2911,
+      "X": 9,
+      "Y": 10,
+      "Point": "9, 10"
+    }
+  },
+  "WorldMaps": {}
+}

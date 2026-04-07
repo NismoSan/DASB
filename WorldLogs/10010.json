@@ -1,0 +1,32 @@
+{
+  "Number": 10010,
+  "Name": "Asilon Prairie 2",
+  "Description": null,
+  "DisplayName": "Asilon Prairie 2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 41": {
+      "MapId": 10000,
+      "X": 87,
+      "Y": 51,
+      "Point": "87, 51"
+    },
+    "0, 42": {
+      "MapId": 10000,
+      "X": 87,
+      "Y": 52,
+      "Point": "87, 52"
+    },
+    "0, 40": {
+      "MapId": 10000,
+      "X": 87,
+      "Y": 50,
+      "Point": "87, 50"
+    }
+  },
+  "WorldMaps": {}
+}

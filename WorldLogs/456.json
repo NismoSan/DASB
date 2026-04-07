@@ -1,0 +1,39 @@
+{
+  "Number": 456,
+  "Name": "West Woodland 14-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "West Woodland 14-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "24, 0": {
+      "MapId": 457,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "23, 0": {
+      "MapId": 457,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "26, 49": {
+      "MapId": 454,
+      "X": 0,
+      "Y": 24,
+      "Point": "0, 24"
+    },
+    "25, 49": {
+      "MapId": 454,
+      "X": 0,
+      "Y": 24,
+      "Point": "0, 24"
+    }
+  },
+  "WorldMaps": {}
+}

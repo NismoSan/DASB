@@ -1,0 +1,27 @@
+{
+  "Number": 1966,
+  "Name": "Tagor Storage",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tagor Storage",
+  "Size": {
+    "Width": 14,
+    "Height": 14
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 13": {
+      "MapId": 662,
+      "X": 29,
+      "Y": 13,
+      "Point": "29, 13"
+    },
+    "7, 13": {
+      "MapId": 662,
+      "X": 28,
+      "Y": 13,
+      "Point": "28, 13"
+    }
+  },
+  "WorldMaps": {}
+}

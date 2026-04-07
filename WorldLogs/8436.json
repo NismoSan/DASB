@@ -1,0 +1,27 @@
+{
+  "Number": 8436,
+  "Name": "Chadul's Abel 2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chadul's Abel 2",
+  "Size": {
+    "Width": 70,
+    "Height": 78
+  },
+  "Flags": 0,
+  "Portals": {
+    "29, 0": {
+      "MapId": 8435,
+      "X": 10,
+      "Y": 18,
+      "Point": "10, 18"
+    },
+    "28, 0": {
+      "MapId": 8435,
+      "X": 9,
+      "Y": 18,
+      "Point": "9, 18"
+    }
+  },
+  "WorldMaps": {}
+}

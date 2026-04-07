@@ -1,0 +1,27 @@
+{
+  "Number": 631,
+  "Name": "Mine 7-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mine 7-2",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "27, 2": {
+      "MapId": 627,
+      "X": 76,
+      "Y": 39,
+      "Point": "76, 39"
+    },
+    "92, 44": {
+      "MapId": 634,
+      "X": 11,
+      "Y": 9,
+      "Point": "11, 9"
+    }
+  },
+  "WorldMaps": {}
+}

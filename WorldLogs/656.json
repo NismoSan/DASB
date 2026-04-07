@@ -1,0 +1,39 @@
+{
+  "Number": 656,
+  "Name": "Mine 11-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mine 11-1",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "46, 99": {
+      "MapId": 642,
+      "X": 92,
+      "Y": 45,
+      "Point": "92, 45"
+    },
+    "47, 99": {
+      "MapId": 642,
+      "X": 93,
+      "Y": 45,
+      "Point": "93, 45"
+    },
+    "40, 0": {
+      "MapId": 657,
+      "X": 47,
+      "Y": 98,
+      "Point": "47, 98"
+    },
+    "39, 0": {
+      "MapId": 657,
+      "X": 46,
+      "Y": 98,
+      "Point": "46, 98"
+    }
+  },
+  "WorldMaps": {}
+}

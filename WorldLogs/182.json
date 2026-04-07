@@ -1,0 +1,33 @@
+{
+  "Number": 182,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Abel Armor Shop",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 9": {
+      "MapId": 502,
+      "X": 61,
+      "Y": 12,
+      "Point": "61, 12"
+    },
+    "11, 8": {
+      "MapId": 502,
+      "X": 61,
+      "Y": 11,
+      "Point": "61, 11"
+    },
+    "0, 10": {
+      "MapId": 184,
+      "X": 13,
+      "Y": 1,
+      "Point": "13, 1"
+    }
+  },
+  "WorldMaps": {}
+}

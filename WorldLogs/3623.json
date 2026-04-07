@@ -1,0 +1,33 @@
+{
+  "Number": 3623,
+  "Name": "Chaos 24",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 24",
+  "Size": {
+    "Width": 80,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 27": {
+      "MapId": 3622,
+      "X": 95,
+      "Y": 50,
+      "Point": "95, 50"
+    },
+    "29, 79": {
+      "MapId": 3624,
+      "X": 23,
+      "Y": 3,
+      "Point": "23, 3"
+    },
+    "30, 79": {
+      "MapId": 3624,
+      "X": 23,
+      "Y": 3,
+      "Point": "23, 3"
+    }
+  },
+  "WorldMaps": {}
+}

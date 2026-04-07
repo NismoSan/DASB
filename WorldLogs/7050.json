@@ -1,0 +1,57 @@
+{
+  "Number": 7050,
+  "Name": "North Pole",
+  "WalkSpot": "19, 13",
+  "Description": null,
+  "DisplayName": "North Pole",
+  "Size": {
+    "Width": 35,
+    "Height": 30
+  },
+  "Flags": 0,
+  "Portals": {
+    "27, 1": {
+      "MapId": 7065,
+      "X": 30,
+      "Y": 46,
+      "Point": "30, 46"
+    },
+    "20, 8": {
+      "MapId": 7055,
+      "X": 9,
+      "Y": 8,
+      "Point": "9, 8"
+    },
+    "33, 8": {
+      "MapId": 7062,
+      "X": 3,
+      "Y": 21,
+      "Point": "3, 21"
+    },
+    "33, 13": {
+      "MapId": 7059,
+      "X": 3,
+      "Y": 11,
+      "Point": "3, 11"
+    },
+    "33, 18": {
+      "MapId": 7056,
+      "X": 3,
+      "Y": 19,
+      "Point": "3, 19"
+    },
+    "9, 11": {
+      "MapId": 7051,
+      "X": 13,
+      "Y": 16,
+      "Point": "13, 16"
+    },
+    "8, 11": {
+      "MapId": 7051,
+      "X": 13,
+      "Y": 16,
+      "Point": "13, 16"
+    }
+  },
+  "WorldMaps": {}
+}

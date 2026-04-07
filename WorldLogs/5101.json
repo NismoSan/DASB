@@ -1,0 +1,27 @@
+{
+  "Number": 5101,
+  "Name": "Macabre Cellar 4-5",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Macabre Cellar 4-5",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "2, 1": {
+      "MapId": 5098,
+      "X": 3,
+      "Y": 3,
+      "Point": "3, 3"
+    },
+    "0, 4": {
+      "MapId": 5001,
+      "X": 65,
+      "Y": 20,
+      "Point": "65, 20"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,22 @@
+{
+  "templateKey": "bat",
+  "name": "Bat",
+  "sprite": 24,
+  "level": 2,
+  "maxHp": 200,
+  "maxMp": 0,
+  "stats": { "str": 5, "int": 1, "wis": 1, "con": 4, "dex": 12 },
+  "ac": 108,
+  "aggroRange": 6,
+  "moveIntervalMs": 900,
+  "assailIntervalMs": 1800,
+  "skillIntervalMs": 10000,
+  "spellIntervalMs": 10000,
+  "wanderIntervalMs": 2500,
+  "expReward": 35,
+  "goldDrop": { "min": 5, "max": 15 },
+  "lootTableKey": "bat_loot",
+  "skills": [],
+  "spells": [],
+  "respawnMs": 20000
+}

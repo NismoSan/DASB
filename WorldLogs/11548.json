@@ -1,0 +1,33 @@
+{
+  "Number": 11548,
+  "Name": "Unknown 11548",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tavaly House",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 6": {
+      "MapId": 11500,
+      "X": 86,
+      "Y": 54,
+      "Point": "86, 54"
+    },
+    "14, 7": {
+      "MapId": 11500,
+      "X": 86,
+      "Y": 55,
+      "Point": "86, 55"
+    },
+    "14, 8": {
+      "MapId": 11500,
+      "X": 86,
+      "Y": 56,
+      "Point": "86, 56"
+    }
+  },
+  "WorldMaps": {}
+}

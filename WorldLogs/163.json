@@ -1,0 +1,21 @@
+{
+  "Number": 163,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Armor Shop",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 9": {
+      "MapId": 501,
+      "X": 56,
+      "Y": 22,
+      "Point": "56, 22"
+    }
+  },
+  "WorldMaps": {}
+}

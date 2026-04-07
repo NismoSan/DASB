@@ -1,0 +1,33 @@
+{
+  "Number": 149,
+  "Name": "Piet Tavern",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Tavern",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 5": {
+      "MapId": 501,
+      "X": 18,
+      "Y": 40,
+      "Point": "18, 40"
+    },
+    "14, 4": {
+      "MapId": 501,
+      "X": 18,
+      "Y": 39,
+      "Point": "18, 39"
+    },
+    "10, 14": {
+      "MapId": 162,
+      "X": 13,
+      "Y": 1,
+      "Point": "13, 1"
+    }
+  },
+  "WorldMaps": {}
+}

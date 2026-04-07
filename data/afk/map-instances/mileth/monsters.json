@@ -1,0 +1,19 @@
+{
+  "mapId": 6700,
+  "spawners": [
+    {
+      "monsterTemplateKey": "common_rat",
+      "maxAmount": 3,
+      "maxPerSpawn": 1,
+      "intervalSecs": 30,
+      "spawnArea": { "x1": 5, "y1": 5, "x2": 65, "y2": 65 }
+    },
+    {
+      "monsterTemplateKey": "spider",
+      "maxAmount": 2,
+      "maxPerSpawn": 1,
+      "intervalSecs": 45,
+      "spawnArea": { "x1": 10, "y1": 10, "x2": 60, "y2": 60 }
+    }
+  ]
+}

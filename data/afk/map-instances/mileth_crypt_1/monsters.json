@@ -1,0 +1,33 @@
+{
+  "mapId": 3006,
+  "spawners": [
+    {
+      "monsterTemplateKey": "centipede",
+      "maxAmount": 4,
+      "maxPerSpawn": 2,
+      "intervalSecs": 15,
+      "spawnArea": { "x1": 2, "y1": 2, "x2": 28, "y2": 28 }
+    },
+    {
+      "monsterTemplateKey": "bat",
+      "maxAmount": 4,
+      "maxPerSpawn": 2,
+      "intervalSecs": 15,
+      "spawnArea": { "x1": 2, "y1": 2, "x2": 28, "y2": 28 }
+    },
+    {
+      "monsterTemplateKey": "scorpion",
+      "maxAmount": 2,
+      "maxPerSpawn": 1,
+      "intervalSecs": 25,
+      "spawnArea": { "x1": 5, "y1": 5, "x2": 25, "y2": 25 }
+    },
+    {
+      "monsterTemplateKey": "skeleton",
+      "maxAmount": 2,
+      "maxPerSpawn": 1,
+      "intervalSecs": 30,
+      "spawnArea": { "x1": 8, "y1": 8, "x2": 22, "y2": 22 }
+    }
+  ]
+}

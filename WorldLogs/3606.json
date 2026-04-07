@@ -1,0 +1,27 @@
+{
+  "Number": 3606,
+  "Name": "Chaos 7",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 7",
+  "Size": {
+    "Width": 80,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 43": {
+      "MapId": 3605,
+      "X": 66,
+      "Y": 46,
+      "Point": "66, 46"
+    },
+    "78, 39": {
+      "MapId": 3607,
+      "X": 3,
+      "Y": 50,
+      "Point": "3, 50"
+    }
+  },
+  "WorldMaps": {}
+}

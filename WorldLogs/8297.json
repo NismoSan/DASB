@@ -1,0 +1,26 @@
+{
+  "Number": 8297,
+  "Name": "Aman Inn",
+  "Description": null,
+  "DisplayName": "Aman Inn",
+  "Size": {
+    "Width": 25,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 19": {
+      "MapId": 8300,
+      "X": 65,
+      "Y": 45,
+      "Point": "65, 45"
+    },
+    "13, 19": {
+      "MapId": 8300,
+      "X": 66,
+      "Y": 45,
+      "Point": "66, 45"
+    }
+  },
+  "WorldMaps": {}
+}

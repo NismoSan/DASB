@@ -1,0 +1,68 @@
+{
+  "name": "dasb",
+  "version": "1.0.4",
+  "description": "A Dark Ages client for Node.js applications.",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.7.0",
+    "better-sqlite3": "^12.8.0",
+    "compression": "^1.8.1",
+    "dotenv": "^16.4.0",
+    "express": "^5.2.1",
+    "fast-xml-parser": "^5.5.9",
+    "iconv-lite": "^0.7.2",
+    "md5": "^2.2.1",
+    "openai": "^4.78.0",
+    "pg": "^8.20.0",
+    "pngjs": "^7.0.0",
+    "socket.io": "^4.8.3"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/compression": "^1.8.1",
+    "@types/express": "^5.0.6",
+    "@types/iconv-lite": "^0.0.1",
+    "@types/md5": "^2.3.6",
+    "@types/node": "^25.3.5",
+    "@types/pg": "^8.18.0",
+    "concurrently": "^9.2.1",
+    "esbuild": "^0.27.3",
+    "nodemon": "^3.1.14",
+    "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "build:panel": "esbuild src/panel/panel.ts --bundle --outfile=panel/panel.js --platform=browser --format=iife --external:socket.io && esbuild src/panel/panel.ts --bundle --outfile=panel/panel.min.js --minify --platform=browser --format=iife --external:socket.io && esbuild src/panel/chat.ts --bundle --outfile=panel/chat.js --platform=browser --format=iife --external:socket.io && esbuild src/panel/proxyserver.ts --bundle --outfile=panel/proxyserver.js --platform=browser --format=iife --external:socket.io && esbuild src/panel/login.ts --bundle --outfile=panel/login.js --platform=browser --format=iife && esbuild panel/panel.css --bundle --outfile=panel/panel.min.css --minify",
+    "build:all": "npm run build && npm run build:panel",
+    "typecheck": "tsc --noEmit",
+    "typecheck:panel": "tsc -p tsconfig.panel.json --noEmit",
+    "ci": "npm run typecheck && npm run typecheck:panel && npm run build && npm run build:panel",
+    "prepare": "npm run build",
+    "dev": "concurrently --kill-others -n tsc,app -c blue,green \"tsc --watch --preserveWatchOutput\" \"node lib/server.js\"",
+    "dev:restart": "concurrently --kill-others -n tsc,app -c blue,green \"tsc --watch --preserveWatchOutput\" \"nodemon lib/server.js\"",
+    "dev:tsc": "tsc --watch --preserveWatchOutput",
+    "dev:app": "nodemon lib/server.js",
+    "start": "node lib/server.js",
+    "mcp": "node lib/mcp-server.js",
+    "verifier": "node lib/verifierbot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NismoSan/DASB.git"
+  },
+  "author": "",
+  "contributors": [
+    "Eric Valadas <ericvaladas@me.com> (original da.js library)"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NismoSan/DASB/issues"
+  },
+  "homepage": "https://github.com/NismoSan/DASB#readme",
+  "files": [
+    "lib"
+  ]
+}

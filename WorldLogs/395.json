@@ -1,0 +1,39 @@
+{
+  "Number": 395,
+  "Name": "Path Temple 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Path Temple 1",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 7": {
+      "MapId": 394,
+      "X": 3,
+      "Y": 4,
+      "Point": "3, 4"
+    },
+    "11, 8": {
+      "MapId": 394,
+      "X": 3,
+      "Y": 5,
+      "Point": "3, 5"
+    },
+    "6, 1": {
+      "MapId": 396,
+      "X": 6,
+      "Y": 10,
+      "Point": "6, 10"
+    },
+    "1, 7": {
+      "MapId": 399,
+      "X": 10,
+      "Y": 5,
+      "Point": "10, 5"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,56 @@
+{
+  "Number": 5231,
+  "Name": "Coliseum Threshold",
+  "Description": null,
+  "DisplayName": "Coliseum Threshold",
+  "Size": {
+    "Width": 7,
+    "Height": 7
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 0": {
+      "MapId": 5232,
+      "X": 4,
+      "Y": 12,
+      "Point": "4, 12"
+    },
+    "5, 0": {
+      "MapId": 5232,
+      "X": 9,
+      "Y": 12,
+      "Point": "9, 12"
+    },
+    "2, 0": {
+      "MapId": 5232,
+      "X": 6,
+      "Y": 12,
+      "Point": "6, 12"
+    },
+    "6, 0": {
+      "MapId": 5232,
+      "X": 10,
+      "Y": 12,
+      "Point": "10, 12"
+    },
+    "1, 0": {
+      "MapId": 5232,
+      "X": 5,
+      "Y": 12,
+      "Point": "5, 12"
+    },
+    "3, 0": {
+      "MapId": 5232,
+      "X": 7,
+      "Y": 12,
+      "Point": "7, 12"
+    },
+    "4, 0": {
+      "MapId": 5232,
+      "X": 8,
+      "Y": 12,
+      "Point": "8, 12"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 3045,
+  "Name": "Unknown 3045",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Literature",
+  "Size": {
+    "Width": 14,
+    "Height": 14
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 4": {
+      "MapId": 3043,
+      "X": 12,
+      "Y": 23,
+      "Point": "12, 23"
+    },
+    "13, 3": {
+      "MapId": 3043,
+      "X": 12,
+      "Y": 22,
+      "Point": "12, 22"
+    }
+  },
+  "WorldMaps": {}
+}

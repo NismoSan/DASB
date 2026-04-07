@@ -1,0 +1,27 @@
+{
+  "Number": 3049,
+  "Name": "Rucesion Hall",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Rucesion Hall",
+  "Size": {
+    "Width": 12,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 15": {
+      "MapId": 3048,
+      "X": 5,
+      "Y": 7,
+      "Point": "5, 7"
+    },
+    "6, 15": {
+      "MapId": 3048,
+      "X": 4,
+      "Y": 7,
+      "Point": "4, 7"
+    }
+  },
+  "WorldMaps": {}
+}

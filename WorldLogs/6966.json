@@ -1,0 +1,21 @@
+{
+  "Number": 6966,
+  "Name": "Unknown 6966",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Royal Tomb",
+  "Size": {
+    "Width": 25,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 24": {
+      "MapId": 2601,
+      "X": 6,
+      "Y": 43,
+      "Point": "6, 43"
+    }
+  },
+  "WorldMaps": {}
+}

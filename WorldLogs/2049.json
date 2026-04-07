@@ -1,0 +1,27 @@
+{
+  "Number": 2049,
+  "Name": "House Macabre Yard 4",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "House Macabre Yard 4",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 42": {
+      "MapId": 2046,
+      "X": 97,
+      "Y": 42,
+      "Point": "97, 42"
+    },
+    "93, 12": {
+      "MapId": 5098,
+      "X": 17,
+      "Y": 4,
+      "Point": "17, 4"
+    }
+  },
+  "WorldMaps": {}
+}

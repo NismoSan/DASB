@@ -1,0 +1,12 @@
+{
+  "templateKey": "health_potion",
+  "name": "Health Potion",
+  "sprite": 160,
+  "color": 37,
+  "stackable": true,
+  "maxStack": 99,
+  "type": "consumable",
+  "healHp": 1000,
+  "sellValue": 50,
+  "buyValue": 150
+}

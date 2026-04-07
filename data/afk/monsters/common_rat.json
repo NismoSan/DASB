@@ -1,0 +1,22 @@
+{
+  "templateKey": "common_rat",
+  "name": "Common Rat",
+  "sprite": 22,
+  "level": 1,
+  "maxHp": 150,
+  "maxMp": 0,
+  "stats": { "str": 5, "int": 1, "wis": 1, "con": 5, "dex": 8 },
+  "ac": 110,
+  "aggroRange": 5,
+  "moveIntervalMs": 2000,
+  "assailIntervalMs": 3000,
+  "skillIntervalMs": 10000,
+  "spellIntervalMs": 10000,
+  "wanderIntervalMs": 4000,
+  "expReward": 25,
+  "goldDrop": { "min": 5, "max": 15 },
+  "lootTableKey": "rat_loot",
+  "skills": [],
+  "spells": [],
+  "respawnMs": 20000
+}

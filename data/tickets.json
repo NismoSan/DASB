@@ -1,0 +1,1804 @@
+{
+  "history": [
+    {
+      "ticketId": "mnas2txk-aotu4q",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729426952
+    },
+    {
+      "ticketId": "mnas2w0b-k3r11e",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729429643
+    },
+    {
+      "ticketId": "mnas2xwu-mn4qfg",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729432110
+    },
+    {
+      "ticketId": "mnas30la-vizl7f",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729435582
+    },
+    {
+      "ticketId": "mnas3s2j-eh96n6",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 2500000,
+      "timestamp": 1774729471195
+    },
+    {
+      "ticketId": "mnas3v6s-epoep8",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729475236
+    },
+    {
+      "ticketId": "mnas3xau-je9kdm",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729477974
+    },
+    {
+      "ticketId": "mnas3z7b-hscqzu",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774729480439
+    },
+    {
+      "ticketId": "mnas417j-bxza5l",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774729483039
+    },
+    {
+      "ticketId": "mnas43e2-jtaehe",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729485866
+    },
+    {
+      "ticketId": "mnas456d-l2eod6",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729488181
+    },
+    {
+      "ticketId": "mnas47g5-ebs1a1",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729491125
+    },
+    {
+      "ticketId": "mnas49kk-sih3mk",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729493876
+    },
+    {
+      "ticketId": "mnas4bsk-3r72qi",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729496756
+    },
+    {
+      "ticketId": "mnas5hp5-uf3yvx",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774729551065
+    },
+    {
+      "ticketId": "mnas5jg7-j5np7m",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729553335
+    },
+    {
+      "ticketId": "mnas5lap-zz2uce",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729555729
+    },
+    {
+      "ticketId": "mnas5n85-obt9cy",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774729558229
+    },
+    {
+      "ticketId": "mnas5p4a-1pqbdc",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729560682
+    },
+    {
+      "ticketId": "mnas5shr-zvwzky",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774729565055
+    },
+    {
+      "ticketId": "mnas5upl-m4iqaw",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774729567929
+    },
+    {
+      "ticketId": "mnas5wt0-wl5wvk",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729570644
+    },
+    {
+      "ticketId": "mnas5yyu-rhqkyi",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774729573446
+    },
+    {
+      "ticketId": "mnas61fw-8flrl6",
+      "playerName": "Gnat",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774729576652
+    },
+    {
+      "ticketId": "mnat48rx-bes05m",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774731172461
+    },
+    {
+      "ticketId": "mnat5jy0-n5avkx",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774731233593
+    },
+    {
+      "ticketId": "mnat5niz-6u9eg7",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774731238235
+    },
+    {
+      "ticketId": "mnat66s8-teaa0a",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774731263192
+    },
+    {
+      "ticketId": "mnat6dhc-ywr5dj",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774731271872
+    },
+    {
+      "ticketId": "mnat6h79-ia1l05",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774731276693
+    },
+    {
+      "ticketId": "mndz4hz6-tfwxsk",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774922660610
+    },
+    {
+      "ticketId": "mndz4s83-aqobqu",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 2500000,
+      "timestamp": 1774922673891
+    },
+    {
+      "ticketId": "mndz4y5z-c4wm8h",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774922681591
+    },
+    {
+      "ticketId": "mndz57mh-cp75tm",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774922693849
+    },
+    {
+      "ticketId": "mne4u9mb-n7zo06",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774932260915
+    },
+    {
+      "ticketId": "mne4ugoe-8zl9zh",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 10000000,
+      "timestamp": 1774932270062
+    },
+    {
+      "ticketId": "mne4ump8-aplg80",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774932277868
+    },
+    {
+      "ticketId": "mne4urhh-i6zmyt",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932284069
+    },
+    {
+      "ticketId": "mne51lgg-5k18zl",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932602848
+    },
+    {
+      "ticketId": "mne51qlf-1o5xrr",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774932609507
+    },
+    {
+      "ticketId": "mne51vd9-dcyhrm",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 2500000,
+      "timestamp": 1774932615693
+    },
+    {
+      "ticketId": "mne51zz5-6odf7x",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774932621665
+    },
+    {
+      "ticketId": "mne524th-f9hxs6",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774932627941
+    },
+    {
+      "ticketId": "mne52aub-0khwjb",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932635747
+    },
+    {
+      "ticketId": "mne52fnc-my0g19",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774932641976
+    },
+    {
+      "ticketId": "mne52nq8-lh3mrs",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932652449
+    },
+    {
+      "ticketId": "mne52tvb-ebir0e",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932660409
+    },
+    {
+      "ticketId": "mne52z32-ybhii9",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774932667166
+    },
+    {
+      "ticketId": "mne534pi-inghm7",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774932674454
+    },
+    {
+      "ticketId": "mne53bg3-x1k09g",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774932683187
+    },
+    {
+      "ticketId": "mne53gyi-zp861e",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932690330
+    },
+    {
+      "ticketId": "mne564xv-9oi44m",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774932814723
+    },
+    {
+      "ticketId": "mne56anu-5aw81d",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932822138
+    },
+    {
+      "ticketId": "mne56gho-1bnzr8",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932829692
+    },
+    {
+      "ticketId": "mne56lm6-r4kwdn",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932836334
+    },
+    {
+      "ticketId": "mne56qb2-dfrn7a",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932842414
+    },
+    {
+      "ticketId": "mne56uw8-lvx69b",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 10000000,
+      "timestamp": 1774932848360
+    },
+    {
+      "ticketId": "mne57g6p-fn4qrk",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774932875953
+    },
+    {
+      "ticketId": "mne57vwe-9axce2",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932896318
+    },
+    {
+      "ticketId": "mne581zy-92seo3",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774932904222
+    },
+    {
+      "ticketId": "mne588g4-wvu318",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932912580
+    },
+    {
+      "ticketId": "mne58ek5-7cc4go",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932920501
+    },
+    {
+      "ticketId": "mne58jre-dvyedu",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932927242
+    },
+    {
+      "ticketId": "mne58pbl-7mwfhx",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932934449
+    },
+    {
+      "ticketId": "mne58u4p-b43w1w",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932940681
+    },
+    {
+      "ticketId": "mne58z54-7wg9zm",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932947176
+    },
+    {
+      "ticketId": "mne5942l-9k4wiu",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932953565
+    },
+    {
+      "ticketId": "mne598o3-o5m7jx",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932959523
+    },
+    {
+      "ticketId": "mne59gfe-gv1yxl",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774932969578
+    },
+    {
+      "ticketId": "mne59mlr-pjzgmc",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774932977583
+    },
+    {
+      "ticketId": "mne59uvg-1grqq6",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 2500000,
+      "timestamp": 1774932988300
+    },
+    {
+      "ticketId": "mne5a11u-67kv55",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774932996306
+    },
+    {
+      "ticketId": "mne5a6cz-03ku38",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774933003187
+    },
+    {
+      "ticketId": "mne5ab4p-dqlj7q",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774933009369
+    },
+    {
+      "ticketId": "mne5agdp-t3f6xq",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774933016173
+    },
+    {
+      "ticketId": "mne8bo2z-ppoa8c",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774938111659
+    },
+    {
+      "ticketId": "mne8btgf-4116yt",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774938118623
+    },
+    {
+      "ticketId": "mne8bym0-k6lenf",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774938125304
+    },
+    {
+      "ticketId": "mne8c3s1-kiaaia",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774938132001
+    },
+    {
+      "ticketId": "mne8d0e2-5t7s4k",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774938174266
+    },
+    {
+      "ticketId": "mne8d52i-z38l9l",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774938180330
+    },
+    {
+      "ticketId": "mne8da59-c3m0xe",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 2500000,
+      "timestamp": 1774938186909
+    },
+    {
+      "ticketId": "mne8df7f-p4vo0v",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774938193467
+    },
+    {
+      "ticketId": "mne8v60x-rtfaf1",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774939021377
+    },
+    {
+      "ticketId": "mne8vbdd-zr9o71",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774939028305
+    },
+    {
+      "ticketId": "mne8vgik-10xb22",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774939034972
+    },
+    {
+      "ticketId": "mne8vlr2-lrt17a",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 2500000,
+      "timestamp": 1774939041758
+    },
+    {
+      "ticketId": "mne8vqzr-jc2zg0",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774939048551
+    },
+    {
+      "ticketId": "mne8vwrx-c97oz3",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774939056045
+    },
+    {
+      "ticketId": "mne8w079-7ofao3",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774939060485
+    },
+    {
+      "ticketId": "mne8w5zp-ic5f9m",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774939067989
+    },
+    {
+      "ticketId": "mne8w98g-ncpr4b",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774939072192
+    },
+    {
+      "ticketId": "mne8wdnv-t678nm",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774939077931
+    },
+    {
+      "ticketId": "mne8wmg8-wo0lc2",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774939089320
+    },
+    {
+      "ticketId": "mne8wqmb-ene15c",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774939094723
+    },
+    {
+      "ticketId": "mne8wu5s-ess76t",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774939099312
+    },
+    {
+      "ticketId": "mne9x4dl-45p8xf",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774940792169
+    },
+    {
+      "ticketId": "mneapnhx-tuzdwo",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774942123317
+    },
+    {
+      "ticketId": "mneaptd7-8i7boj",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774942130923
+    },
+    {
+      "ticketId": "mneapzao-10mlc2",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774942138608
+    },
+    {
+      "ticketId": "mneaq2zb-3rddpw",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774942143383
+    },
+    {
+      "ticketId": "mneaq6tg-ey7hoq",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774942148356
+    },
+    {
+      "ticketId": "mneaqazt-k892ct",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774942153769
+    },
+    {
+      "ticketId": "mneaqeuj-yorl34",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774942158763
+    },
+    {
+      "ticketId": "mneaqrdl-8ctno7",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774942175001
+    },
+    {
+      "ticketId": "mneaquez-nw4jkq",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774942178939
+    },
+    {
+      "ticketId": "mneaqxuw-rl5wwu",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1774942183400
+    },
+    {
+      "ticketId": "mnear2y4-f89qdr",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774942189996
+    },
+    {
+      "ticketId": "mnend76q-a7p2hq",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963377314
+    },
+    {
+      "ticketId": "mnendj2t-ai1zq9",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 100000,
+      "timestamp": 1774963392725
+    },
+    {
+      "ticketId": "mnendpoz-8ld8lk",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 100000,
+      "timestamp": 1774963401299
+    },
+    {
+      "ticketId": "mnendvmc-lowxjy",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963408980
+    },
+    {
+      "ticketId": "mnene13x-e8svk2",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963416093
+    },
+    {
+      "ticketId": "mnene49b-5gueak",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 100000,
+      "timestamp": 1774963420175
+    },
+    {
+      "ticketId": "mneneq3m-qkznsc",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 50000,
+      "timestamp": 1774963448482
+    },
+    {
+      "ticketId": "mnenevn1-c8urlw",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 100000,
+      "timestamp": 1774963455661
+    },
+    {
+      "ticketId": "mnenezok-txpx33",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963460901
+    },
+    {
+      "ticketId": "mnenf2ah-vaj18y",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 50000,
+      "timestamp": 1774963464281
+    },
+    {
+      "ticketId": "mnenf6fe-xjmmkf",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 50000,
+      "timestamp": 1774963469642
+    },
+    {
+      "ticketId": "mnenfaim-7y6zxt",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963474942
+    },
+    {
+      "ticketId": "mnenfd41-escbw2",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963478305
+    },
+    {
+      "ticketId": "mnenfger-9lq9dz",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 50000,
+      "timestamp": 1774963482579
+    },
+    {
+      "ticketId": "mnenfjor-pph918",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 50000,
+      "timestamp": 1774963486827
+    },
+    {
+      "ticketId": "mnenfoe3-mgdr3f",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 50000,
+      "timestamp": 1774963492923
+    },
+    {
+      "ticketId": "mnengh2x-e0hfu1",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963530105
+    },
+    {
+      "ticketId": "mnengma5-gxosqd",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 50000,
+      "timestamp": 1774963536845
+    },
+    {
+      "ticketId": "mnengqfc-8elt1a",
+      "playerName": "Moogle",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963542216
+    },
+    {
+      "ticketId": "mnenguq5-xcvf29",
+      "playerName": "Moogle",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963547789
+    },
+    {
+      "ticketId": "mnengxze-9zm62z",
+      "playerName": "Moogle",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963552010
+    },
+    {
+      "ticketId": "mnenh1ko-myrl8j",
+      "playerName": "Moogle",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963556664
+    },
+    {
+      "ticketId": "mnenh5mq-wnev7t",
+      "playerName": "Moogle",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1774963561922
+    },
+    {
+      "ticketId": "mnenhdfz-wu8vfz",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963572047
+    },
+    {
+      "ticketId": "mnenhil5-zr6c4b",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 50000,
+      "timestamp": 1774963578713
+    },
+    {
+      "ticketId": "mnenhlzl-224fii",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 100000,
+      "timestamp": 1774963583121
+    },
+    {
+      "ticketId": "mnenitd9-pr0ny1",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 10000,
+      "timestamp": 1774963639341
+    },
+    {
+      "ticketId": "mnenj0my-9jbjvu",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 10000,
+      "timestamp": 1774963648762
+    },
+    {
+      "ticketId": "mnenj3u8-iahkid",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963652912
+    },
+    {
+      "ticketId": "mnenj6oh-8hgbgh",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963656593
+    },
+    {
+      "ticketId": "mnenj8y9-a7n1t9",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 5000,
+      "timestamp": 1774963659537
+    },
+    {
+      "ticketId": "mnenjbv7-a3sdi5",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 5000,
+      "timestamp": 1774963663315
+    },
+    {
+      "ticketId": "mnenjem3-ssx3j4",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963666875
+    },
+    {
+      "ticketId": "mnenjhvt-37u5ag",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963671113
+    },
+    {
+      "ticketId": "mnenjkhk-egn6zd",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963674488
+    },
+    {
+      "ticketId": "mnenjno7-yklz38",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 5000,
+      "timestamp": 1774963678615
+    },
+    {
+      "ticketId": "mnenl15g-vw2oql",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963742740
+    },
+    {
+      "ticketId": "mnenl448-2wjbrb",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 10000,
+      "timestamp": 1774963746584
+    },
+    {
+      "ticketId": "mnenl8rk-45jtkz",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 5000,
+      "timestamp": 1774963752608
+    },
+    {
+      "ticketId": "mnenlc18-w0cqf9",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 10000,
+      "timestamp": 1774963756844
+    },
+    {
+      "ticketId": "mnenlftc-nmh3ng",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 10000,
+      "timestamp": 1774963761744
+    },
+    {
+      "ticketId": "mnenlk8i-jl8fey",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963767474
+    },
+    {
+      "ticketId": "mnenln5g-lzbgc7",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 250000,
+      "timestamp": 1774963771252
+    },
+    {
+      "ticketId": "mnenluc9-3p22vw",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963780569
+    },
+    {
+      "ticketId": "mnenlyzo-v8glb0",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1774963786596
+    },
+    {
+      "ticketId": "mnenm261-stuir5",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 50000,
+      "timestamp": 1774963790713
+    },
+    {
+      "ticketId": "mnenmiqm-hxx0qn",
+      "playerName": "Moogle",
+      "tier": "silver",
+      "cost": 100000,
+      "outcome": "win",
+      "prize": 2500000,
+      "timestamp": 1774963812190
+    },
+    {
+      "ticketId": "mngblvvw-nt5hh8",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775064559532
+    },
+    {
+      "ticketId": "mngbm0k2-hgq6vo",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775064565586
+    },
+    {
+      "ticketId": "mngbm3d5-m0qgeq",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775064569225
+    },
+    {
+      "ticketId": "mngbm5k0-0i56nl",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775064572064
+    },
+    {
+      "ticketId": "mngbm7i0-istmmo",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 25000,
+      "timestamp": 1775064574584
+    },
+    {
+      "ticketId": "mngbp4dg-zc9qib",
+      "playerName": "Moogle",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775064710500
+    },
+    {
+      "ticketId": "mniqbr96-q5cnoq",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 25000,
+      "timestamp": 1775210213562
+    },
+    {
+      "ticketId": "mniqbx0e-y0zpao",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210221022
+    },
+    {
+      "ticketId": "mniqc2as-a5aiia",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 5000,
+      "timestamp": 1775210227876
+    },
+    {
+      "ticketId": "mniqc7ma-olz1rs",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 10000,
+      "timestamp": 1775210234770
+    },
+    {
+      "ticketId": "mniqcc1p-0zpga5",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210240509
+    },
+    {
+      "ticketId": "mniqcfsb-438s59",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210245355
+    },
+    {
+      "ticketId": "mniqcj2u-djc4bd",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210249623
+    },
+    {
+      "ticketId": "mniqclw7-q86ds1",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 10000,
+      "timestamp": 1775210253271
+    },
+    {
+      "ticketId": "mniqcuks-oecpq1",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210264524
+    },
+    {
+      "ticketId": "mniqcy4v-x8jyzk",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 25000,
+      "timestamp": 1775210269135
+    },
+    {
+      "ticketId": "mniqd7d2-fsrk34",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210281094
+    },
+    {
+      "ticketId": "mniqdbnl-fenkz3",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 5000,
+      "timestamp": 1775210286657
+    },
+    {
+      "ticketId": "mniqdfoh-b1xt9w",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210291873
+    },
+    {
+      "ticketId": "mniqdj8v-lgzdah",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 5000,
+      "timestamp": 1775210296495
+    },
+    {
+      "ticketId": "mniqdnuh-u1ptdn",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "win",
+      "prize": 5000,
+      "timestamp": 1775210302457
+    },
+    {
+      "ticketId": "mniqdrj6-zctk9r",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210307234
+    },
+    {
+      "ticketId": "mniqduts-rbr75y",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210311504
+    },
+    {
+      "ticketId": "mniqdy7a-ah4324",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210315878
+    },
+    {
+      "ticketId": "mniqe1wr-k9g3od",
+      "playerName": "Tynan",
+      "tier": "bronze",
+      "cost": 10000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775210320683
+    },
+    {
+      "ticketId": "mnk8bgn6-n7w5fl",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775300899074
+    },
+    {
+      "ticketId": "mnk8bktc-92dhy7",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775300904480
+    },
+    {
+      "ticketId": "mnk8bpl8-sgkg30",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775300910668
+    },
+    {
+      "ticketId": "mnk8buc2-nb5kdx",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775300916818
+    },
+    {
+      "ticketId": "mnk8c088-7v410k",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1775300924456
+    },
+    {
+      "ticketId": "mnk8c5qx-pxsbw5",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775300931609
+    },
+    {
+      "ticketId": "mnk8cagc-0forox",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1775300937708
+    },
+    {
+      "ticketId": "mnk8cg1r-caprii",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 10000000,
+      "timestamp": 1775300944959
+    },
+    {
+      "ticketId": "mnk8cx9k-869orl",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775300967272
+    },
+    {
+      "ticketId": "mnk8d2mb-7ok4uh",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1775300974211
+    },
+    {
+      "ticketId": "mnk8d9oy-5p8pu1",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775300983378
+    },
+    {
+      "ticketId": "mnk8dgiz-z3m5eo",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775300992235
+    },
+    {
+      "ticketId": "mnk8dm53-bn2hsx",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775300999511
+    },
+    {
+      "ticketId": "mnk8drlx-desdfk",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775301006597
+    },
+    {
+      "ticketId": "mnk8dufb-vxgi7z",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 1000000,
+      "timestamp": 1775301010247
+    },
+    {
+      "ticketId": "mnk8dz84-w0ov86",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1775301016468
+    },
+    {
+      "ticketId": "mnk8e3i2-rxfw2a",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 2500000,
+      "timestamp": 1775301022010
+    },
+    {
+      "ticketId": "mnk8e7zb-b5nuq9",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1775301027815
+    },
+    {
+      "ticketId": "mnk8ecdi-36rshm",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "win",
+      "prize": 500000,
+      "timestamp": 1775301033510
+    },
+    {
+      "ticketId": "mnk8eheb-mqdy0q",
+      "playerName": "Moguey",
+      "tier": "gold",
+      "cost": 1000000,
+      "outcome": "lose",
+      "prize": 0,
+      "timestamp": 1775301040019
+    }
+  ]
+}

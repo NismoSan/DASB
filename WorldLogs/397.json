@@ -1,0 +1,27 @@
+{
+  "Number": 397,
+  "Name": "Path Temple 8",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Path Temple 8",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 1": {
+      "MapId": 398,
+      "X": 6,
+      "Y": 10,
+      "Point": "6, 10"
+    },
+    "1, 5": {
+      "MapId": 342,
+      "X": 10,
+      "Y": 6,
+      "Point": "10, 6"
+    }
+  },
+  "WorldMaps": {}
+}

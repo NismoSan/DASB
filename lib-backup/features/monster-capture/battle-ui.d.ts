@@ -1,0 +1,14 @@
+import type ProxyServer from '../../proxy/proxy-server';
+import type ProxySession from '../../proxy/proxy-session';
+import type NpcInjector from '../../proxy/augmentation/npc-injector';
+import type DialogHandler from '../../proxy/augmentation/dialog-handler';
+import type ChatInjector from '../../proxy/augmentation/chat-injector';
+import type PlayerRegistry from '../../proxy/player-registry';
+import type { MonsterCaptureConfig } from './types';
+export declare function initBattleUI(proxy: ProxyServer, npcInjector: NpcInjector, dialogHandler: DialogHandler, chat: ChatInjector, registry: PlayerRegistry, config: MonsterCaptureConfig): void;
+export declare function challengePlayer(session: ProxySession, targetName: string): Promise<void>;
+export declare function acceptChallenge(session: ProxySession): Promise<void>;
+export declare function declineChallenge(session: ProxySession): void;
+export declare function startWildBattle(session: ProxySession): Promise<void>;
+export declare function handleForfeit(session: ProxySession): Promise<void>;
+export declare function onSessionEnd(sessionId: string): void;

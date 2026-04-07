@@ -1,0 +1,37 @@
+{
+  "Number": 10233,
+  "Name": "Andor 133",
+  "Description": null,
+  "DisplayName": "Andor 133",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 15": {
+      "MapId": 10224,
+      "X": 3,
+      "Y": 22,
+      "Point": "3, 22"
+    },
+    "30, 16": {
+      "MapId": 10224,
+      "X": 3,
+      "Y": 23,
+      "Point": "3, 23"
+    },
+    "1, 22": {
+      "MapId": 10242,
+      "X": 27,
+      "Y": 8,
+      "Point": "27, 8"
+    },
+    "1, 23": {
+      "MapId": 10242,
+      "X": 27,
+      "Y": 9,
+      "Point": "27, 9"
+    }
+  }
+}

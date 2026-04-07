@@ -1,0 +1,21 @@
+{
+  "Number": 2906,
+  "Name": "Unknown 2906",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Veltain Mine 6",
+  "Size": {
+    "Width": 35,
+    "Height": 35
+  },
+  "Flags": 0,
+  "Portals": {
+    "15, 32": {
+      "MapId": 2903,
+      "X": 123,
+      "Y": 4,
+      "Point": "123, 4"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,25 @@
+{
+  "Number": 5029,
+  "Name": "Cthonic Remains 29",
+  "Description": null,
+  "DisplayName": "Cthonic Remains 29",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "3, 72": {
+      "MapId": 5028,
+      "X": 16,
+      "Y": 72,
+      "Point": "16, 72"
+    },
+    "46, 40": {
+      "MapId": 5030,
+      "X": 46,
+      "Y": 41,
+      "Point": "46, 41"
+    }
+  }
+}

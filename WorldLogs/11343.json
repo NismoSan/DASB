@@ -1,0 +1,39 @@
+{
+  "Number": 11343,
+  "Name": "Unknown 11343",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Muisir Hunting Ground 2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "49, 25": {
+      "MapId": 11344,
+      "X": 1,
+      "Y": 25,
+      "Point": "1, 25"
+    },
+    "49, 23": {
+      "MapId": 11344,
+      "X": 1,
+      "Y": 23,
+      "Point": "1, 23"
+    },
+    "0, 25": {
+      "MapId": 11342,
+      "X": 48,
+      "Y": 25,
+      "Point": "48, 25"
+    },
+    "0, 22": {
+      "MapId": 11342,
+      "X": 48,
+      "Y": 22,
+      "Point": "48, 22"
+    }
+  },
+  "WorldMaps": {}
+}

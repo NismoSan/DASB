@@ -1,0 +1,21 @@
+{
+  "Number": 6165,
+  "Name": "Manor Room 6",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Manor Room 6",
+  "Size": {
+    "Width": 11,
+    "Height": 21
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 13": {
+      "MapId": 6099,
+      "X": 32,
+      "Y": 31,
+      "Point": "32, 31"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,33 @@
+{
+  "Number": 220,
+  "Name": "Piet Dungeon 6-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Dungeon 6-2",
+  "Size": {
+    "Width": 26,
+    "Height": 26
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 21": {
+      "MapId": 222,
+      "X": 35,
+      "Y": 1,
+      "Point": "35, 1"
+    },
+    "1, 10": {
+      "MapId": 217,
+      "X": 15,
+      "Y": 3,
+      "Point": "15, 3"
+    },
+    "25, 10": {
+      "MapId": 218,
+      "X": 11,
+      "Y": 19,
+      "Point": "11, 19"
+    }
+  },
+  "WorldMaps": {}
+}

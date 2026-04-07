@@ -1,0 +1,33 @@
+{
+  "Number": 8369,
+  "Name": "Yowien Territory25",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Yowien Territory25",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 33": {
+      "MapId": 8368,
+      "X": 48,
+      "Y": 33,
+      "Point": "48, 33"
+    },
+    "1, 34": {
+      "MapId": 8368,
+      "X": 48,
+      "Y": 34,
+      "Point": "48, 34"
+    },
+    "1, 32": {
+      "MapId": 8368,
+      "X": 48,
+      "Y": 32,
+      "Point": "48, 32"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,51 @@
+{
+  "Number": 11021,
+  "Name": "Unknown 11021",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blossom Garden",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 46": {
+      "MapId": 10265,
+      "X": 18,
+      "Y": 2,
+      "Point": "18, 2"
+    },
+    "9, 46": {
+      "MapId": 10265,
+      "X": 17,
+      "Y": 2,
+      "Point": "17, 2"
+    },
+    "8, 46": {
+      "MapId": 10265,
+      "X": 16,
+      "Y": 2,
+      "Point": "16, 2"
+    },
+    "7, 46": {
+      "MapId": 10265,
+      "X": 15,
+      "Y": 2,
+      "Point": "15, 2"
+    },
+    "18, 0": {
+      "MapId": 2908,
+      "X": 5,
+      "Y": 17,
+      "Point": "5, 17"
+    },
+    "19, 0": {
+      "MapId": 2908,
+      "X": 6,
+      "Y": 17,
+      "Point": "6, 17"
+    }
+  },
+  "WorldMaps": {}
+}

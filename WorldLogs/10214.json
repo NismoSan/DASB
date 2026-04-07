@@ -1,0 +1,37 @@
+{
+  "Number": 10214,
+  "Name": "Andor 114",
+  "Description": null,
+  "DisplayName": "Andor 114",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "16, 30": {
+      "MapId": 10213,
+      "X": 22,
+      "Y": 3,
+      "Point": "22, 3"
+    },
+    "30, 9": {
+      "MapId": 10207,
+      "X": 3,
+      "Y": 15,
+      "Point": "3, 15"
+    },
+    "30, 8": {
+      "MapId": 10207,
+      "X": 3,
+      "Y": 14,
+      "Point": "3, 14"
+    },
+    "17, 30": {
+      "MapId": 10213,
+      "X": 23,
+      "Y": 3,
+      "Point": "23, 3"
+    }
+  }
+}

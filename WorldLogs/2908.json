@@ -1,0 +1,39 @@
+{
+  "Number": 2908,
+  "Name": "Unknown 2908",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blossom Forest 1",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 19": {
+      "MapId": 11021,
+      "X": 18,
+      "Y": 3,
+      "Point": "18, 3"
+    },
+    "5, 19": {
+      "MapId": 11021,
+      "X": 18,
+      "Y": 3,
+      "Point": "18, 3"
+    },
+    "5, 0": {
+      "MapId": 2909,
+      "X": 11,
+      "Y": 10,
+      "Point": "11, 10"
+    },
+    "4, 0": {
+      "MapId": 2909,
+      "X": 8,
+      "Y": 10,
+      "Point": "8, 10"
+    }
+  },
+  "WorldMaps": {}
+}

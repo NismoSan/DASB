@@ -1,0 +1,39 @@
+{
+  "Number": 6701,
+  "Name": "Oren Ruins Gateway2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Ruins Gateway2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 12": {
+      "MapId": 6700,
+      "X": 68,
+      "Y": 29,
+      "Point": "68, 29"
+    },
+    "0, 11": {
+      "MapId": 6700,
+      "X": 68,
+      "Y": 28,
+      "Point": "68, 28"
+    },
+    "0, 10": {
+      "MapId": 6700,
+      "X": 68,
+      "Y": 27,
+      "Point": "68, 27"
+    },
+    "0, 13": {
+      "MapId": 6700,
+      "X": 68,
+      "Y": 30,
+      "Point": "68, 30"
+    }
+  },
+  "WorldMaps": {}
+}

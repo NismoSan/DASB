@@ -1,0 +1,20 @@
+{
+  "Number": 112,
+  "Name": "Guild Master's Room",
+  "Description": null,
+  "DisplayName": "Guild Master's Room",
+  "Size": {
+    "Width": 10,
+    "Height": 10
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 6": {
+      "MapId": 126,
+      "X": 1,
+      "Y": 23,
+      "Point": "1, 23"
+    }
+  },
+  "WorldMaps": {}
+}

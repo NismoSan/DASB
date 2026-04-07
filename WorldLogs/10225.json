@@ -1,0 +1,37 @@
+{
+  "Number": 10225,
+  "Name": "Andor 125",
+  "Description": null,
+  "DisplayName": "Andor 125",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 8": {
+      "MapId": 10217,
+      "X": 3,
+      "Y": 22,
+      "Point": "3, 22"
+    },
+    "30, 9": {
+      "MapId": 10217,
+      "X": 3,
+      "Y": 23,
+      "Point": "3, 23"
+    },
+    "17, 30": {
+      "MapId": 10224,
+      "X": 22,
+      "Y": 3,
+      "Point": "22, 3"
+    },
+    "18, 30": {
+      "MapId": 10224,
+      "X": 23,
+      "Y": 3,
+      "Point": "23, 3"
+    }
+  }
+}

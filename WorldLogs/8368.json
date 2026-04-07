@@ -1,0 +1,63 @@
+{
+  "Number": 8368,
+  "Name": "Yowien Territory24",
+  "WalkSpot": "44, 32",
+  "Description": null,
+  "DisplayName": "Yowien Territory24",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 32": {
+      "MapId": 8367,
+      "X": 48,
+      "Y": 32,
+      "Point": "48, 32"
+    },
+    "1, 31": {
+      "MapId": 8367,
+      "X": 48,
+      "Y": 31,
+      "Point": "48, 31"
+    },
+    "1, 33": {
+      "MapId": 8367,
+      "X": 48,
+      "Y": 33,
+      "Point": "48, 33"
+    },
+    "1, 34": {
+      "MapId": 8367,
+      "X": 48,
+      "Y": 34,
+      "Point": "48, 34"
+    },
+    "49, 31": {
+      "MapId": 8369,
+      "X": 4,
+      "Y": 35,
+      "Point": "4, 35"
+    },
+    "49, 32": {
+      "MapId": 8369,
+      "X": 4,
+      "Y": 33,
+      "Point": "4, 33"
+    },
+    "49, 33": {
+      "MapId": 8369,
+      "X": 5,
+      "Y": 32,
+      "Point": "5, 32"
+    },
+    "49, 34": {
+      "MapId": 8369,
+      "X": 4,
+      "Y": 32,
+      "Point": "4, 32"
+    }
+  },
+  "WorldMaps": {}
+}

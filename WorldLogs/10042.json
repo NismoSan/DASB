@@ -1,0 +1,51 @@
+{
+  "Number": 10042,
+  "Name": "Noam Plains 13",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Noam Plains 13",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "39, 49": {
+      "MapId": 10039,
+      "X": 39,
+      "Y": 2,
+      "Point": "39, 2"
+    },
+    "38, 49": {
+      "MapId": 10039,
+      "X": 38,
+      "Y": 2,
+      "Point": "38, 2"
+    },
+    "37, 49": {
+      "MapId": 10039,
+      "X": 37,
+      "Y": 2,
+      "Point": "37, 2"
+    },
+    "3, 49": {
+      "MapId": 10039,
+      "X": 3,
+      "Y": 2,
+      "Point": "3, 2"
+    },
+    "8, 49": {
+      "MapId": 10039,
+      "X": 8,
+      "Y": 2,
+      "Point": "8, 2"
+    },
+    "49, 49": {
+      "MapId": 10039,
+      "X": 49,
+      "Y": 2,
+      "Point": "49, 2"
+    }
+  },
+  "WorldMaps": {}
+}

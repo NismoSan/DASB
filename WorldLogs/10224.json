@@ -1,0 +1,37 @@
+{
+  "Number": 10224,
+  "Name": "Andor 124",
+  "Description": null,
+  "DisplayName": "Andor 124",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "22, 1": {
+      "MapId": 10225,
+      "X": 17,
+      "Y": 28,
+      "Point": "17, 28"
+    },
+    "23, 1": {
+      "MapId": 10225,
+      "X": 18,
+      "Y": 28,
+      "Point": "18, 28"
+    },
+    "1, 22": {
+      "MapId": 10233,
+      "X": 28,
+      "Y": 15,
+      "Point": "28, 15"
+    },
+    "1, 23": {
+      "MapId": 10233,
+      "X": 28,
+      "Y": 16,
+      "Point": "28, 16"
+    }
+  }
+}

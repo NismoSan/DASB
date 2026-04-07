@@ -1,0 +1,44 @@
+{
+  "Number": 6605,
+  "Name": "Oren Island Jungle 4",
+  "Description": null,
+  "DisplayName": "Oren Island Jungle 4",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 0,
+  "Portals": {
+    "50, 69": {
+      "MapId": 6600,
+      "X": 7,
+      "Y": 2,
+      "Point": "7, 2"
+    },
+    "51, 69": {
+      "MapId": 6600,
+      "X": 7,
+      "Y": 2,
+      "Point": "7, 2"
+    },
+    "52, 69": {
+      "MapId": 6600,
+      "X": 7,
+      "Y": 2,
+      "Point": "7, 2"
+    },
+    "53, 69": {
+      "MapId": 6600,
+      "X": 7,
+      "Y": 2,
+      "Point": "7, 2"
+    },
+    "54, 69": {
+      "MapId": 6600,
+      "X": 7,
+      "Y": 2,
+      "Point": "7, 2"
+    }
+  },
+  "WorldMaps": {}
+}

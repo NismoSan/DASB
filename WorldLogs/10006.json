@@ -1,0 +1,26 @@
+{
+  "Number": 10006,
+  "Name": "Asilon Bank",
+  "Description": null,
+  "DisplayName": "Asilon Bank",
+  "Size": {
+    "Width": 13,
+    "Height": 13
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 5": {
+      "MapId": 10000,
+      "X": 11,
+      "Y": 37,
+      "Point": "11, 37"
+    },
+    "11, 6": {
+      "MapId": 10000,
+      "X": 11,
+      "Y": 37,
+      "Point": "11, 37"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,37 @@
+{
+  "Number": 10181,
+  "Name": "Andor 81",
+  "Description": null,
+  "DisplayName": "Andor 81",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "16, 29": {
+      "MapId": 10180,
+      "X": 14,
+      "Y": 3,
+      "Point": "14, 3"
+    },
+    "17, 29": {
+      "MapId": 10180,
+      "X": 15,
+      "Y": 3,
+      "Point": "15, 3"
+    },
+    "22, 1": {
+      "MapId": 10182,
+      "X": 15,
+      "Y": 28,
+      "Point": "15, 28"
+    },
+    "23, 1": {
+      "MapId": 10182,
+      "X": 16,
+      "Y": 28,
+      "Point": "16, 28"
+    }
+  }
+}

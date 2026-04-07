@@ -1,0 +1,69 @@
+{
+  "Number": 3059,
+  "Name": "Pravat West Entrance",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Pravat West Entrance",
+  "Size": {
+    "Width": 14,
+    "Height": 21
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 1": {
+      "MapId": 3056,
+      "X": 1,
+      "Y": 25,
+      "Point": "1, 25"
+    },
+    "5, 0": {
+      "MapId": 3052,
+      "X": 12,
+      "Y": 18,
+      "Point": "12, 18"
+    },
+    "13, 2": {
+      "MapId": 3056,
+      "X": 1,
+      "Y": 26,
+      "Point": "1, 26"
+    },
+    "13, 3": {
+      "MapId": 3056,
+      "X": 1,
+      "Y": 27,
+      "Point": "1, 27"
+    },
+    "13, 0": {
+      "MapId": 3056,
+      "X": 1,
+      "Y": 24,
+      "Point": "1, 24"
+    },
+    "5, 20": {
+      "MapId": 3052,
+      "X": 15,
+      "Y": 24,
+      "Point": "15, 24"
+    },
+    "6, 20": {
+      "MapId": 3052,
+      "X": 16,
+      "Y": 24,
+      "Point": "16, 24"
+    },
+    "6, 0": {
+      "MapId": 3052,
+      "X": 12,
+      "Y": 19,
+      "Point": "12, 19"
+    },
+    "7, 0": {
+      "MapId": 3052,
+      "X": 12,
+      "Y": 20,
+      "Point": "12, 20"
+    }
+  },
+  "WorldMaps": {}
+}

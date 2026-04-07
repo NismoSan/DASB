@@ -1,0 +1,27 @@
+{
+  "Number": 4002,
+  "Name": "Shifting Swamp East",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shifting Swamp East",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 31": {
+      "MapId": 4003,
+      "X": 13,
+      "Y": 1,
+      "Point": "13, 1"
+    },
+    "12, 31": {
+      "MapId": 4003,
+      "X": 12,
+      "Y": 1,
+      "Point": "12, 1"
+    }
+  },
+  "WorldMaps": {}
+}

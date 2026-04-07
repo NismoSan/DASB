@@ -1,0 +1,27 @@
+{
+  "Number": 645,
+  "Name": "Mine 25-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mine 25-1",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "24, 92": {
+      "MapId": 649,
+      "X": 91,
+      "Y": 2,
+      "Point": "91, 2"
+    },
+    "92, 44": {
+      "MapId": 646,
+      "X": 2,
+      "Y": 52,
+      "Point": "2, 52"
+    }
+  },
+  "WorldMaps": {}
+}

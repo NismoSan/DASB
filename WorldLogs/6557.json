@@ -1,0 +1,33 @@
+{
+  "Number": 6557,
+  "Name": "Unknown 6557",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Ruins 2-5",
+  "Size": {
+    "Width": 50,
+    "Height": 45
+  },
+  "Flags": 0,
+  "Portals": {
+    "47, 31": {
+      "MapId": 6534,
+      "X": 1,
+      "Y": 40,
+      "Point": "1, 40"
+    },
+    "11, 0": {
+      "MapId": 6558,
+      "X": 12,
+      "Y": 43,
+      "Point": "12, 43"
+    },
+    "10, 0": {
+      "MapId": 6558,
+      "X": 11,
+      "Y": 43,
+      "Point": "11, 43"
+    }
+  },
+  "WorldMaps": {}
+}

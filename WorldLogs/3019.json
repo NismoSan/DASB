@@ -1,0 +1,33 @@
+{
+  "Number": 3019,
+  "Name": "Shrine of Ceannlaidir - Piet",
+  "WalkSpot": "4, 7",
+  "Description": null,
+  "DisplayName": "Shrine of Ceannlaidir - ",
+  "Size": {
+    "Width": 25,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 6": {
+      "MapId": 3020,
+      "X": 12,
+      "Y": 7,
+      "Point": "12, 7"
+    },
+    "23, 7": {
+      "MapId": 3020,
+      "X": 12,
+      "Y": 8,
+      "Point": "12, 8"
+    },
+    "23, 8": {
+      "MapId": 3020,
+      "X": 12,
+      "Y": 8,
+      "Point": "12, 8"
+    }
+  },
+  "WorldMaps": {}
+}

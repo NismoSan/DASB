@@ -1,0 +1,21 @@
+{
+  "Number": 654,
+  "Name": "Mine 3-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mine 3-2",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 35": {
+      "MapId": 628,
+      "X": 51,
+      "Y": 57,
+      "Point": "51, 57"
+    }
+  },
+  "WorldMaps": {}
+}

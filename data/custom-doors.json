@@ -1,0 +1,26 @@
+[
+  {
+    "id": "door_11",
+    "name": "EmptyPravat",
+    "sprite": 33333,
+    "sourceMapId": 6700,
+    "sourceX": 35,
+    "sourceY": 32,
+    "targetMapId": 5,
+    "targetX": 10,
+    "targetY": 10,
+    "transportMode": "afk"
+  },
+  {
+    "id": "door_12",
+    "name": "EmptyPravat",
+    "sprite": 20,
+    "sourceMapId": 6700,
+    "sourceX": 36,
+    "sourceY": 32,
+    "targetMapId": 33332,
+    "targetX": 10,
+    "targetY": 10,
+    "transportMode": "afk"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "Number": 3622,
+  "Name": "Chaos 23",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 23",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 95": {
+      "MapId": 3612,
+      "X": 77,
+      "Y": 38,
+      "Point": "77, 38"
+    },
+    "99, 50": {
+      "MapId": 3623,
+      "X": 3,
+      "Y": 27,
+      "Point": "3, 27"
+    },
+    "0, 30": {
+      "MapId": 3621,
+      "X": 65,
+      "Y": 29,
+      "Point": "65, 29"
+    }
+  },
+  "WorldMaps": {}
+}

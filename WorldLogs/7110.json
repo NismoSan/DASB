@@ -1,0 +1,49 @@
+{
+  "Number": 7110,
+  "Name": "Oren Fair",
+  "Description": null,
+  "DisplayName": "Oren Fair",
+  "Size": {
+    "Width": 80,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "69, 19": {
+      "MapId": 7111,
+      "X": 5,
+      "Y": 20,
+      "Point": "5, 20"
+    },
+    "69, 18": {
+      "MapId": 7111,
+      "X": 5,
+      "Y": 19,
+      "Point": "5, 19"
+    },
+    "69, 55": {
+      "MapId": 7111,
+      "X": 5,
+      "Y": 56,
+      "Point": "5, 56"
+    },
+    "69, 54": {
+      "MapId": 7111,
+      "X": 5,
+      "Y": 55,
+      "Point": "5, 55"
+    },
+    "69, 37": {
+      "MapId": 7111,
+      "X": 5,
+      "Y": 38,
+      "Point": "5, 38"
+    },
+    "69, 36": {
+      "MapId": 7111,
+      "X": 5,
+      "Y": 37,
+      "Point": "5, 37"
+    }
+  }
+}

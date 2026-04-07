@@ -1,0 +1,39 @@
+{
+  "Number": 11349,
+  "Name": "Unknown 11349",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Muisir Hunting Ground 8",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "24, 0": {
+      "MapId": 11348,
+      "X": 24,
+      "Y": 48,
+      "Point": "24, 48"
+    },
+    "24, 49": {
+      "MapId": 11350,
+      "X": 24,
+      "Y": 1,
+      "Point": "24, 1"
+    },
+    "23, 0": {
+      "MapId": 11348,
+      "X": 23,
+      "Y": 48,
+      "Point": "23, 48"
+    },
+    "25, 0": {
+      "MapId": 11348,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    }
+  },
+  "WorldMaps": {}
+}

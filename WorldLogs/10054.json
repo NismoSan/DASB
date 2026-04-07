@@ -1,0 +1,45 @@
+{
+  "Number": 10054,
+  "Name": "Unknown 10054",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Noam Sacred Grounds",
+  "Size": {
+    "Width": 30,
+    "Height": 30
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 29": {
+      "MapId": 10055,
+      "X": 86,
+      "Y": 3,
+      "Point": "86, 3"
+    },
+    "14, 29": {
+      "MapId": 10055,
+      "X": 86,
+      "Y": 3,
+      "Point": "86, 3"
+    },
+    "15, 29": {
+      "MapId": 10055,
+      "X": 87,
+      "Y": 3,
+      "Point": "87, 3"
+    },
+    "16, 29": {
+      "MapId": 10055,
+      "X": 88,
+      "Y": 3,
+      "Point": "88, 3"
+    },
+    "17, 29": {
+      "MapId": 10055,
+      "X": 89,
+      "Y": 3,
+      "Point": "89, 3"
+    }
+  },
+  "WorldMaps": {}
+}

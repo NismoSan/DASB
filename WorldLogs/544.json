@@ -1,0 +1,25 @@
+{
+  "Number": 544,
+  "Name": "Shinewood Forest 5",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 5",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "88, 99": {
+      "MapId": 543,
+      "X": 78,
+      "Y": 1,
+      "Point": "78, 1"
+    },
+    "99, 23": {
+      "MapId": 545,
+      "X": 1,
+      "Y": 35,
+      "Point": "1, 35"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Number": 3629,
+  "Name": "Chaos 30",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 30",
+  "Size": {
+    "Width": 80,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "28, 4": {
+      "MapId": 3628,
+      "X": 29,
+      "Y": 66,
+      "Point": "29, 66"
+    },
+    "29, 4": {
+      "MapId": 3628,
+      "X": 29,
+      "Y": 66,
+      "Point": "29, 66"
+    },
+    "30, 4": {
+      "MapId": 3628,
+      "X": 29,
+      "Y": 65,
+      "Point": "29, 65"
+    },
+    "3, 40": {
+      "MapId": 3630,
+      "X": 44,
+      "Y": 22,
+      "Point": "44, 22"
+    },
+    "3, 39": {
+      "MapId": 3630,
+      "X": 43,
+      "Y": 23,
+      "Point": "43, 23"
+    }
+  },
+  "WorldMaps": {}
+}

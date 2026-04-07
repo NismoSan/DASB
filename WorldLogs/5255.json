@@ -1,0 +1,33 @@
+{
+  "Number": 5255,
+  "Name": "Warrior Blacksmith",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Warrior Blacksmith",
+  "Size": {
+    "Width": 13,
+    "Height": 13
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 0": {
+      "MapId": 5254,
+      "X": 8,
+      "Y": 5,
+      "Point": "8, 5"
+    },
+    "7, 12": {
+      "MapId": 662,
+      "X": 77,
+      "Y": 71,
+      "Point": "77, 71"
+    },
+    "6, 12": {
+      "MapId": 662,
+      "X": 76,
+      "Y": 71,
+      "Point": "76, 71"
+    }
+  },
+  "WorldMaps": {}
+}

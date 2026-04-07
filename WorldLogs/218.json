@@ -1,0 +1,57 @@
+{
+  "Number": 218,
+  "Name": "Piet Dungeon 5-3",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Dungeon 5-3",
+  "Size": {
+    "Width": 25,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 0": {
+      "MapId": 198,
+      "X": 8,
+      "Y": 2,
+      "Point": "8, 2"
+    },
+    "1, 11": {
+      "MapId": 221,
+      "X": 47,
+      "Y": 10,
+      "Point": "47, 10"
+    },
+    "18, 24": {
+      "MapId": 199,
+      "X": 11,
+      "Y": 2,
+      "Point": "11, 2"
+    },
+    "17, 24": {
+      "MapId": 199,
+      "X": 11,
+      "Y": 2,
+      "Point": "11, 2"
+    },
+    "19, 24": {
+      "MapId": 199,
+      "X": 11,
+      "Y": 2,
+      "Point": "11, 2"
+    },
+    "10, 20": {
+      "MapId": 220,
+      "X": 23,
+      "Y": 10,
+      "Point": "23, 10"
+    },
+    "11, 21": {
+      "MapId": 220,
+      "X": 23,
+      "Y": 10,
+      "Point": "23, 10"
+    }
+  },
+  "WorldMaps": {}
+}

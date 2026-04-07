@@ -1,0 +1,33 @@
+{
+  "Number": 5098,
+  "Name": "Macabre Study 4-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Macabre Study 4-2",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 4": {
+      "MapId": 2049,
+      "X": 94,
+      "Y": 13,
+      "Point": "94, 13"
+    },
+    "19, 5": {
+      "MapId": 2049,
+      "X": 94,
+      "Y": 13,
+      "Point": "94, 13"
+    },
+    "2, 2": {
+      "MapId": 5101,
+      "X": 3,
+      "Y": 3,
+      "Point": "3, 3"
+    }
+  },
+  "WorldMaps": {}
+}

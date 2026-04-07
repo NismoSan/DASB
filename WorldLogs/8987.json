@@ -1,0 +1,51 @@
+{
+  "Number": 8987,
+  "Name": "Lost Ruins 5",
+  "WalkSpot": "12, 17",
+  "Description": null,
+  "DisplayName": "Lost Ruins 5",
+  "Size": {
+    "Width": 100,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "99, 4": {
+      "MapId": 8995,
+      "X": 3,
+      "Y": 2,
+      "Point": "3, 2"
+    },
+    "99, 3": {
+      "MapId": 8995,
+      "X": 4,
+      "Y": 2,
+      "Point": "4, 2"
+    },
+    "99, 2": {
+      "MapId": 8995,
+      "X": 5,
+      "Y": 2,
+      "Point": "5, 2"
+    },
+    "99, 1": {
+      "MapId": 8995,
+      "X": 6,
+      "Y": 2,
+      "Point": "6, 2"
+    },
+    "99, 5": {
+      "MapId": 8995,
+      "X": 2,
+      "Y": 2,
+      "Point": "2, 2"
+    },
+    "99, 6": {
+      "MapId": 8995,
+      "X": 1,
+      "Y": 2,
+      "Point": "1, 2"
+    }
+  },
+  "WorldMaps": {}
+}

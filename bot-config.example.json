@@ -1,0 +1,60 @@
+{
+  "bots": [
+    {
+      "id": "bot_1",
+      "username": "YourBotName",
+      "password": "your-password",
+      "enabled": true,
+      "role": "primary"
+    }
+  ],
+  "server": {
+    "address": "127.0.0.1",
+    "port": 2610
+  },
+  "webPort": 4000,
+  "features": {
+    "autoReconnect": true,
+    "logChat": true,
+    "logPackets": true
+  },
+  "reconnectStrategy": {
+    "sequential": true,
+    "delayBetweenBots": 5000
+  },
+  "timezone": "America/Chicago",
+  "walkPaths": [],
+  "aeIngest": {
+    "enabled": false,
+    "apiUrl": "",
+    "apiKey": ""
+  },
+  "chatGames": {
+    "enabled": false,
+    "openaiModel": "gpt-4o-mini",
+    "commandPrefix": "+",
+    "publicChatEnabled": true,
+    "whisperEnabled": true,
+    "cooldownSeconds": 10,
+    "games": {
+      "trivia": true,
+      "riddle": true,
+      "eightball": true,
+      "scramble": true,
+      "numberguess": true,
+      "fortune": true,
+      "rps": true,
+      "blackjack": true,
+      "hangman": true
+    },
+    "roastMode": false,
+    "rageBaitMode": false,
+    "customTrivia": [],
+    "customWords": [],
+    "roastTarget": "",
+    "custom8Ball": [],
+    "customRiddles": [],
+    "customFortunes": []
+  },
+  "scheduledMessages": []
+}

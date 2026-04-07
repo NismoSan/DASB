@@ -1,0 +1,39 @@
+{
+  "Number": 3607,
+  "Name": "Chaos 8",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 8",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 50": {
+      "MapId": 3606,
+      "X": 76,
+      "Y": 38,
+      "Point": "76, 38"
+    },
+    "69, 20": {
+      "MapId": 3608,
+      "X": 3,
+      "Y": 27,
+      "Point": "3, 27"
+    },
+    "69, 19": {
+      "MapId": 3608,
+      "X": 3,
+      "Y": 28,
+      "Point": "3, 28"
+    },
+    "69, 18": {
+      "MapId": 3608,
+      "X": 4,
+      "Y": 27,
+      "Point": "4, 27"
+    }
+  },
+  "WorldMaps": {}
+}

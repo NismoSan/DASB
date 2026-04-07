@@ -1,0 +1,21 @@
+{
+  "Number": 7432,
+  "Name": "Loures Sewer Canal 32",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Loures Sewer Canal 32",
+  "Size": {
+    "Width": 25,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 24": {
+      "MapId": 7431,
+      "X": 15,
+      "Y": 1,
+      "Point": "15, 1"
+    }
+  },
+  "WorldMaps": {}
+}

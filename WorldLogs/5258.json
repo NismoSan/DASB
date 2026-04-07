@@ -1,0 +1,27 @@
+{
+  "Number": 5258,
+  "Name": "Warrior Training Room2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Warrior Training Room2",
+  "Size": {
+    "Width": 37,
+    "Height": 37
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 9": {
+      "MapId": 5254,
+      "X": 9,
+      "Y": 2,
+      "Point": "9, 2"
+    },
+    "1, 10": {
+      "MapId": 5254,
+      "X": 9,
+      "Y": 2,
+      "Point": "9, 2"
+    }
+  },
+  "WorldMaps": {}
+}

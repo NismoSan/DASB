@@ -1,0 +1,51 @@
+{
+  "Number": 11545,
+  "Name": "Unknown 11545",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tavaly Potion and Repair",
+  "Size": {
+    "Width": 15,
+    "Height": 35
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 6": {
+      "MapId": 11500,
+      "X": 33,
+      "Y": 77,
+      "Point": "33, 77"
+    },
+    "14, 7": {
+      "MapId": 11500,
+      "X": 33,
+      "Y": 78,
+      "Point": "33, 78"
+    },
+    "14, 8": {
+      "MapId": 11500,
+      "X": 33,
+      "Y": 79,
+      "Point": "33, 79"
+    },
+    "14, 27": {
+      "MapId": 11500,
+      "X": 33,
+      "Y": 88,
+      "Point": "33, 88"
+    },
+    "14, 28": {
+      "MapId": 11500,
+      "X": 33,
+      "Y": 89,
+      "Point": "33, 89"
+    },
+    "14, 29": {
+      "MapId": 11500,
+      "X": 33,
+      "Y": 90,
+      "Point": "33, 90"
+    }
+  },
+  "WorldMaps": {}
+}

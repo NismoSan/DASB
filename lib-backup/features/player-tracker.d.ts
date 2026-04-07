@@ -1,0 +1,20 @@
+import { PlayerRecord, UserListEntry, PlayerDetailResult, ProfileResult } from '../types';
+export declare function recordSighting(name: string, source?: string): void;
+export declare function updatePlayerAppearance(name: string, spriteData: any): void;
+export declare function updatePlayerRecord(name: string, data: any): void;
+export declare function getPlayerDetail(name: string, callback?: (result: PlayerDetailResult) => void): void;
+export declare function getAllPlayers(): any[];
+export declare function parseUserList(packet: any): UserListEntry[];
+export declare function parseOtherProfile(packet: any, knownName?: string): ProfileResult | null;
+export declare function canRequestProfile(playerName: string): boolean;
+export declare function markProfileFailed(playerName: string): void;
+export declare function wipeAll(): Promise<void>;
+export declare function clearAppearances(): Promise<void>;
+export declare function getOnlineUsers(): UserListEntry[];
+export declare function getLastUserListPulse(): number | null;
+export declare function getPlayerDB(): Record<string, PlayerRecord>;
+export declare function loadFromDB(): Promise<void>;
+export declare function init(deps: {
+    db: any;
+    io: any;
+}): void;

@@ -1,0 +1,14 @@
+{
+  "Number": 7300,
+  "Name": "Pyramid Maze",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Pyramid Maze",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 64,
+  "Portals": {},
+  "WorldMaps": {}
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 2085,
+  "Name": "Ice Cave 25",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Ice Cave 25",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "2, 13": {
+      "MapId": 2084,
+      "X": 17,
+      "Y": 7,
+      "Point": "17, 7"
+    },
+    "19, 11": {
+      "MapId": 2086,
+      "X": 1,
+      "Y": 4,
+      "Point": "1, 4"
+    }
+  },
+  "WorldMaps": {}
+}

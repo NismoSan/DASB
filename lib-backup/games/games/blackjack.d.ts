@@ -1,0 +1,11 @@
+export declare function startBlackjack(sender: string, isWhisper: boolean): void;
+export declare function handleBlackjackAction(session: any, message: string): void;
+export declare function startBjLobby(sender: string, args: string): void;
+export declare function joinBjLobby(sender: string): void;
+export declare function forceStartBj(sender: string): void;
+export declare function bjGroupHandleBet(sender: string, amount: number): boolean;
+export declare function handleGroupBjMessage(sender: string, message: string): boolean;
+export declare function leaveBj(sender: string, isWhisper: boolean): void;
+export declare function stopBjGame(sender: string): void;
+export declare function showBjStatus(sender: string, isWhisper: boolean): void;
+export declare function getBjStatus(): any;

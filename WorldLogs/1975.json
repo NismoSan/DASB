@@ -1,0 +1,27 @@
+{
+  "Number": 1975,
+  "Name": "Lost Souls Pass 5",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Lost Souls Pass 5",
+  "Size": {
+    "Width": 40,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "39, 21": {
+      "MapId": 662,
+      "X": 4,
+      "Y": 35,
+      "Point": "4, 35"
+    },
+    "39, 22": {
+      "MapId": 662,
+      "X": 4,
+      "Y": 36,
+      "Point": "4, 36"
+    }
+  },
+  "WorldMaps": {}
+}

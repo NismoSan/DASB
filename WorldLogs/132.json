@@ -1,0 +1,33 @@
+{
+  "Number": 132,
+  "Name": "Mileth Weapon Shop",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Weapon Shop",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 14": {
+      "MapId": 500,
+      "X": 13,
+      "Y": 69,
+      "Point": "13, 69"
+    },
+    "7, 14": {
+      "MapId": 500,
+      "X": 14,
+      "Y": 69,
+      "Point": "14, 69"
+    },
+    "12, 0": {
+      "MapId": 133,
+      "X": 1,
+      "Y": 9,
+      "Point": "1, 9"
+    }
+  },
+  "WorldMaps": {}
+}

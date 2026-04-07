@@ -1,0 +1,27 @@
+{
+  "Number": 5004,
+  "Name": "Cthonic Remains 4",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Cthonic Remains 4",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "38, 63": {
+      "MapId": 5003,
+      "X": 38,
+      "Y": 65,
+      "Point": "38, 65"
+    },
+    "7, 81": {
+      "MapId": 5005,
+      "X": 6,
+      "Y": 81,
+      "Point": "6, 81"
+    }
+  },
+  "WorldMaps": {}
+}

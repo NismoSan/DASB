@@ -1,0 +1,39 @@
+{
+  "Number": 3619,
+  "Name": "Chaos 20",
+  "WalkSpot": "7, 33",
+  "Description": null,
+  "DisplayName": "Chaos 20",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 47": {
+      "MapId": 3618,
+      "X": 76,
+      "Y": 48,
+      "Point": "76, 48"
+    },
+    "69, 60": {
+      "MapId": 3620,
+      "X": 3,
+      "Y": 78,
+      "Point": "3, 78"
+    },
+    "69, 59": {
+      "MapId": 3620,
+      "X": 3,
+      "Y": 77,
+      "Point": "3, 77"
+    },
+    "69, 61": {
+      "MapId": 3620,
+      "X": 3,
+      "Y": 77,
+      "Point": "3, 77"
+    }
+  },
+  "WorldMaps": {}
+}

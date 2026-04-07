@@ -1,0 +1,27 @@
+{
+  "Number": 1968,
+  "Name": "Tagor Armor Shop",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tagor Armor Shop",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 9": {
+      "MapId": 662,
+      "X": 47,
+      "Y": 26,
+      "Point": "47, 26"
+    },
+    "11, 8": {
+      "MapId": 662,
+      "X": 47,
+      "Y": 25,
+      "Point": "47, 25"
+    }
+  },
+  "WorldMaps": {}
+}

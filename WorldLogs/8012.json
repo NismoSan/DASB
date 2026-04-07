@@ -1,0 +1,33 @@
+{
+  "Number": 8012,
+  "Name": "Unknown Depths 12",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Unknown Depths 12",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "27, 35": {
+      "MapId": 8046,
+      "X": 7,
+      "Y": 12,
+      "Point": "7, 12"
+    },
+    "27, 31": {
+      "MapId": 8046,
+      "X": 12,
+      "Y": 8,
+      "Point": "12, 8"
+    },
+    "48, 28": {
+      "MapId": 8013,
+      "X": 2,
+      "Y": 28,
+      "Point": "2, 28"
+    }
+  },
+  "WorldMaps": {}
+}

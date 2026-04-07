@@ -1,0 +1,21 @@
+{
+  "Number": 3220,
+  "Name": "Blackstar Church",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blackstar Church",
+  "Size": {
+    "Width": 18,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 24": {
+      "MapId": 3210,
+      "X": 52,
+      "Y": 33,
+      "Point": "52, 33"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 8354,
+  "Name": "Yowien Territory10",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Yowien Territory10",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 1": {
+      "MapId": 8353,
+      "X": 38,
+      "Y": 12,
+      "Point": "38, 12"
+    },
+    "19, 12": {
+      "MapId": 8355,
+      "X": 1,
+      "Y": 4,
+      "Point": "1, 4"
+    },
+    "19, 13": {
+      "MapId": 8355,
+      "X": 1,
+      "Y": 5,
+      "Point": "1, 5"
+    },
+    "19, 14": {
+      "MapId": 8355,
+      "X": 1,
+      "Y": 6,
+      "Point": "1, 6"
+    },
+    "19, 15": {
+      "MapId": 8355,
+      "X": 1,
+      "Y": 7,
+      "Point": "1, 7"
+    },
+    "19, 16": {
+      "MapId": 8355,
+      "X": 1,
+      "Y": 8,
+      "Point": "1, 8"
+    },
+    "19, 17": {
+      "MapId": 8355,
+      "X": 1,
+      "Y": 9,
+      "Point": "1, 9"
+    },
+    "19, 18": {
+      "MapId": 8355,
+      "X": 1,
+      "Y": 10,
+      "Point": "1, 10"
+    }
+  },
+  "WorldMaps": {}
+}

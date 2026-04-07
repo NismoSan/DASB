@@ -1,0 +1,39 @@
+{
+  "Number": 616,
+  "Name": "East Woodland 14-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "East Woodland 14-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "26, 49": {
+      "MapId": 600,
+      "X": 22,
+      "Y": 1,
+      "Point": "22, 1"
+    },
+    "24, 0": {
+      "MapId": 617,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "23, 0": {
+      "MapId": 617,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "25, 49": {
+      "MapId": 600,
+      "X": 21,
+      "Y": 1,
+      "Point": "21, 1"
+    }
+  },
+  "WorldMaps": {}
+}

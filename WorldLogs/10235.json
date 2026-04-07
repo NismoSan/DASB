@@ -1,0 +1,37 @@
+{
+  "Number": 10235,
+  "Name": "Andor 135",
+  "Description": null,
+  "DisplayName": "Andor 135",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "17, 29": {
+      "MapId": 10234,
+      "X": 15,
+      "Y": 3,
+      "Point": "15, 3"
+    },
+    "16, 29": {
+      "MapId": 10234,
+      "X": 14,
+      "Y": 3,
+      "Point": "14, 3"
+    },
+    "22, 1": {
+      "MapId": 10236,
+      "X": 17,
+      "Y": 27,
+      "Point": "17, 27"
+    },
+    "23, 1": {
+      "MapId": 10236,
+      "X": 18,
+      "Y": 27,
+      "Point": "18, 27"
+    }
+  }
+}

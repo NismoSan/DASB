@@ -1,0 +1,51 @@
+{
+  "Number": 3616,
+  "Name": "Chaos 17",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 17",
+  "Size": {
+    "Width": 80,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 75": {
+      "MapId": 3614,
+      "X": 44,
+      "Y": 42,
+      "Point": "44, 42"
+    },
+    "26, 0": {
+      "MapId": 3615,
+      "X": 26,
+      "Y": 46,
+      "Point": "26, 46"
+    },
+    "29, 79": {
+      "MapId": 3617,
+      "X": 26,
+      "Y": 3,
+      "Point": "26, 3"
+    },
+    "30, 79": {
+      "MapId": 3617,
+      "X": 26,
+      "Y": 3,
+      "Point": "26, 3"
+    },
+    "31, 79": {
+      "MapId": 3617,
+      "X": 26,
+      "Y": 3,
+      "Point": "26, 3"
+    },
+    "32, 79": {
+      "MapId": 3617,
+      "X": 26,
+      "Y": 3,
+      "Point": "26, 3"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,37 @@
+{
+  "Number": 6569,
+  "Name": "Oren Ruins 3-5",
+  "Description": null,
+  "DisplayName": "Oren Ruins 3-5",
+  "Size": {
+    "Width": 50,
+    "Height": 45
+  },
+  "Flags": 0,
+  "Portals": {
+    "21, 0": {
+      "MapId": 6538,
+      "X": 53,
+      "Y": 72,
+      "Point": "53, 72"
+    },
+    "22, 0": {
+      "MapId": 6538,
+      "X": 54,
+      "Y": 72,
+      "Point": "54, 72"
+    },
+    "11, 44": {
+      "MapId": 6570,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    },
+    "12, 44": {
+      "MapId": 6570,
+      "X": 11,
+      "Y": 1,
+      "Point": "11, 1"
+    }
+  }
+}

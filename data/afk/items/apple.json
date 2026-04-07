@@ -1,0 +1,12 @@
+{
+  "templateKey": "apple",
+  "name": "Apple",
+  "sprite": 142,
+  "color": 0,
+  "stackable": true,
+  "maxStack": 99,
+  "type": "consumable",
+  "healHp": 200,
+  "sellValue": 5,
+  "buyValue": 15
+}

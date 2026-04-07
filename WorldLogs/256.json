@@ -1,0 +1,45 @@
+{
+  "Number": 256,
+  "Name": "Piet Dungeon 16-3",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Dungeon 16-3",
+  "Size": {
+    "Width": 25,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "3, 3": {
+      "MapId": 260,
+      "X": 4,
+      "Y": 37,
+      "Point": "4, 37"
+    },
+    "19, 19": {
+      "MapId": 259,
+      "X": 1,
+      "Y": 39,
+      "Point": "1, 39"
+    },
+    "0, 9": {
+      "MapId": 251,
+      "X": 3,
+      "Y": 2,
+      "Point": "3, 2"
+    },
+    "0, 11": {
+      "MapId": 251,
+      "X": 3,
+      "Y": 2,
+      "Point": "3, 2"
+    },
+    "0, 10": {
+      "MapId": 251,
+      "X": 3,
+      "Y": 2,
+      "Point": "3, 2"
+    }
+  },
+  "WorldMaps": {}
+}

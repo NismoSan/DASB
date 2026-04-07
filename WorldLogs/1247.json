@@ -1,0 +1,21 @@
+{
+  "Number": 1247,
+  "Name": "Unknown 1247",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Farm",
+  "Size": {
+    "Width": 70,
+    "Height": 50
+  },
+  "Flags": 2,
+  "Portals": {
+    "7, 0": {
+      "MapId": 2038,
+      "X": 58,
+      "Y": 97,
+      "Point": "58, 97"
+    }
+  },
+  "WorldMaps": {}
+}

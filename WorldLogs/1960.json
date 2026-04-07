@@ -1,0 +1,27 @@
+{
+  "Number": 1960,
+  "Name": "Tagor Inn",
+  "WalkSpot": "6, 5",
+  "Description": null,
+  "DisplayName": "Tagor Inn",
+  "Size": {
+    "Width": 14,
+    "Height": 14
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 13": {
+      "MapId": 662,
+      "X": 40,
+      "Y": 51,
+      "Point": "40, 51"
+    },
+    "7, 13": {
+      "MapId": 662,
+      "X": 41,
+      "Y": 51,
+      "Point": "41, 51"
+    }
+  },
+  "WorldMaps": {}
+}

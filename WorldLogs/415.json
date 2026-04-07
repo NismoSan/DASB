@@ -1,0 +1,27 @@
+{
+  "Number": 415,
+  "Name": "Suomi Special Skill Master",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Suomi Special Skill Mast",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 14": {
+      "MapId": 503,
+      "X": 12,
+      "Y": 18,
+      "Point": "12, 18"
+    },
+    "7, 14": {
+      "MapId": 503,
+      "X": 13,
+      "Y": 18,
+      "Point": "13, 18"
+    }
+  },
+  "WorldMaps": {}
+}

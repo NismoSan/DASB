@@ -1,0 +1,21 @@
+{
+  "Number": 8009,
+  "Name": "Unknown Depths 9",
+  "WalkSpot": "8, 5",
+  "Description": null,
+  "DisplayName": "Unknown Depths 9",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 48": {
+      "MapId": 8008,
+      "X": 24,
+      "Y": 3,
+      "Point": "24, 3"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,31 @@
+{
+  "Number": 9372,
+  "Name": "Plamit's Cave 11-2",
+  "Description": null,
+  "DisplayName": "Plamit's Cave 11-2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 8": {
+      "MapId": 9369,
+      "X": 37,
+      "Y": 32,
+      "Point": "37, 32"
+    },
+    "17, 0": {
+      "MapId": 9370,
+      "X": 26,
+      "Y": 46,
+      "Point": "26, 46"
+    },
+    "26, 2": {
+      "MapId": 9375,
+      "X": 34,
+      "Y": 1,
+      "Point": "34, 1"
+    }
+  }
+}

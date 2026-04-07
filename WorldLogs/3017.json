@@ -1,0 +1,21 @@
+{
+  "Number": 3017,
+  "Name": "Shrine of Deoch - Suomi",
+  "WalkSpot": "7, 6",
+  "Description": null,
+  "DisplayName": "Shrine of Deoch - Suomi",
+  "Size": {
+    "Width": 25,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 6": {
+      "MapId": 3016,
+      "X": 12,
+      "Y": 7,
+      "Point": "12, 7"
+    }
+  },
+  "WorldMaps": {}
+}

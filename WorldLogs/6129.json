@@ -1,0 +1,27 @@
+{
+  "Number": 6129,
+  "Name": "Unknown 6129",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Manor Floor 3-11",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "45, 1": {
+      "MapId": 6128,
+      "X": 37,
+      "Y": 41,
+      "Point": "37, 41"
+    },
+    "1, 30": {
+      "MapId": 6130,
+      "X": 3,
+      "Y": 17,
+      "Point": "3, 17"
+    }
+  },
+  "WorldMaps": {}
+}

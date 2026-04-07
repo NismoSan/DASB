@@ -1,0 +1,33 @@
+{
+  "Number": 3083,
+  "Name": "Unknown 3083",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Singing Sylvan Glade",
+  "Size": {
+    "Width": 8,
+    "Height": 8
+  },
+  "Flags": 0,
+  "Portals": {
+    "3, 7": {
+      "MapId": 618,
+      "X": 8,
+      "Y": 1,
+      "Point": "8, 1"
+    },
+    "4, 7": {
+      "MapId": 618,
+      "X": 9,
+      "Y": 1,
+      "Point": "9, 1"
+    },
+    "5, 7": {
+      "MapId": 618,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    }
+  },
+  "WorldMaps": {}
+}

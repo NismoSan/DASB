@@ -1,0 +1,26 @@
+{
+  "Number": 3928,
+  "Name": "Loures Store 2",
+  "Description": null,
+  "DisplayName": "Loures Store 2",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 19": {
+      "MapId": 3926,
+      "X": 33,
+      "Y": 62,
+      "Point": "33, 62"
+    },
+    "10, 19": {
+      "MapId": 3926,
+      "X": 33,
+      "Y": 62,
+      "Point": "33, 62"
+    }
+  },
+  "WorldMaps": {}
+}

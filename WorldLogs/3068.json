@@ -1,0 +1,21 @@
+{
+  "Number": 3068,
+  "Name": "Great Sylvan Glade",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Great Sylvan Glade",
+  "Size": {
+    "Width": 8,
+    "Height": 8
+  },
+  "Flags": 0,
+  "Portals": {
+    "4, 7": {
+      "MapId": 617,
+      "X": 18,
+      "Y": 1,
+      "Point": "18, 1"
+    }
+  },
+  "WorldMaps": {}
+}

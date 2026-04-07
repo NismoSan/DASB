@@ -1,0 +1,39 @@
+{
+  "Number": 8328,
+  "Name": "Aman Jungle28",
+  "WalkSpot": "10, 5",
+  "Description": null,
+  "DisplayName": "Hostile Grounds",
+  "Size": {
+    "Width": 20,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 39": {
+      "MapId": 8327,
+      "X": 26,
+      "Y": 1,
+      "Point": "26, 1"
+    },
+    "9, 39": {
+      "MapId": 8327,
+      "X": 24,
+      "Y": 1,
+      "Point": "24, 1"
+    },
+    "10, 39": {
+      "MapId": 8327,
+      "X": 25,
+      "Y": 1,
+      "Point": "25, 1"
+    },
+    "8, 39": {
+      "MapId": 8327,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    }
+  },
+  "WorldMaps": {}
+}

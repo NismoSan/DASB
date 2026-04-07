@@ -1,0 +1,39 @@
+{
+  "Number": 7419,
+  "Name": "Loures Sewer Canal 19",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Loures Sewer Canal 19",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 13": {
+      "MapId": 7418,
+      "X": 17,
+      "Y": 4,
+      "Point": "17, 4"
+    },
+    "0, 12": {
+      "MapId": 7418,
+      "X": 16,
+      "Y": 3,
+      "Point": "16, 3"
+    },
+    "19, 10": {
+      "MapId": 7404,
+      "X": 3,
+      "Y": 36,
+      "Point": "3, 36"
+    },
+    "19, 11": {
+      "MapId": 7404,
+      "X": 3,
+      "Y": 37,
+      "Point": "3, 37"
+    }
+  },
+  "WorldMaps": {}
+}

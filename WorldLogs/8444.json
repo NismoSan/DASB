@@ -1,0 +1,33 @@
+{
+  "Number": 8444,
+  "Name": "Chadul's Loures 3",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chadul's Loures 3",
+  "Size": {
+    "Width": 15,
+    "Height": 33
+  },
+  "Flags": 0,
+  "Portals": {
+    "3, 31": {
+      "MapId": 8443,
+      "X": 15,
+      "Y": 10,
+      "Point": "15, 10"
+    },
+    "2, 31": {
+      "MapId": 8443,
+      "X": 14,
+      "Y": 9,
+      "Point": "14, 9"
+    },
+    "3, 1": {
+      "MapId": 8445,
+      "X": 6,
+      "Y": 12,
+      "Point": "6, 12"
+    }
+  },
+  "WorldMaps": {}
+}

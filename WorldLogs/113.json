@@ -1,0 +1,20 @@
+{
+  "Number": 113,
+  "Name": "Loures 2 Floor Main Room",
+  "Description": null,
+  "DisplayName": "Loures 2 Floor Main Room",
+  "Size": {
+    "Width": 10,
+    "Height": 10
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 8": {
+      "MapId": 114,
+      "X": 4,
+      "Y": 1,
+      "Point": "4, 1"
+    }
+  },
+  "WorldMaps": {}
+}

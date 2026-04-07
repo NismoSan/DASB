@@ -1,0 +1,33 @@
+{
+  "Number": 6002,
+  "Name": "Unknown 6002",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Manor Main Hall",
+  "Size": {
+    "Width": 60,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "22, 2": {
+      "MapId": 6099,
+      "X": 20,
+      "Y": 48,
+      "Point": "20, 48"
+    },
+    "32, 0": {
+      "MapId": 6119,
+      "X": 22,
+      "Y": 47,
+      "Point": "22, 47"
+    },
+    "14, 1": {
+      "MapId": 6139,
+      "X": 17,
+      "Y": 18,
+      "Point": "17, 18"
+    }
+  },
+  "WorldMaps": {}
+}

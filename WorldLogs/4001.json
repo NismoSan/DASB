@@ -1,0 +1,63 @@
+{
+  "Number": 4001,
+  "Name": "Shifting Swamp West",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shifting Swamp West",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 0": {
+      "MapId": 4000,
+      "X": 11,
+      "Y": 30,
+      "Point": "11, 30"
+    },
+    "12, 0": {
+      "MapId": 4000,
+      "X": 12,
+      "Y": 30,
+      "Point": "12, 30"
+    },
+    "13, 0": {
+      "MapId": 4000,
+      "X": 13,
+      "Y": 30,
+      "Point": "13, 30"
+    },
+    "0, 12": {
+      "MapId": 3074,
+      "X": 12,
+      "Y": 30,
+      "Point": "12, 30"
+    },
+    "0, 13": {
+      "MapId": 3074,
+      "X": 13,
+      "Y": 30,
+      "Point": "13, 30"
+    },
+    "31, 12": {
+      "MapId": 4003,
+      "X": 1,
+      "Y": 12,
+      "Point": "1, 12"
+    },
+    "31, 13": {
+      "MapId": 4003,
+      "X": 1,
+      "Y": 13,
+      "Point": "1, 13"
+    },
+    "0, 14": {
+      "MapId": 3074,
+      "X": 14,
+      "Y": 30,
+      "Point": "14, 30"
+    }
+  },
+  "WorldMaps": {}
+}

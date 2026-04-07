@@ -1,0 +1,19 @@
+{
+  "Number": 9380,
+  "Name": "Plamit Bar",
+  "Description": null,
+  "DisplayName": "Plamit Bar",
+  "Size": {
+    "Width": 18,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 15": {
+      "MapId": 9378,
+      "X": 9,
+      "Y": 15,
+      "Point": "9, 15"
+    }
+  }
+}

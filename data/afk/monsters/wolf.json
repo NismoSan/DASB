@@ -1,0 +1,22 @@
+{
+  "templateKey": "wolf",
+  "name": "Wolf",
+  "sprite": 18,
+  "level": 4,
+  "maxHp": 600,
+  "maxMp": 0,
+  "stats": { "str": 10, "int": 1, "wis": 1, "con": 8, "dex": 14 },
+  "ac": 95,
+  "aggroRange": 8,
+  "moveIntervalMs": 800,
+  "assailIntervalMs": 1400,
+  "skillIntervalMs": 8000,
+  "spellIntervalMs": 10000,
+  "wanderIntervalMs": 3000,
+  "expReward": 100,
+  "goldDrop": { "min": 10, "max": 40 },
+  "lootTableKey": "wolf_loot",
+  "skills": [],
+  "spells": [],
+  "respawnMs": 25000
+}

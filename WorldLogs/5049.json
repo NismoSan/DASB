@@ -1,0 +1,27 @@
+{
+  "Number": 5049,
+  "Name": "Cthonic Remains 49",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Cthonic Remains 49",
+  "Size": {
+    "Width": 60,
+    "Height": 60
+  },
+  "Flags": 0,
+  "Portals": {
+    "42, 58": {
+      "MapId": 5048,
+      "X": 6,
+      "Y": 2,
+      "Point": "6, 2"
+    },
+    "0, 22": {
+      "MapId": 5050,
+      "X": 27,
+      "Y": 16,
+      "Point": "27, 16"
+    }
+  },
+  "WorldMaps": {}
+}

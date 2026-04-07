@@ -1,0 +1,39 @@
+{
+  "Number": 11357,
+  "Name": "Unknown 11357",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Muisir Hunting Ground 16",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 0": {
+      "MapId": 11358,
+      "X": 23,
+      "Y": 48,
+      "Point": "23, 48"
+    },
+    "25, 0": {
+      "MapId": 11358,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "23, 49": {
+      "MapId": 11342,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    },
+    "24, 49": {
+      "MapId": 11342,
+      "X": 24,
+      "Y": 1,
+      "Point": "24, 1"
+    }
+  },
+  "WorldMaps": {}
+}

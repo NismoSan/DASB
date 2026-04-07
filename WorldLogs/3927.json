@@ -1,0 +1,27 @@
+{
+  "Number": 3927,
+  "Name": "Loures Store 1",
+  "WalkSpot": "7, 1",
+  "Description": null,
+  "DisplayName": "Loures Store 1",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 19": {
+      "MapId": 3926,
+      "X": 12,
+      "Y": 53,
+      "Point": "12, 53"
+    },
+    "10, 19": {
+      "MapId": 3926,
+      "X": 12,
+      "Y": 53,
+      "Point": "12, 53"
+    }
+  },
+  "WorldMaps": {}
+}

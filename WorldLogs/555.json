@@ -1,0 +1,21 @@
+{
+  "Number": 555,
+  "Name": "Shinewood Forest 32",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 32",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 49": {
+      "MapId": 993,
+      "X": 44,
+      "Y": 1,
+      "Point": "44, 1"
+    }
+  },
+  "WorldMaps": {}
+}

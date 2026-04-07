@@ -1,0 +1,63 @@
+{
+  "Number": 567,
+  "Name": "Shinewood37",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 37",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "45, 0": {
+      "MapId": 566,
+      "X": 32,
+      "Y": 48,
+      "Point": "32, 48"
+    },
+    "44, 0": {
+      "MapId": 566,
+      "X": 31,
+      "Y": 48,
+      "Point": "31, 48"
+    },
+    "43, 0": {
+      "MapId": 566,
+      "X": 30,
+      "Y": 48,
+      "Point": "30, 48"
+    },
+    "42, 0": {
+      "MapId": 566,
+      "X": 29,
+      "Y": 48,
+      "Point": "29, 48"
+    },
+    "42, 99": {
+      "MapId": 568,
+      "X": 18,
+      "Y": 2,
+      "Point": "18, 2"
+    },
+    "43, 99": {
+      "MapId": 568,
+      "X": 19,
+      "Y": 2,
+      "Point": "19, 2"
+    },
+    "44, 99": {
+      "MapId": 568,
+      "X": 20,
+      "Y": 2,
+      "Point": "20, 2"
+    },
+    "45, 99": {
+      "MapId": 568,
+      "X": 21,
+      "Y": 2,
+      "Point": "21, 2"
+    }
+  },
+  "WorldMaps": {}
+}

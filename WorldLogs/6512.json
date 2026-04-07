@@ -1,0 +1,45 @@
+{
+  "Number": 6512,
+  "Name": "Oren Island Throne Room",
+  "WalkSpot": "8, 11",
+  "Description": null,
+  "DisplayName": "Oren Island Throne Room",
+  "Size": {
+    "Width": 21,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 31": {
+      "MapId": 6228,
+      "X": 53,
+      "Y": 37,
+      "Point": "53, 37"
+    },
+    "7, 31": {
+      "MapId": 6228,
+      "X": 53,
+      "Y": 37,
+      "Point": "53, 37"
+    },
+    "8, 31": {
+      "MapId": 6228,
+      "X": 53,
+      "Y": 37,
+      "Point": "53, 37"
+    },
+    "9, 31": {
+      "MapId": 6228,
+      "X": 53,
+      "Y": 37,
+      "Point": "53, 37"
+    },
+    "10, 31": {
+      "MapId": 6228,
+      "X": 53,
+      "Y": 37,
+      "Point": "53, 37"
+    }
+  },
+  "WorldMaps": {}
+}

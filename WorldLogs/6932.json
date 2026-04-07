@@ -1,0 +1,39 @@
+{
+  "Number": 6932,
+  "Name": "Grass Battle Field5",
+  "WalkSpot": "27, 26",
+  "Description": null,
+  "DisplayName": "Grass Battle Field5",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "20, 31": {
+      "MapId": 6931,
+      "X": 20,
+      "Y": 2,
+      "Point": "20, 2"
+    },
+    "18, 31": {
+      "MapId": 6931,
+      "X": 18,
+      "Y": 2,
+      "Point": "18, 2"
+    },
+    "19, 31": {
+      "MapId": 6931,
+      "X": 19,
+      "Y": 2,
+      "Point": "19, 2"
+    },
+    "17, 31": {
+      "MapId": 6931,
+      "X": 17,
+      "Y": 2,
+      "Point": "17, 2"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,39 @@
+{
+  "Number": 931,
+  "Name": "caladh beithir 22",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "caladh beithir 22",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "20, 2": {
+      "MapId": 926,
+      "X": 29,
+      "Y": 45,
+      "Point": "29, 45"
+    },
+    "42, 16": {
+      "MapId": 934,
+      "X": 6,
+      "Y": 25,
+      "Point": "6, 25"
+    },
+    "30, 44": {
+      "MapId": 936,
+      "X": 14,
+      "Y": 21,
+      "Point": "14, 21"
+    },
+    "26, 2": {
+      "MapId": 927,
+      "X": 43,
+      "Y": 73,
+      "Point": "43, 73"
+    }
+  },
+  "WorldMaps": {}
+}

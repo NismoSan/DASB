@@ -1,0 +1,33 @@
+{
+  "Number": 184,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Abel Weapon Shop",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 0": {
+      "MapId": 182,
+      "X": 1,
+      "Y": 10,
+      "Point": "1, 10"
+    },
+    "7, 14": {
+      "MapId": 502,
+      "X": 55,
+      "Y": 18,
+      "Point": "55, 18"
+    },
+    "6, 14": {
+      "MapId": 502,
+      "X": 54,
+      "Y": 18,
+      "Point": "54, 18"
+    }
+  },
+  "WorldMaps": {}
+}

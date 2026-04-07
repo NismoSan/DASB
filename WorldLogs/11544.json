@@ -1,0 +1,33 @@
+{
+  "Number": 11544,
+  "Name": "Unknown 11544",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tavaly Storage",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 7": {
+      "MapId": 11500,
+      "X": 18,
+      "Y": 31,
+      "Point": "18, 31"
+    },
+    "14, 8": {
+      "MapId": 11500,
+      "X": 18,
+      "Y": 32,
+      "Point": "18, 32"
+    },
+    "14, 9": {
+      "MapId": 11500,
+      "X": 18,
+      "Y": 33,
+      "Point": "18, 33"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,33 @@
+{
+  "Number": 2900,
+  "Name": "Veltain Mine Entrance",
+  "WalkSpot": "8, 9",
+  "Description": null,
+  "DisplayName": "Veltain Mine Entrance",
+  "Size": {
+    "Width": 20,
+    "Height": 22
+  },
+  "Flags": 0,
+  "Portals": {
+    "3, 8": {
+      "MapId": 2901,
+      "X": 23,
+      "Y": 11,
+      "Point": "23, 11"
+    },
+    "3, 10": {
+      "MapId": 2901,
+      "X": 23,
+      "Y": 13,
+      "Point": "23, 13"
+    },
+    "3, 9": {
+      "MapId": 2901,
+      "X": 23,
+      "Y": 12,
+      "Point": "23, 12"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,51 @@
+{
+  "Number": 8310,
+  "Name": "Aman Jungle10",
+  "WalkSpot": "51, 7",
+  "Description": null,
+  "DisplayName": "Aman Jungle",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "99, 19": {
+      "MapId": 8309,
+      "X": 1,
+      "Y": 19,
+      "Point": "1, 19"
+    },
+    "99, 18": {
+      "MapId": 8309,
+      "X": 1,
+      "Y": 18,
+      "Point": "1, 18"
+    },
+    "99, 17": {
+      "MapId": 8309,
+      "X": 1,
+      "Y": 17,
+      "Point": "1, 17"
+    },
+    "99, 16": {
+      "MapId": 8309,
+      "X": 1,
+      "Y": 16,
+      "Point": "1, 16"
+    },
+    "99, 15": {
+      "MapId": 8309,
+      "X": 1,
+      "Y": 15,
+      "Point": "1, 15"
+    },
+    "99, 14": {
+      "MapId": 8309,
+      "X": 1,
+      "Y": 14,
+      "Point": "1, 14"
+    }
+  },
+  "WorldMaps": {}
+}

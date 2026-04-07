@@ -1,0 +1,39 @@
+{
+  "Number": 10050,
+  "Name": "Desert of Fire 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Desert of Fire 1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "22, 0": {
+      "MapId": 10034,
+      "X": 22,
+      "Y": 47,
+      "Point": "22, 47"
+    },
+    "21, 0": {
+      "MapId": 10034,
+      "X": 21,
+      "Y": 47,
+      "Point": "21, 47"
+    },
+    "20, 0": {
+      "MapId": 10034,
+      "X": 20,
+      "Y": 47,
+      "Point": "20, 47"
+    },
+    "0, 44": {
+      "MapId": 10052,
+      "X": 47,
+      "Y": 44,
+      "Point": "47, 44"
+    }
+  },
+  "WorldMaps": {}
+}

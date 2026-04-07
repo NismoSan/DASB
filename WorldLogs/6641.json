@@ -1,0 +1,21 @@
+{
+  "Number": 6641,
+  "Name": "Lynith Beach Way 2",
+  "WalkSpot": "69, 40",
+  "Description": null,
+  "DisplayName": "Lynith Beach Way 2",
+  "Size": {
+    "Width": 70,
+    "Height": 60
+  },
+  "Flags": 0,
+  "Portals": {
+    "69, 34": {
+      "MapId": 6646,
+      "X": 9,
+      "Y": 21,
+      "Point": "9, 21"
+    }
+  },
+  "WorldMaps": {}
+}

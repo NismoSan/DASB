@@ -1,0 +1,27 @@
+{
+  "Number": 10244,
+  "Name": "Andor 144",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Andor 144",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "17, 30": {
+      "MapId": 10243,
+      "X": 14,
+      "Y": 3,
+      "Point": "14, 3"
+    },
+    "18, 30": {
+      "MapId": 10243,
+      "X": 15,
+      "Y": 3,
+      "Point": "15, 3"
+    }
+  },
+  "WorldMaps": {}
+}

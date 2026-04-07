@@ -1,0 +1,12 @@
+{
+  "templateKey": "mana_potion",
+  "name": "Mana Potion",
+  "sprite": 160,
+  "color": 56,
+  "stackable": true,
+  "maxStack": 99,
+  "type": "consumable",
+  "healMp": 1000,
+  "sellValue": 50,
+  "buyValue": 150
+}

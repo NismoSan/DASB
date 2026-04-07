@@ -1,0 +1,21 @@
+{
+  "Number": 10268,
+  "Name": "Unknown 10268",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Fei-Hung School",
+  "Size": {
+    "Width": 17,
+    "Height": 17
+  },
+  "Flags": 0,
+  "Portals": {
+    "16, 6": {
+      "MapId": 10265,
+      "X": 40,
+      "Y": 26,
+      "Point": "40, 26"
+    }
+  },
+  "WorldMaps": {}
+}

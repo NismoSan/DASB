@@ -1,0 +1,45 @@
+{
+  "Number": 10264,
+  "Name": "Unknown 10264",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Alsaids Fire Canyon 2",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 36": {
+      "MapId": 10263,
+      "X": 97,
+      "Y": 82,
+      "Point": "97, 82"
+    },
+    "0, 35": {
+      "MapId": 10263,
+      "X": 97,
+      "Y": 81,
+      "Point": "97, 81"
+    },
+    "0, 34": {
+      "MapId": 10263,
+      "X": 97,
+      "Y": 80,
+      "Point": "97, 80"
+    },
+    "0, 33": {
+      "MapId": 10263,
+      "X": 97,
+      "Y": 79,
+      "Point": "97, 79"
+    },
+    "0, 32": {
+      "MapId": 10263,
+      "X": 97,
+      "Y": 78,
+      "Point": "97, 78"
+    }
+  },
+  "WorldMaps": {}
+}

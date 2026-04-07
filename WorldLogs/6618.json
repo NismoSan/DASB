@@ -1,0 +1,33 @@
+{
+  "Number": 6618,
+  "Name": "Oren Island Jungle 17",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Island Jungle 17",
+  "Size": {
+    "Width": 41,
+    "Height": 47
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 13": {
+      "MapId": 6615,
+      "X": 47,
+      "Y": 23,
+      "Point": "47, 23"
+    },
+    "40, 11": {
+      "MapId": 6619,
+      "X": 2,
+      "Y": 15,
+      "Point": "2, 15"
+    },
+    "40, 10": {
+      "MapId": 6619,
+      "X": 2,
+      "Y": 15,
+      "Point": "2, 15"
+    }
+  },
+  "WorldMaps": {}
+}

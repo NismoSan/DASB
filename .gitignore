@@ -1,0 +1,40 @@
+node_modules/
+src/Chaos-Server-master/
+
+# IDE / editor
+.cursor/
+.cursor-server/
+.vscode/
+.cache/
+
+# AI dev tools
+.claude/
+.codex
+
+# Secrets & credentials (use .env.example, bot-config.example.json, discord-hooks.example.json as templates)
+.env
+bot-config.json
+discord-hooks.json
+
+# Build output (rebuild with: npm run build && npm run build:panel)
+lib/
+
+# Logs
+*.log
+*.jsonl
+*.sha
+
+# Runtime databases
+data/packets.db
+data/packets.db-shm
+data/packets.db-wal
+
+# Runtime state files (written by the running server)
+data/lottery.json
+data/slots.json
+data/npc-positions.json
+data/proxy-firstlogins.json
+data/custom-legends.json
+data/disguise-state.json
+data/player-nametag-styles.json
+data/sprite-overrides.json

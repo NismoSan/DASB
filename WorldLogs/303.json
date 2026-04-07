@@ -1,0 +1,25 @@
+{
+  "Number": 303,
+  "Name": "Rucesion Special Skill Master",
+  "Description": null,
+  "DisplayName": "Rucesion Special Skill M",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 8": {
+      "MapId": 505,
+      "X": 10,
+      "Y": 33,
+      "Point": "10, 33"
+    },
+    "14, 9": {
+      "MapId": 505,
+      "X": 10,
+      "Y": 34,
+      "Point": "10, 34"
+    }
+  }
+}

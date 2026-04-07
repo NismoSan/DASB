@@ -1,0 +1,63 @@
+{
+  "Number": 617,
+  "Name": "East Woodland 15-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "East Woodland 15-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "27, 50": {
+      "MapId": 616,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    },
+    "49, 24": {
+      "MapId": 620,
+      "X": 1,
+      "Y": 23,
+      "Point": "1, 23"
+    },
+    "0, 23": {
+      "MapId": 614,
+      "X": 48,
+      "Y": 23,
+      "Point": "48, 23"
+    },
+    "0, 24": {
+      "MapId": 614,
+      "X": 47,
+      "Y": 23,
+      "Point": "47, 23"
+    },
+    "25, 49": {
+      "MapId": 616,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    },
+    "26, 49": {
+      "MapId": 616,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    },
+    "49, 23": {
+      "MapId": 620,
+      "X": 1,
+      "Y": 23,
+      "Point": "1, 23"
+    },
+    "17, 0": {
+      "MapId": 3068,
+      "X": 3,
+      "Y": 6,
+      "Point": "3, 6"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 207,
+  "Name": "Abel Dungeon 1-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Abel Dungeon 1-1",
+  "Size": {
+    "Width": 40,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 30": {
+      "MapId": 209,
+      "X": 21,
+      "Y": 1,
+      "Point": "21, 1"
+    },
+    "22, 0": {
+      "MapId": 185,
+      "X": 25,
+      "Y": 32,
+      "Point": "25, 32"
+    }
+  },
+  "WorldMaps": {}
+}

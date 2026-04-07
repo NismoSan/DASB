@@ -1,0 +1,39 @@
+{
+  "Number": 557,
+  "Name": "Shinewood Forest 30",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 30",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "26, 49": {
+      "MapId": 555,
+      "X": 13,
+      "Y": 1,
+      "Point": "13, 1"
+    },
+    "49, 30": {
+      "MapId": 560,
+      "X": 1,
+      "Y": 10,
+      "Point": "1, 10"
+    },
+    "0, 9": {
+      "MapId": 999,
+      "X": 48,
+      "Y": 24,
+      "Point": "48, 24"
+    },
+    "0, 10": {
+      "MapId": 999,
+      "X": 48,
+      "Y": 25,
+      "Point": "48, 25"
+    }
+  },
+  "WorldMaps": {}
+}

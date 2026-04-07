@@ -1,0 +1,14 @@
+{
+  "Number": 3150,
+  "Name": "Dark Contest Hall 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Dark Contest Hall 1",
+  "Size": {
+    "Width": 18,
+    "Height": 18
+  },
+  "Flags": 0,
+  "Portals": {},
+  "WorldMaps": {}
+}

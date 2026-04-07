@@ -1,0 +1,27 @@
+{
+  "Number": 3212,
+  "Name": "Blackstar Village Bank",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blackstar Village Bank",
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 14": {
+      "MapId": 3210,
+      "X": 69,
+      "Y": 70,
+      "Point": "69, 70"
+    },
+    "8, 14": {
+      "MapId": 3210,
+      "X": 70,
+      "Y": 70,
+      "Point": "70, 70"
+    }
+  },
+  "WorldMaps": {}
+}

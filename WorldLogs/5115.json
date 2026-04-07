@@ -1,0 +1,27 @@
+{
+  "Number": 5115,
+  "Name": "Lynith Sea 5",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Lynith Sea 5",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "2, 49": {
+      "MapId": 5114,
+      "X": 17,
+      "Y": 2,
+      "Point": "17, 2"
+    },
+    "49, 18": {
+      "MapId": 5118,
+      "X": 2,
+      "Y": 23,
+      "Point": "2, 23"
+    }
+  },
+  "WorldMaps": {}
+}

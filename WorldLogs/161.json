@@ -1,0 +1,19 @@
+{
+  "Number": 161,
+  "Name": "Piet Magic Shop",
+  "Description": null,
+  "DisplayName": "Piet Magic Shop",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 14": {
+      "MapId": 501,
+      "X": 44,
+      "Y": 50,
+      "Point": "44, 50"
+    }
+  }
+}

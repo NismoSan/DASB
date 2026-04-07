@@ -1,0 +1,39 @@
+{
+  "Number": 666,
+  "Name": "Feasgar Village",
+  "WalkSpot": "54, 2",
+  "Description": null,
+  "DisplayName": "Feasgar Village",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "56, 0": {
+      "MapId": 667,
+      "X": 98,
+      "Y": 52,
+      "Point": "98, 52"
+    },
+    "57, 0": {
+      "MapId": 667,
+      "X": 97,
+      "Y": 51,
+      "Point": "97, 51"
+    },
+    "58, 0": {
+      "MapId": 667,
+      "X": 97,
+      "Y": 50,
+      "Point": "97, 50"
+    },
+    "59, 0": {
+      "MapId": 667,
+      "X": 97,
+      "Y": 49,
+      "Point": "97, 49"
+    }
+  },
+  "WorldMaps": {}
+}

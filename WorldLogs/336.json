@@ -1,0 +1,33 @@
+{
+  "Number": 336,
+  "Name": "Dubhaim Castle North 4-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Dubhaim Castle North 4-2",
+  "Size": {
+    "Width": 22,
+    "Height": 22
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 21": {
+      "MapId": 333,
+      "X": 13,
+      "Y": 1,
+      "Point": "13, 1"
+    },
+    "10, 21": {
+      "MapId": 334,
+      "X": 9,
+      "Y": 1,
+      "Point": "9, 1"
+    },
+    "13, 0": {
+      "MapId": 338,
+      "X": 9,
+      "Y": 19,
+      "Point": "9, 19"
+    }
+  },
+  "WorldMaps": {}
+}

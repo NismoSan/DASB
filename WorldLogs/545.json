@@ -1,0 +1,33 @@
+{
+  "Number": 545,
+  "Name": "Shinewood Forest 7",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 7",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "99, 51": {
+      "MapId": 546,
+      "X": 1,
+      "Y": 10,
+      "Point": "1, 10"
+    },
+    "42, 99": {
+      "MapId": 991,
+      "X": 19,
+      "Y": 1,
+      "Point": "19, 1"
+    },
+    "43, 99": {
+      "MapId": 991,
+      "X": 20,
+      "Y": 1,
+      "Point": "20, 1"
+    }
+  },
+  "WorldMaps": {}
+}

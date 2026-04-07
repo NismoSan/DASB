@@ -1,0 +1,27 @@
+{
+  "Number": 3013,
+  "Name": "Shrine of Gramail - Loures",
+  "WalkSpot": "7, 7",
+  "Description": null,
+  "DisplayName": "Shrine of Gramail - Lour",
+  "Size": {
+    "Width": 25,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 7": {
+      "MapId": 3012,
+      "X": 12,
+      "Y": 19,
+      "Point": "12, 19"
+    },
+    "23, 8": {
+      "MapId": 3012,
+      "X": 12,
+      "Y": 19,
+      "Point": "12, 19"
+    }
+  },
+  "WorldMaps": {}
+}

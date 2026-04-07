@@ -1,0 +1,21 @@
+{
+  "Number": 8112,
+  "Name": "Blackstar Crypt 12",
+  "WalkSpot": "4, 31",
+  "Description": null,
+  "DisplayName": "Blackstar Crypt 12",
+  "Size": {
+    "Width": 40,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "2, 28": {
+      "MapId": 8113,
+      "X": 18,
+      "Y": 4,
+      "Point": "18, 4"
+    }
+  },
+  "WorldMaps": {}
+}

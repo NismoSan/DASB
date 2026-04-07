@@ -1,0 +1,33 @@
+{
+  "Number": 7055,
+  "Name": "Lift Room",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Lift Room",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 9": {
+      "MapId": 7050,
+      "X": 23,
+      "Y": 8,
+      "Point": "23, 8"
+    },
+    "11, 8": {
+      "MapId": 7050,
+      "X": 23,
+      "Y": 8,
+      "Point": "23, 8"
+    },
+    "11, 7": {
+      "MapId": 7050,
+      "X": 23,
+      "Y": 8,
+      "Point": "23, 8"
+    }
+  },
+  "WorldMaps": {}
+}

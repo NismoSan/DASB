@@ -1,0 +1,26 @@
+{
+  "Number": 6717,
+  "Name": "Nobis Restaurant",
+  "Description": null,
+  "DisplayName": "Nobis Restaurant",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 4": {
+      "MapId": 6700,
+      "X": 30,
+      "Y": 49,
+      "Point": "30, 49"
+    },
+    "19, 5": {
+      "MapId": 6700,
+      "X": 30,
+      "Y": 49,
+      "Point": "30, 49"
+    }
+  },
+  "WorldMaps": {}
+}

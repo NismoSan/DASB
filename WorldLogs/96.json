@@ -1,0 +1,39 @@
+{
+  "Number": 96,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Crypt 28-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "44, 1": {
+      "MapId": 98,
+      "X": 1,
+      "Y": 31,
+      "Point": "1, 31"
+    },
+    "13, 31": {
+      "MapId": 97,
+      "X": 43,
+      "Y": 1,
+      "Point": "43, 1"
+    },
+    "10, 18": {
+      "MapId": 95,
+      "X": 10,
+      "Y": 40,
+      "Point": "10, 40"
+    },
+    "44, 24": {
+      "MapId": 94,
+      "X": 34,
+      "Y": 27,
+      "Point": "34, 27"
+    }
+  },
+  "WorldMaps": {}
+}

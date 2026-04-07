@@ -1,0 +1,33 @@
+{
+  "Number": 6599,
+  "Name": "Ruins Altar 5",
+  "WalkSpot": "10, 9",
+  "Description": null,
+  "DisplayName": "Ruins Altar 5",
+  "Size": {
+    "Width": 25,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 39": {
+      "MapId": 6539,
+      "X": 29,
+      "Y": 1,
+      "Point": "29, 1"
+    },
+    "13, 39": {
+      "MapId": 6539,
+      "X": 31,
+      "Y": 1,
+      "Point": "31, 1"
+    },
+    "12, 39": {
+      "MapId": 6539,
+      "X": 30,
+      "Y": 1,
+      "Point": "30, 1"
+    }
+  },
+  "WorldMaps": {}
+}

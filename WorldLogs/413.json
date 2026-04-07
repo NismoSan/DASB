@@ -1,0 +1,27 @@
+{
+  "Number": 413,
+  "Name": "Suomi Tavern",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Suomi Tavern",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 14": {
+      "MapId": 412,
+      "X": 12,
+      "Y": 1,
+      "Point": "12, 1"
+    },
+    "11, 14": {
+      "MapId": 412,
+      "X": 12,
+      "Y": 1,
+      "Point": "12, 1"
+    }
+  },
+  "WorldMaps": {}
+}

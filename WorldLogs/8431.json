@@ -1,0 +1,45 @@
+{
+  "Number": 8431,
+  "Name": "Chadul's Realm 12",
+  "WalkSpot": "19, 3",
+  "Description": null,
+  "DisplayName": "Chadul's Realm 12",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "26, 47": {
+      "MapId": 8430,
+      "X": 20,
+      "Y": 8,
+      "Point": "20, 8"
+    },
+    "25, 47": {
+      "MapId": 8430,
+      "X": 19,
+      "Y": 8,
+      "Point": "19, 8"
+    },
+    "24, 47": {
+      "MapId": 8430,
+      "X": 18,
+      "Y": 8,
+      "Point": "18, 8"
+    },
+    "28, 47": {
+      "MapId": 8430,
+      "X": 22,
+      "Y": 8,
+      "Point": "22, 8"
+    },
+    "27, 47": {
+      "MapId": 8430,
+      "X": 21,
+      "Y": 8,
+      "Point": "21, 8"
+    }
+  },
+  "WorldMaps": {}
+}

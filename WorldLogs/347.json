@@ -1,0 +1,21 @@
+{
+  "Number": 347,
+  "Name": "Chief Warrior Hall",
+  "WalkSpot": "3, 6",
+  "Description": null,
+  "DisplayName": "Chief Warrior Hall",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 5": {
+      "MapId": 343,
+      "X": 2,
+      "Y": 7,
+      "Point": "2, 7"
+    }
+  },
+  "WorldMaps": {}
+}

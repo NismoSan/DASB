@@ -1,0 +1,14 @@
+{
+  "Number": 431,
+  "Name": "Undine Armor Shop",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Undine Armor Shop",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {},
+  "WorldMaps": {}
+}

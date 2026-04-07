@@ -1,0 +1,33 @@
+{
+  "Number": 6998,
+  "Name": "Water Spirit Temple",
+  "WalkSpot": "9, 8",
+  "Description": null,
+  "DisplayName": "Water Spirit Temple",
+  "Size": {
+    "Width": 30,
+    "Height": 30
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 26": {
+      "MapId": 6997,
+      "X": 15,
+      "Y": 12,
+      "Point": "15, 12"
+    },
+    "11, 26": {
+      "MapId": 6997,
+      "X": 16,
+      "Y": 12,
+      "Point": "16, 12"
+    },
+    "12, 26": {
+      "MapId": 6997,
+      "X": 17,
+      "Y": 12,
+      "Point": "17, 12"
+    }
+  },
+  "WorldMaps": {}
+}

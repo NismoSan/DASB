@@ -1,0 +1,45 @@
+{
+  "Number": 8359,
+  "Name": "Yowien Territory15",
+  "WalkSpot": "9, 24",
+  "Description": null,
+  "DisplayName": "Yowien Territory15",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "33, 2": {
+      "MapId": 8360,
+      "X": 31,
+      "Y": 48,
+      "Point": "31, 48"
+    },
+    "32, 2": {
+      "MapId": 8360,
+      "X": 30,
+      "Y": 48,
+      "Point": "30, 48"
+    },
+    "31, 2": {
+      "MapId": 8360,
+      "X": 29,
+      "Y": 48,
+      "Point": "29, 48"
+    },
+    "30, 2": {
+      "MapId": 8360,
+      "X": 29,
+      "Y": 48,
+      "Point": "29, 48"
+    },
+    "49, 24": {
+      "MapId": 8358,
+      "X": 9,
+      "Y": 18,
+      "Point": "9, 18"
+    }
+  },
+  "WorldMaps": {}
+}

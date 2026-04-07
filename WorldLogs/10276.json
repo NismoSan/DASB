@@ -1,0 +1,39 @@
+{
+  "Number": 10276,
+  "Name": "<Unknown> 10276",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Hwarone Hall",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "4, 15": {
+      "MapId": 10277,
+      "X": 4,
+      "Y": 2,
+      "Point": "4, 2"
+    },
+    "5, 15": {
+      "MapId": 10277,
+      "X": 4,
+      "Y": 2,
+      "Point": "4, 2"
+    },
+    "19, 9": {
+      "MapId": 10265,
+      "X": 26,
+      "Y": 59,
+      "Point": "26, 59"
+    },
+    "19, 10": {
+      "MapId": 10265,
+      "X": 26,
+      "Y": 60,
+      "Point": "26, 60"
+    }
+  },
+  "WorldMaps": {}
+}

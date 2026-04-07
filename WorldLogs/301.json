@@ -1,0 +1,33 @@
+{
+  "Number": 301,
+  "Name": "Mileth Combat Skill Master",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Combat Skill Mast",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 0": {
+      "MapId": 302,
+      "X": 7,
+      "Y": 13,
+      "Point": "7, 13"
+    },
+    "6, 14": {
+      "MapId": 500,
+      "X": 73,
+      "Y": 80,
+      "Point": "73, 80"
+    },
+    "7, 14": {
+      "MapId": 500,
+      "X": 73,
+      "Y": 80,
+      "Point": "73, 80"
+    }
+  },
+  "WorldMaps": {}
+}

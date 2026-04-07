@@ -1,0 +1,14 @@
+{
+  "Number": 8101,
+  "Name": "Blackstar Crypt 5",
+  "WalkSpot": "11, 22",
+  "Description": null,
+  "DisplayName": "Blackstar Crypt 5",
+  "Size": {
+    "Width": 26,
+    "Height": 26
+  },
+  "Flags": 0,
+  "Portals": {},
+  "WorldMaps": {}
+}

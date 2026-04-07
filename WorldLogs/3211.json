@@ -1,0 +1,33 @@
+{
+  "Number": 3211,
+  "Name": "Blackstar Village Inn",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Blackstar Village Inn",
+  "Size": {
+    "Width": 27,
+    "Height": 27
+  },
+  "Flags": 0,
+  "Portals": {
+    "25, 11": {
+      "MapId": 3210,
+      "X": 72,
+      "Y": 51,
+      "Point": "72, 51"
+    },
+    "25, 10": {
+      "MapId": 3210,
+      "X": 72,
+      "Y": 51,
+      "Point": "72, 51"
+    },
+    "25, 12": {
+      "MapId": 3210,
+      "X": 72,
+      "Y": 52,
+      "Point": "72, 52"
+    }
+  },
+  "WorldMaps": {}
+}

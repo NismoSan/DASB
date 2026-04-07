@@ -1,0 +1,38 @@
+{
+  "Number": 6521,
+  "Name": "Oren Island Armor Shoppe",
+  "Description": null,
+  "DisplayName": "Oren Island Armor Shoppe",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 19": {
+      "MapId": 6228,
+      "X": 74,
+      "Y": 78,
+      "Point": "74, 78"
+    },
+    "8, 19": {
+      "MapId": 6228,
+      "X": 74,
+      "Y": 78,
+      "Point": "74, 78"
+    },
+    "10, 19": {
+      "MapId": 6228,
+      "X": 74,
+      "Y": 78,
+      "Point": "74, 78"
+    },
+    "11, 19": {
+      "MapId": 6228,
+      "X": 74,
+      "Y": 78,
+      "Point": "74, 78"
+    }
+  },
+  "WorldMaps": {}
+}

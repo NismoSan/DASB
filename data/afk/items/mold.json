@@ -1,0 +1,11 @@
+{
+  "templateKey": "mold",
+  "name": "Mold",
+  "sprite": 148,
+  "color": 0,
+  "stackable": true,
+  "maxStack": 99,
+  "type": "misc",
+  "sellValue": 10,
+  "buyValue": 0
+}

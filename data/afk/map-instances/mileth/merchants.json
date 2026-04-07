@@ -1,0 +1,19 @@
+{
+  "mapId": 6700,
+  "merchants": [
+    {
+      "npcKey": "shadow_merchant",
+      "name": "Shadow Merchant",
+      "sprite": 12,
+      "x": 33,
+      "y": 33,
+      "type": "shop",
+      "greeting": "Welcome to my shadow shop, Aisling.",
+      "items": [
+        { "templateKey": "apple", "buyPrice": 15, "sellPrice": 5 },
+        { "templateKey": "health_potion", "buyPrice": 150, "sellPrice": 50 },
+        { "templateKey": "mana_potion", "buyPrice": 150, "sellPrice": 50 }
+      ]
+    }
+  ]
+}

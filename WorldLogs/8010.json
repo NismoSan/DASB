@@ -1,0 +1,21 @@
+{
+  "Number": 8010,
+  "Name": "Unknown Depths 10",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Unknown Depths 10",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "48, 28": {
+      "MapId": 8011,
+      "X": 3,
+      "Y": 28,
+      "Point": "3, 28"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 3611,
+  "Name": "Chaos 12",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 12",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "46, 0": {
+      "MapId": 3610,
+      "X": 15,
+      "Y": 77,
+      "Point": "15, 77"
+    },
+    "18, 99": {
+      "MapId": 3612,
+      "X": 70,
+      "Y": 3,
+      "Point": "70, 3"
+    }
+  },
+  "WorldMaps": {}
+}

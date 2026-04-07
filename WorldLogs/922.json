@@ -1,0 +1,21 @@
+{
+  "Number": 922,
+  "Name": "caladh beithir 13",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "caladh beithir 13",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "26, 2": {
+      "MapId": 919,
+      "X": 43,
+      "Y": 73,
+      "Point": "43, 73"
+    }
+  },
+  "WorldMaps": {}
+}

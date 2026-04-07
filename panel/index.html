@@ -1,0 +1,2506 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DASB Panel</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="panel.min.css">
+</head>
+<body>
+  <div style="display:none">
+    <!-- SVG Sprite Sheet (loaded inline for instant availability) -->
+    <svg xmlns="http://www.w3.org/2000/svg">
+      <symbol id="icon-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></symbol>
+      <symbol id="icon-settings" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></symbol>
+      <symbol id="icon-activity" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></symbol>
+      <symbol id="icon-chat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></symbol>
+      <symbol id="icon-layers" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></symbol>
+      <symbol id="icon-bell" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></symbol>
+      <symbol id="icon-terminal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M8 10l2 2-2 2"/><line x1="14" y1="14" x2="18" y2="14"/></symbol>
+      <symbol id="icon-users" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></symbol>
+      <symbol id="icon-logout" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></symbol>
+      <symbol id="icon-play" viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3" fill="currentColor"/></symbol>
+      <symbol id="icon-stop" viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="1" fill="currentColor"/></symbol>
+      <symbol id="icon-chevron-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></symbol>
+      <symbol id="icon-gift" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 12 20 22 4 22 4 12"/><rect x="2" y="7" width="20" height="5"/><line x1="12" y1="22" x2="12" y2="7"/><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"/></symbol>
+      <symbol id="icon-zap" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></symbol>
+    </svg>
+  </div>
+  <div class="vignette-overlay"></div>
+
+  <div id="app">
+    <div id="sidebar-overlay" class="sidebar-overlay"></div>
+    <nav id="sidebar">
+      <div class="sidebar-emblem">
+        <div class="emblem-icon">
+          <div class="emblem-shape"></div>
+        </div>
+        <div class="logo">DASB</div>
+        <div class="logo-subtitle">DA Server Bot</div>
+      </div>
+
+      <ul style="overflow-y:auto;flex:1;min-height:0">
+        <li>
+          <a href="#" data-panel="status" class="active">
+            <svg class="nav-icon"><use href="#icon-clock"/></svg>
+            <span>Status</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="config">
+            <svg class="nav-icon"><use href="#icon-settings"/></svg>
+            <span>Config</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="packets">
+            <svg class="nav-icon"><use href="#icon-activity"/></svg>
+            <span>Packets</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="chat">
+            <svg class="nav-icon"><use href="#icon-chat"/></svg>
+            <span>Chat</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="ae-ingest">
+            <svg class="nav-icon"><use href="#icon-layers"/></svg>
+            <span>AE Ingest</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="discord">
+            <svg class="nav-icon"><use href="#icon-bell"/></svg>
+            <span>Discord</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="chatgames">
+            <svg class="nav-icon"><use href="#icon-terminal"/></svg>
+            <span>Chat Games</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="players">
+            <svg class="nav-icon"><use href="#icon-users"/></svg>
+            <span>Players</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="stats">
+            <svg class="nav-icon"><use href="#icon-activity"/></svg>
+            <span>Stats</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="scheduled">
+            <svg class="nav-icon"><use href="#icon-clock"/></svg>
+            <span>Scheduled</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="knowledge">
+            <svg class="nav-icon"><use href="#icon-layers"/></svg>
+            <span>Knowledge</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="lottery">
+            <svg class="nav-icon"><use href="#icon-gift"/></svg>
+            <span>Lottery</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="slots">
+            <svg class="nav-icon"><use href="#icon-zap"/></svg>
+            <span>Slot Machine</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="npc-leak">
+            <svg class="nav-icon"><use href="#icon-zap"/></svg>
+            <span>Leak Scanner</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="attendance">
+            <svg class="nav-icon"><use href="#icon-users"/></svg>
+            <span>Attendance</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="assetmap">
+            <svg class="nav-icon"><use href="#icon-layers"/></svg>
+            <span>Asset Map</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" data-panel="proxy">
+            <svg class="nav-icon"><use href="#icon-zap"/></svg>
+            <span>MITM Proxy</span>
+          </a>
+        </li>
+      </ul>
+
+      <div id="connection-indicator">
+        <span id="status-dot" data-status="disconnected"></span>
+        <span id="status-text">0 / 0 online</span>
+      </div>
+
+      <button id="logout-btn" class="logout-btn" title="Logout">
+        <svg width="16" height="16"><use href="#icon-logout"/></svg>
+        Logout
+      </button>
+    </nav>
+
+    <main id="content">
+      <button id="mobile-menu-btn" class="mobile-menu-btn" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <!-- Status Panel -->
+      <section id="panel-status" class="panel active">
+        <div class="status-top-bar">
+          <div class="panel-header">
+            <h2>Bot Status</h2>
+            <span class="panel-header-decoration"></span>
+          </div>
+          <div class="controls global-controls">
+            <button id="btn-start-all" class="btn btn-success btn-green">
+              <svg><use href="#icon-play"/></svg>
+              Start All
+            </button>
+            <button id="btn-reload-modules" class="btn btn-outline" title="Hot-reload all feature modules">
+              <svg><use href="#icon-zap"/></svg>
+              Reload Modules
+            </button>
+            <button id="btn-stop-all" class="btn btn-danger btn-red">
+              <svg><use href="#icon-stop"/></svg>
+              Stop All
+            </button>
+          </div>
+        </div>
+
+        <!-- Bot Tabs -->
+        <div class="bot-tabs-container">
+          <div id="bot-tab-bar" class="bot-tab-bar">
+            <div class="rules-empty" id="bot-tabs-empty">No bots configured. Add bots in the Config tab.</div>
+          </div>
+          <div id="bot-tab-content" class="bot-tab-content"></div>
+        </div>
+
+        <div class="status-dashboard">
+          <div class="status-dashboard-main">
+            <div class="notifications-widget">
+              <h3>
+                <svg class="nav-icon" style="width:16px;height:16px;"><use href="#icon-bell"/></svg>
+                Mentions / Whispers <span id="notif-badge" class="notif-badge-count" style="display:none">0</span>
+              </h3>
+              <div class="notif-toolbar">
+                <button id="notif-mark-read" class="btn btn-small">Mark All Read</button>
+                <button id="notif-clear" class="btn btn-small">Clear</button>
+              </div>
+              <div id="notif-list" class="notif-list">
+                <div class="notif-empty">No mentions yet.</div>
+              </div>
+            </div>
+
+            <div class="online-users-widget">
+              <h3>
+                <svg class="nav-icon" style="width:16px;height:16px;"><use href="#icon-users"/></svg>
+                Online Players <span id="online-count" class="notif-badge-count" style="display:none">0</span>
+              </h3>
+              <div class="notif-toolbar">
+                <input type="text" id="userlist-search" class="toolbar-input" placeholder="Search players..." style="flex:1;margin-right:0.5rem;">
+                <button id="userlist-refresh" class="btn btn-small">Refresh</button>
+              </div>
+              <div id="userlist-container" class="userlist-container">
+                <div class="notif-empty">No user list data yet. Data refreshes every 2 minutes.</div>
+              </div>
+              <div id="userlist-timestamp" class="userlist-timestamp"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Hidden selects kept for compatibility with chat/whisper bot selectors -->
+        <select id="walk-bot-select" class="toolbar-select" style="display:none"></select>
+        <select id="nav-bot-select" class="toolbar-select" style="display:none"></select>
+      </section>
+
+      <!-- Config Panel -->
+      <section id="panel-config" class="panel">
+        <div class="panel-header">
+          <h2>Configuration</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <form id="config-form">
+          <h3 class="section-title">Bot Characters (max 10)</h3>
+          <div id="bot-config-list" class="bot-config-list"></div>
+          <button type="button" id="btn-add-bot" class="btn btn-small" style="margin-bottom:1.5rem">+ Add Bot</button>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="cfg-server-address">Server Address</label>
+              <input type="text" id="cfg-server-address" />
+            </div>
+            <div class="form-group form-group-small">
+              <label for="cfg-server-port">Server Port</label>
+              <input type="number" id="cfg-server-port" />
+            </div>
+            <div class="form-group form-group-small">
+              <label for="cfg-web-port">Web Port</label>
+              <input type="number" id="cfg-web-port" />
+            </div>
+          </div>
+          <fieldset>
+            <legend>Features</legend>
+            <div class="checkbox-row">
+              <label><input type="checkbox" id="cfg-auto-reconnect" /> Auto-reconnect</label>
+              <label><input type="checkbox" id="cfg-log-chat" /> Log chat</label>
+              <label><input type="checkbox" id="cfg-log-packets" /> Log packets</label>
+            </div>
+          </fieldset>
+          <fieldset>
+            <legend>Reconnect Strategy</legend>
+            <div class="checkbox-row">
+              <label><input type="checkbox" id="cfg-sequential-reconnect" /> Sequential reconnect (one-by-one)</label>
+            </div>
+            <div class="form-group form-group-small" style="margin-top:0.5rem">
+              <label for="cfg-reconnect-delay">Delay between bots (ms)</label>
+              <input type="number" id="cfg-reconnect-delay" min="1000" max="30000" step="1000" />
+            </div>
+          </fieldset>
+          <div class="form-group form-group-small">
+            <label for="cfg-timezone">Schedule Timezone</label>
+            <select id="cfg-timezone" class="toolbar-select">
+              <option value="America/New_York">Eastern (ET)</option>
+              <option value="America/Chicago" selected>Central (CT)</option>
+              <option value="America/Denver">Mountain (MT)</option>
+              <option value="America/Los_Angeles">Pacific (PT)</option>
+              <option value="America/Anchorage">Alaska (AKT)</option>
+              <option value="Pacific/Honolulu">Hawaii (HT)</option>
+              <option value="UTC">UTC</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="cfg-walk-paths">Walk Paths (JSON)</label>
+            <textarea id="cfg-walk-paths" rows="6" spellcheck="false"></textarea>
+          </div>
+          <fieldset>
+            <legend>MITM Proxy</legend>
+            <div class="checkbox-row">
+              <label><input type="checkbox" id="cfg-proxy-enabled" /> Enable Proxy</label>
+              <label><input type="checkbox" id="cfg-proxy-log" /> Log Packets</label>
+            </div>
+            <div class="form-row" style="margin-top:0.5rem">
+              <div class="form-group">
+                <label for="cfg-proxy-public-address">Public Address (your VPS IP)</label>
+                <input type="text" id="cfg-proxy-public-address" placeholder="100.122.125.3" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cfg-proxy-listen-port">Login Port</label>
+                <input type="number" id="cfg-proxy-listen-port" value="2610" />
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group form-group-small">
+                <label for="cfg-proxy-game-port1">Game Port 1</label>
+                <input type="number" id="cfg-proxy-game-port1" value="2611" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cfg-proxy-game-port2">Game Port 2</label>
+                <input type="number" id="cfg-proxy-game-port2" value="2612" />
+              </div>
+              <div class="form-group">
+                <label for="cfg-proxy-real-address">Real Server Address</label>
+                <input type="text" id="cfg-proxy-real-address" value="52.88.55.94" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cfg-proxy-real-port">Real Login Port</label>
+                <input type="number" id="cfg-proxy-real-port" value="2610" />
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Proxy Name Tags</legend>
+            <div class="checkbox-row">
+              <label><input type="checkbox" id="cfg-nametags-enabled" checked /> Enable Name Tags</label>
+            </div>
+            <div class="form-row" style="margin-top:0.5rem">
+              <div class="form-group form-group-small">
+                <label for="cfg-nametags-style">Name Color (0-30)</label>
+                <input type="number" id="cfg-nametags-style" value="3" min="0" max="30" />
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>DA Monsters</legend>
+            <div class="checkbox-row">
+              <label><input type="checkbox" id="cfg-monsters-enabled" /> Enable Monster System</label>
+            </div>
+            <div class="form-row" style="margin-top:0.5rem">
+              <div class="form-group form-group-small">
+                <label for="cfg-monsters-encounter-map">Encounter Map</label>
+                <input type="number" id="cfg-monsters-encounter-map" value="449" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cfg-monsters-encounter-rate">Encounter Rate %</label>
+                <input type="number" id="cfg-monsters-encounter-rate" value="15" min="1" max="100" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cfg-monsters-max">Max Party Size</label>
+                <input type="number" id="cfg-monsters-max" value="6" min="1" max="12" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cfg-monsters-cooldown">Cast Cooldown (ms)</label>
+                <input type="number" id="cfg-monsters-cooldown" value="6000" min="1000" />
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group form-group-small">
+                <label for="cfg-monsters-keeper-map">Keeper Map</label>
+                <input type="number" id="cfg-monsters-keeper-map" value="449" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cfg-monsters-keeper-x">Keeper X</label>
+                <input type="number" id="cfg-monsters-keeper-x" value="5" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cfg-monsters-keeper-y">Keeper Y</label>
+                <input type="number" id="cfg-monsters-keeper-y" value="5" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cfg-monsters-keeper-sprite">Keeper Sprite</label>
+                <input type="number" id="cfg-monsters-keeper-sprite" value="1" />
+              </div>
+              <div class="form-group">
+                <label for="cfg-monsters-keeper-name">Keeper Name</label>
+                <input type="text" id="cfg-monsters-keeper-name" value="Monster Keeper" />
+              </div>
+            </div>
+          </fieldset>
+
+          <button type="submit" class="btn btn-success btn-green">Save Configuration</button>
+        </form>
+        <div style="margin-top:1.5rem;">
+          <h3 class="section-title">AI Chat Blacklist</h3>
+          <p class="panel-description">Aislings on this list will be completely ignored by Verifier's AI chat (public mentions and whispers).</p>
+          <div id="ai-blacklist-list" class="rules-list">
+            <div class="rules-empty">No players blacklisted.</div>
+          </div>
+          <div class="form-row" style="margin-top:0.5rem;align-items:flex-end;">
+            <div class="form-group" style="flex:1">
+              <label for="ai-blacklist-name">Player Name</label>
+              <input type="text" id="ai-blacklist-name" placeholder="Enter Aisling name..." />
+            </div>
+            <button type="button" id="ai-blacklist-add" class="btn btn-small btn-red">Block Player</button>
+          </div>
+        </div>
+
+        <div class="config-danger-zone">
+          <h3 class="section-title">Danger Zone</h3>
+          <div class="danger-zone-item">
+            <div>
+              <strong>Reset Player Appearances</strong>
+              <p class="text-muted" style="margin:0.25rem 0 0;font-size:0.78rem;">Clears all stored player looks and sprite render cache. New appearances will be collected automatically when players are seen.</p>
+            </div>
+            <button type="button" id="btn-reset-appearances" class="btn btn-danger">Reset Appearances</button>
+          </div>
+          <div class="danger-zone-item">
+            <div>
+              <strong>Wipe All Player Data</strong>
+              <p class="text-muted" style="margin:0.25rem 0 0;font-size:0.78rem;">Deletes all sightings, player profiles, legend marks, and chat logs. This cannot be undone.</p>
+            </div>
+            <button type="button" id="btn-wipe-player-data" class="btn btn-danger">Wipe Player Data</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Packet Viewer Panel -->
+      <section id="panel-packets" class="panel">
+        <div class="panel-header">
+          <h2>Packet Viewer</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <div class="toolbar">
+          <label class="toolbar-check"><input type="checkbox" id="pkt-auto-scroll" checked /> Auto-scroll</label>
+          <label class="toolbar-check"><input type="checkbox" id="pkt-show-in" checked /> Incoming</label>
+          <label class="toolbar-check"><input type="checkbox" id="pkt-show-out" checked /> Outgoing</label>
+          <select id="pkt-bot-filter" class="toolbar-select">
+            <option value="all">All Bots</option>
+          </select>
+          <input type="text" id="pkt-filter" class="toolbar-input" placeholder="Filter opcode or label..." />
+          <button id="pkt-clear" class="btn btn-small">Clear</button>
+        </div>
+        <div id="packet-log" class="log-container"></div>
+      </section>
+
+      <!-- Chat Panel -->
+      <section id="panel-chat" class="panel">
+        <div class="panel-header">
+          <h2>Chat Log</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <div class="chat-filter-bar">
+          <div class="chat-tabs" id="chat-channel-tabs">
+            <button class="chat-tab active" data-channel="all">All</button>
+            <button class="chat-tab" data-channel="0">Whisper</button>
+            <button class="chat-tab" data-channel="5">World Shout</button>
+            <button class="chat-tab" data-channel="100">Say</button>
+            <button class="chat-tab" data-channel="101">Shout</button>
+            <button class="chat-tab" data-channel="11">Group</button>
+            <button class="chat-tab" data-channel="12">Guild</button>
+            <button class="chat-tab" data-channel="3">System</button>
+          </div>
+          <div class="chat-tabs chat-tabs-bots" id="chat-bot-tabs"></div>
+        </div>
+        <div class="toolbar">
+          <label class="toolbar-check"><input type="checkbox" id="chat-auto-scroll" checked /> Auto-scroll</label>
+          <button id="chat-clear" class="btn btn-small">Clear</button>
+        </div>
+        <div id="chat-log" class="log-container"></div>
+        <div class="chat-send">
+          <select id="chat-bot-select" class="toolbar-select"></select>
+          <input type="text" id="say-message" placeholder="Say something..." style="flex:1" />
+          <button id="btn-say" class="btn btn-small btn-success btn-green">Say</button>
+        </div>
+        <div class="chat-send">
+          <select id="whisper-bot-select" class="toolbar-select"></select>
+          <input type="text" id="whisper-target" placeholder="Player name" />
+          <input type="text" id="whisper-message" placeholder="Message" />
+          <button id="btn-whisper" class="btn btn-small btn-success btn-green">Whisper</button>
+        </div>
+      </section>
+
+      <!-- AE Ingest Panel -->
+      <section id="panel-ae-ingest" class="panel">
+        <div class="panel-header">
+          <h2>Aisling Exchange Ingest</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <p class="panel-description">Send world shouts to the Aisling Exchange API and forward whispers for site verification.</p>
+        <form id="ae-form">
+          <div class="form-group">
+            <label class="checkbox-inline">
+              <input type="checkbox" id="ae-enabled" /> Enable AE Ingest
+            </label>
+          </div>
+          <div class="form-group">
+            <label for="ae-api-url">API URL</label>
+            <input type="text" id="ae-api-url" placeholder="https://example.com/api/shouts" autocomplete="off" />
+          </div>
+          <div class="form-group">
+            <label for="ae-api-key">Ingest API Key</label>
+            <input type="password" id="ae-api-key" placeholder="Enter key (leave blank to keep existing)" autocomplete="off" />
+            <small id="ae-key-status" class="form-hint"></small>
+          </div>
+          <div class="form-row">
+            <button type="submit" class="btn btn-success btn-green">Save AE Config</button>
+            <button type="button" id="ae-test-btn" class="btn btn-warning btn-yellow">Test Connection</button>
+          </div>
+          <div id="ae-test-result" class="test-result"></div>
+        </form>
+      </section>
+
+      <!-- Discord Webhooks Panel -->
+      <section id="panel-discord" class="panel">
+        <div class="panel-header">
+          <h2>Discord Webhooks</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <p class="panel-description">Route chat messages to Discord channels via webhook rules.</p>
+
+        <div id="discord-rules-list" class="rules-list"></div>
+
+        <div class="section-divider"></div>
+        <h3 class="section-title">Add / Edit Rule</h3>
+
+        <form id="discord-rule-form">
+          <input type="hidden" id="dr-id" value="" />
+          <div class="form-row">
+            <div class="form-group">
+              <label for="dr-name">Rule Name</label>
+              <input type="text" id="dr-name" placeholder="e.g. World Shouts" autocomplete="off" />
+            </div>
+            <div class="form-group">
+              <label for="dr-bot-name">Bot Name</label>
+              <input type="text" id="dr-bot-name" placeholder="DASB" autocomplete="off" />
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="dr-webhook-url">Webhook URL</label>
+            <input type="text" id="dr-webhook-url" placeholder="https://discord.com/api/webhooks/..." autocomplete="off" />
+          </div>
+          <fieldset>
+            <legend>Message Types</legend>
+            <div class="checkbox-row">
+              <label><input type="checkbox" id="dr-type-any" value="Any" /> Any</label>
+              <label><input type="checkbox" id="dr-type-world-all" value="WorldMessage (All)" /> World (All)</label>
+              <label><input type="checkbox" id="dr-type-worldshout" value="WorldShout" /> World Shout</label>
+              <label><input type="checkbox" id="dr-type-worldmessage" value="WorldMessage" /> World Message</label>
+              <label><input type="checkbox" id="dr-type-whisper" value="WhisperReceived" /> Whisper Received</label>
+              <label><input type="checkbox" id="dr-type-whisper-sent" value="Whisper" /> Whisper Sent</label>
+              <label><input type="checkbox" id="dr-type-guild" value="GuildMessage" /> Guild</label>
+              <label><input type="checkbox" id="dr-type-public" value="PublicMessage" /> Public</label>
+            </div>
+          </fieldset>
+          <div class="form-group">
+            <label for="dr-pattern">Regex Pattern (optional)</label>
+            <input type="text" id="dr-pattern" placeholder="e.g. sell|buy|trade" autocomplete="off" />
+            <small class="form-hint">Leave blank to match all messages of the selected types</small>
+          </div>
+          <div class="form-row">
+            <button type="submit" class="btn btn-success btn-green">Save Rule</button>
+            <button type="button" id="dr-test-btn" class="btn btn-warning btn-yellow">Test Webhook</button>
+            <button type="button" id="dr-clear-btn" class="btn btn-small">Clear Form</button>
+          </div>
+          <div id="discord-test-result" class="test-result"></div>
+        </form>
+      </section>
+
+      <!-- Chat Games Panel -->
+      <section id="panel-chatgames" class="panel">
+        <div class="panel-header">
+          <h2>Chat Games</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+
+        <div class="cg-tabs" id="cg-tabs">
+          <button class="cg-tab active" data-cg-tab="settings">Settings</button>
+          <button class="cg-tab" data-cg-tab="content">Custom Content</button>
+          <button class="cg-tab" data-cg-tab="host">Host Mode</button>
+          <button class="cg-tab" data-cg-tab="groupbj">Group BJ</button>
+          <button class="cg-tab" data-cg-tab="activity">Activity</button>
+          <button class="cg-tab" data-cg-tab="leaderboard">Leaderboard</button>
+        </div>
+
+        <!-- Settings Tab -->
+        <div id="cg-tab-settings" class="cg-tab-content active">
+          <form id="chatgames-form">
+            <div class="form-group">
+              <label class="checkbox-inline">
+                <input type="checkbox" id="cg-enabled" /> Enable Chat Games
+              </label>
+            </div>
+            <div class="form-row">
+              <div class="form-group">
+                <label for="cg-model">OpenAI Model</label>
+                <input type="text" id="cg-model" placeholder="gpt-4o-mini" autocomplete="off" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cg-prefix">Command Prefix</label>
+                <input type="text" id="cg-prefix" placeholder="!" maxlength="3" autocomplete="off" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cg-cooldown">Cooldown (sec)</label>
+                <input type="number" id="cg-cooldown" min="0" max="300" />
+              </div>
+            </div>
+            <fieldset>
+              <legend>Channels</legend>
+              <div class="checkbox-row">
+                <label><input type="checkbox" id="cg-public" /> Public Chat</label>
+                <label><input type="checkbox" id="cg-whisper" /> Whispers</label>
+              </div>
+            </fieldset>
+            <fieldset>
+              <legend>Games</legend>
+              <div class="checkbox-row">
+                <label><input type="checkbox" id="cg-game-trivia" /> Trivia</label>
+                <label><input type="checkbox" id="cg-game-riddle" /> Riddles</label>
+                <label><input type="checkbox" id="cg-game-8ball" /> 8-Ball</label>
+                <label><input type="checkbox" id="cg-game-scramble" /> Scramble</label>
+                <label><input type="checkbox" id="cg-game-guess" /> Number Guess</label>
+                <label><input type="checkbox" id="cg-game-fortune" /> Fortune</label>
+                <label><input type="checkbox" id="cg-game-rps" /> Rock Paper Scissors</label>
+                <label><input type="checkbox" id="cg-game-hangman" /> Hangman</label>
+              </div>
+            </fieldset>
+            <fieldset>
+              <legend>Special Modes</legend>
+              <p class="panel-description" style="margin-top:0;margin-bottom:0.5rem;font-size:0.8rem;">Only one can be active at a time. Leave target blank to respond to everyone.</p>
+              <div class="checkbox-row">
+                <label><input type="checkbox" id="cg-roast-mode" /> Roast Mode</label>
+                <label><input type="checkbox" id="cg-ragebait-mode" /> Rage Bait Mode</label>
+              </div>
+              <div class="form-group" style="margin-top:0.5rem;">
+                <label for="cg-roast-target">Target Player</label>
+                <input type="text" id="cg-roast-target" placeholder="Leave blank for everyone" maxlength="30" autocomplete="off" style="max-width:200px;" />
+              </div>
+            </fieldset>
+            <div class="form-group">
+              <label>API Key Status</label>
+              <small id="cg-key-status" class="form-hint">Checking...</small>
+            </div>
+            <button type="submit" class="btn btn-success btn-green">Save Chat Games Config</button>
+          </form>
+        </div>
+
+        <!-- Custom Content Tab -->
+        <div id="cg-tab-content" class="cg-tab-content">
+          <h3 class="section-title">Custom Trivia Questions</h3>
+          <p class="panel-description">Add your own custom content for games. Custom items are used first; built-in fallbacks fill in when the list is empty.</p>
+          <div id="cg-custom-trivia-list" class="rules-list">
+            <div class="rules-empty">No custom trivia yet.</div>
+          </div>
+          <form id="cg-trivia-add-form">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="cg-trivia-q">Question</label>
+                <input type="text" id="cg-trivia-q" placeholder="What town do Aislings awaken in?" maxlength="55" autocomplete="off" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cg-trivia-a">Answer</label>
+                <input type="text" id="cg-trivia-a" placeholder="Mileth" maxlength="25" autocomplete="off" />
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group form-group-small">
+                <label for="cg-trivia-h">Hint (optional)</label>
+                <input type="text" id="cg-trivia-h" placeholder="Starting village" maxlength="30" autocomplete="off" />
+              </div>
+              <button type="submit" class="btn btn-success btn-green btn-small">Add Question</button>
+            </div>
+          </form>
+
+          <div class="section-divider"></div>
+          <h3 class="section-title">Custom Riddles</h3>
+          <p class="panel-description">Add your own riddles. Custom riddles are used first; built-in fallbacks fill in when the list is empty.</p>
+          <div id="cg-custom-riddles-list" class="rules-list">
+            <div class="rules-empty">No custom riddles yet.</div>
+          </div>
+          <form id="cg-riddles-add-form">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="cg-riddle-r">Riddle</label>
+                <input type="text" id="cg-riddle-r" placeholder="I burn without flame in Temuair." maxlength="55" autocomplete="off" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cg-riddle-a">Answer</label>
+                <input type="text" id="cg-riddle-a" placeholder="Srad" maxlength="25" autocomplete="off" />
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group form-group-small">
+                <label for="cg-riddle-h">Hint (optional)</label>
+                <input type="text" id="cg-riddle-h" placeholder="An element" maxlength="30" autocomplete="off" />
+              </div>
+              <button type="submit" class="btn btn-success btn-green btn-small">Add Riddle</button>
+            </div>
+          </form>
+
+          <div class="section-divider"></div>
+          <h3 class="section-title">Custom Scramble Words</h3>
+          <p class="panel-description">Add your own words for the scramble game.</p>
+          <div id="cg-custom-words-list" class="rules-list">
+            <div class="rules-empty">No custom words yet.</div>
+          </div>
+          <form id="cg-words-add-form">
+            <div class="form-row">
+              <div class="form-group form-group-small">
+                <label for="cg-word-w">Word</label>
+                <input type="text" id="cg-word-w" placeholder="temuair" maxlength="15" autocomplete="off" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="cg-word-h">Hint</label>
+                <input type="text" id="cg-word-h" placeholder="The world itself" maxlength="30" autocomplete="off" />
+              </div>
+              <button type="submit" class="btn btn-success btn-green btn-small">Add Word</button>
+            </div>
+          </form>
+
+          <div class="section-divider"></div>
+          <h3 class="section-title">Custom 8-Ball Responses</h3>
+          <p class="panel-description">Add your own Magic 8-Ball responses. If empty, built-in Dark Ages responses are used.</p>
+          <div id="cg-custom-8ball-list" class="rules-list">
+            <div class="rules-empty">No custom 8-Ball responses yet.</div>
+          </div>
+          <form id="cg-8ball-add-form">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="cg-8ball-text">Response</label>
+                <input type="text" id="cg-8ball-text" placeholder="The gods say yes, Aisling." maxlength="55" autocomplete="off" />
+              </div>
+              <button type="submit" class="btn btn-success btn-green btn-small">Add Response</button>
+            </div>
+          </form>
+
+          <div class="section-divider"></div>
+          <h3 class="section-title">Custom Fortunes</h3>
+          <p class="panel-description">Add your own fortune/prophecy messages. If empty, built-in Dark Ages fortunes are used.</p>
+          <div id="cg-custom-fortunes-list" class="rules-list">
+            <div class="rules-empty">No custom fortunes yet.</div>
+          </div>
+          <form id="cg-fortunes-add-form">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="cg-fortune-text">Fortune</label>
+                <input type="text" id="cg-fortune-text" placeholder="The Dubhaimid stir... guard your path." maxlength="55" autocomplete="off" />
+              </div>
+              <button type="submit" class="btn btn-success btn-green btn-small">Add Fortune</button>
+            </div>
+          </form>
+        </div>
+
+        <!-- Host Mode Tab -->
+        <div id="cg-tab-host" class="cg-tab-content">
+          <h3 class="section-title">Host Mode (Game Show)</h3>
+          <p class="panel-description">Run a multi-round game show. Anyone can answer, first correct wins the round. You can also whisper the bot: <span id="cg-host-prefix-hint">!host trivia 10</span></p>
+          <div id="cg-host-status" class="rules-list">
+            <div class="rules-empty">No hosted game running.</div>
+          </div>
+          <div class="form-row" style="margin-top:0.75rem;align-items:flex-end;">
+            <div class="form-group form-group-small">
+              <label for="cg-host-type">Game Type</label>
+              <select id="cg-host-type" class="toolbar-select">
+                <option value="trivia">Trivia</option>
+                <option value="riddle">Riddles</option>
+                <option value="scramble">Scramble</option>
+                <option value="numberguess">Number Guess</option>
+                <option value="hangman">Hangman</option>
+              </select>
+            </div>
+            <div class="form-group form-group-small">
+              <label for="cg-host-rounds">Rounds</label>
+              <input type="number" id="cg-host-rounds" value="5" min="1" max="20" style="width:60px" />
+            </div>
+            <button id="cg-host-start" class="btn btn-small btn-green">Start Game Show</button>
+            <button id="cg-host-skip" class="btn btn-small btn-yellow" disabled>Skip Round</button>
+            <button id="cg-host-stop" class="btn btn-small btn-red" disabled>End Game</button>
+          </div>
+        </div>
+
+        <!-- Group Blackjack Tab -->
+        <div id="cg-tab-groupbj" class="cg-tab-content">
+          <h3 class="section-title">Group Blackjack</h3>
+          <p class="panel-description">Start a multi-player blackjack lobby. Players join with <code>+bjjoin</code> in chat.</p>
+          <div id="cg-bj-status" class="rules-list">
+            <div class="rules-empty">No group blackjack running.</div>
+          </div>
+          <div class="form-row" style="margin-top:0.75rem;align-items:flex-end;">
+            <div class="form-group form-group-small">
+              <label for="cg-bj-rounds">Rounds</label>
+              <input type="number" id="cg-bj-rounds" value="5" min="1" max="20" style="width:60px" />
+            </div>
+            <button id="cg-bj-open" class="btn btn-small btn-green">Open Lobby</button>
+            <button id="cg-bj-force" class="btn btn-small btn-yellow" disabled>Force Start</button>
+            <button id="cg-bj-stop" class="btn btn-small btn-red" disabled>Stop Game</button>
+          </div>
+        </div>
+
+        <!-- Activity Tab -->
+        <div id="cg-tab-activity" class="cg-tab-content">
+          <h3 class="section-title">Active Games</h3>
+          <div id="cg-active-games" class="rules-list">
+            <div class="rules-empty">No active games.</div>
+          </div>
+
+          <div class="section-divider"></div>
+          <h3 class="section-title">Activity Log</h3>
+          <div id="cg-activity-log" class="log-container" style="max-height:250px; min-height:80px;"></div>
+        </div>
+
+        <!-- Leaderboard Tab -->
+        <div id="cg-tab-leaderboard" class="cg-tab-content">
+          <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:0.75rem;">
+            <h3 class="section-title" style="margin-bottom:0">Leaderboard</h3>
+            <div style="display:flex; gap:0.5rem;">
+              <button id="cg-lb-clear-game" class="btn btn-small btn-red" style="display:none;">Reset Game</button>
+              <button id="cg-lb-clear" class="btn btn-small btn-red">Clear All</button>
+            </div>
+          </div>
+          <div class="lb-filter-tabs" id="lb-filter-tabs">
+            <button class="lb-filter-tab active" data-game="">Overall</button>
+            <button class="lb-filter-tab" data-game="trivia">Trivia</button>
+            <button class="lb-filter-tab" data-game="riddle">Riddle</button>
+            <button class="lb-filter-tab" data-game="scramble">Scramble</button>
+            <button class="lb-filter-tab" data-game="numberguess">Guess</button>
+            <button class="lb-filter-tab" data-game="rps">RPS</button>
+            <button class="lb-filter-tab" data-game="blackjack">BJ</button>
+            <button class="lb-filter-tab" data-game="hangman">Hangman</button>
+          </div>
+          <div id="cg-leaderboard-wrap">
+            <table class="lb-table">
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Player</th>
+                  <th>Wins</th>
+                  <th>Games</th>
+                  <th>Win%</th>
+                  <th id="lb-streak-col">Best Streak</th>
+                </tr>
+              </thead>
+              <tbody id="cg-lb-tbody">
+                <tr><td colspan="6" class="lb-empty">No data yet.</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- Players Panel -->
+      <section id="panel-players" class="panel">
+        <div class="panel-header">
+          <h2>Players</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+
+        <!-- Player List View -->
+        <div id="players-list-view">
+          <div class="toolbar">
+            <input type="text" id="players-search" class="toolbar-input" placeholder="Search name, class, or title..." style="flex:1;margin-right:0.5rem;">
+            <select id="players-class-filter" class="toolbar-select" style="width:auto;margin-right:0.5rem;">
+              <option value="">All Classes</option>
+              <option value="Peasant">Peasant</option>
+              <option value="Warrior">Warrior</option>
+              <option value="Rogue">Rogue</option>
+              <option value="Wizard">Wizard</option>
+              <option value="Priest">Priest</option>
+              <option value="Monk">Monk</option>
+            </select>
+            <select id="players-sort" class="toolbar-select" style="width:auto;margin-right:0.5rem;">
+              <option value="appeared">Appeared</option>
+              <option value="disappeared">Disappeared</option>
+              <option value="name">Name</option>
+            </select>
+            <button id="players-refresh" class="btn btn-small">Refresh</button>
+          </div>
+          <div id="players-count" class="players-count"></div>
+          <div id="players-table-container" class="players-table-container">
+            <div class="rules-empty">Loading player data...</div>
+          </div>
+        </div>
+
+        <!-- Player Detail View (hidden by default) -->
+        <div id="players-detail-view" style="display:none;">
+          <button id="players-back-btn" class="btn btn-small" style="margin-bottom:1rem;">
+            <svg style="width:14px;height:14px;vertical-align:middle;margin-right:4px;"><use href="#icon-chevron-left"/></svg>
+            Back to Players
+          </button>
+          <div id="player-detail-header" class="player-detail-header"></div>
+          <div class="player-detail-tabs">
+            <button class="player-tab active" data-player-tab="activity">Activity Timeline</button>
+            <button class="player-tab" data-player-tab="legends">Legend Marks</button>
+            <button class="player-tab" data-player-tab="chatlogs">Chat Logs</button>
+            <button class="player-tab" data-player-tab="userlist">User List History</button>
+          </div>
+          <div id="player-tab-activity" class="player-tab-content active">
+            <div id="player-activity-list" class="player-activity-list"></div>
+          </div>
+          <div id="player-tab-legends" class="player-tab-content">
+            <div id="player-legends-list" class="player-legends-list"></div>
+          </div>
+          <div id="player-tab-chatlogs" class="player-tab-content">
+            <div id="player-chat-logs" class="log-container" style="max-height:500px;min-height:100px;"></div>
+          </div>
+          <div id="player-tab-userlist" class="player-tab-content">
+            <div id="player-userlist-history" class="player-activity-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Stats Panel -->
+      <section id="panel-stats" class="panel">
+        <div class="panel-header">
+          <h2>Aisling Stats</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <p class="panel-description">Character equipment and appearance data captured from the world. Click a character card for details.</p>
+
+        <div class="stats-toolbar">
+          <input type="text" id="stats-search" class="toolbar-input" placeholder="Type a name to jump to the player..." style="flex:1;max-width:300px;">
+          <select id="stats-class-filter" class="toolbar-select" style="width:auto;">
+            <option value="">All Classes</option>
+            <option value="Peasant">Peasant</option>
+            <option value="Warrior">Warrior</option>
+            <option value="Rogue">Rogue</option>
+            <option value="Wizard">Wizard</option>
+            <option value="Priest">Priest</option>
+            <option value="Monk">Monk</option>
+          </select>
+          <select id="stats-sort" class="toolbar-select" style="width:auto;">
+            <option value="lastSeen">Last Seen</option>
+            <option value="name">Name</option>
+            <option value="className">Class</option>
+          </select>
+          <span id="stats-count" class="kb-count">0 characters</span>
+        </div>
+
+        <div id="stats-grid" class="stats-grid">
+          <div class="rules-empty">No character appearance data yet. Data is captured when characters are seen in the world.</div>
+        </div>
+
+        <!-- Character Detail Modal -->
+        <div id="stats-detail-overlay" class="stats-detail-overlay" style="display:none;">
+          <div class="stats-detail-modal">
+            <button id="stats-detail-close" class="stats-detail-close">&times;</button>
+            <div id="stats-detail-content"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Scheduled Messages Panel -->
+      <section id="panel-scheduled" class="panel">
+        <div class="panel-header">
+          <h2>Scheduled Messages</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <p class="panel-description">Send messages automatically at set times or intervals.</p>
+
+        <!-- Bot Tabs -->
+        <div class="sched-bot-tabs" id="sched-bot-tabs">
+          <button class="sched-bot-tab active" data-sched-bot="all">All</button>
+        </div>
+
+        <!-- Schedule List (grouped by bot, rendered via JS) -->
+        <div id="sched-list" class="sched-list-grouped">
+          <div class="rules-empty">No schedules configured.</div>
+        </div>
+
+        <!-- Collapsible Add/Edit Form -->
+        <details class="sched-form-fold" id="sched-form-fold">
+          <summary class="sched-form-toggle" id="sched-form-title">Add Schedule</summary>
+          <form id="sched-form" class="sched-form-inner">
+            <input type="hidden" id="sched-id" value="" />
+            <div class="form-row">
+              <div class="form-group">
+                <label for="sched-name">Name</label>
+                <input type="text" id="sched-name" placeholder="Daily Greeting" autocomplete="off" />
+              </div>
+              <div class="form-group form-group-small">
+                <label for="sched-type">Schedule Type</label>
+                <select id="sched-type" class="toolbar-select">
+                  <option value="interval">Every X Minutes</option>
+                  <option value="daily">Daily at Time</option>
+                  <option value="onetime">One-Time</option>
+                </select>
+              </div>
+            </div>
+
+            <!-- Interval config -->
+            <div id="sched-interval-cfg" class="form-group form-group-small">
+              <label for="sched-interval">Interval (minutes)</label>
+              <input type="number" id="sched-interval" min="1" max="1440" value="30" />
+            </div>
+
+            <!-- Daily config -->
+            <div id="sched-daily-cfg" class="form-group form-group-small" style="display:none">
+              <label for="sched-daily-time">Time (HH:MM)</label>
+              <input type="time" id="sched-daily-time" value="08:00" />
+            </div>
+
+            <!-- One-time config -->
+            <div id="sched-onetime-cfg" class="form-group" style="display:none">
+              <label for="sched-onetime-at">Date &amp; Time</label>
+              <input type="datetime-local" id="sched-onetime-at" />
+            </div>
+
+            <div class="form-group">
+              <label for="sched-message">Message</label>
+              <input type="text" id="sched-message" placeholder="Hello Temuair!" maxlength="255" autocomplete="off" />
+            </div>
+
+            <div class="form-row">
+              <div class="form-group form-group-small">
+                <label for="sched-bot">Bot</label>
+                <select id="sched-bot" class="toolbar-select">
+                  <option value="primary">Primary Bot</option>
+                </select>
+              </div>
+              <div class="form-group form-group-small">
+                <label for="sched-msg-type">Type</label>
+                <select id="sched-msg-type" class="toolbar-select">
+                  <option value="say">Say</option>
+                  <option value="whisper">Whisper</option>
+                </select>
+              </div>
+              <div id="sched-target-cfg" class="form-group form-group-small" style="display:none">
+                <label for="sched-whisper-target">Target Player</label>
+                <input type="text" id="sched-whisper-target" placeholder="PlayerName" autocomplete="off" />
+              </div>
+            </div>
+
+            <div class="form-row" style="margin-top:0.5rem">
+              <button type="submit" class="btn btn-success btn-green">Save Schedule</button>
+              <button type="button" id="sched-form-clear" class="btn btn-small">Clear</button>
+            </div>
+          </form>
+        </details>
+      </section>
+
+      <!-- Knowledge Base Panel -->
+      <section id="panel-knowledge" class="panel">
+        <div class="panel-header">
+          <h2>Knowledge Base</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <p class="panel-description">Train the bot on game information. Entries are injected into AI context when relevant keywords match.</p>
+
+        <!-- Category Filter -->
+        <div class="knowledge-toolbar">
+          <select id="kb-filter-category" class="toolbar-select">
+            <option value="">All Categories</option>
+            <option value="items">Items</option>
+            <option value="spells">Spells</option>
+            <option value="quests">Quests</option>
+            <option value="locations">Locations</option>
+            <option value="monsters">Monsters</option>
+            <option value="classes">Classes</option>
+            <option value="npcs">NPCs</option>
+            <option value="lore">Lore</option>
+            <option value="general">General</option>
+          </select>
+          <span id="kb-count" class="kb-count">0 entries</span>
+        </div>
+
+        <!-- Knowledge List -->
+        <div id="kb-list" class="kb-list">
+          <div class="rules-empty">No knowledge entries yet.</div>
+        </div>
+
+        <!-- Add/Edit Form -->
+        <details class="sched-form-fold" id="kb-form-fold">
+          <summary class="sched-form-toggle" id="kb-form-title">Add Entry</summary>
+          <form id="kb-form" class="sched-form-inner">
+            <input type="hidden" id="kb-id" value="" />
+            <div class="form-row">
+              <div class="form-group form-group-small">
+                <label for="kb-category">Category</label>
+                <select id="kb-category" class="toolbar-select">
+                  <option value="items">Items</option>
+                  <option value="spells">Spells</option>
+                  <option value="quests">Quests</option>
+                  <option value="locations">Locations</option>
+                  <option value="monsters">Monsters</option>
+                  <option value="classes">Classes</option>
+                  <option value="npcs">NPCs</option>
+                  <option value="lore">Lore</option>
+                  <option value="general">General</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="kb-title">Title</label>
+                <input type="text" id="kb-title" placeholder="e.g. Mileth, beag ioc, Goblin" autocomplete="off" />
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="kb-content">Content</label>
+              <textarea id="kb-content" rows="3" placeholder="Describe this topic. The bot will use this when players ask about it." style="width:100%;resize:vertical;"></textarea>
+            </div>
+            <div class="form-row" style="margin-top:0.5rem">
+              <button type="submit" class="btn btn-success btn-green">Save Entry</button>
+              <button type="button" id="kb-form-clear" class="btn btn-small">Clear</button>
+            </div>
+          </form>
+        </details>
+
+        <!-- Bulk Import -->
+        <details class="sched-form-fold" id="kb-bulk-fold">
+          <summary class="sched-form-toggle">Bulk Import</summary>
+          <div class="sched-form-inner">
+            <div class="form-group form-group-small">
+              <label for="kb-bulk-category">Category for all entries</label>
+              <select id="kb-bulk-category" class="toolbar-select">
+                <option value="items">Items</option>
+                <option value="spells">Spells</option>
+                <option value="quests">Quests</option>
+                <option value="locations">Locations</option>
+                <option value="monsters">Monsters</option>
+                <option value="classes">Classes</option>
+                <option value="npcs">NPCs</option>
+                <option value="lore">Lore</option>
+                <option value="general">General</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="kb-bulk-text">Paste data (one entry per block, separated by blank lines)</label>
+              <textarea id="kb-bulk-text" rows="12" placeholder="Scimitar
+Level: 36
+Damage: S: 30-35 | L: 40-50
+Location: Pirate Ship
+
+Cutlass
+Level: 86
+Damage: S: 90-120 | L: 80-110
+Location: Pirate Ship
+
+(Each block's first line becomes the title, the rest becomes the content)" style="width:100%;resize:vertical;font-family:var(--font-mono);font-size:12px;"></textarea>
+            </div>
+            <div class="form-row" style="margin-top:0.5rem;align-items:center;gap:1rem;">
+              <button type="button" id="kb-bulk-import-btn" class="btn btn-success btn-green">Import All</button>
+              <span id="kb-bulk-preview" style="color:var(--text-secondary);font-size:13px;"></span>
+            </div>
+          </div>
+        </details>
+      </section>
+
+      <!-- Lottery Panel -->
+      <section id="panel-lottery" class="panel">
+        <div class="panel-header">
+          <h2>Lottery</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <p class="panel-description">Manage the Gold Bar lottery. Players trade Gold Bars to the lottery bot — each bar is a ticket. Draw a winner to award all collected bars.</p>
+
+        <!-- Lottery Status Card -->
+        <div class="lottery-status-card" id="lottery-status-card">
+          <div class="lottery-status-row">
+            <span class="lottery-label">Status</span>
+            <span class="lottery-value" id="lottery-status-badge">Inactive</span>
+          </div>
+          <div class="lottery-status-row">
+            <span class="lottery-label">Drawing Name</span>
+            <span class="lottery-value" id="lottery-drawing-name">—</span>
+          </div>
+          <div class="lottery-status-row">
+            <span class="lottery-label">Total Tickets</span>
+            <span class="lottery-value" id="lottery-ticket-count">0</span>
+          </div>
+          <div class="lottery-status-row">
+            <span class="lottery-label">Unique Players</span>
+            <span class="lottery-value" id="lottery-player-count">0</span>
+          </div>
+          <div class="lottery-status-row" id="lottery-winner-row" style="display:none">
+            <span class="lottery-label">Winner</span>
+            <span class="lottery-value lottery-winner-name" id="lottery-winner-name">—</span>
+          </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="lottery-actions" id="lottery-actions">
+          <div class="lottery-start-form" id="lottery-start-form">
+            <div class="form-row">
+              <div class="form-group" style="flex:1">
+                <label for="lottery-name-input">Drawing Name</label>
+                <input type="text" id="lottery-name-input" placeholder="Gold Bar Giveaway" autocomplete="off" />
+              </div>
+              <button type="button" class="btn btn-success btn-green" id="lottery-start-btn">Start Lottery</button>
+            </div>
+          </div>
+          <div class="lottery-active-actions" id="lottery-active-actions" style="display:none">
+            <button type="button" class="btn btn-gold" id="lottery-draw-btn">Draw Winner</button>
+            <button type="button" class="btn btn-danger" id="lottery-cancel-btn">Cancel Lottery</button>
+          </div>
+          <div class="lottery-deliver-actions" id="lottery-deliver-actions" style="display:none">
+            <button type="button" class="btn btn-success btn-green" id="lottery-deliver-btn">Deliver Prize</button>
+            <button type="button" class="btn btn-gold" id="lottery-sync-btn">Sync to AE</button>
+            <button type="button" class="btn btn-danger" id="lottery-reset-btn">Delete Lottery</button>
+          </div>
+        </div>
+
+        <!-- Ticket Table -->
+        <div class="lottery-tickets-section">
+          <h3 class="lottery-section-title">Tickets</h3>
+          <div class="lottery-ticket-table-wrap" id="lottery-ticket-table-wrap">
+            <table class="lottery-ticket-table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Player</th>
+                  <th>Item</th>
+                  <th>Time</th>
+                </tr>
+              </thead>
+              <tbody id="lottery-ticket-tbody">
+                <tr><td colspan="4" class="lottery-empty">No tickets yet.</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- Slot Machine Panel -->
+      <section id="panel-slots" class="panel">
+        <style>
+          /* Slots Panel Styles */
+          .slots-tooltip { position:relative; cursor:help; }
+          .slots-tooltip::after {
+            content: attr(data-tip);
+            position: absolute; top: calc(100% + 6px); left: 0;
+            background: #1a1a1a; color: var(--text-primary); font-family: var(--font-body);
+            font-size: 0.72rem; padding: 8px 12px; border-radius: 6px; white-space: normal; max-width: 260px;
+            border: 1px solid var(--border-gold); pointer-events: none;
+            opacity: 0; transition: opacity 0.15s; z-index: 100;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.6);
+            line-height: 1.4;
+          }
+          .slots-tooltip:hover::after { opacity: 1; }
+
+          .slots-grid { display: grid; gap: 10px; margin: 14px 0; }
+          .slots-grid-4 { grid-template-columns: repeat(4, 1fr); }
+          .slots-grid-3 { grid-template-columns: repeat(3, 1fr); }
+          .slots-grid-2 { grid-template-columns: repeat(2, 1fr); }
+          @media (max-width: 900px) {
+            .slots-grid-4, .slots-grid-3 { grid-template-columns: repeat(2, 1fr); }
+          }
+
+          .slots-stat { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--card-radius); padding: 14px 16px; position: relative; transition: all var(--transition-fast); }
+          .slots-stat::after { content:''; position:absolute; bottom:0; left:0; right:0; height:2px; background: linear-gradient(90deg, var(--gold-700), var(--gold-500), var(--gold-700)); opacity:0.4; }
+          .slots-stat:hover { background: var(--bg-card-hover); border-color: var(--border-gold); }
+          .slots-stat-label { font-family: var(--font-display); font-size: 0.62rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 4px; display: flex; align-items: center; gap: 5px; }
+          .slots-stat-value { font-family: var(--font-mono); font-size: 1.15rem; font-weight: 600; color: var(--gold-200); }
+          .slots-stat-value.positive { color: #4caf50; }
+          .slots-stat-value.negative { color: #e57373; }
+          .slots-stat-value.neutral { color: var(--text-secondary); }
+          .slots-stat-sub { font-family: var(--font-body); font-size: 0.68rem; color: var(--text-muted); margin-top: 3px; }
+          .slots-stat.highlight { border-color: var(--border-gold); }
+          .slots-stat.highlight::after { opacity: 0.8; }
+
+          .slots-info-icon { display: inline-flex; align-items: center; justify-content: center; width: 14px; height: 14px; border-radius: 50%; background: var(--border); color: var(--text-muted); font-size: 0.55rem; font-weight: 700; font-family: var(--font-body); flex-shrink: 0; }
+
+          .slots-section { margin-top: 20px; }
+          .slots-section-header { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+          .slots-section-header h3 { font-family: var(--font-display); font-size: 0.85rem; color: var(--gold-200); letter-spacing: 1px; text-transform: uppercase; margin: 0; }
+          .slots-section-header .slots-badge { font-family: var(--font-mono); font-size: 0.7rem; background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; padding: 2px 8px; color: var(--text-secondary); }
+
+          .slots-table-wrap { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--card-radius); overflow: hidden; }
+          .slots-table-scroll { max-height: 280px; overflow-y: auto; }
+          .slots-table { width: 100%; border-collapse: collapse; font-family: var(--font-body); font-size: 0.8rem; }
+          .slots-table thead { position: sticky; top: 0; z-index: 1; }
+          .slots-table th { background: var(--bg-dark); color: var(--text-muted); font-family: var(--font-display); font-size: 0.62rem; text-transform: uppercase; letter-spacing: 1.5px; padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--border-gold); }
+          .slots-table td { padding: 9px 14px; color: var(--text-primary); border-bottom: 1px solid var(--border-subtle); }
+          .slots-table tbody tr { transition: background var(--transition-fast); }
+          .slots-table tbody tr:hover { background: var(--bg-card-hover); }
+          .slots-table tbody tr:last-child td { border-bottom: none; }
+          .slots-table .empty-row td { text-align: center; color: var(--text-muted); font-style: italic; padding: 20px; }
+          .slots-table .outcome-jackpot { color: #f0c040; font-weight: 700; }
+          .slots-table .outcome-win { color: #4caf50; font-weight: 600; }
+          .slots-table .outcome-push { color: var(--amber-400); }
+          .slots-table .outcome-lose { color: #e57373; }
+          .slots-table .reel-cell { font-size: 0.75rem; color: var(--text-secondary); }
+          .slots-table .gold-cell { font-family: var(--font-mono); color: var(--gold-200); }
+          .slots-table .wl-cell { font-family: var(--font-mono); font-size: 0.75rem; }
+
+          .slots-controls { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--card-radius); padding: 12px 16px; margin-bottom: 14px; }
+          .slots-controls label { font-family: var(--font-display); font-size: 0.68rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; display: flex; align-items: center; gap: 6px; }
+          .slots-controls input[type="number"] { background: var(--bg-input); border: 1px solid var(--border); color: var(--text-primary); border-radius: 4px; padding: 4px 8px; width: 80px; font-family: var(--font-mono); font-size: 0.8rem; }
+          .slots-controls input[type="checkbox"] { accent-color: var(--gold-400); }
+          .slots-controls .slots-controls-spacer { flex: 1; }
+        </style>
+
+        <div class="panel-header">
+          <h2>Slot Machine</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <p class="panel-description">Players trade gold to load credits, then whisper commands to spin. One spin at a time, deposits and cashouts open to all.</p>
+
+        <!-- Controls Bar -->
+        <div class="slots-controls">
+          <label>
+            <input type="checkbox" id="slots-enabled"> Enabled
+          </label>
+          <label>
+            Spin Cost
+            <input type="number" id="slots-spin-cost" min="1" value="1">
+          </label>
+          <button class="btn btn-success" id="slots-save-config" style="padding:0.4rem 1rem;font-size:0.72rem;">Save</button>
+          <span class="slots-controls-spacer"></span>
+          <button class="btn btn-danger" id="slots-end-session" style="padding:0.4rem 0.8rem;font-size:0.68rem;">End Spin</button>
+          <button class="btn btn-danger" id="slots-clear-queue" style="padding:0.4rem 0.8rem;font-size:0.68rem;">Clear Queue</button>
+        </div>
+
+        <!-- Live Status -->
+        <div class="slots-grid slots-grid-3">
+          <div class="slots-stat">
+            <div class="slots-stat-label">Currently Spinning</div>
+            <div class="slots-stat-value" id="slots-active-player">None</div>
+          </div>
+          <div class="slots-stat">
+            <div class="slots-stat-label">Their Balance</div>
+            <div class="slots-stat-value" id="slots-active-balance">-</div>
+          </div>
+          <div class="slots-stat">
+            <div class="slots-stat-label slots-tooltip" data-tip="Gold items in the bot's inventory">Bot Gold <span class="slots-info-icon">?</span></div>
+            <div class="slots-stat-value" id="slots-bot-gold">0</div>
+          </div>
+          <div class="slots-stat">
+            <div class="slots-stat-label slots-tooltip" data-tip="Maximum bet allowed based on bot reserves (botGold / 20)">Max Bet <span class="slots-info-icon">?</span></div>
+            <div class="slots-stat-value" id="slots-max-bet">-</div>
+          </div>
+        </div>
+
+        <div id="slots-bank-warning" style="display:none; background:#d32f2f; color:#fff; padding:10px 16px; border-radius:6px; margin:0 0 12px 0; font-weight:bold; text-align:center;">
+          BANK LOW — Slots paused until reserves are replenished
+        </div>
+
+        <!-- Financials -->
+        <div class="slots-section">
+          <div class="slots-section-header">
+            <h3>Financials</h3>
+          </div>
+          <div class="slots-grid slots-grid-4">
+            <div class="slots-stat highlight">
+              <div class="slots-stat-label slots-tooltip" data-tip="Net gold kept by the house after all deposits, withdrawals, and outstanding balances">House Profit <span class="slots-info-icon">?</span></div>
+              <div class="slots-stat-value" id="slots-house-profit">0</div>
+              <div class="slots-stat-sub" id="slots-profit-sub">deposits - withdrawals - outstanding</div>
+            </div>
+            <div class="slots-stat">
+              <div class="slots-stat-label slots-tooltip" data-tip="Gold wagered minus gold paid out from spins">House Edge <span class="slots-info-icon">?</span></div>
+              <div class="slots-stat-value" id="slots-house-edge">0</div>
+              <div class="slots-stat-sub" id="slots-edge-pct"></div>
+            </div>
+            <div class="slots-stat">
+              <div class="slots-stat-label slots-tooltip" data-tip="Total gold players have traded into the machine">Deposited</div>
+              <div class="slots-stat-value neutral" id="slots-total-deposited">0</div>
+            </div>
+            <div class="slots-stat">
+              <div class="slots-stat-label slots-tooltip" data-tip="Total gold cashed out by players">Withdrawn</div>
+              <div class="slots-stat-value neutral" id="slots-total-withdrawn">0</div>
+            </div>
+          </div>
+          <div class="slots-grid slots-grid-4" style="margin-top:0;">
+            <div class="slots-stat">
+              <div class="slots-stat-label slots-tooltip" data-tip="Total player credits still in the machine, not yet cashed out">Outstanding <span class="slots-info-icon">?</span></div>
+              <div class="slots-stat-value neutral" id="slots-outstanding">0</div>
+            </div>
+            <div class="slots-stat">
+              <div class="slots-stat-label">Total Bets</div>
+              <div class="slots-stat-value neutral" id="slots-total-bets">0</div>
+            </div>
+            <div class="slots-stat">
+              <div class="slots-stat-label">Total Payouts</div>
+              <div class="slots-stat-value neutral" id="slots-total-payouts">0</div>
+            </div>
+            <div class="slots-stat">
+              <div class="slots-stat-label">Total Spins</div>
+              <div class="slots-stat-value neutral" id="slots-total-spins">0</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Profit Tracker -->
+        <div class="slots-section">
+          <div class="slots-section-header">
+            <h3>Profit Tracker</h3>
+          </div>
+          <table class="slots-table" id="slots-profit-table">
+            <thead>
+              <tr>
+                <th>Period</th>
+                <th>Spins</th>
+                <th>Bets</th>
+                <th>Payouts</th>
+                <th>Profit</th>
+                <th>Deposited</th>
+                <th>Withdrawn</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Today</strong></td>
+                <td id="ledger-today-spins">0</td>
+                <td id="ledger-today-bets">0</td>
+                <td id="ledger-today-payouts">0</td>
+                <td id="ledger-today-profit">0</td>
+                <td id="ledger-today-deposited">0</td>
+                <td id="ledger-today-withdrawn">0</td>
+              </tr>
+              <tr>
+                <td><strong>This Week</strong></td>
+                <td id="ledger-week-spins">0</td>
+                <td id="ledger-week-bets">0</td>
+                <td id="ledger-week-payouts">0</td>
+                <td id="ledger-week-profit">0</td>
+                <td id="ledger-week-deposited">0</td>
+                <td id="ledger-week-withdrawn">0</td>
+              </tr>
+              <tr>
+                <td><strong>All Time</strong></td>
+                <td id="ledger-all-spins">0</td>
+                <td id="ledger-all-bets">0</td>
+                <td id="ledger-all-payouts">0</td>
+                <td id="ledger-all-profit">0</td>
+                <td id="ledger-all-deposited">0</td>
+                <td id="ledger-all-withdrawn">0</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Banking -->
+        <div class="slots-section">
+          <div class="slots-section-header">
+            <h3>Banking</h3>
+            <span class="slots-badge" id="slots-banking-phase">idle</span>
+          </div>
+
+          <!-- Banking status -->
+          <div class="slots-grid slots-grid-4">
+            <div class="slots-stat highlight">
+              <div class="slots-stat-label">Gold On Hand</div>
+              <div class="slots-stat-value" id="slots-gold-on-hand">0</div>
+            </div>
+            <div class="slots-stat highlight">
+              <div class="slots-stat-label">Bank Balance</div>
+              <div class="slots-stat-value" id="slots-bank-balance">0</div>
+            </div>
+            <div class="slots-stat">
+              <div class="slots-stat-label">Auto-Banking</div>
+              <div class="slots-stat-value" id="slots-banking-enabled" style="font-size:0.9rem;">Off</div>
+            </div>
+            <div class="slots-stat">
+              <div class="slots-stat-label">Banker NPC</div>
+              <div class="slots-stat-value" id="slots-banker-name" style="font-size:0.9rem;">-</div>
+            </div>
+          </div>
+
+          <!-- Manual banking actions -->
+          <div class="slots-controls" style="margin-top:10px;">
+            <label>
+              <input type="checkbox" id="slots-banking-toggle"> Auto-Bank
+            </label>
+            <label>
+              Banker
+              <input type="text" id="slots-banker-name-input" style="background:var(--bg-input);border:1px solid var(--border);color:var(--text-primary);border-radius:4px;padding:4px 8px;width:100px;font-size:0.8rem;" value="Celesta">
+            </label>
+            <label>
+              Serial
+              <input type="number" id="slots-banker-serial-input" min="0" value="0" style="width:90px;">
+            </label>
+            <span class="slots-controls-spacer"></span>
+            <label>
+              Amount
+              <input type="number" id="slots-banking-amount" min="1" value="1000000" style="width:110px;">
+            </label>
+            <button class="btn btn-success" id="slots-bank-deposit" style="padding:0.4rem 0.8rem;font-size:0.68rem;">Deposit</button>
+            <button class="btn btn-success" id="slots-bank-withdraw" style="padding:0.4rem 0.8rem;font-size:0.68rem;">Withdraw</button>
+          </div>
+
+          <!-- Banking thresholds -->
+          <div class="slots-controls" style="margin-top:6px;">
+            <label>
+              Deposit When Above
+              <input type="number" id="slots-bank-high" min="0" value="80000000" style="width:110px;">
+            </label>
+            <label>
+              Deposit Down To
+              <input type="number" id="slots-bank-deposit-target" min="0" value="15000000" style="width:110px;">
+            </label>
+            <span class="slots-controls-spacer"></span>
+            <button class="btn btn-success" id="slots-bank-save" style="padding:0.4rem 1rem;font-size:0.72rem;">Save Banking</button>
+          </div>
+
+          <!-- Manual override -->
+          <div class="slots-controls" style="margin-top:6px;">
+            <label>
+              Set Gold On Hand
+              <input type="number" id="slots-set-gold-on-hand" min="0" style="width:110px;">
+            </label>
+            <label>
+              Set Bank Balance
+              <input type="number" id="slots-set-bank-balance" min="0" style="width:110px;">
+            </label>
+            <span class="slots-controls-spacer"></span>
+            <button class="btn btn-success" id="slots-bank-override" style="padding:0.4rem 0.8rem;font-size:0.68rem;">Set Values</button>
+          </div>
+        </div>
+
+        <!-- Gold Offload -->
+        <div class="slots-section" style="margin-top:14px;">
+          <div class="slots-section-header">
+            <h3>Gold Offload</h3>
+            <span class="slots-badge" id="slots-offload-phase">idle</span>
+          </div>
+          <div class="slots-controls">
+            <label>
+              Target Character
+              <input type="text" id="slots-offload-target" placeholder="Character name" style="background:var(--bg-input);border:1px solid var(--border);color:var(--text-primary);border-radius:4px;padding:4px 8px;width:120px;font-size:0.8rem;">
+            </label>
+            <label>
+              Amount
+              <input type="number" id="slots-offload-amount" min="1" value="100000000" style="width:120px;">
+            </label>
+            <span class="slots-controls-spacer"></span>
+            <button class="btn btn-success" id="slots-offload-btn" style="padding:0.4rem 1rem;font-size:0.72rem;">Transfer Gold</button>
+          </div>
+          <div id="slots-offload-status" style="margin-top:6px;font-size:0.75rem;color:var(--text-muted);"></div>
+        </div>
+
+        <!-- Two-column layout: Queue + Spin Log -->
+        <div style="display:grid;grid-template-columns:1fr 2fr;gap:14px;margin-top:20px;">
+
+          <!-- Queue -->
+          <div>
+            <div class="slots-section-header">
+              <h3>Spin Queue</h3>
+              <span class="slots-badge" id="slots-queue-count">0</span>
+            </div>
+            <div class="slots-table-wrap">
+              <div class="slots-table-scroll" style="max-height:240px;">
+                <table class="slots-table" id="slots-queue-table">
+                  <thead><tr><th>#</th><th>Player</th><th>Bet</th><th>Wait</th></tr></thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+
+          <!-- Recent Spins -->
+          <div>
+            <div class="slots-section-header">
+              <h3>Recent Spins</h3>
+            </div>
+            <div class="slots-table-wrap">
+              <div class="slots-table-scroll">
+                <table class="slots-table" id="slots-spin-log">
+                  <thead><tr><th>Player</th><th>Result</th><th>Outcome</th><th>Payout</th><th>Time</th></tr></thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Player Balances -->
+        <div class="slots-section">
+          <div class="slots-section-header">
+            <h3>Player Balances</h3>
+          </div>
+          <div class="slots-table-wrap">
+            <div class="slots-table-scroll" style="max-height:300px;">
+              <table class="slots-table" id="slots-balances-table">
+                <thead>
+                  <tr>
+                    <th>Player</th>
+                    <th>Balance</th>
+                    <th>Deposited</th>
+                    <th>Withdrawn</th>
+                    <th>Spins</th>
+                    <th>Win / Loss</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <!-- Scratch-Off Tickets -->
+        <div class="slots-section">
+          <div class="slots-section-header">
+            <h3>Scratch-Off Tickets</h3>
+            <span class="slots-badge" id="ticket-stats-badge">0 tickets</span>
+          </div>
+          <div style="display:flex;gap:16px;flex-wrap:wrap;margin-bottom:12px;">
+            <div class="slots-stat-card">
+              <span class="slots-stat-label">Total Sold</span>
+              <span class="slots-stat-value" id="ticket-total-sold">0</span>
+            </div>
+            <div class="slots-stat-card">
+              <span class="slots-stat-label">Total Spent</span>
+              <span class="slots-stat-value" id="ticket-total-spent">0</span>
+            </div>
+            <div class="slots-stat-card">
+              <span class="slots-stat-label">Total Won</span>
+              <span class="slots-stat-value" id="ticket-total-won">0</span>
+            </div>
+            <div class="slots-stat-card">
+              <span class="slots-stat-label">House Profit</span>
+              <span class="slots-stat-value" id="ticket-house-profit">0</span>
+            </div>
+          </div>
+          <div class="slots-table-wrap">
+            <div class="slots-table-scroll" style="max-height:300px;">
+              <table class="slots-table" id="ticket-history-table">
+                <thead>
+                  <tr>
+                    <th>Player</th>
+                    <th>Tier</th>
+                    <th>Cost</th>
+                    <th>Result</th>
+                    <th>Prize</th>
+                    <th>Time</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- NPC Leak Scanner Panel -->
+      <section id="panel-npc-leak" class="panel">
+        <div class="panel-header">
+          <h2>Leak Scanner</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <p class="panel-description">Spam-click an NPC to probe for memory overflow leaks. Assign a bot the "Leak Scanner" role, walk it near an NPC, then scan. All packets are logged for analysis.</p>
+
+        <!-- Controls -->
+        <div class="item-trade-form">
+          <h3 class="lottery-section-title">Scan Controls</h3>
+          <div class="form-row" style="align-items:flex-end;gap:10px;flex-wrap:wrap;">
+            <div class="form-group" style="flex:1;min-width:160px;">
+              <label for="npcleak-target">Target NPC</label>
+              <div style="display:flex;gap:4px;">
+                <select id="npcleak-target" class="toolbar-select" style="flex:1;font-size:13px;padding:6px 8px;">
+                  <option value="">-- Scan for NPCs --</option>
+                </select>
+                <button type="button" class="btn btn-small" id="npcleak-refresh-btn" title="Refresh entity list" style="padding:6px 10px;">&#x21bb;</button>
+              </div>
+              <div style="display:flex;gap:4px;margin-top:4px;">
+                <input type="text" id="npcleak-manual-serial" placeholder="Manual serial (hex, e.g. 575C)" style="flex:1;font-size:12px;padding:4px 8px;font-family:'Fira Code',monospace;" />
+                <input type="text" id="npcleak-manual-name" placeholder="Name (optional)" style="flex:1;font-size:12px;padding:4px 8px;" />
+              </div>
+            </div>
+            <div class="form-group" style="flex:1;min-width:140px;">
+              <label for="npcleak-lookup">Lookup Player</label>
+              <input type="text" id="npcleak-lookup" placeholder="Player name to leak" style="font-size:13px;padding:6px 8px;" autocomplete="off" />
+            </div>
+            <div class="form-group" style="flex:0 0 100px;">
+              <label for="npcleak-clicks">Max Clicks</label>
+              <input type="number" id="npcleak-clicks" value="20" min="1" max="100" style="font-size:13px;padding:6px 8px;" />
+            </div>
+            <div class="form-group" style="flex:0 0 110px;">
+              <label for="npcleak-interval">Interval (ms)</label>
+              <input type="number" id="npcleak-interval" value="500" min="200" max="10000" step="100" style="font-size:13px;padding:6px 8px;" />
+            </div>
+            <button type="button" class="btn btn-success btn-green" id="npcleak-start-btn" style="padding:8px 20px;">Start Scan</button>
+            <button type="button" class="btn btn-red" id="npcleak-stop-btn" style="padding:8px 20px;" disabled>Stop</button>
+          </div>
+        </div>
+
+        <!-- Status Bar -->
+        <div id="npcleak-status" style="margin:12px 0;padding:10px 14px;border-radius:6px;background:var(--bg-card);border:1px solid var(--border-color);font-family:'Fira Code',monospace;font-size:12px;color:var(--text-secondary);display:none;">
+          <span id="npcleak-status-text">Idle</span>
+        </div>
+
+        <!-- Leak Alerts -->
+        <div id="npcleak-leaks-section" style="display:none;margin-bottom:12px;">
+          <h3 class="lottery-section-title" style="color:#ef4444;">Leaks Detected</h3>
+          <div id="npcleak-leaks-list" style="display:flex;flex-direction:column;gap:6px;"></div>
+        </div>
+
+        <!-- Packet Log -->
+        <div>
+          <h3 class="lottery-section-title">Packet Log</h3>
+          <div id="npcleak-log" style="max-height:400px;overflow-y:auto;background:var(--bg-darker, #0a0a0a);border:1px solid var(--border-color);border-radius:6px;padding:8px;font-family:'Fira Code',monospace;font-size:11px;line-height:1.5;">
+            <div style="color:var(--text-secondary);">No scan running. Set a bot to "Leak Scanner" role, walk it near an NPC, and hit Start.</div>
+          </div>
+          <div style="margin-top:6px;display:flex;gap:8px;">
+            <button type="button" class="btn btn-small" id="npcleak-clear-log-btn">Clear Log</button>
+            <button type="button" class="btn btn-small" id="npcleak-export-log-btn">Export Log</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Attendance Tracker Panel -->
+      <section id="panel-attendance" class="panel">
+        <div class="panel-header">
+          <h2>Attendance Tracker</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <p class="panel-description">Track attendance for events. Set a bot's role to "tracker", position it at the event location, and start tracking. Every player who appears on its screen is recorded.</p>
+
+        <!-- Attendance Status Card -->
+        <div class="attendance-status-card" id="attendance-status-card">
+          <div class="attendance-status-row">
+            <span class="attendance-label">Status</span>
+            <span class="attendance-value" id="attendance-status-badge">
+              <span class="attendance-badge attendance-badge-inactive">Inactive</span>
+            </span>
+          </div>
+          <div class="attendance-status-row">
+            <span class="attendance-label">Event Name</span>
+            <span class="attendance-value" id="attendance-event-name">—</span>
+          </div>
+          <div class="attendance-status-row">
+            <span class="attendance-label">Started</span>
+            <span class="attendance-value" id="attendance-started-at">—</span>
+          </div>
+          <div class="attendance-status-row">
+            <span class="attendance-label">Total Attendees</span>
+            <span class="attendance-value" id="attendance-total-count" style="font-size:1.2em;font-weight:700;color:#ffd700;">0</span>
+          </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="attendance-actions" id="attendance-actions">
+          <div class="attendance-start-form" id="attendance-start-form">
+            <div class="form-row">
+              <div class="form-group" style="flex:1">
+                <label for="attendance-name-input">Event Name</label>
+                <input type="text" id="attendance-name-input" placeholder="e.g. Town Hall Meeting" autocomplete="off" />
+              </div>
+              <button type="button" class="btn btn-success btn-green" id="attendance-start-btn">Start Tracking</button>
+            </div>
+          </div>
+          <div class="attendance-active-actions" id="attendance-active-actions" style="display:none">
+            <button type="button" class="btn btn-danger" id="attendance-stop-btn">Stop Tracking</button>
+            <button type="button" class="btn btn-gold" id="attendance-export-btn">Copy to Clipboard</button>
+          </div>
+          <div class="attendance-stopped-actions" id="attendance-stopped-actions" style="display:none">
+            <button type="button" class="btn btn-gold" id="attendance-export-btn-2">Copy to Clipboard</button>
+            <button type="button" class="btn btn-danger" id="attendance-clear-btn">Clear Data</button>
+          </div>
+        </div>
+
+        <!-- Attendee Table -->
+        <div class="attendance-list-section">
+          <h3 class="attendance-section-title">Attendees</h3>
+          <div class="attendance-table-wrap" id="attendance-table-wrap">
+            <table class="attendance-table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Player</th>
+                  <th>First Seen</th>
+                  <th>Last Seen</th>
+                  <th>Sightings</th>
+                </tr>
+              </thead>
+              <tbody id="attendance-tbody">
+                <tr><td colspan="5" class="attendance-empty">No attendees yet. Start tracking to begin.</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section id="panel-assetmap" class="panel">
+        <div class="panel-header">
+          <h2>Asset Map</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+        <p class="panel-description">Comprehensive reference mapping ChaosAssetManager equipment types to the sprite renderer. For AI assistants and developers building out the visualizer.</p>
+
+        <div class="am-tabs">
+          <button class="am-tab active" data-section="am-layers">Layers</button>
+          <button class="am-tab" data-section="am-equipment">Equipment Slots</button>
+          <button class="am-tab" data-section="am-archives">Archives</button>
+          <button class="am-tab" data-section="am-palettes">Palettes</button>
+          <button class="am-tab" data-section="am-animations">Animations</button>
+          <button class="am-tab" data-section="am-body">Body / Gender</button>
+          <button class="am-tab" data-section="am-dyes">Dye Colors</button>
+          <button class="am-tab" data-section="am-skin">Skin / Hair / Face</button>
+          <button class="am-tab" data-section="am-override">Override Tester</button>
+        </div>
+
+        <div id="am-layers" class="am-section active"></div>
+        <div id="am-equipment" class="am-section"></div>
+        <div id="am-archives" class="am-section"></div>
+        <div id="am-palettes" class="am-section"></div>
+        <div id="am-animations" class="am-section"></div>
+        <div id="am-body" class="am-section"></div>
+        <div id="am-dyes" class="am-section"></div>
+        <div id="am-skin" class="am-section"></div>
+        <div id="am-override" class="am-section"></div>
+      </section>
+
+      <!-- MITM Proxy Panel -->
+      <section id="panel-proxy" class="panel">
+        <div class="panel-header">
+          <h2>MITM Proxy</h2>
+          <span class="panel-header-decoration"></span>
+        </div>
+
+        <!-- Sub-tab navigation -->
+        <div class="proxy-tabs" style="display:flex;gap:0;border-bottom:1px solid rgba(255,255,255,0.1);margin-bottom:1rem">
+          <button class="proxy-tab active" data-proxy-tab="players" style="padding:0.5rem 1rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.85rem;opacity:0.6">Players</button>
+          <button class="proxy-tab" data-proxy-tab="npcs" style="padding:0.5rem 1rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.85rem;opacity:0.6">NPCs</button>
+          <button class="proxy-tab" data-proxy-tab="chat" style="padding:0.5rem 1rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.85rem;opacity:0.6">Chat</button>
+          <button class="proxy-tab" data-proxy-tab="packets" style="padding:0.5rem 1rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.85rem;opacity:0.6">Packets</button>
+          <button class="proxy-tab" data-proxy-tab="grind" style="padding:0.5rem 1rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.85rem;opacity:0.6">Grind</button>
+          <button class="proxy-tab" data-proxy-tab="monsters" style="padding:0.5rem 1rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.85rem;opacity:0.6">Monsters</button>
+          <button class="proxy-tab" data-proxy-tab="legends" style="padding:0.5rem 1rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.85rem;opacity:0.6">Legend Marks</button>
+          <button class="proxy-tab" data-proxy-tab="disguises" style="padding:0.5rem 1rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.85rem;opacity:0.6">Disguises</button>
+        </div>
+
+        <!-- ═══ Players Sub-tab ═══ -->
+        <div class="proxy-tab-content active" id="proxy-content-players">
+          <div id="proxy-player-tab-bar" class="bot-tab-bar">
+            <div class="rules-empty" id="proxy-player-tabs-empty">No players connected through proxy.</div>
+          </div>
+          <div id="proxy-player-tab-content" class="bot-tab-content"></div>
+        </div>
+
+        <!-- ═══ NPCs Sub-tab ═══ -->
+        <div class="proxy-tab-content" id="proxy-content-npcs" style="display:none">
+          <!-- Two-column layout: NPC list on left, placement form on right -->
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;align-items:start">
+
+            <!-- Left: Active NPCs -->
+            <div>
+              <h4 style="margin:0 0 0.5rem 0;font-size:0.85rem;opacity:0.7">Active NPCs</h4>
+              <div id="proxy-npc-list" class="rules-list" style="max-height:calc(100vh - 280px);overflow-y:auto">
+                <div class="rules-empty">No virtual NPCs placed.</div>
+              </div>
+              <!-- Interaction Log -->
+              <h4 style="margin:1rem 0 0.25rem 0;font-size:0.85rem;opacity:0.7">Interaction Log</h4>
+              <div id="proxy-npc-clicks" style="max-height:120px;overflow-y:auto;font-size:0.8em;opacity:0.7;background:rgba(0,0,0,0.2);border-radius:4px;padding:0.4rem">
+                <div class="rules-empty" style="font-size:0.85em">No interactions yet.</div>
+              </div>
+            </div>
+
+            <!-- Right: Place NPC form -->
+            <div>
+              <fieldset style="margin:0">
+                <legend>Place NPC</legend>
+                <div class="form-row">
+                  <div class="form-group" style="flex:2">
+                    <label for="proxy-npc-name">Name</label>
+                    <input type="text" id="proxy-npc-name" placeholder="Guard" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="proxy-npc-sprite">Sprite</label>
+                    <input type="number" id="proxy-npc-sprite" value="1" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="proxy-npc-dir">Dir</label>
+                    <select id="proxy-npc-dir">
+                      <option value="0">Up</option>
+                      <option value="1">Right</option>
+                      <option value="2" selected>Down</option>
+                      <option value="3">Left</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group" style="flex:3">
+                    <label for="proxy-npc-map">Map</label>
+                    <select id="proxy-npc-map" class="toolbar-select">
+                      <option value="">-- Select Map --</option>
+                    </select>
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="proxy-npc-x">X</label>
+                    <input type="number" id="proxy-npc-x" value="33" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="proxy-npc-y">Y</label>
+                    <input type="number" id="proxy-npc-y" value="59" />
+                  </div>
+                </div>
+                <div style="margin-top:0.75rem;padding:0.75rem;border:1px solid rgba(255,255,255,0.08);border-radius:6px;background:rgba(255,255,255,0.02)">
+                  <label style="display:flex;align-items:center;gap:0.5rem;margin:0">
+                    <input type="checkbox" id="proxy-npc-ambient-enabled" />
+                    <span>Periodic Speech</span>
+                  </label>
+                  <div id="proxy-npc-ambient-fields" style="display:none;margin-top:0.75rem">
+                    <div class="form-row">
+                      <div class="form-group" style="flex:1">
+                        <label for="proxy-npc-ambient-interval">Interval (sec)</label>
+                        <input type="number" id="proxy-npc-ambient-interval" value="30" min="5" step="1" />
+                      </div>
+                    </div>
+                    <div class="form-group" style="margin-bottom:0">
+                      <label for="proxy-npc-ambient-messages">Speech Lines</label>
+                      <textarea id="proxy-npc-ambient-messages" rows="4" placeholder="One line per message"></textarea>
+                      <small style="display:block;opacity:0.65;margin-top:0.35rem">Nearby proxy players will hear one line every interval, rotating in order.</small>
+                    </div>
+                  </div>
+                </div>
+                <div style="margin-top:0.25rem">
+                  <label style="font-size:0.85em">Dialog Steps <small style="opacity:0.5">(optional — leave empty for no dialog)</small></label>
+                  <div id="proxy-npc-steps-list"></div>
+                  <div style="margin-top:0.5rem;display:flex;gap:0.5rem">
+                    <button type="button" id="btn-proxy-npc-add-step" class="btn btn-small">+ Popup Step</button>
+                    <button type="button" id="btn-proxy-npc-add-step-menu" class="btn btn-small">+ Menu Step</button>
+                  </div>
+                </div>
+                <div style="margin-top:0.75rem;display:flex;gap:0.5rem">
+                  <button type="button" id="btn-proxy-npc-place" class="btn btn-success btn-green" style="flex:1">Place NPC</button>
+                </div>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+
+        <!-- ═══ Chat Sub-tab ═══ -->
+        <div class="proxy-tab-content" id="proxy-content-chat" style="display:none">
+          <fieldset>
+            <legend>Inject Message</legend>
+            <div class="form-row">
+              <div class="form-group" style="flex:3">
+                <label for="proxy-chat-message">Message</label>
+                <input type="text" id="proxy-chat-message" placeholder="Hello from the proxy!" />
+              </div>
+              <div class="form-group" style="flex:1">
+                <label for="proxy-chat-channel">Channel</label>
+                <select id="proxy-chat-channel">
+                  <option value="system">System</option>
+                  <option value="say">Say</option>
+                  <option value="shout">Shout</option>
+                  <option value="world">World</option>
+                </select>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group" style="flex:1">
+                <label for="proxy-chat-sender">Sender <small style="opacity:0.5">(optional)</small></label>
+                <input type="text" id="proxy-chat-sender" placeholder="System" />
+              </div>
+              <div class="form-group" style="flex:1">
+                <label for="proxy-chat-target">Target</label>
+                <select id="proxy-chat-target">
+                  <option value="broadcast">All Players</option>
+                </select>
+              </div>
+            </div>
+            <button type="button" id="btn-proxy-chat-send" class="btn btn-success btn-green">Send</button>
+          </fieldset>
+        </div>
+
+        <!-- ═══ Packets Sub-tab ═══ -->
+        <div class="proxy-tab-content" id="proxy-content-packets" style="display:none">
+          <div style="margin-bottom:0.5rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap">
+            <label style="font-size:0.85em"><input type="checkbox" id="proxy-log-enabled" checked /> Live logging</label>
+            <button type="button" id="btn-proxy-log-clear" class="btn btn-small">Clear</button>
+            <span style="opacity:0.3">|</span>
+            <input type="text" id="proxy-capture-opcodes" placeholder="Opcodes (e.g. 2f,39)" style="width:140px;font-size:0.8em;padding:4px 6px;font-family:'Fira Code',monospace" />
+            <button type="button" id="btn-proxy-capture-start" class="btn btn-small btn-green" style="color:#0f0">Start Capture</button>
+            <button type="button" id="btn-proxy-capture-stop" class="btn btn-small" style="color:#f66" disabled>Stop</button>
+            <button type="button" id="btn-proxy-capture-copy" class="btn btn-small">Copy Captured</button>
+            <span id="proxy-capture-status" style="font-size:0.8em;opacity:0.6">Idle</span>
+          </div>
+          <div id="proxy-packet-log" style="max-height:calc(100vh - 300px);overflow-y:auto;font-family:'Fira Code',monospace;font-size:0.75rem;background:rgba(0,0,0,0.3);padding:0.5rem;border-radius:4px;">
+            <div class="rules-empty">Waiting for packets...</div>
+          </div>
+          <div id="proxy-capture-output" style="display:none;margin-top:0.5rem;max-height:200px;overflow-y:auto;font-family:'Fira Code',monospace;font-size:0.7rem;background:rgba(0,40,0,0.3);border:1px solid #0a3;border-radius:4px;padding:0.5rem;white-space:pre-wrap;word-break:break-all">
+          </div>
+        </div>
+
+        <!-- ═══ Grind Sub-tab ═══ -->
+        <div class="proxy-tab-content" id="proxy-content-grind" style="display:none">
+          <!-- Player selector for grind -->
+          <div style="display:flex;align-items:center;gap:0.75rem;margin-bottom:1rem">
+            <label style="font-size:0.85em;white-space:nowrap">Player:</label>
+            <select id="grind-session-select" class="toolbar-select" style="flex:1;max-width:220px">
+              <option value="">-- Select Player --</option>
+            </select>
+            <span id="grind-status-badge" style="font-size:0.8em;padding:2px 8px;border-radius:4px;background:rgba(255,255,255,0.08)">Idle</span>
+            <div style="display:flex;gap:0.35rem;margin-left:auto">
+              <button id="btn-grind-start" class="btn btn-small btn-green">Start</button>
+              <button id="btn-grind-stop" class="btn btn-small btn-red">Stop</button>
+            </div>
+          </div>
+
+          <!-- Stats bar -->
+          <div id="grind-stats-bar" style="display:grid;grid-template-columns:repeat(6,1fr);gap:0.5rem;margin-bottom:1rem;font-size:0.8em">
+            <div style="background:rgba(0,0,0,0.2);padding:0.4rem;border-radius:4px;text-align:center">
+              <div style="opacity:0.5;font-size:0.85em">HP</div>
+              <div id="grind-stat-hp" style="font-family:'Fira Code',monospace">--</div>
+            </div>
+            <div style="background:rgba(0,0,0,0.2);padding:0.4rem;border-radius:4px;text-align:center">
+              <div style="opacity:0.5;font-size:0.85em">MP</div>
+              <div id="grind-stat-mp" style="font-family:'Fira Code',monospace">--</div>
+            </div>
+            <div style="background:rgba(0,0,0,0.2);padding:0.4rem;border-radius:4px;text-align:center">
+              <div style="opacity:0.5;font-size:0.85em">Kills</div>
+              <div id="grind-stat-kills" style="font-family:'Fira Code',monospace">0</div>
+            </div>
+            <div style="background:rgba(0,0,0,0.2);padding:0.4rem;border-radius:4px;text-align:center">
+              <div style="opacity:0.5;font-size:0.85em">KPM</div>
+              <div id="grind-stat-kpm" style="font-family:'Fira Code',monospace">0.0</div>
+            </div>
+            <div style="background:rgba(0,0,0,0.2);padding:0.4rem;border-radius:4px;text-align:center">
+              <div style="opacity:0.5;font-size:0.85em">Target</div>
+              <div id="grind-stat-target" style="font-family:'Fira Code',monospace;font-size:0.9em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">--</div>
+            </div>
+            <div style="background:rgba(0,0,0,0.2);padding:0.4rem;border-radius:4px;text-align:center">
+              <div style="opacity:0.5;font-size:0.85em">Buffs</div>
+              <div id="grind-stat-buffs" style="font-family:'Fira Code',monospace;font-size:0.85em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">--</div>
+            </div>
+          </div>
+
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;align-items:start">
+            <!-- Left Column: Combat Config -->
+            <div>
+              <fieldset style="margin:0 0 0.75rem 0">
+                <legend>Combat</legend>
+                <div class="form-row">
+                  <div class="form-group" style="flex:2">
+                    <label for="grind-primary-attack">Primary Attack</label>
+                    <input type="text" id="grind-primary-attack" placeholder="e.g. mor strioch pian gar" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-target-mode">Target</label>
+                    <select id="grind-target-mode">
+                      <option value="nearest">Nearest</option>
+                      <option value="highestHp">Highest HP</option>
+                      <option value="lowestHp">Lowest HP</option>
+                      <option value="farthest">Farthest</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-secondary-attack">Secondary</label>
+                    <input type="text" id="grind-secondary-attack" placeholder="cursed tune" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-engagement">Engagement</label>
+                    <select id="grind-engagement">
+                      <option value="noLure">No Lure</option>
+                      <option value="lureSpells">Lure (Spells)</option>
+                      <option value="lureSkills">Lure (Skills)</option>
+                      <option value="lureLamh">Lure (Lamh)</option>
+                      <option value="waitOnMonsters">Wait</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-curse">Curse Spell</label>
+                    <input type="text" id="grind-curse" placeholder="ard cradh" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-fas">Fas Spell</label>
+                    <input type="text" id="grind-fas" placeholder="ard fas nadur" />
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-pramh">Pramh Spell</label>
+                    <input type="text" id="grind-pramh" placeholder="pramh" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-curse-mode">Curse Mode</label>
+                    <select id="grind-curse-mode">
+                      <option value="currentOnly">Current Only</option>
+                      <option value="sequential">Sequential</option>
+                      <option value="fasAllThenCurseAll">Fas All → Curse All</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="form-row" style="flex-wrap:wrap;gap:0.75rem 1.5rem;margin-top:0.25rem;font-size:0.85em">
+                  <label><input type="checkbox" id="grind-assail" checked /> Assail</label>
+                  <label><input type="checkbox" id="grind-assail-between" checked /> Assail Between</label>
+                  <label><input type="checkbox" id="grind-halfcast" /> Half-Cast</label>
+                  <label><input type="checkbox" id="grind-pramh-spam" /> Pramh Spam</label>
+                  <label><input type="checkbox" id="grind-ambush" /> Ambush</label>
+                  <label><input type="checkbox" id="grind-crash" /> Crash</label>
+                </div>
+                <div class="form-row" style="margin-top:0.5rem">
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-attack-range">Range</label>
+                    <input type="number" id="grind-attack-range" value="1" min="1" max="12" style="width:60px" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-min-mp">Min MP%</label>
+                    <input type="number" id="grind-min-mp" value="10" min="0" max="100" style="width:60px" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-walk-speed">Walk Speed</label>
+                    <input type="number" id="grind-walk-speed" value="275" min="100" max="1000" style="width:70px" />
+                  </div>
+                </div>
+              </fieldset>
+
+              <!-- Ignore List -->
+              <fieldset style="margin:0">
+                <legend>Ignore List</legend>
+                <div class="form-row">
+                  <input type="text" id="grind-ignore-input" placeholder="Monster name or image ID" style="flex:1" />
+                  <button type="button" id="btn-grind-ignore-add" class="btn btn-small">+ Add</button>
+                </div>
+                <div id="grind-ignore-list" style="max-height:80px;overflow-y:auto;font-size:0.8em;margin-top:0.25rem"></div>
+              </fieldset>
+            </div>
+
+            <!-- Right Column: Heal + Loot -->
+            <div>
+              <fieldset style="margin:0 0 0.75rem 0">
+                <legend>Heal</legend>
+                <div class="form-row" style="margin-bottom:0.25rem">
+                  <label style="font-size:0.85em"><input type="checkbox" id="grind-heal-enabled" checked /> Enable Healing</label>
+                </div>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-hp-pot-threshold">HP Pot %</label>
+                    <input type="number" id="grind-hp-pot-threshold" value="70" min="0" max="100" style="width:60px" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-mp-pot-threshold">MP Pot %</label>
+                    <input type="number" id="grind-mp-pot-threshold" value="50" min="0" max="100" style="width:60px" />
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-hp-spell-threshold">HP Spell %</label>
+                    <input type="number" id="grind-hp-spell-threshold" value="80" min="0" max="100" style="width:60px" />
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1">
+                    <label for="grind-mp-recovery">MP Recovery Spell</label>
+                    <input type="text" id="grind-mp-recovery" placeholder="fas spiorad" />
+                  </div>
+                </div>
+                <div class="form-row" style="flex-wrap:wrap;gap:0.75rem 1.5rem;font-size:0.85em">
+                  <label><input type="checkbox" id="grind-ao-curses" checked /> Ao Curses</label>
+                  <label><input type="checkbox" id="grind-ao-suain" checked /> Ao Suain</label>
+                  <label><input type="checkbox" id="grind-ao-poison" checked /> Ao Poison</label>
+                  <label><input type="checkbox" id="grind-counter-attack" /> Counter Attack</label>
+                </div>
+                <fieldset style="margin:0.5rem 0 0 0;padding:0.4rem 0.6rem">
+                  <legend style="font-size:0.85em">Dion Emergency</legend>
+                  <div class="form-row" style="align-items:center">
+                    <label style="font-size:0.85em"><input type="checkbox" id="grind-dion-enabled" /> Enable</label>
+                    <div class="form-group" style="flex:1">
+                      <label for="grind-dion-type">Type</label>
+                      <select id="grind-dion-type" style="font-size:0.9em">
+                        <option value="dion">dion</option>
+                        <option value="mor dion">mor dion</option>
+                      </select>
+                    </div>
+                    <div class="form-group" style="flex:1">
+                      <label for="grind-dion-hp">HP %</label>
+                      <input type="number" id="grind-dion-hp" value="30" style="width:50px" />
+                    </div>
+                  </div>
+                </fieldset>
+              </fieldset>
+
+              <fieldset style="margin:0">
+                <legend>Loot</legend>
+                <div class="form-row" style="align-items:center;margin-bottom:0.25rem">
+                  <label style="font-size:0.85em"><input type="checkbox" id="grind-loot-enabled" /> Enable Auto-Loot</label>
+                  <div class="form-group" style="flex:1;margin-left:1rem">
+                    <label for="grind-loot-mode">Filter</label>
+                    <select id="grind-loot-mode" style="font-size:0.9em">
+                      <option value="denylist">Deny List</option>
+                      <option value="allowlist">Allow List</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <input type="text" id="grind-loot-filter-input" placeholder="Item name to allow/deny" style="flex:1" />
+                  <button type="button" id="btn-grind-loot-add" class="btn btn-small">+ Add</button>
+                </div>
+                <div id="grind-loot-filter-list" style="max-height:60px;overflow-y:auto;font-size:0.8em;margin-top:0.25rem"></div>
+                <div class="form-row" style="margin-top:0.5rem;flex-wrap:wrap;gap:0.75rem 1.5rem;font-size:0.85em">
+                  <label><input type="checkbox" id="grind-loot-anti-steal" checked /> Anti-Steal</label>
+                  <label><input type="checkbox" id="grind-loot-walk" checked /> Walk to Loot</label>
+                  <label><input type="checkbox" id="grind-loot-not-mobbed" /> Only When Not Mobbed</label>
+                </div>
+              </fieldset>
+            </div>
+          </div>
+
+          <!-- Apply Config button -->
+          <div style="margin-top:0.75rem;display:flex;justify-content:flex-end">
+            <button id="btn-grind-apply" class="btn btn-primary" style="min-width:160px">Apply Config</button>
+          </div>
+        </div>
+
+        <!-- ═══ Monsters Sub-tab ═══ -->
+        <div class="proxy-tab-content" id="proxy-content-monsters" style="display:none">
+          <!-- Monster sub-tabs -->
+          <div style="display:flex;gap:0;border-bottom:1px solid rgba(255,255,255,0.08);margin-bottom:0.75rem">
+            <button class="mon-tab active" data-mon-tab="species" style="padding:0.4rem 0.8rem;background:none;border:none;border-bottom:2px solid #6bf;color:inherit;cursor:pointer;font-size:0.8rem;opacity:1">Species</button>
+            <button class="mon-tab" data-mon-tab="moves" style="padding:0.4rem 0.8rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.8rem;opacity:0.6">Moves</button>
+            <button class="mon-tab" data-mon-tab="players" style="padding:0.4rem 0.8rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.8rem;opacity:0.6">Players</button>
+            <button class="mon-tab" data-mon-tab="leaderboard" style="padding:0.4rem 0.8rem;background:none;border:none;border-bottom:2px solid transparent;color:inherit;cursor:pointer;font-size:0.8rem;opacity:0.6">Leaderboard</button>
+          </div>
+
+          <!-- ═ Species Tab ═ -->
+          <div class="mon-tab-content active" id="mon-content-species">
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;align-items:start">
+              <div>
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem">
+                  <h4 style="margin:0;font-size:0.85rem;opacity:0.7">Base Species (wild encounters)</h4>
+                  <button type="button" id="btn-mon-add-species" class="btn btn-small btn-green" style="font-size:0.75em">+ Add Species</button>
+                </div>
+                <div id="mon-species-list" class="rules-list" style="max-height:calc(100vh - 340px);overflow-y:auto;font-size:0.8em">
+                  <div class="rules-empty">Loading...</div>
+                </div>
+              </div>
+              <div>
+                <h4 style="margin:0 0 0.5rem 0;font-size:0.85rem;opacity:0.7">Evolved Species</h4>
+                <div id="mon-evolved-list" class="rules-list" style="max-height:calc(100vh - 380px);overflow-y:auto;font-size:0.8em">
+                  <div class="rules-empty">Loading...</div>
+                </div>
+                <div style="margin-top:0.75rem">
+                  <fieldset id="mon-species-form" style="margin:0;display:none">
+                    <legend id="mon-species-form-title">Add Species</legend>
+                    <div class="form-row">
+                      <div class="form-group" style="flex:2"><label>Name</label><input type="text" id="mon-sp-name" placeholder="Goblin" /></div>
+                      <div class="form-group" style="flex:1"><label>Sprite</label><input type="number" id="mon-sp-sprite" value="33" /></div>
+                      <div class="form-group" style="flex:1"><label>Type</label>
+                        <select id="mon-sp-type"><option>Normal</option><option>Fire</option><option>Ice</option><option>Wind</option><option>Earth</option><option>Dark</option><option>Light</option><option>Arcane</option></select>
+                      </div>
+                    </div>
+                    <div class="form-row">
+                      <div class="form-group" style="flex:1"><label>HP</label><input type="number" id="mon-sp-hp" value="45" /></div>
+                      <div class="form-group" style="flex:1"><label>ATK</label><input type="number" id="mon-sp-atk" value="49" /></div>
+                      <div class="form-group" style="flex:1"><label>DEF</label><input type="number" id="mon-sp-def" value="49" /></div>
+                      <div class="form-group" style="flex:1"><label>SPD</label><input type="number" id="mon-sp-spd" value="45" /></div>
+                      <div class="form-group" style="flex:1"><label>SP.A</label><input type="number" id="mon-sp-spatk" value="35" /></div>
+                      <div class="form-group" style="flex:1"><label>SP.D</label><input type="number" id="mon-sp-spdef" value="35" /></div>
+                    </div>
+                    <div class="form-row">
+                      <div class="form-group" style="flex:1"><label>Move @Lv1</label><input type="text" id="mon-sp-m1" placeholder="Tackle" /></div>
+                      <div class="form-group" style="flex:1"><label>@Lv</label><input type="number" id="mon-sp-m1lv" value="1" style="width:40px" /></div>
+                      <div class="form-group" style="flex:1"><label>Move 2</label><input type="text" id="mon-sp-m2" /></div>
+                      <div class="form-group" style="flex:1"><label>@Lv</label><input type="number" id="mon-sp-m2lv" value="5" style="width:40px" /></div>
+                    </div>
+                    <div class="form-row">
+                      <div class="form-group" style="flex:1"><label>Move 3</label><input type="text" id="mon-sp-m3" /></div>
+                      <div class="form-group" style="flex:1"><label>@Lv</label><input type="number" id="mon-sp-m3lv" value="10" style="width:40px" /></div>
+                      <div class="form-group" style="flex:1"><label>Move 4</label><input type="text" id="mon-sp-m4" /></div>
+                      <div class="form-group" style="flex:1"><label>@Lv</label><input type="number" id="mon-sp-m4lv" value="15" style="width:40px" /></div>
+                    </div>
+                    <fieldset style="margin:0.5rem 0 0 0;padding:0.4rem 0.6rem">
+                      <legend style="font-size:0.85em">Evolution (optional)</legend>
+                      <div class="form-row">
+                        <div class="form-group" style="flex:1"><label>Evo Name</label><input type="text" id="mon-sp-evo-name" placeholder="Hobgoblin" /></div>
+                        <div class="form-group" style="flex:1"><label>Evo Sprite</label><input type="number" id="mon-sp-evo-sprite" value="0" /></div>
+                        <div class="form-group" style="flex:1"><label>Evo Level</label><input type="number" id="mon-sp-evo-level" value="16" /></div>
+                      </div>
+                    </fieldset>
+                    <input type="hidden" id="mon-sp-editing" value="" />
+                    <input type="hidden" id="mon-sp-is-evolved" value="" />
+                    <div style="margin-top:0.5rem;display:flex;gap:0.5rem">
+                      <button type="button" id="btn-mon-sp-save" class="btn btn-success btn-green" style="flex:1">Save Species</button>
+                      <button type="button" id="btn-mon-sp-cancel" class="btn btn-small">Cancel</button>
+                    </div>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- ═ Moves Tab ═ -->
+          <div class="mon-tab-content" id="mon-content-moves" style="display:none">
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;align-items:start">
+              <div>
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem">
+                  <h4 style="margin:0;font-size:0.85rem;opacity:0.7">All Moves</h4>
+                  <button type="button" id="btn-mon-add-move" class="btn btn-small btn-green" style="font-size:0.75em">+ Add Move</button>
+                </div>
+                <div id="mon-moves-list" class="rules-list" style="max-height:calc(100vh - 300px);overflow-y:auto;font-size:0.8em">
+                  <div class="rules-empty">Loading...</div>
+                </div>
+              </div>
+              <div>
+                <fieldset id="mon-move-form" style="margin:0;display:none">
+                  <legend id="mon-move-form-title">Add Move</legend>
+                  <div class="form-row">
+                    <div class="form-group" style="flex:2"><label>Name</label><input type="text" id="mon-mv-name" placeholder="Tackle" /></div>
+                    <div class="form-group" style="flex:1"><label>Type</label>
+                      <select id="mon-mv-type"><option>Normal</option><option>Fire</option><option>Ice</option><option>Wind</option><option>Earth</option><option>Dark</option><option>Light</option><option>Arcane</option></select>
+                    </div>
+                    <div class="form-group" style="flex:1"><label>Category</label>
+                      <select id="mon-mv-cat"><option value="physical">Physical</option><option value="special">Special</option><option value="status">Status</option></select>
+                    </div>
+                  </div>
+                  <div class="form-row">
+                    <div class="form-group" style="flex:1"><label>Power</label><input type="number" id="mon-mv-power" value="40" /></div>
+                    <div class="form-group" style="flex:1"><label>Accuracy</label><input type="number" id="mon-mv-acc" value="100" /></div>
+                    <div class="form-group" style="flex:1"><label>Priority</label><input type="number" id="mon-mv-priority" value="0" /></div>
+                    <div class="form-group" style="flex:1"><label>Heals %</label><input type="number" id="mon-mv-heals" value="0" /></div>
+                  </div>
+                  <div class="form-row">
+                    <div class="form-group" style="flex:1"><label>Anim ID (0x29 target)</label><input type="number" id="mon-mv-anim" value="1" /></div>
+                    <div class="form-group" style="flex:1"><label>Source anim (0x29 caster)</label><input type="number" id="mon-mv-source" value="0" /></div>
+                  </div>
+                  <div class="form-row">
+                    <div class="form-group" style="flex:1"><label>Body anim (0x1A)</label><input type="number" id="mon-mv-body" placeholder="auto" /></div>
+                    <div class="form-group" style="flex:1"><label>Sound ID</label><input type="number" id="mon-mv-sound" value="0" /></div>
+                    <div class="form-group" style="flex:1;align-self:flex-end"><label style="display:flex;align-items:center;gap:0.35rem;cursor:pointer"><input type="checkbox" id="mon-mv-self" /> Status targets self</label></div>
+                  </div>
+                  <input type="hidden" id="mon-mv-editing" value="" />
+                  <div style="margin-top:0.5rem;display:flex;gap:0.5rem">
+                    <button type="button" id="btn-mon-mv-save" class="btn btn-success btn-green" style="flex:1">Save Move</button>
+                    <button type="button" id="btn-mon-mv-cancel" class="btn btn-small">Cancel</button>
+                  </div>
+                </fieldset>
+              </div>
+            </div>
+          </div>
+
+          <!-- ═ Players Tab ═ -->
+          <div class="mon-tab-content" id="mon-content-players" style="display:none">
+            <div class="form-row" style="margin-bottom:0.5rem">
+              <input type="text" id="monster-player-search" placeholder="Search player name..." style="flex:1;font-size:0.8em;padding:4px 6px" />
+              <button type="button" id="btn-monster-search" class="btn btn-small">Search</button>
+            </div>
+            <div id="monster-player-list" class="rules-list" style="max-height:calc(100vh - 300px);overflow-y:auto;font-size:0.8em">
+              <div class="rules-empty">Search for a player to view their monsters.</div>
+            </div>
+          </div>
+
+          <!-- ═ Leaderboard Tab ═ -->
+          <div class="mon-tab-content" id="mon-content-leaderboard" style="display:none">
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem">
+              <h4 style="margin:0;font-size:0.85rem;opacity:0.7">Top 10 Monsters</h4>
+              <button type="button" id="btn-monster-refresh-leaderboard" class="btn btn-small">Refresh</button>
+            </div>
+            <div id="monster-leaderboard" class="rules-list" style="max-height:calc(100vh - 300px);overflow-y:auto;font-size:0.8em">
+              <div class="rules-empty">No battles recorded.</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ═══ Legend Marks Sub-tab ═══ -->
+        <div class="proxy-tab-content" id="proxy-content-legends" style="display:none">
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;align-items:start">
+            <!-- Left: Legend Mark List -->
+            <div>
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem">
+                <h4 style="margin:0;font-size:0.85rem;opacity:0.7">Custom Legend Marks</h4>
+                <span id="legend-mark-count" style="font-size:0.75em;opacity:0.5">0 marks</span>
+              </div>
+              <p style="font-size:0.75em;opacity:0.4;margin:0 0 0.5rem 0">Create legend marks that appear when proxy players double-click Legend Marks in-game.</p>
+              <div id="legend-marks-list" class="rules-list" style="max-height:calc(100vh - 340px);overflow-y:auto;font-size:0.8em">
+                <div class="rules-empty">No custom legend marks created.</div>
+              </div>
+            </div>
+
+            <!-- Right: Create/Edit + Issue -->
+            <div>
+              <fieldset id="legend-form" style="margin:0">
+                <legend id="legend-form-title">Create Legend Mark</legend>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1"><label>Key (prefix)</label><input type="text" id="legend-key" placeholder="Hero of Mileth" maxlength="50" /></div>
+                  <div class="form-group" style="flex:2"><label>Text (description)</label><input type="text" id="legend-text" placeholder="Defeated the dark lord" maxlength="255" /></div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1">
+                    <label>Icon</label>
+                    <select id="legend-icon">
+                      <option value="0">Aisling</option>
+                      <option value="1">Warrior</option>
+                      <option value="2">Rogue</option>
+                      <option value="3">Wizard</option>
+                      <option value="4">Priest</option>
+                      <option value="5">Monk</option>
+                      <option value="6">Heart</option>
+                      <option value="7">Victory</option>
+                      <option value="8">None</option>
+                    </select>
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label>Color</label>
+                    <select id="legend-color">
+                      <option value="0">Cyan</option>
+                      <option value="1">Bright Red</option>
+                      <option value="2">Gray Tan</option>
+                      <option value="3">Dark Blue</option>
+                      <option value="4">Purple</option>
+                      <option value="5">Dark Gray</option>
+                      <option value="6">Brown</option>
+                      <option value="7">Sky Blue</option>
+                      <option value="8">Yellow</option>
+                      <option value="9">Deep Blue</option>
+                      <option value="10">Coral</option>
+                      <option value="11">Tan</option>
+                      <option value="12">White</option>
+                      <option value="13">Green</option>
+                      <option value="14">Orange</option>
+                      <option value="15">Light Pink</option>
+                      <option value="16">Turquoise</option>
+                      <option value="17">Pale Pink</option>
+                      <option value="18">Maroon</option>
+                      <option value="19">Beige</option>
+                      <option value="20">Dark Green</option>
+                      <option value="21">Olive</option>
+                      <option value="22">Dark Olive</option>
+                      <option value="23">Peach</option>
+                      <option value="24">Dark Peach</option>
+                      <option value="25">Teal</option>
+                      <option value="26">Light Green</option>
+                      <option value="27">Light Gray</option>
+                      <option value="28">Rust Red</option>
+                      <option value="29">Dark Red</option>
+                      <option value="30">Red</option>
+                    </select>
+                  </div>
+                </div>
+                <!-- Preview -->
+                <div style="background:rgba(0,0,0,0.3);border:1px solid rgba(255,255,255,0.06);border-radius:4px;padding:6px 10px;margin:0.25rem 0 0.5rem 0">
+                  <div style="font-size:0.65em;text-transform:uppercase;letter-spacing:0.5px;opacity:0.4;margin-bottom:3px">Preview</div>
+                  <div id="legend-preview" style="font-size:0.85em;display:flex;align-items:center;gap:6px">
+                    <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#6bf"></span>
+                    <span style="font-weight:600">Key</span>
+                    <span style="opacity:0.7">Description text</span>
+                  </div>
+                </div>
+                <input type="hidden" id="legend-editing-id" value="" />
+                <div style="display:flex;gap:0.5rem">
+                  <button type="button" id="btn-legend-save" class="btn btn-success btn-green" style="flex:1">Create Legend Mark</button>
+                  <button type="button" id="btn-legend-cancel" class="btn btn-small" style="display:none">Cancel</button>
+                </div>
+              </fieldset>
+
+              <fieldset style="margin:0.75rem 0 0 0">
+                <legend>Issue to Player</legend>
+                <p style="font-size:0.72em;opacity:0.4;margin:0 0 0.4rem 0">Assign a mark to a player. They see it on double-click of Legend Marks in-game.</p>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1">
+                    <label>Legend Mark</label>
+                    <select id="legend-issue-mark"><option value="">-- Select --</option></select>
+                  </div>
+                  <div class="form-group" style="flex:1">
+                    <label>Player Name</label>
+                    <input type="text" id="legend-issue-player" placeholder="Teirav" />
+                  </div>
+                </div>
+                <button type="button" id="btn-legend-issue" class="btn btn-success btn-green" style="width:100%">Issue Legend Mark</button>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+
+        <!-- ═══ Disguises Sub-tab ═══ -->
+        <div class="proxy-tab-content" id="proxy-content-disguises" style="display:none">
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;align-items:start">
+            <!-- Left: Disguise List -->
+            <div>
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem">
+                <h4 style="margin:0;font-size:0.85rem;opacity:0.7">Player Disguises</h4>
+                <span id="disguise-count" style="font-size:0.75em;opacity:0.5">0 players</span>
+              </div>
+              <p style="font-size:0.75em;opacity:0.4;margin:0 0 0.5rem 0">Override a player's displayed title, class, guild rank, and guild. Visible to all proxy users.</p>
+              <div id="disguise-list" class="rules-list" style="max-height:calc(100vh - 340px);overflow-y:auto;font-size:0.8em">
+                <div class="rules-empty">No player disguises configured.</div>
+              </div>
+            </div>
+
+            <!-- Right: Create/Edit Form -->
+            <div>
+              <fieldset id="disguise-form" style="margin:0">
+                <legend id="disguise-form-title">Add Player Disguise</legend>
+                <div class="form-group"><label>Player Name</label><input type="text" id="disguise-player" placeholder="Lancelot" maxlength="30" /></div>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1"><label>Title</label><input type="text" id="disguise-title" placeholder="King" maxlength="50" /></div>
+                  <div class="form-group" style="flex:1"><label>Display Class</label><input type="text" id="disguise-class" placeholder="Elite Gladiator" maxlength="50" /></div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1"><label>Guild Rank</label><input type="text" id="disguise-rank" placeholder="Founder" maxlength="50" /></div>
+                  <div class="form-group" style="flex:1"><label>Guild Name</label><input type="text" id="disguise-guild" placeholder="Aisling Exchange" maxlength="50" /></div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group" style="flex:1"><label>Overcoat Sprite</label><input type="number" id="disguise-sprite" value="0" min="0" max="65535" /></div>
+                  <div class="form-group" style="flex:1"><label>Overcoat Color</label><input type="number" id="disguise-color" value="0" min="0" max="255" /></div>
+                </div>
+                <div class="form-group" style="margin:0.4rem 0">
+                  <label style="display:flex;align-items:center;gap:6px;cursor:pointer;font-size:0.85em">
+                    <input type="checkbox" id="disguise-enabled" checked /> Enabled
+                  </label>
+                </div>
+                <input type="hidden" id="disguise-editing" value="" />
+                <div style="display:flex;gap:0.5rem">
+                  <button type="button" id="btn-disguise-save" class="btn btn-success btn-green" style="flex:1">Save Disguise</button>
+                  <button type="button" id="btn-disguise-cancel" class="btn btn-small" style="display:none">Cancel</button>
+                </div>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="toast-container"></div>
+
+  <script defer src="/socket.io/socket.io.js"></script>
+  <script defer src="panel.js"></script>
+</body>
+</html>

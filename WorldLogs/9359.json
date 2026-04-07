@@ -1,0 +1,27 @@
+{
+  "Number": 9359,
+  "Name": "Plamit's Cave 5-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Plamit's Cave 5-2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 26": {
+      "MapId": 9356,
+      "X": 47,
+      "Y": 38,
+      "Point": "47, 38"
+    },
+    "37, 33": {
+      "MapId": 9362,
+      "X": 1,
+      "Y": 39,
+      "Point": "1, 39"
+    }
+  },
+  "WorldMaps": {}
+}

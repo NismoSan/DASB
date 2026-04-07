@@ -1,0 +1,45 @@
+{
+  "Number": 498,
+  "Name": "Rucesion Inn",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Rucesion Inn",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "4, 11": {
+      "MapId": 505,
+      "X": 43,
+      "Y": 40,
+      "Point": "43, 40"
+    },
+    "5, 11": {
+      "MapId": 505,
+      "X": 43,
+      "Y": 39,
+      "Point": "43, 39"
+    },
+    "6, 11": {
+      "MapId": 505,
+      "X": 43,
+      "Y": 38,
+      "Point": "43, 38"
+    },
+    "7, 11": {
+      "MapId": 505,
+      "X": 43,
+      "Y": 37,
+      "Point": "43, 37"
+    },
+    "0, 10": {
+      "MapId": 496,
+      "X": 3,
+      "Y": 13,
+      "Point": "3, 13"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,51 @@
+{
+  "Number": 3627,
+  "Name": "Chaos 28",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 28",
+  "Size": {
+    "Width": 80,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "32, 0": {
+      "MapId": 3626,
+      "X": 31,
+      "Y": 46,
+      "Point": "31, 46"
+    },
+    "56, 79": {
+      "MapId": 3628,
+      "X": 36,
+      "Y": 8,
+      "Point": "36, 8"
+    },
+    "57, 79": {
+      "MapId": 3628,
+      "X": 36,
+      "Y": 8,
+      "Point": "36, 8"
+    },
+    "58, 79": {
+      "MapId": 3628,
+      "X": 36,
+      "Y": 8,
+      "Point": "36, 8"
+    },
+    "59, 79": {
+      "MapId": 3628,
+      "X": 36,
+      "Y": 8,
+      "Point": "36, 8"
+    },
+    "0, 27": {
+      "MapId": 3625,
+      "X": 47,
+      "Y": 4,
+      "Point": "47, 4"
+    }
+  },
+  "WorldMaps": {}
+}

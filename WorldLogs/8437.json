@@ -1,0 +1,27 @@
+{
+  "Number": 8437,
+  "Name": "Chadul's Pravat 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chadul's Pravat 1",
+  "Size": {
+    "Width": 51,
+    "Height": 26
+  },
+  "Flags": 0,
+  "Portals": {
+    "35, 25": {
+      "MapId": 8438,
+      "X": 16,
+      "Y": 2,
+      "Point": "16, 2"
+    },
+    "34, 25": {
+      "MapId": 8438,
+      "X": 15,
+      "Y": 2,
+      "Point": "15, 2"
+    }
+  },
+  "WorldMaps": {}
+}

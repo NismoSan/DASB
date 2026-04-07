@@ -1,0 +1,33 @@
+{
+  "Number": 421,
+  "Name": "Rucesion Armor Shop",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Rucesion Armor Shop",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 8": {
+      "MapId": 505,
+      "X": 38,
+      "Y": 28,
+      "Point": "38, 28"
+    },
+    "11, 9": {
+      "MapId": 505,
+      "X": 38,
+      "Y": 28,
+      "Point": "38, 28"
+    },
+    "0, 10": {
+      "MapId": 420,
+      "X": 13,
+      "Y": 1,
+      "Point": "13, 1"
+    }
+  },
+  "WorldMaps": {}
+}

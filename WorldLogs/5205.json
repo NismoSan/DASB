@@ -1,0 +1,51 @@
+{
+  "Number": 5205,
+  "Name": "Undine North Field",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Undine North Field",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "44, 49": {
+      "MapId": 5201,
+      "X": 4,
+      "Y": 1,
+      "Point": "4, 1"
+    },
+    "43, 49": {
+      "MapId": 5201,
+      "X": 3,
+      "Y": 1,
+      "Point": "3, 1"
+    },
+    "42, 49": {
+      "MapId": 5201,
+      "X": 2,
+      "Y": 1,
+      "Point": "2, 1"
+    },
+    "41, 49": {
+      "MapId": 5201,
+      "X": 1,
+      "Y": 1,
+      "Point": "1, 1"
+    },
+    "45, 49": {
+      "MapId": 5201,
+      "X": 5,
+      "Y": 1,
+      "Point": "5, 1"
+    },
+    "46, 49": {
+      "MapId": 5201,
+      "X": 6,
+      "Y": 1,
+      "Point": "6, 1"
+    }
+  },
+  "WorldMaps": {}
+}

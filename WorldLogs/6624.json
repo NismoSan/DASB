@@ -1,0 +1,33 @@
+{
+  "Number": 6624,
+  "Name": "Oren Island Jewelry Shop",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Island Jewelry Shop",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 19": {
+      "MapId": 6228,
+      "X": 88,
+      "Y": 118,
+      "Point": "88, 118"
+    },
+    "10, 19": {
+      "MapId": 6228,
+      "X": 89,
+      "Y": 118,
+      "Point": "89, 118"
+    },
+    "8, 20": {
+      "MapId": 6228,
+      "X": 88,
+      "Y": 118,
+      "Point": "88, 118"
+    }
+  },
+  "WorldMaps": {}
+}

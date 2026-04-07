@@ -1,0 +1,58 @@
+[
+  {
+    "key": "rat_loot",
+    "entries": [
+      { "itemTemplateKey": "raw_meat", "dropChance": 0.3, "minQuantity": 1, "maxQuantity": 1 },
+      { "itemTemplateKey": "mold", "dropChance": 0.15, "minQuantity": 1, "maxQuantity": 2 }
+    ]
+  },
+  {
+    "key": "centipede_loot",
+    "entries": [
+      { "itemTemplateKey": "raw_meat", "dropChance": 0.2, "minQuantity": 1, "maxQuantity": 1 },
+      { "itemTemplateKey": "mold", "dropChance": 0.2, "minQuantity": 1, "maxQuantity": 2 }
+    ]
+  },
+  {
+    "key": "bat_loot",
+    "entries": [
+      { "itemTemplateKey": "raw_meat", "dropChance": 0.25, "minQuantity": 1, "maxQuantity": 1 }
+    ]
+  },
+  {
+    "key": "spider_loot",
+    "entries": [
+      { "itemTemplateKey": "spider_silk", "dropChance": 0.35, "minQuantity": 1, "maxQuantity": 2 },
+      { "itemTemplateKey": "raw_meat", "dropChance": 0.15, "minQuantity": 1, "maxQuantity": 1 }
+    ]
+  },
+  {
+    "key": "wolf_loot",
+    "entries": [
+      { "itemTemplateKey": "wolf_pelt", "dropChance": 0.4, "minQuantity": 1, "maxQuantity": 1 },
+      { "itemTemplateKey": "raw_meat", "dropChance": 0.3, "minQuantity": 1, "maxQuantity": 2 }
+    ]
+  },
+  {
+    "key": "goblin_loot",
+    "entries": [
+      { "itemTemplateKey": "apple", "dropChance": 0.3, "minQuantity": 1, "maxQuantity": 3 },
+      { "itemTemplateKey": "health_potion", "dropChance": 0.1, "minQuantity": 1, "maxQuantity": 1 }
+    ]
+  },
+  {
+    "key": "scorpion_loot",
+    "entries": [
+      { "itemTemplateKey": "mold", "dropChance": 0.3, "minQuantity": 1, "maxQuantity": 3 },
+      { "itemTemplateKey": "health_potion", "dropChance": 0.15, "minQuantity": 1, "maxQuantity": 1 }
+    ]
+  },
+  {
+    "key": "skeleton_loot",
+    "entries": [
+      { "itemTemplateKey": "bone_fragment", "dropChance": 0.45, "minQuantity": 1, "maxQuantity": 3 },
+      { "itemTemplateKey": "health_potion", "dropChance": 0.15, "minQuantity": 1, "maxQuantity": 1 },
+      { "itemTemplateKey": "mana_potion", "dropChance": 0.1, "minQuantity": 1, "maxQuantity": 1 }
+    ]
+  }
+]

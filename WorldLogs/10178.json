@@ -1,0 +1,27 @@
+{
+  "Number": 10178,
+  "Name": "Andor 78",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Andor 78",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "18, 29": {
+      "MapId": 10177,
+      "X": 15,
+      "Y": 4,
+      "Point": "15, 4"
+    },
+    "17, 29": {
+      "MapId": 10177,
+      "X": 14,
+      "Y": 3,
+      "Point": "14, 3"
+    }
+  },
+  "WorldMaps": {}
+}

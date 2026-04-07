@@ -1,0 +1,13 @@
+{
+  "mapId": 6700,
+  "reactors": [
+    {
+      "sourceX": 35,
+      "sourceY": 1,
+      "targetMapId": 3006,
+      "targetX": 5,
+      "targetY": 5,
+      "label": "Shadow Mileth Crypt 1"
+    }
+  ]
+}

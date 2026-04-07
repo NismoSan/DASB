@@ -1,0 +1,27 @@
+{
+  "Number": 2601,
+  "Name": "Unknown 2601",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Tomb",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 0": {
+      "MapId": 6506,
+      "X": 4,
+      "Y": 8,
+      "Point": "4, 8"
+    },
+    "6, 40": {
+      "MapId": 6966,
+      "X": 11,
+      "Y": 21,
+      "Point": "11, 21"
+    }
+  },
+  "WorldMaps": {}
+}

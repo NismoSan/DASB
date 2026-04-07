@@ -1,0 +1,45 @@
+{
+  "Number": 10021,
+  "Name": "Asilon Prairie 13",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Asilon Prairie 13",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "49, 29": {
+      "MapId": 10018,
+      "X": 2,
+      "Y": 29,
+      "Point": "2, 29"
+    },
+    "49, 28": {
+      "MapId": 10018,
+      "X": 2,
+      "Y": 28,
+      "Point": "2, 28"
+    },
+    "49, 27": {
+      "MapId": 10018,
+      "X": 2,
+      "Y": 27,
+      "Point": "2, 27"
+    },
+    "49, 26": {
+      "MapId": 10018,
+      "X": 2,
+      "Y": 26,
+      "Point": "2, 26"
+    },
+    "49, 25": {
+      "MapId": 10018,
+      "X": 2,
+      "Y": 25,
+      "Point": "2, 25"
+    }
+  },
+  "WorldMaps": {}
+}

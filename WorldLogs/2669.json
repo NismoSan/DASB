@@ -1,0 +1,33 @@
+{
+  "Number": 2669,
+  "Name": "Feasgar Throne",
+  "WalkSpot": "21, 21",
+  "Description": null,
+  "DisplayName": "Feasgar Throne",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "26, 49": {
+      "MapId": 667,
+      "X": 33,
+      "Y": 3,
+      "Point": "33, 3"
+    },
+    "25, 49": {
+      "MapId": 667,
+      "X": 32,
+      "Y": 3,
+      "Point": "32, 3"
+    },
+    "27, 49": {
+      "MapId": 667,
+      "X": 34,
+      "Y": 3,
+      "Point": "34, 3"
+    }
+  },
+  "WorldMaps": {}
+}

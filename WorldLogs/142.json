@@ -1,0 +1,27 @@
+{
+  "Number": 142,
+  "Name": "Mileth Inn Room 5",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Inn Room 5",
+  "Size": {
+    "Width": 8,
+    "Height": 8
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 4": {
+      "MapId": 200,
+      "X": 1,
+      "Y": 2,
+      "Point": "1, 2"
+    },
+    "7, 5": {
+      "MapId": 200,
+      "X": 1,
+      "Y": 2,
+      "Point": "1, 2"
+    }
+  },
+  "WorldMaps": {}
+}

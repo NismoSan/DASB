@@ -1,0 +1,38 @@
+{
+  "Number": 6508,
+  "Name": "Oren Sewers Entrance",
+  "Description": null,
+  "DisplayName": "Oren Sewers Entrance",
+  "Size": {
+    "Width": 13,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 7": {
+      "MapId": 6228,
+      "X": 57,
+      "Y": 128,
+      "Point": "57, 128"
+    },
+    "12, 6": {
+      "MapId": 6228,
+      "X": 57,
+      "Y": 128,
+      "Point": "57, 128"
+    },
+    "12, 5": {
+      "MapId": 6228,
+      "X": 57,
+      "Y": 128,
+      "Point": "57, 128"
+    },
+    "12, 4": {
+      "MapId": 6228,
+      "X": 57,
+      "Y": 128,
+      "Point": "57, 128"
+    }
+  },
+  "WorldMaps": {}
+}

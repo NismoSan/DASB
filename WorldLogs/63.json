@@ -1,0 +1,33 @@
+{
+  "Number": 63,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Crypt 19-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "44, 22": {
+      "MapId": 59,
+      "X": 43,
+      "Y": 19,
+      "Point": "43, 19"
+    },
+    "23, 0": {
+      "MapId": 60,
+      "X": 27,
+      "Y": 33,
+      "Point": "27, 33"
+    },
+    "11, 23": {
+      "MapId": 66,
+      "X": 1,
+      "Y": 31,
+      "Point": "1, 31"
+    }
+  },
+  "WorldMaps": {}
+}

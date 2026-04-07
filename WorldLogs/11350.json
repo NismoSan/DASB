@@ -1,0 +1,21 @@
+{
+  "Number": 11350,
+  "Name": "Unknown 11350",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Muisir Hunting Ground 9",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 0": {
+      "MapId": 11349,
+      "X": 23,
+      "Y": 48,
+      "Point": "23, 48"
+    }
+  },
+  "WorldMaps": {}
+}

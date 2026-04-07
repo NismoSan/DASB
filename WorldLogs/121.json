@@ -1,0 +1,20 @@
+{
+  "Number": 121,
+  "Name": "Loures 1 Floor Bed Room",
+  "Description": null,
+  "DisplayName": "Loures 1 Floor Bed Room",
+  "Size": {
+    "Width": 10,
+    "Height": 10
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 6": {
+      "MapId": 120,
+      "X": 1,
+      "Y": 4,
+      "Point": "1, 4"
+    }
+  },
+  "WorldMaps": {}
+}

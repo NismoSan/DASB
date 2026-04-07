@@ -1,0 +1,45 @@
+{
+  "Number": 10035,
+  "Name": "Noam Plains 6",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Noam Plains 6",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "32, 0": {
+      "MapId": 10040,
+      "X": 32,
+      "Y": 47,
+      "Point": "32, 47"
+    },
+    "31, 0": {
+      "MapId": 10040,
+      "X": 31,
+      "Y": 47,
+      "Point": "31, 47"
+    },
+    "30, 0": {
+      "MapId": 10040,
+      "X": 30,
+      "Y": 47,
+      "Point": "30, 47"
+    },
+    "28, 0": {
+      "MapId": 10040,
+      "X": 28,
+      "Y": 47,
+      "Point": "28, 47"
+    },
+    "29, 0": {
+      "MapId": 10040,
+      "X": 29,
+      "Y": 47,
+      "Point": "29, 47"
+    }
+  },
+  "WorldMaps": {}
+}

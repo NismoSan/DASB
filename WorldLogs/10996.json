@@ -1,0 +1,39 @@
+{
+  "Number": 10996,
+  "Name": "<Unknown> 10996",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Fire Spirit Temple",
+  "Size": {
+    "Width": 30,
+    "Height": 30
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 0": {
+      "MapId": 10265,
+      "X": 47,
+      "Y": 96,
+      "Point": "47, 96"
+    },
+    "21, 0": {
+      "MapId": 10265,
+      "X": 49,
+      "Y": 96,
+      "Point": "49, 96"
+    },
+    "20, 0": {
+      "MapId": 10265,
+      "X": 48,
+      "Y": 96,
+      "Point": "48, 96"
+    },
+    "18, 0": {
+      "MapId": 10265,
+      "X": 46,
+      "Y": 96,
+      "Point": "46, 96"
+    }
+  },
+  "WorldMaps": {}
+}

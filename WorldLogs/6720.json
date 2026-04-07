@@ -1,0 +1,38 @@
+{
+  "Number": 6720,
+  "Name": "Nobis House 1",
+  "Description": null,
+  "DisplayName": "Nobis House 1",
+  "Size": {
+    "Width": 30,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 14": {
+      "MapId": 6700,
+      "X": 28,
+      "Y": 27,
+      "Point": "28, 27"
+    },
+    "14, 14": {
+      "MapId": 6700,
+      "X": 28,
+      "Y": 27,
+      "Point": "28, 27"
+    },
+    "29, 10": {
+      "MapId": 6700,
+      "X": 32,
+      "Y": 25,
+      "Point": "32, 25"
+    },
+    "29, 11": {
+      "MapId": 6700,
+      "X": 32,
+      "Y": 25,
+      "Point": "32, 25"
+    }
+  },
+  "WorldMaps": {}
+}

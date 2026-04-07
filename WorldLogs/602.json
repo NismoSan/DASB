@@ -1,0 +1,21 @@
+{
+  "Number": 602,
+  "Name": "East Woodland 4-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "East Woodland 4-1",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "25, 99": {
+      "MapId": 600,
+      "X": 8,
+      "Y": 1,
+      "Point": "8, 1"
+    }
+  },
+  "WorldMaps": {}
+}

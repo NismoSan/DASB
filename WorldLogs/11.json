@@ -1,0 +1,33 @@
+{
+  "Number": 11,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Crypt 5-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "44, 0": {
+      "MapId": 9,
+      "X": 27,
+      "Y": 34,
+      "Point": "27, 34"
+    },
+    "14, 0": {
+      "MapId": 8,
+      "X": 5,
+      "Y": 41,
+      "Point": "5, 41"
+    },
+    "6, 27": {
+      "MapId": 13,
+      "X": 43,
+      "Y": 10,
+      "Point": "43, 10"
+    }
+  },
+  "WorldMaps": {}
+}

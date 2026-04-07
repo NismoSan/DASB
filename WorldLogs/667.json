@@ -1,0 +1,63 @@
+{
+  "Number": 667,
+  "Name": "Feasgar Kingdom",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Feasgar Kingdom",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "99, 49": {
+      "MapId": 666,
+      "X": 57,
+      "Y": 3,
+      "Point": "57, 3"
+    },
+    "99, 50": {
+      "MapId": 666,
+      "X": 58,
+      "Y": 3,
+      "Point": "58, 3"
+    },
+    "99, 51": {
+      "MapId": 666,
+      "X": 59,
+      "Y": 3,
+      "Point": "59, 3"
+    },
+    "99, 48": {
+      "MapId": 666,
+      "X": 56,
+      "Y": 3,
+      "Point": "56, 3"
+    },
+    "31, 0": {
+      "MapId": 2669,
+      "X": 24,
+      "Y": 47,
+      "Point": "24, 47"
+    },
+    "33, 0": {
+      "MapId": 2669,
+      "X": 26,
+      "Y": 47,
+      "Point": "26, 47"
+    },
+    "32, 0": {
+      "MapId": 2669,
+      "X": 25,
+      "Y": 47,
+      "Point": "25, 47"
+    },
+    "34, 0": {
+      "MapId": 2669,
+      "X": 27,
+      "Y": 47,
+      "Point": "27, 47"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,21 @@
+{
+  "Number": 6274,
+  "Name": "Unknown 6274",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Manor Room 113",
+  "Size": {
+    "Width": 25,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "24, 14": {
+      "MapId": 6116,
+      "X": 22,
+      "Y": 16,
+      "Point": "22, 16"
+    }
+  },
+  "WorldMaps": {}
+}

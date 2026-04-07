@@ -1,0 +1,45 @@
+{
+  "Number": 8435,
+  "Name": "Chadul's Abel 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chadul's Abel 1",
+  "Size": {
+    "Width": 16,
+    "Height": 24
+  },
+  "Flags": 0,
+  "Portals": {
+    "15, 14": {
+      "MapId": 8434,
+      "X": 2,
+      "Y": 7,
+      "Point": "2, 7"
+    },
+    "15, 13": {
+      "MapId": 8434,
+      "X": 3,
+      "Y": 6,
+      "Point": "3, 6"
+    },
+    "15, 12": {
+      "MapId": 8434,
+      "X": 2,
+      "Y": 5,
+      "Point": "2, 5"
+    },
+    "10, 21": {
+      "MapId": 8436,
+      "X": 29,
+      "Y": 2,
+      "Point": "29, 2"
+    },
+    "9, 21": {
+      "MapId": 8436,
+      "X": 28,
+      "Y": 2,
+      "Point": "28, 2"
+    }
+  },
+  "WorldMaps": {}
+}

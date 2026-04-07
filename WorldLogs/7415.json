@@ -1,0 +1,45 @@
+{
+  "Number": 7415,
+  "Name": "Loures Sewer Canal 15",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Loures Sewer Canal 15",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 0": {
+      "MapId": 7414,
+      "X": 16,
+      "Y": 23,
+      "Point": "16, 23"
+    },
+    "6, 0": {
+      "MapId": 7414,
+      "X": 15,
+      "Y": 23,
+      "Point": "15, 23"
+    },
+    "19, 9": {
+      "MapId": 7416,
+      "X": 2,
+      "Y": 3,
+      "Point": "2, 3"
+    },
+    "19, 8": {
+      "MapId": 7416,
+      "X": 2,
+      "Y": 2,
+      "Point": "2, 2"
+    },
+    "0, 17": {
+      "MapId": 7420,
+      "X": 18,
+      "Y": 9,
+      "Point": "18, 9"
+    }
+  },
+  "WorldMaps": {}
+}

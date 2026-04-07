@@ -1,0 +1,27 @@
+{
+  "Number": 10046,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Noam Plains 17",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "43, 49": {
+      "MapId": 10042,
+      "X": 43,
+      "Y": 2,
+      "Point": "43, 2"
+    },
+    "37, 49": {
+      "MapId": 10042,
+      "X": 37,
+      "Y": 2,
+      "Point": "37, 2"
+    }
+  },
+  "WorldMaps": {}
+}

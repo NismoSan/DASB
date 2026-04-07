@@ -1,0 +1,33 @@
+{
+  "Number": 6582,
+  "Name": "Sewer Maze 4",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Sewer Maze 4",
+  "Size": {
+    "Width": 30,
+    "Height": 68
+  },
+  "Flags": 0,
+  "Portals": {
+    "16, 6": {
+      "MapId": 6586,
+      "X": 12,
+      "Y": 36,
+      "Point": "12, 36"
+    },
+    "13, 67": {
+      "MapId": 6585,
+      "X": 12,
+      "Y": 2,
+      "Point": "12, 2"
+    },
+    "12, 67": {
+      "MapId": 6585,
+      "X": 11,
+      "Y": 2,
+      "Point": "11, 2"
+    }
+  },
+  "WorldMaps": {}
+}

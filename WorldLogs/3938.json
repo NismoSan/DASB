@@ -1,0 +1,39 @@
+{
+  "Number": 3938,
+  "Name": "Loures Store 12",
+  "WalkSpot": "6, 17",
+  "Description": null,
+  "DisplayName": "Loures Store 12",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 12": {
+      "MapId": 3926,
+      "X": 16,
+      "Y": 18,
+      "Point": "16, 18"
+    },
+    "19, 13": {
+      "MapId": 3926,
+      "X": 16,
+      "Y": 18,
+      "Point": "16, 18"
+    },
+    "2, 16": {
+      "MapId": 7401,
+      "X": 8,
+      "Y": 3,
+      "Point": "8, 3"
+    },
+    "2, 17": {
+      "MapId": 7401,
+      "X": 9,
+      "Y": 3,
+      "Point": "9, 3"
+    }
+  },
+  "WorldMaps": {}
+}

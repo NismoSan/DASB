@@ -1,0 +1,45 @@
+{
+  "Number": 0,
+  "Name": "Unknown 0",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Crypt Chief Room",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 19": {
+      "MapId": 100,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    },
+    "9, 19": {
+      "MapId": 100,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    },
+    "1, 15": {
+      "MapId": 136,
+      "X": 7,
+      "Y": 7,
+      "Point": "7, 7"
+    },
+    "19, 10": {
+      "MapId": 6927,
+      "X": 2,
+      "Y": 12,
+      "Point": "2, 12"
+    },
+    "30, 48": {
+      "MapId": 7050,
+      "X": 27,
+      "Y": 3,
+      "Point": "27, 3"
+    }
+  },
+  "WorldMaps": {}
+}

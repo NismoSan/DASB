@@ -1,0 +1,21 @@
+{
+  "Number": 8022,
+  "Name": "Wrecked Ship 5-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Wrecked Ship 5-1",
+  "Size": {
+    "Width": 30,
+    "Height": 30
+  },
+  "Flags": 0,
+  "Portals": {
+    "18, 29": {
+      "MapId": 8047,
+      "X": 17,
+      "Y": 5,
+      "Point": "17, 5"
+    }
+  },
+  "WorldMaps": {}
+}

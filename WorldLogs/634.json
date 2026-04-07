@@ -1,0 +1,27 @@
+{
+  "Number": 634,
+  "Name": "Mine 8-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mine 8-2",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 9": {
+      "MapId": 631,
+      "X": 92,
+      "Y": 45,
+      "Point": "92, 45"
+    },
+    "50, 56": {
+      "MapId": 638,
+      "X": 88,
+      "Y": 2,
+      "Point": "88, 2"
+    }
+  },
+  "WorldMaps": {}
+}

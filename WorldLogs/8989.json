@@ -1,0 +1,39 @@
+{
+  "Number": 8989,
+  "Name": "Lost Ruins 4",
+  "WalkSpot": "17, 14",
+  "Description": null,
+  "DisplayName": "Lost Ruins 4",
+  "Size": {
+    "Width": 50,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "49, 96": {
+      "MapId": 8995,
+      "X": 3,
+      "Y": 36,
+      "Point": "3, 36"
+    },
+    "49, 95": {
+      "MapId": 8995,
+      "X": 3,
+      "Y": 35,
+      "Point": "3, 35"
+    },
+    "49, 94": {
+      "MapId": 8995,
+      "X": 3,
+      "Y": 34,
+      "Point": "3, 34"
+    },
+    "49, 93": {
+      "MapId": 8995,
+      "X": 3,
+      "Y": 33,
+      "Point": "3, 33"
+    }
+  },
+  "WorldMaps": {}
+}

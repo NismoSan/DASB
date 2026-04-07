@@ -1,0 +1,63 @@
+{
+  "Number": 984,
+  "Name": "Grasslands 15",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Grasslands 15",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 0": {
+      "MapId": 985,
+      "X": 10,
+      "Y": 48,
+      "Point": "10, 48"
+    },
+    "11, 0": {
+      "MapId": 985,
+      "X": 11,
+      "Y": 48,
+      "Point": "11, 48"
+    },
+    "12, 0": {
+      "MapId": 985,
+      "X": 12,
+      "Y": 48,
+      "Point": "12, 48"
+    },
+    "9, 0": {
+      "MapId": 985,
+      "X": 9,
+      "Y": 48,
+      "Point": "9, 48"
+    },
+    "9, 49": {
+      "MapId": 983,
+      "X": 9,
+      "Y": 1,
+      "Point": "9, 1"
+    },
+    "10, 49": {
+      "MapId": 983,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    },
+    "11, 49": {
+      "MapId": 983,
+      "X": 11,
+      "Y": 1,
+      "Point": "11, 1"
+    },
+    "12, 49": {
+      "MapId": 983,
+      "X": 12,
+      "Y": 1,
+      "Point": "12, 1"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,37 @@
+{
+  "Number": 10145,
+  "Name": "Andor 45",
+  "Description": null,
+  "DisplayName": "Andor 45",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "29, 8": {
+      "MapId": 10138,
+      "X": 3,
+      "Y": 7,
+      "Point": "3, 7"
+    },
+    "29, 7": {
+      "MapId": 10138,
+      "X": 3,
+      "Y": 6,
+      "Point": "3, 6"
+    },
+    "15, 1": {
+      "MapId": 10146,
+      "X": 18,
+      "Y": 28,
+      "Point": "18, 28"
+    },
+    "14, 1": {
+      "MapId": 10146,
+      "X": 17,
+      "Y": 28,
+      "Point": "17, 28"
+    }
+  }
+}

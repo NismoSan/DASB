@@ -1,0 +1,27 @@
+{
+  "Number": 1963,
+  "Name": "Unknown 1963",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tagor Restaurant",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 13": {
+      "MapId": 662,
+      "X": 84,
+      "Y": 16,
+      "Point": "84, 16"
+    },
+    "8, 13": {
+      "MapId": 662,
+      "X": 84,
+      "Y": 16,
+      "Point": "84, 16"
+    }
+  },
+  "WorldMaps": {}
+}

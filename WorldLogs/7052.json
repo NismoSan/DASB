@@ -1,0 +1,27 @@
+{
+  "Number": 7052,
+  "Name": "Santa's Room",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Santa's Room",
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 12": {
+      "MapId": 7051,
+      "X": 16,
+      "Y": 5,
+      "Point": "16, 5"
+    },
+    "12, 0": {
+      "MapId": 7054,
+      "X": 13,
+      "Y": 13,
+      "Point": "13, 13"
+    }
+  },
+  "WorldMaps": {}
+}

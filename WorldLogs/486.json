@@ -1,0 +1,21 @@
+{
+  "Number": 486,
+  "Name": "RucInn1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Rucesion Inn Room 1",
+  "Size": {
+    "Width": 8,
+    "Height": 8
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 4": {
+      "MapId": 496,
+      "X": 1,
+      "Y": 13,
+      "Point": "1, 13"
+    }
+  },
+  "WorldMaps": {}
+}

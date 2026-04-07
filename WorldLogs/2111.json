@@ -1,0 +1,45 @@
+{
+  "Number": 2111,
+  "Name": "Mount Giragan 25",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mount Giragan 25",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 0": {
+      "MapId": 2092,
+      "X": 59,
+      "Y": 98,
+      "Point": "59, 98"
+    },
+    "7, 0": {
+      "MapId": 2092,
+      "X": 58,
+      "Y": 98,
+      "Point": "58, 98"
+    },
+    "9, 0": {
+      "MapId": 2092,
+      "X": 60,
+      "Y": 98,
+      "Point": "60, 98"
+    },
+    "10, 0": {
+      "MapId": 2092,
+      "X": 61,
+      "Y": 98,
+      "Point": "61, 98"
+    },
+    "10, 19": {
+      "MapId": 2112,
+      "X": 5,
+      "Y": 1,
+      "Point": "5, 1"
+    }
+  },
+  "WorldMaps": {}
+}

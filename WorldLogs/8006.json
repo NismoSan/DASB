@@ -1,0 +1,33 @@
+{
+  "Number": 8006,
+  "Name": "Unknown Depths 6",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Unknown Depths 6",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 1": {
+      "MapId": 8007,
+      "X": 30,
+      "Y": 46,
+      "Point": "30, 46"
+    },
+    "30, 48": {
+      "MapId": 8005,
+      "X": 23,
+      "Y": 3,
+      "Point": "23, 3"
+    },
+    "22, 2": {
+      "MapId": 8007,
+      "X": 30,
+      "Y": 46,
+      "Point": "30, 46"
+    }
+  },
+  "WorldMaps": {}
+}

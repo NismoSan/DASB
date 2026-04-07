@@ -1,0 +1,33 @@
+{
+  "Number": 7437,
+  "Name": "Unknown 7437",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Loures Sewer Canal 37",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 11": {
+      "MapId": 7405,
+      "X": 1,
+      "Y": 33,
+      "Point": "1, 33"
+    },
+    "19, 10": {
+      "MapId": 7405,
+      "X": 1,
+      "Y": 33,
+      "Point": "1, 33"
+    },
+    "6, 0": {
+      "MapId": 7438,
+      "X": 15,
+      "Y": 18,
+      "Point": "15, 18"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 2051,
+  "Name": "Unknown 2051",
+  "WalkSpot": "9, 6",
+  "Description": null,
+  "DisplayName": "Abandoned Church",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 19": {
+      "MapId": 2056,
+      "X": 54,
+      "Y": 41,
+      "Point": "54, 41"
+    },
+    "9, 19": {
+      "MapId": 2056,
+      "X": 54,
+      "Y": 42,
+      "Point": "54, 42"
+    }
+  },
+  "WorldMaps": {}
+}

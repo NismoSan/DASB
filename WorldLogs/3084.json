@@ -1,0 +1,21 @@
+{
+  "Number": 3084,
+  "Name": "Ancient Dwarven Cave",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Ancient Dwarven Cave",
+  "Size": {
+    "Width": 8,
+    "Height": 8
+  },
+  "Flags": 0,
+  "Portals": {
+    "4, 7": {
+      "MapId": 283,
+      "X": 7,
+      "Y": 2,
+      "Point": "7, 2"
+    }
+  },
+  "WorldMaps": {}
+}

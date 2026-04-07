@@ -1,0 +1,38 @@
+{
+  "Number": 6511,
+  "Name": "Oren Island House2",
+  "Description": null,
+  "DisplayName": "Oren Island House2",
+  "Size": {
+    "Width": 30,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "29, 6": {
+      "MapId": 6228,
+      "X": 57,
+      "Y": 132,
+      "Point": "57, 132"
+    },
+    "29, 5": {
+      "MapId": 6228,
+      "X": 57,
+      "Y": 132,
+      "Point": "57, 132"
+    },
+    "29, 7": {
+      "MapId": 6228,
+      "X": 57,
+      "Y": 132,
+      "Point": "57, 132"
+    },
+    "29, 8": {
+      "MapId": 6228,
+      "X": 57,
+      "Y": 132,
+      "Point": "57, 132"
+    }
+  },
+  "WorldMaps": {}
+}

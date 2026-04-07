@@ -1,0 +1,27 @@
+{
+  "Number": 393,
+  "Name": "Path Reception",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Path Reception",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 5": {
+      "MapId": 500,
+      "X": 94,
+      "Y": 12,
+      "Point": "94, 12"
+    },
+    "11, 6": {
+      "MapId": 500,
+      "X": 94,
+      "Y": 12,
+      "Point": "94, 12"
+    }
+  },
+  "WorldMaps": {}
+}

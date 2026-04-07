@@ -1,0 +1,27 @@
+{
+  "Number": 230,
+  "Name": "Piet Dungeon 9-4",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Dungeon 9-4",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 49": {
+      "MapId": 226,
+      "X": 2,
+      "Y": 9,
+      "Point": "2, 9"
+    },
+    "2, 10": {
+      "MapId": 234,
+      "X": 17,
+      "Y": 13,
+      "Point": "17, 13"
+    }
+  },
+  "WorldMaps": {}
+}

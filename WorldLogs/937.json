@@ -1,0 +1,27 @@
+{
+  "Number": 937,
+  "Name": "caladh beithir 28",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "caladh beithir 28",
+  "Size": {
+    "Width": 100,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 0": {
+      "MapId": 935,
+      "X": 27,
+      "Y": 45,
+      "Point": "27, 45"
+    },
+    "43, 78": {
+      "MapId": 941,
+      "X": 32,
+      "Y": 1,
+      "Point": "32, 1"
+    }
+  },
+  "WorldMaps": {}
+}

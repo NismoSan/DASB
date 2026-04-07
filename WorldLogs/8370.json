@@ -1,0 +1,33 @@
+{
+  "Number": 8370,
+  "Name": "LuwellasHouse",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Luwella's House",
+  "Size": {
+    "Width": 17,
+    "Height": 17
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 16": {
+      "MapId": 8349,
+      "X": 5,
+      "Y": 9,
+      "Point": "5, 9"
+    },
+    "12, 16": {
+      "MapId": 8349,
+      "X": 6,
+      "Y": 9,
+      "Point": "6, 9"
+    },
+    "13, 16": {
+      "MapId": 8349,
+      "X": 7,
+      "Y": 9,
+      "Point": "7, 9"
+    }
+  },
+  "WorldMaps": {}
+}

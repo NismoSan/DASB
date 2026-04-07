@@ -1,0 +1,39 @@
+{
+  "Number": 2040,
+  "Name": "Unknown 2040",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Filth Forest 3",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 2,
+  "Portals": {
+    "59, 99": {
+      "MapId": 2038,
+      "X": 58,
+      "Y": 2,
+      "Point": "58, 2"
+    },
+    "58, 99": {
+      "MapId": 2038,
+      "X": 58,
+      "Y": 2,
+      "Point": "58, 2"
+    },
+    "57, 99": {
+      "MapId": 2038,
+      "X": 58,
+      "Y": 2,
+      "Point": "58, 2"
+    },
+    "56, 99": {
+      "MapId": 2038,
+      "X": 59,
+      "Y": 2,
+      "Point": "59, 2"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,39 @@
+{
+  "Number": 11309,
+  "Name": "Unknown 11309",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Muisir Path 9",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 0": {
+      "MapId": 11308,
+      "X": 23,
+      "Y": 48,
+      "Point": "23, 48"
+    },
+    "24, 0": {
+      "MapId": 11308,
+      "X": 24,
+      "Y": 48,
+      "Point": "24, 48"
+    },
+    "25, 0": {
+      "MapId": 11308,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "22, 0": {
+      "MapId": 11308,
+      "X": 22,
+      "Y": 48,
+      "Point": "22, 48"
+    }
+  },
+  "WorldMaps": {}
+}

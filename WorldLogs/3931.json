@@ -1,0 +1,26 @@
+{
+  "Number": 3931,
+  "Name": "Loures Store 5",
+  "Description": null,
+  "DisplayName": "Loures Store 5",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 19": {
+      "MapId": 3926,
+      "X": 53,
+      "Y": 52,
+      "Point": "53, 52"
+    },
+    "10, 19": {
+      "MapId": 3926,
+      "X": 53,
+      "Y": 52,
+      "Point": "53, 52"
+    }
+  },
+  "WorldMaps": {}
+}

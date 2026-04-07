@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "dasb-protocol": {
+      "command": "node",
+      "args": ["mcp-server.js"],
+      "cwd": "."
+    }
+  }
+}

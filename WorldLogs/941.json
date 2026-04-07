@@ -1,0 +1,33 @@
+{
+  "Number": 941,
+  "Name": "caladh beithir 32",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "caladh beithir 32",
+  "Size": {
+    "Width": 100,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "32, 1": {
+      "MapId": 937,
+      "X": 43,
+      "Y": 73,
+      "Point": "43, 73"
+    },
+    "1, 30": {
+      "MapId": 940,
+      "X": 45,
+      "Y": 16,
+      "Point": "45, 16"
+    },
+    "1, 29": {
+      "MapId": 940,
+      "X": 45,
+      "Y": 16,
+      "Point": "45, 16"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 305,
+  "Name": "Abel Combat Skill Master",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Abel Combat Skill Master",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 14": {
+      "MapId": 502,
+      "X": 44,
+      "Y": 50,
+      "Point": "44, 50"
+    },
+    "7, 14": {
+      "MapId": 502,
+      "X": 44,
+      "Y": 50,
+      "Point": "44, 50"
+    }
+  },
+  "WorldMaps": {}
+}

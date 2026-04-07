@@ -1,0 +1,38 @@
+{
+  "Number": 10007,
+  "Name": "Asilon Store",
+  "Description": null,
+  "DisplayName": "Asilon Store",
+  "Size": {
+    "Width": 15,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 6": {
+      "MapId": 10000,
+      "X": 15,
+      "Y": 49,
+      "Point": "15, 49"
+    },
+    "13, 7": {
+      "MapId": 10000,
+      "X": 15,
+      "Y": 50,
+      "Point": "15, 50"
+    },
+    "13, 8": {
+      "MapId": 10000,
+      "X": 15,
+      "Y": 50,
+      "Point": "15, 50"
+    },
+    "13, 5": {
+      "MapId": 10000,
+      "X": 15,
+      "Y": 49,
+      "Point": "15, 49"
+    }
+  },
+  "WorldMaps": {}
+}

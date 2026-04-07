@@ -1,0 +1,33 @@
+{
+  "Number": 7408,
+  "Name": "Loures Sewer Canal 8",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Loures Sewer Canal 8",
+  "Size": {
+    "Width": 25,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "24, 14": {
+      "MapId": 7409,
+      "X": 2,
+      "Y": 19,
+      "Point": "2, 19"
+    },
+    "24, 13": {
+      "MapId": 7409,
+      "X": 2,
+      "Y": 18,
+      "Point": "2, 18"
+    },
+    "0, 10": {
+      "MapId": 7406,
+      "X": 18,
+      "Y": 8,
+      "Point": "18, 8"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,39 @@
+{
+  "Number": 3609,
+  "Name": "Chaos 10",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 10",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 0": {
+      "MapId": 3608,
+      "X": 5,
+      "Y": 56,
+      "Point": "5, 56"
+    },
+    "29, 69": {
+      "MapId": 3610,
+      "X": 26,
+      "Y": 3,
+      "Point": "26, 3"
+    },
+    "30, 69": {
+      "MapId": 3610,
+      "X": 26,
+      "Y": 3,
+      "Point": "26, 3"
+    },
+    "31, 69": {
+      "MapId": 3610,
+      "X": 26,
+      "Y": 3,
+      "Point": "26, 3"
+    }
+  },
+  "WorldMaps": {}
+}

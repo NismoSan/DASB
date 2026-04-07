@@ -1,0 +1,21 @@
+{
+  "Number": 10267,
+  "Name": "Unknown 10267",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Bard's Lounge",
+  "Size": {
+    "Width": 20,
+    "Height": 10
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 7": {
+      "MapId": 10265,
+      "X": 24,
+      "Y": 25,
+      "Point": "24, 25"
+    }
+  },
+  "WorldMaps": {}
+}

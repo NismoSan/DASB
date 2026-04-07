@@ -1,0 +1,63 @@
+{
+  "Number": 6608,
+  "Name": "Oren Island Jungle 7",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Island Jungle 7",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 0,
+  "Portals": {
+    "46, 69": {
+      "MapId": 6607,
+      "X": 27,
+      "Y": 2,
+      "Point": "27, 2"
+    },
+    "45, 69": {
+      "MapId": 6607,
+      "X": 27,
+      "Y": 2,
+      "Point": "27, 2"
+    },
+    "47, 69": {
+      "MapId": 6607,
+      "X": 29,
+      "Y": 2,
+      "Point": "29, 2"
+    },
+    "48, 69": {
+      "MapId": 6607,
+      "X": 29,
+      "Y": 2,
+      "Point": "29, 2"
+    },
+    "0, 13": {
+      "MapId": 6609,
+      "X": 67,
+      "Y": 49,
+      "Point": "67, 49"
+    },
+    "0, 12": {
+      "MapId": 6609,
+      "X": 67,
+      "Y": 49,
+      "Point": "67, 49"
+    },
+    "0, 11": {
+      "MapId": 6609,
+      "X": 67,
+      "Y": 49,
+      "Point": "67, 49"
+    },
+    "0, 14": {
+      "MapId": 6609,
+      "X": 67,
+      "Y": 49,
+      "Point": "67, 49"
+    }
+  },
+  "WorldMaps": {}
+}

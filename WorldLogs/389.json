@@ -1,0 +1,27 @@
+{
+  "Number": 389,
+  "Name": "Abel Jeph's Room",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Abel Jeph's Room",
+  "Size": {
+    "Width": 13,
+    "Height": 13
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 7": {
+      "MapId": 502,
+      "X": 12,
+      "Y": 32,
+      "Point": "12, 32"
+    },
+    "12, 6": {
+      "MapId": 502,
+      "X": 12,
+      "Y": 32,
+      "Point": "12, 32"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 2098,
+  "Name": "Mount Giragan 12",
+  "WalkSpot": "43, 94",
+  "Description": null,
+  "DisplayName": "Mount Giragan 12",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "47, 99": {
+      "MapId": 2083,
+      "X": 2,
+      "Y": 1,
+      "Point": "2, 1"
+    },
+    "76, 99": {
+      "MapId": 2097,
+      "X": 32,
+      "Y": 1,
+      "Point": "32, 1"
+    }
+  },
+  "WorldMaps": {}
+}

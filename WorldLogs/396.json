@@ -1,0 +1,39 @@
+{
+  "Number": 396,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Path Temple 4",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 11": {
+      "MapId": 395,
+      "X": 6,
+      "Y": 2,
+      "Point": "6, 2"
+    },
+    "6, 11": {
+      "MapId": 395,
+      "X": 6,
+      "Y": 2,
+      "Point": "6, 2"
+    },
+    "1, 6": {
+      "MapId": 341,
+      "X": 10,
+      "Y": 7,
+      "Point": "10, 7"
+    },
+    "6, 1": {
+      "MapId": 397,
+      "X": 6,
+      "Y": 10,
+      "Point": "6, 10"
+    }
+  },
+  "WorldMaps": {}
+}

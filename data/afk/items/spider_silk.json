@@ -1,0 +1,11 @@
+{
+  "templateKey": "spider_silk",
+  "name": "Spider's Silk",
+  "sprite": 150,
+  "color": 0,
+  "stackable": true,
+  "maxStack": 99,
+  "type": "misc",
+  "sellValue": 15,
+  "buyValue": 0
+}

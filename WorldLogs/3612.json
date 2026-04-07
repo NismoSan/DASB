@@ -1,0 +1,39 @@
+{
+  "Number": 3612,
+  "Name": "Chaos 13",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 13",
+  "Size": {
+    "Width": 80,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "70, 0": {
+      "MapId": 3611,
+      "X": 21,
+      "Y": 98,
+      "Point": "21, 98"
+    },
+    "79, 39": {
+      "MapId": 3622,
+      "X": 3,
+      "Y": 95,
+      "Point": "3, 95"
+    },
+    "79, 38": {
+      "MapId": 3622,
+      "X": 3,
+      "Y": 96,
+      "Point": "3, 96"
+    },
+    "4, 79": {
+      "MapId": 3613,
+      "X": 3,
+      "Y": 3,
+      "Point": "3, 3"
+    }
+  },
+  "WorldMaps": {}
+}

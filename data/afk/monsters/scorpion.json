@@ -1,0 +1,22 @@
+{
+  "templateKey": "scorpion",
+  "name": "Scorpion",
+  "sprite": 28,
+  "level": 6,
+  "maxHp": 1000,
+  "maxMp": 50,
+  "stats": { "str": 14, "int": 2, "wis": 1, "con": 11, "dex": 11 },
+  "ac": 85,
+  "aggroRange": 6,
+  "moveIntervalMs": 950,
+  "assailIntervalMs": 1600,
+  "skillIntervalMs": 7000,
+  "spellIntervalMs": 9000,
+  "wanderIntervalMs": 3000,
+  "expReward": 200,
+  "goldDrop": { "min": 30, "max": 100 },
+  "lootTableKey": "scorpion_loot",
+  "skills": [],
+  "spells": ["beag puinsein"],
+  "respawnMs": 30000
+}

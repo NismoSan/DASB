@@ -1,0 +1,27 @@
+{
+  "Number": 10274,
+  "Name": "<Unknown> 10274",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Hwarone Bank",
+  "Size": {
+    "Width": 17,
+    "Height": 17
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 16": {
+      "MapId": 10265,
+      "X": 68,
+      "Y": 67,
+      "Point": "68, 67"
+    },
+    "11, 16": {
+      "MapId": 10265,
+      "X": 69,
+      "Y": 67,
+      "Point": "69, 67"
+    }
+  },
+  "WorldMaps": {}
+}

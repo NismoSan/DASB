@@ -1,0 +1,27 @@
+{
+  "Number": 8007,
+  "Name": "Unknown Depths 7",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Unknown Depths 7",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "48, 28": {
+      "MapId": 8008,
+      "X": 3,
+      "Y": 28,
+      "Point": "3, 28"
+    },
+    "28, 48": {
+      "MapId": 8006,
+      "X": 25,
+      "Y": 3,
+      "Point": "25, 3"
+    }
+  },
+  "WorldMaps": {}
+}

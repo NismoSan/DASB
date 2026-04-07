@@ -1,0 +1,11 @@
+{
+  "templateKey": "bone_fragment",
+  "name": "Bone Fragment",
+  "sprite": 154,
+  "color": 0,
+  "stackable": true,
+  "maxStack": 99,
+  "type": "misc",
+  "sellValue": 30,
+  "buyValue": 0
+}

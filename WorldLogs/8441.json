@@ -1,0 +1,33 @@
+{
+  "Number": 8441,
+  "Name": "Chadul's Rucesion 2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chadul's Rucesion 2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 0": {
+      "MapId": 8440,
+      "X": 3,
+      "Y": 76,
+      "Point": "3, 76"
+    },
+    "29, 0": {
+      "MapId": 8440,
+      "X": 2,
+      "Y": 76,
+      "Point": "2, 76"
+    },
+    "28, 0": {
+      "MapId": 8440,
+      "X": 1,
+      "Y": 76,
+      "Point": "1, 76"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,38 @@
+{
+  "Number": 6503,
+  "Name": "Oren Island Downstairs0",
+  "Description": null,
+  "DisplayName": "Oren Island Downstairs0",
+  "Size": {
+    "Width": 13,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "3, 19": {
+      "MapId": 6228,
+      "X": 32,
+      "Y": 85,
+      "Point": "32, 85"
+    },
+    "4, 19": {
+      "MapId": 6228,
+      "X": 32,
+      "Y": 85,
+      "Point": "32, 85"
+    },
+    "5, 19": {
+      "MapId": 6228,
+      "X": 32,
+      "Y": 85,
+      "Point": "32, 85"
+    },
+    "6, 19": {
+      "MapId": 6228,
+      "X": 32,
+      "Y": 85,
+      "Point": "32, 85"
+    }
+  },
+  "WorldMaps": {}
+}

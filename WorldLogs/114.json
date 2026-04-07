@@ -1,0 +1,26 @@
+{
+  "Number": 114,
+  "Name": "Loures 2 Floor Restaurant",
+  "Description": null,
+  "DisplayName": "Loures 2 Floor Restauran",
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 0": {
+      "MapId": 113,
+      "X": 7,
+      "Y": 7,
+      "Point": "7, 7"
+    },
+    "15, 9": {
+      "MapId": 126,
+      "X": 1,
+      "Y": 16,
+      "Point": "1, 16"
+    }
+  },
+  "WorldMaps": {}
+}

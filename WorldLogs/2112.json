@@ -1,0 +1,33 @@
+{
+  "Number": 2112,
+  "Name": "Mount Giragan 26",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mount Giragan 26",
+  "Size": {
+    "Width": 15,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "4, 0": {
+      "MapId": 2111,
+      "X": 9,
+      "Y": 17,
+      "Point": "9, 17"
+    },
+    "5, 0": {
+      "MapId": 2111,
+      "X": 10,
+      "Y": 18,
+      "Point": "10, 18"
+    },
+    "6, 0": {
+      "MapId": 2111,
+      "X": 11,
+      "Y": 17,
+      "Point": "11, 17"
+    }
+  },
+  "WorldMaps": {}
+}

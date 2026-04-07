@@ -1,0 +1,27 @@
+{
+  "Number": 424,
+  "Name": "Rucesion Empty Room 1",
+  "WalkSpot": "5, 5",
+  "Description": null,
+  "DisplayName": "Rucesion Empty Room 1",
+  "Size": {
+    "Width": 13,
+    "Height": 13
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 7": {
+      "MapId": 505,
+      "X": 24,
+      "Y": 19,
+      "Point": "24, 19"
+    },
+    "12, 6": {
+      "MapId": 505,
+      "X": 24,
+      "Y": 18,
+      "Point": "24, 18"
+    }
+  },
+  "WorldMaps": {}
+}

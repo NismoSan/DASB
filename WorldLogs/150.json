@@ -1,0 +1,33 @@
+{
+  "Number": 150,
+  "Name": "Piet Inn",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Inn",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 11": {
+      "MapId": 501,
+      "X": 39,
+      "Y": 14,
+      "Point": "39, 14"
+    },
+    "5, 11": {
+      "MapId": 501,
+      "X": 38,
+      "Y": 14,
+      "Point": "38, 14"
+    },
+    "0, 10": {
+      "MapId": 202,
+      "X": 3,
+      "Y": 13,
+      "Point": "3, 13"
+    }
+  },
+  "WorldMaps": {}
+}

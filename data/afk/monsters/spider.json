@@ -1,0 +1,22 @@
+{
+  "templateKey": "spider",
+  "name": "Spider",
+  "sprite": 26,
+  "level": 3,
+  "maxHp": 400,
+  "maxMp": 0,
+  "stats": { "str": 8, "int": 1, "wis": 1, "con": 8, "dex": 10 },
+  "ac": 100,
+  "aggroRange": 6,
+  "moveIntervalMs": 2000,
+  "assailIntervalMs": 3000,
+  "skillIntervalMs": 8000,
+  "spellIntervalMs": 10000,
+  "wanderIntervalMs": 3500,
+  "expReward": 75,
+  "goldDrop": { "min": 10, "max": 30 },
+  "lootTableKey": "spider_loot",
+  "skills": [],
+  "spells": [],
+  "respawnMs": 25000
+}

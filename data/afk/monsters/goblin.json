@@ -1,0 +1,22 @@
+{
+  "templateKey": "goblin",
+  "name": "Goblin",
+  "sprite": 30,
+  "level": 5,
+  "maxHp": 800,
+  "maxMp": 50,
+  "stats": { "str": 12, "int": 3, "wis": 2, "con": 10, "dex": 10 },
+  "ac": 90,
+  "aggroRange": 7,
+  "moveIntervalMs": 900,
+  "assailIntervalMs": 1500,
+  "skillIntervalMs": 6000,
+  "spellIntervalMs": 8000,
+  "wanderIntervalMs": 3000,
+  "expReward": 150,
+  "goldDrop": { "min": 25, "max": 75 },
+  "lootTableKey": "goblin_loot",
+  "skills": ["assault"],
+  "spells": [],
+  "respawnMs": 30000
+}

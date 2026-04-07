@@ -1,0 +1,39 @@
+{
+  "Number": 969,
+  "Name": "Grasslands 20",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Grasslands 20",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 49": {
+      "MapId": 988,
+      "X": 11,
+      "Y": 1,
+      "Point": "11, 1"
+    },
+    "10, 49": {
+      "MapId": 988,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    },
+    "8, 49": {
+      "MapId": 988,
+      "X": 8,
+      "Y": 1,
+      "Point": "8, 1"
+    },
+    "7, 49": {
+      "MapId": 988,
+      "X": 7,
+      "Y": 1,
+      "Point": "7, 1"
+    }
+  },
+  "WorldMaps": {}
+}

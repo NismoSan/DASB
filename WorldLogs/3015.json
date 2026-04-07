@@ -1,0 +1,21 @@
+{
+  "Number": 3015,
+  "Name": "Shrine of Fiosachd - Abel",
+  "WalkSpot": "5, 7",
+  "Description": null,
+  "DisplayName": "Shrine of Fiosachd - Abe",
+  "Size": {
+    "Width": 25,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 7": {
+      "MapId": 3014,
+      "X": 12,
+      "Y": 6,
+      "Point": "12, 6"
+    }
+  },
+  "WorldMaps": {}
+}

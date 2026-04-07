@@ -1,0 +1,25 @@
+{
+  "Number": 3603,
+  "Name": "Chaos 4",
+  "Description": null,
+  "DisplayName": "Chaos 4",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "48, 25": {
+      "MapId": 3605,
+      "X": 3,
+      "Y": 37,
+      "Point": "3, 37"
+    },
+    "20, 1": {
+      "MapId": 3602,
+      "X": 27,
+      "Y": 75,
+      "Point": "27, 75"
+    }
+  }
+}

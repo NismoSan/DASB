@@ -1,0 +1,27 @@
+{
+  "Number": 635,
+  "Name": "Mine 17-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mine 17-1",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "67, 87": {
+      "MapId": 639,
+      "X": 58,
+      "Y": 3,
+      "Point": "58, 3"
+    },
+    "91, 1": {
+      "MapId": 636,
+      "X": 2,
+      "Y": 51,
+      "Point": "2, 51"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,51 @@
+{
+  "Number": 6625,
+  "Name": "North Lynith Beach 1",
+  "WalkSpot": "51, 11",
+  "Description": null,
+  "DisplayName": "North Lynith Beach 1",
+  "Size": {
+    "Width": 80,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 49": {
+      "MapId": 6628,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    },
+    "12, 49": {
+      "MapId": 6628,
+      "X": 9,
+      "Y": 1,
+      "Point": "9, 1"
+    },
+    "11, 49": {
+      "MapId": 6628,
+      "X": 8,
+      "Y": 1,
+      "Point": "8, 1"
+    },
+    "0, 14": {
+      "MapId": 6626,
+      "X": 48,
+      "Y": 43,
+      "Point": "48, 43"
+    },
+    "0, 16": {
+      "MapId": 6626,
+      "X": 48,
+      "Y": 45,
+      "Point": "48, 45"
+    },
+    "0, 15": {
+      "MapId": 6626,
+      "X": 48,
+      "Y": 44,
+      "Point": "48, 44"
+    }
+  },
+  "WorldMaps": {}
+}

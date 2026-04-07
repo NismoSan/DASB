@@ -1,0 +1,27 @@
+{
+  "Number": 3007,
+  "Name": "Shrine of Glioca - Mileth",
+  "WalkSpot": "9, 6",
+  "Description": null,
+  "DisplayName": "Shrine of Glioca - Milet",
+  "Size": {
+    "Width": 25,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 6": {
+      "MapId": 3006,
+      "X": 12,
+      "Y": 19,
+      "Point": "12, 19"
+    },
+    "23, 7": {
+      "MapId": 3006,
+      "X": 12,
+      "Y": 20,
+      "Point": "12, 20"
+    }
+  },
+  "WorldMaps": {}
+}

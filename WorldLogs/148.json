@@ -1,0 +1,27 @@
+{
+  "Number": 148,
+  "Name": "Unknown 148",
+  "WalkSpot": "10, 6",
+  "Description": null,
+  "DisplayName": "Piet Storage",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 11": {
+      "MapId": 501,
+      "X": 51,
+      "Y": 14,
+      "Point": "51, 14"
+    },
+    "5, 11": {
+      "MapId": 501,
+      "X": 50,
+      "Y": 14,
+      "Point": "50, 14"
+    }
+  },
+  "WorldMaps": {}
+}

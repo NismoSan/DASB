@@ -1,0 +1,37 @@
+{
+  "Number": 9382,
+  "Name": "Plamit Potion Shop",
+  "Description": null,
+  "DisplayName": "Plamit Potion Shop",
+  "Size": {
+    "Width": 15,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 8": {
+      "MapId": 9378,
+      "X": 19,
+      "Y": 39,
+      "Point": "19, 39"
+    },
+    "13, 7": {
+      "MapId": 9378,
+      "X": 19,
+      "Y": 38,
+      "Point": "19, 38"
+    },
+    "13, 6": {
+      "MapId": 9378,
+      "X": 19,
+      "Y": 37,
+      "Point": "19, 37"
+    },
+    "13, 5": {
+      "MapId": 9378,
+      "X": 19,
+      "Y": 36,
+      "Point": "19, 36"
+    }
+  }
+}

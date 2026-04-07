@@ -1,0 +1,51 @@
+{
+  "Number": 3077,
+  "Name": "Mehadi Heart West",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mehadi Heart West",
+  "Size": {
+    "Width": 18,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "17, 2": {
+      "MapId": 3078,
+      "X": 1,
+      "Y": 16,
+      "Point": "1, 16"
+    },
+    "17, 1": {
+      "MapId": 3078,
+      "X": 1,
+      "Y": 15,
+      "Point": "1, 15"
+    },
+    "15, 0": {
+      "MapId": 3078,
+      "X": 1,
+      "Y": 16,
+      "Point": "1, 16"
+    },
+    "16, 0": {
+      "MapId": 3078,
+      "X": 2,
+      "Y": 16,
+      "Point": "2, 16"
+    },
+    "3, 0": {
+      "MapId": 4003,
+      "X": 13,
+      "Y": 30,
+      "Point": "13, 30"
+    },
+    "2, 0": {
+      "MapId": 4003,
+      "X": 12,
+      "Y": 30,
+      "Point": "12, 30"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,25 @@
+{
+  "Number": 6595,
+  "Name": "Ruins Altar 1",
+  "Description": null,
+  "DisplayName": "Ruins Altar 1",
+  "Size": {
+    "Width": 30,
+    "Height": 30
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 0": {
+      "MapId": 6574,
+      "X": 12,
+      "Y": 43,
+      "Point": "12, 43"
+    },
+    "22, 0": {
+      "MapId": 6574,
+      "X": 11,
+      "Y": 43,
+      "Point": "11, 43"
+    }
+  }
+}

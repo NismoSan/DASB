@@ -1,0 +1,60 @@
+{
+  "Number": 6996,
+  "Name": "Excavation Camp",
+  "WalkSpot": "8, 16",
+  "Description": null,
+  "DisplayName": "Excavation Camp",
+  "Size": {
+    "Width": 30,
+    "Height": 30
+  },
+  "Flags": 0,
+  "Portals": {
+    "15, 29": {
+      "MapId": 6992,
+      "X": 15,
+      "Y": 1,
+      "Point": "15, 1"
+    },
+    "14, 29": {
+      "MapId": 6992,
+      "X": 14,
+      "Y": 1,
+      "Point": "14, 1"
+    },
+    "13, 29": {
+      "MapId": 6992,
+      "X": 13,
+      "Y": 1,
+      "Point": "13, 1"
+    },
+    "16, 29": {
+      "MapId": 6992,
+      "X": 16,
+      "Y": 1,
+      "Point": "16, 1"
+    },
+    "12, 29": {
+      "MapId": 6992,
+      "X": 12,
+      "Y": 1,
+      "Point": "12, 1"
+    },
+    "11, 29": {
+      "MapId": 6992,
+      "X": 11,
+      "Y": 1,
+      "Point": "11, 1"
+    },
+    "10, 29": {
+      "MapId": 6992,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    }
+  },
+  "WorldMaps": {
+    "22, 7": {},
+    "21, 7": {}
+  }
+}

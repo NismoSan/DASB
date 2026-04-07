@@ -1,0 +1,21 @@
+{
+  "Number": 6577,
+  "Name": "Oren Ruins 3-13",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Ruins 3-13",
+  "Size": {
+    "Width": 50,
+    "Height": 45
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 23": {
+      "MapId": 6578,
+      "X": 48,
+      "Y": 31,
+      "Point": "48, 31"
+    }
+  },
+  "WorldMaps": {}
+}

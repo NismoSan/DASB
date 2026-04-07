@@ -1,0 +1,45 @@
+{
+  "Number": 136,
+  "Name": "Mileth Inn",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Inn",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 11": {
+      "MapId": 500,
+      "X": 27,
+      "Y": 44,
+      "Point": "27, 44"
+    },
+    "6, 11": {
+      "MapId": 500,
+      "X": 28,
+      "Y": 44,
+      "Point": "28, 44"
+    },
+    "11, 2": {
+      "MapId": 500,
+      "X": 33,
+      "Y": 37,
+      "Point": "33, 37"
+    },
+    "11, 3": {
+      "MapId": 500,
+      "X": 33,
+      "Y": 37,
+      "Point": "33, 37"
+    },
+    "0, 9": {
+      "MapId": 200,
+      "X": 3,
+      "Y": 15,
+      "Point": "3, 15"
+    }
+  },
+  "WorldMaps": {}
+}

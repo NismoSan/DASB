@@ -1,0 +1,39 @@
+{
+  "Number": 925,
+  "Name": "caladh beithir 16",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "caladh beithir 16",
+  "Size": {
+    "Width": 100,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "99, 43": {
+      "MapId": 926,
+      "X": 6,
+      "Y": 26,
+      "Point": "6, 26"
+    },
+    "99, 42": {
+      "MapId": 926,
+      "X": 6,
+      "Y": 26,
+      "Point": "6, 26"
+    },
+    "0, 30": {
+      "MapId": 920,
+      "X": 96,
+      "Y": 10,
+      "Point": "96, 10"
+    },
+    "99, 41": {
+      "MapId": 926,
+      "X": 7,
+      "Y": 26,
+      "Point": "7, 26"
+    }
+  },
+  "WorldMaps": {}
+}

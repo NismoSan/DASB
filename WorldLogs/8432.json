@@ -1,0 +1,27 @@
+{
+  "Number": 8432,
+  "Name": "Chadul's Mileth 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chadul's Mileth 1",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 11": {
+      "MapId": 8433,
+      "X": 27,
+      "Y": 45,
+      "Point": "27, 45"
+    },
+    "5, 11": {
+      "MapId": 8433,
+      "X": 26,
+      "Y": 45,
+      "Point": "26, 45"
+    }
+  },
+  "WorldMaps": {}
+}

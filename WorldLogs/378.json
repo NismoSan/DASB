@@ -1,0 +1,21 @@
+{
+  "Number": 378,
+  "Name": "Loures Underground Jail",
+  "WalkSpot": "26, 8",
+  "Description": null,
+  "DisplayName": "Loures Underground Jail",
+  "Size": {
+    "Width": 30,
+    "Height": 10
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 8": {
+      "MapId": 122,
+      "X": 8,
+      "Y": 4,
+      "Point": "8, 4"
+    }
+  },
+  "WorldMaps": {}
+}

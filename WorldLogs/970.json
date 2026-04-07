@@ -1,0 +1,57 @@
+{
+  "Number": 970,
+  "Name": "Grasslands 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Grasslands 1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "49, 41": {
+      "MapId": 980,
+      "X": 2,
+      "Y": 41,
+      "Point": "2, 41"
+    },
+    "49, 40": {
+      "MapId": 980,
+      "X": 1,
+      "Y": 40,
+      "Point": "1, 40"
+    },
+    "49, 39": {
+      "MapId": 980,
+      "X": 1,
+      "Y": 39,
+      "Point": "1, 39"
+    },
+    "38, 49": {
+      "MapId": 908,
+      "X": 38,
+      "Y": 2,
+      "Point": "38, 2"
+    },
+    "39, 49": {
+      "MapId": 908,
+      "X": 39,
+      "Y": 2,
+      "Point": "39, 2"
+    },
+    "40, 49": {
+      "MapId": 908,
+      "X": 40,
+      "Y": 2,
+      "Point": "40, 2"
+    },
+    "41, 49": {
+      "MapId": 908,
+      "X": 41,
+      "Y": 2,
+      "Point": "41, 2"
+    }
+  },
+  "WorldMaps": {}
+}

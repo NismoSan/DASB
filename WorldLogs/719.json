@@ -1,0 +1,33 @@
+{
+  "Number": 719,
+  "Name": "Rucesion Church",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Rucesion Church",
+  "Size": {
+    "Width": 41,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "18, 24": {
+      "MapId": 505,
+      "X": 10,
+      "Y": 12,
+      "Point": "10, 12"
+    },
+    "20, 24": {
+      "MapId": 505,
+      "X": 11,
+      "Y": 12,
+      "Point": "11, 12"
+    },
+    "19, 24": {
+      "MapId": 505,
+      "X": 10,
+      "Y": 12,
+      "Point": "10, 12"
+    }
+  },
+  "WorldMaps": {}
+}

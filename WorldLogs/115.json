@@ -1,0 +1,27 @@
+{
+  "Number": 115,
+  "Name": "Loures 3 Floor Office",
+  "WalkSpot": "6, 7",
+  "Description": null,
+  "DisplayName": "Loures 3 Floor Office",
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 15": {
+      "MapId": 119,
+      "X": 14,
+      "Y": 7,
+      "Point": "14, 7"
+    },
+    "0, 8": {
+      "MapId": 123,
+      "X": 7,
+      "Y": 6,
+      "Point": "7, 6"
+    }
+  },
+  "WorldMaps": {}
+}

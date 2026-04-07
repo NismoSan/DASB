@@ -1,0 +1,27 @@
+{
+  "Number": 135,
+  "Name": "Mileth Storage",
+  "WalkSpot": "10, 6",
+  "Description": null,
+  "DisplayName": "Mileth Storage",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 11": {
+      "MapId": 500,
+      "X": 54,
+      "Y": 70,
+      "Point": "54, 70"
+    },
+    "6, 11": {
+      "MapId": 500,
+      "X": 55,
+      "Y": 71,
+      "Point": "55, 71"
+    }
+  },
+  "WorldMaps": {}
+}

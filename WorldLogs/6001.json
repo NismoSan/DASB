@@ -1,0 +1,45 @@
+{
+  "Number": 6001,
+  "Name": "Unknown 6001",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Eingren Manor Steps",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 2,
+  "Portals": {
+    "67, 63": {
+      "MapId": 2056,
+      "X": 43,
+      "Y": 2,
+      "Point": "43, 2"
+    },
+    "67, 62": {
+      "MapId": 2056,
+      "X": 42,
+      "Y": 2,
+      "Point": "42, 2"
+    },
+    "0, 2": {
+      "MapId": 6000,
+      "X": 55,
+      "Y": 56,
+      "Point": "55, 56"
+    },
+    "0, 1": {
+      "MapId": 6000,
+      "X": 55,
+      "Y": 55,
+      "Point": "55, 55"
+    },
+    "0, 0": {
+      "MapId": 6000,
+      "X": 55,
+      "Y": 54,
+      "Point": "55, 54"
+    }
+  },
+  "WorldMaps": {}
+}

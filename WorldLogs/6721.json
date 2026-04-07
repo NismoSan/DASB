@@ -1,0 +1,26 @@
+{
+  "Number": 6721,
+  "Name": "Nobis House 2",
+  "Description": null,
+  "DisplayName": "Nobis House 2",
+  "Size": {
+    "Width": 13,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 6": {
+      "MapId": 6700,
+      "X": 49,
+      "Y": 51,
+      "Point": "49, 51"
+    },
+    "12, 5": {
+      "MapId": 6700,
+      "X": 49,
+      "Y": 51,
+      "Point": "49, 51"
+    }
+  },
+  "WorldMaps": {}
+}

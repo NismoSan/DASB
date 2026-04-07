@@ -1,0 +1,57 @@
+{
+  "Number": 3058,
+  "Name": "Pravat Deep",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Pravat Deep",
+  "Size": {
+    "Width": 24,
+    "Height": 24
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 1": {
+      "MapId": 3635,
+      "X": 10,
+      "Y": 18,
+      "Point": "10, 18"
+    },
+    "1, 23": {
+      "MapId": 3056,
+      "X": 14,
+      "Y": 1,
+      "Point": "14, 1"
+    },
+    "2, 23": {
+      "MapId": 3056,
+      "X": 15,
+      "Y": 1,
+      "Point": "15, 1"
+    },
+    "4, 23": {
+      "MapId": 3056,
+      "X": 17,
+      "Y": 1,
+      "Point": "17, 1"
+    },
+    "3, 23": {
+      "MapId": 3056,
+      "X": 16,
+      "Y": 1,
+      "Point": "16, 1"
+    },
+    "5, 23": {
+      "MapId": 3056,
+      "X": 18,
+      "Y": 1,
+      "Point": "18, 1"
+    },
+    "9, 1": {
+      "MapId": 3635,
+      "X": 11,
+      "Y": 18,
+      "Point": "11, 18"
+    }
+  },
+  "WorldMaps": {}
+}

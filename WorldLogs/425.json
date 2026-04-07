@@ -1,0 +1,57 @@
+{
+  "Number": 425,
+  "Name": "Crypt Vestibule",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Crypt Vestibule",
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 15": {
+      "MapId": 500,
+      "X": 90,
+      "Y": 56,
+      "Point": "90, 56"
+    },
+    "7, 15": {
+      "MapId": 500,
+      "X": 90,
+      "Y": 56,
+      "Point": "90, 56"
+    },
+    "8, 7": {
+      "MapId": 1,
+      "X": 13,
+      "Y": 48,
+      "Point": "13, 48"
+    },
+    "9, 7": {
+      "MapId": 1,
+      "X": 13,
+      "Y": 48,
+      "Point": "13, 48"
+    },
+    "8, 6": {
+      "MapId": 1,
+      "X": 13,
+      "Y": 48,
+      "Point": "13, 48"
+    },
+    "9, 6": {
+      "MapId": 1,
+      "X": 13,
+      "Y": 48,
+      "Point": "13, 48"
+    },
+    "11, 2": {
+      "MapId": 3028,
+      "X": 2,
+      "Y": 7,
+      "Point": "2, 7"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,69 @@
+{
+  "Number": 3272,
+  "Name": "Loures Entrance Yard",
+  "WalkSpot": "12, 45",
+  "Description": null,
+  "DisplayName": "Loures Entrance Yard",
+  "Size": {
+    "Width": 65,
+    "Height": 61
+  },
+  "Flags": 0,
+  "Portals": {
+    "31, 0": {
+      "MapId": 3926,
+      "X": 39,
+      "Y": 78,
+      "Point": "39, 78"
+    },
+    "34, 60": {
+      "MapId": 3012,
+      "X": 8,
+      "Y": 2,
+      "Point": "8, 2"
+    },
+    "35, 60": {
+      "MapId": 3012,
+      "X": 9,
+      "Y": 2,
+      "Point": "9, 2"
+    },
+    "32, 60": {
+      "MapId": 3012,
+      "X": 6,
+      "Y": 2,
+      "Point": "6, 2"
+    },
+    "33, 60": {
+      "MapId": 3012,
+      "X": 7,
+      "Y": 2,
+      "Point": "7, 2"
+    },
+    "32, 0": {
+      "MapId": 3926,
+      "X": 40,
+      "Y": 78,
+      "Point": "40, 78"
+    },
+    "33, 0": {
+      "MapId": 3926,
+      "X": 41,
+      "Y": 78,
+      "Point": "41, 78"
+    },
+    "30, 0": {
+      "MapId": 3926,
+      "X": 38,
+      "Y": 78,
+      "Point": "38, 78"
+    },
+    "34, 0": {
+      "MapId": 3926,
+      "X": 42,
+      "Y": 78,
+      "Point": "42, 78"
+    }
+  },
+  "WorldMaps": {}
+}

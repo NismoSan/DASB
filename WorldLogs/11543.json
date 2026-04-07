@@ -1,0 +1,33 @@
+{
+  "Number": 11543,
+  "Name": "Unknown 11543",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tavaly Bank 2nd",
+  "Size": {
+    "Width": 25,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "4, 4": {
+      "MapId": 11542,
+      "X": 17,
+      "Y": 4,
+      "Point": "17, 4"
+    },
+    "4, 3": {
+      "MapId": 11542,
+      "X": 17,
+      "Y": 3,
+      "Point": "17, 3"
+    },
+    "4, 2": {
+      "MapId": 11542,
+      "X": 17,
+      "Y": 2,
+      "Point": "17, 2"
+    }
+  },
+  "WorldMaps": {}
+}

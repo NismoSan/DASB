@@ -1,0 +1,33 @@
+{
+  "Number": 414,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Suomi Combat Skill Maste",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 14": {
+      "MapId": 503,
+      "X": 71,
+      "Y": 81,
+      "Point": "71, 81"
+    },
+    "7, 14": {
+      "MapId": 503,
+      "X": 71,
+      "Y": 81,
+      "Point": "71, 81"
+    },
+    "12, 0": {
+      "MapId": 417,
+      "X": 7,
+      "Y": 13,
+      "Point": "7, 13"
+    }
+  },
+  "WorldMaps": {}
+}

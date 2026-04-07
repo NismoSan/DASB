@@ -1,0 +1,27 @@
+{
+  "Number": 613,
+  "Name": "East Woodland 19-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "East Woodland 19-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 0": {
+      "MapId": 614,
+      "X": 26,
+      "Y": 48,
+      "Point": "26, 48"
+    },
+    "24, 0": {
+      "MapId": 614,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    }
+  },
+  "WorldMaps": {}
+}

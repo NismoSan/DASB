@@ -1,0 +1,32 @@
+{
+  "Number": 120,
+  "Name": "Loures 1 Floor Restaurant",
+  "Description": null,
+  "DisplayName": "Loures 1 Floor Restauran",
+  "Size": {
+    "Width": 10,
+    "Height": 10
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 9": {
+      "MapId": 110,
+      "X": 8,
+      "Y": 2,
+      "Point": "8, 2"
+    },
+    "0, 5": {
+      "MapId": 121,
+      "X": 7,
+      "Y": 7,
+      "Point": "7, 7"
+    },
+    "8, 0": {
+      "MapId": 122,
+      "X": 7,
+      "Y": 7,
+      "Point": "7, 7"
+    }
+  },
+  "WorldMaps": {}
+}

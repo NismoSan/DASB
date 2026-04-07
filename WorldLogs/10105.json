@@ -1,0 +1,37 @@
+{
+  "Number": 10105,
+  "Name": "Andor 5",
+  "Description": null,
+  "DisplayName": "Andor 5",
+  "Size": {
+    "Width": 40,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "38, 20": {
+      "MapId": 10102,
+      "X": 3,
+      "Y": 7,
+      "Point": "3, 7"
+    },
+    "38, 19": {
+      "MapId": 10102,
+      "X": 3,
+      "Y": 6,
+      "Point": "3, 6"
+    },
+    "15, 1": {
+      "MapId": 10106,
+      "X": 15,
+      "Y": 27,
+      "Point": "15, 27"
+    },
+    "14, 1": {
+      "MapId": 10106,
+      "X": 14,
+      "Y": 27,
+      "Point": "14, 27"
+    }
+  }
+}

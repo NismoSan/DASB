@@ -1,0 +1,12 @@
+{
+  "templateKey": "raw_meat",
+  "name": "Raw Meat",
+  "sprite": 140,
+  "color": 0,
+  "stackable": true,
+  "maxStack": 99,
+  "type": "consumable",
+  "healHp": 100,
+  "sellValue": 3,
+  "buyValue": 10
+}

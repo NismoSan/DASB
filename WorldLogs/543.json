@@ -1,0 +1,45 @@
+{
+  "Number": 543,
+  "Name": "Shinewood Forest 4",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 4",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "76, 0": {
+      "MapId": 544,
+      "X": 86,
+      "Y": 98,
+      "Point": "86, 98"
+    },
+    "77, 0": {
+      "MapId": 544,
+      "X": 87,
+      "Y": 98,
+      "Point": "87, 98"
+    },
+    "58, 99": {
+      "MapId": 564,
+      "X": 43,
+      "Y": 1,
+      "Point": "43, 1"
+    },
+    "56, 99": {
+      "MapId": 564,
+      "X": 42,
+      "Y": 1,
+      "Point": "42, 1"
+    },
+    "57, 99": {
+      "MapId": 564,
+      "X": 43,
+      "Y": 1,
+      "Point": "43, 1"
+    }
+  },
+  "WorldMaps": {}
+}

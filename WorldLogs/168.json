@@ -1,0 +1,39 @@
+{
+  "Number": 168,
+  "Name": "Abel Tavern",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Abel Tavern",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 5": {
+      "MapId": 502,
+      "X": 13,
+      "Y": 45,
+      "Point": "13, 45"
+    },
+    "14, 4": {
+      "MapId": 502,
+      "X": 13,
+      "Y": 44,
+      "Point": "13, 44"
+    },
+    "10, 14": {
+      "MapId": 181,
+      "X": 13,
+      "Y": 1,
+      "Point": "13, 1"
+    },
+    "11, 14": {
+      "MapId": 181,
+      "X": 13,
+      "Y": 1,
+      "Point": "13, 1"
+    }
+  },
+  "WorldMaps": {}
+}

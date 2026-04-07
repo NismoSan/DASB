@@ -1,0 +1,14 @@
+{
+  "Number": 11550,
+  "Name": "<Unknown> 11550",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Play Spiked Waiting Room",
+  "Size": {
+    "Width": 13,
+    "Height": 13
+  },
+  "Flags": 0,
+  "Portals": {},
+  "WorldMaps": {}
+}

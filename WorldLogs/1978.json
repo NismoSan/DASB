@@ -1,0 +1,27 @@
+{
+  "Number": 1978,
+  "Name": "Unknown 1978",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tagor Pet Store",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 9": {
+      "MapId": 662,
+      "X": 18,
+      "Y": 46,
+      "Point": "18, 46"
+    },
+    "11, 8": {
+      "MapId": 662,
+      "X": 18,
+      "Y": 45,
+      "Point": "18, 45"
+    }
+  },
+  "WorldMaps": {}
+}

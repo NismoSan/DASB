@@ -1,0 +1,27 @@
+{
+  "Number": 8106,
+  "Name": "Blackstar Crypt 7",
+  "WalkSpot": "28, 2",
+  "Description": null,
+  "DisplayName": "Blackstar Crypt 7",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "27, 0": {
+      "MapId": 8103,
+      "X": 1,
+      "Y": 47,
+      "Point": "1, 47"
+    },
+    "28, 0": {
+      "MapId": 8103,
+      "X": 3,
+      "Y": 47,
+      "Point": "3, 47"
+    }
+  },
+  "WorldMaps": {}
+}

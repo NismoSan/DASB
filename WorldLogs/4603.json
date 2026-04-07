@@ -1,0 +1,33 @@
+{
+  "Number": 4603,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Porte Forest 2-L",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 0": {
+      "MapId": 4606,
+      "X": 25,
+      "Y": 47,
+      "Point": "25, 47"
+    },
+    "31, 0": {
+      "MapId": 4606,
+      "X": 25,
+      "Y": 47,
+      "Point": "25, 47"
+    },
+    "32, 0": {
+      "MapId": 4606,
+      "X": 25,
+      "Y": 47,
+      "Point": "25, 47"
+    }
+  },
+  "WorldMaps": {}
+}

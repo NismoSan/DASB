@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>DASB - Chat</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="panel.min.css">
+  <link rel="stylesheet" href="chat.css">
+</head>
+<body class="chat-page">
+  <div class="vignette-overlay"></div>
+
+  <header class="chat-header">
+    <a href="/" class="chat-back-btn" title="Back to Panel">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+    </a>
+    <h1 class="chat-title">DASB Chat</h1>
+    <div class="chat-header-actions">
+      <span id="connection-dot" class="connection-dot disconnected" title="Disconnected"></span>
+      <button id="notif-btn" class="notif-btn" title="Enable notifications">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <div class="chat-filter-bar">
+    <div class="chat-tabs" id="chat-channel-tabs">
+      <button class="chat-tab active" data-channel="all">All</button>
+      <button class="chat-tab" data-channel="0">Whisper</button>
+      <button class="chat-tab" data-channel="5">World Shout</button>
+      <button class="chat-tab" data-channel="100">Say</button>
+      <button class="chat-tab" data-channel="101">Shout</button>
+      <button class="chat-tab" data-channel="11">Group</button>
+      <button class="chat-tab" data-channel="12">Guild</button>
+      <button class="chat-tab" data-channel="3">System</button>
+    </div>
+    <div class="chat-tabs chat-tabs-bots" id="chat-bot-tabs"></div>
+  </div>
+
+  <div id="chat-log" class="chat-log"></div>
+
+  <button id="scroll-bottom-btn" class="scroll-bottom-btn hidden" title="Scroll to bottom">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+  </button>
+
+  <div class="chat-input-area">
+    <div class="chat-mode-toggle">
+      <button id="mode-say" class="mode-btn active">Say</button>
+      <button id="mode-whisper" class="mode-btn">Whisper</button>
+    </div>
+    <div class="chat-input-row" id="say-row">
+      <select id="chat-bot-select" class="chat-bot-select"></select>
+      <input type="text" id="say-message" placeholder="Say something..." autocomplete="off" />
+      <button id="btn-say" class="chat-send-btn">Send</button>
+    </div>
+    <div class="chat-input-row hidden" id="whisper-row">
+      <select id="whisper-bot-select" class="chat-bot-select"></select>
+      <input type="text" id="whisper-target" placeholder="Player name" autocomplete="off" />
+      <input type="text" id="whisper-message" placeholder="Message" autocomplete="off" />
+      <button id="btn-whisper" class="chat-send-btn">Send</button>
+    </div>
+  </div>
+
+  <div id="toast-container" class="toast-container"></div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="chat.js"></script>
+</body>
+</html>

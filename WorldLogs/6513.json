@@ -1,0 +1,39 @@
+{
+  "Number": 6513,
+  "Name": "Octavio's Armory",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Octavio's Armory",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 19": {
+      "MapId": 6228,
+      "X": 84,
+      "Y": 78,
+      "Point": "84, 78"
+    },
+    "9, 19": {
+      "MapId": 6228,
+      "X": 84,
+      "Y": 78,
+      "Point": "84, 78"
+    },
+    "8, 19": {
+      "MapId": 6228,
+      "X": 84,
+      "Y": 78,
+      "Point": "84, 78"
+    },
+    "11, 19": {
+      "MapId": 6228,
+      "X": 84,
+      "Y": 78,
+      "Point": "84, 78"
+    }
+  },
+  "WorldMaps": {}
+}

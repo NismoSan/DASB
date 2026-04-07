@@ -1,0 +1,32 @@
+{
+  "Number": 3070,
+  "Name": "Loures Cyril Corridor",
+  "Description": null,
+  "DisplayName": "Loures Cyril Corridor",
+  "Size": {
+    "Width": 10,
+    "Height": 10
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 5": {
+      "MapId": 119,
+      "X": 13,
+      "Y": 14,
+      "Point": "13, 14"
+    },
+    "1, 6": {
+      "MapId": 119,
+      "X": 13,
+      "Y": 15,
+      "Point": "13, 15"
+    },
+    "1, 4": {
+      "MapId": 119,
+      "X": 13,
+      "Y": 13,
+      "Point": "13, 13"
+    }
+  },
+  "WorldMaps": {}
+}

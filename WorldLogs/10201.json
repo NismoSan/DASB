@@ -1,0 +1,37 @@
+{
+  "Number": 10201,
+  "Name": "Andor 101",
+  "Description": null,
+  "DisplayName": "Andor 101",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "30, 11": {
+      "MapId": 10196,
+      "X": 3,
+      "Y": 7,
+      "Point": "3, 7"
+    },
+    "30, 10": {
+      "MapId": 10196,
+      "X": 3,
+      "Y": 6,
+      "Point": "3, 6"
+    },
+    "1, 15": {
+      "MapId": 10207,
+      "X": 27,
+      "Y": 11,
+      "Point": "27, 11"
+    },
+    "1, 14": {
+      "MapId": 10207,
+      "X": 27,
+      "Y": 10,
+      "Point": "27, 10"
+    }
+  }
+}

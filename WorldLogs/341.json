@@ -1,0 +1,14 @@
+{
+  "Number": 341,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Path Temple 3",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {},
+  "WorldMaps": {}
+}

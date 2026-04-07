@@ -1,0 +1,19 @@
+{
+  "Number": 2090,
+  "Name": "Mount Giragan 4",
+  "Description": null,
+  "DisplayName": "Mount Giragan 4",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "99, 83": {
+      "MapId": 2091,
+      "X": 1,
+      "Y": 49,
+      "Point": "1, 49"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 346,
+  "Name": "Chief Rogue Hall",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chief Rogue Hall",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 11": {
+      "MapId": 344,
+      "X": 6,
+      "Y": 2,
+      "Point": "6, 2"
+    },
+    "7, 11": {
+      "MapId": 344,
+      "X": 6,
+      "Y": 2,
+      "Point": "6, 2"
+    }
+  },
+  "WorldMaps": {}
+}

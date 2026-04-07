@@ -1,0 +1,57 @@
+{
+  "Number": 458,
+  "Name": "West Woodland 16-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "West Woodland 16-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 24": {
+      "MapId": 457,
+      "X": 48,
+      "Y": 23,
+      "Point": "48, 23"
+    },
+    "0, 23": {
+      "MapId": 457,
+      "X": 48,
+      "Y": 23,
+      "Point": "48, 23"
+    },
+    "23, 0": {
+      "MapId": 460,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "24, 0": {
+      "MapId": 460,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "25, 49": {
+      "MapId": 459,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    },
+    "26, 49": {
+      "MapId": 459,
+      "X": 24,
+      "Y": 1,
+      "Point": "24, 1"
+    },
+    "25, -1": {
+      "MapId": 460,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    }
+  },
+  "WorldMaps": {}
+}

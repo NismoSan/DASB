@@ -1,0 +1,37 @@
+{
+  "Number": 9379,
+  "Name": "Plamit Inn",
+  "Description": null,
+  "DisplayName": "Plamit Inn",
+  "Size": {
+    "Width": 21,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 14": {
+      "MapId": 9378,
+      "X": 25,
+      "Y": 16,
+      "Point": "25, 16"
+    },
+    "8, 14": {
+      "MapId": 9378,
+      "X": 24,
+      "Y": 16,
+      "Point": "24, 16"
+    },
+    "10, 14": {
+      "MapId": 9378,
+      "X": 26,
+      "Y": 16,
+      "Point": "26, 16"
+    },
+    "7, 14": {
+      "MapId": 9378,
+      "X": 23,
+      "Y": 16,
+      "Point": "23, 16"
+    }
+  }
+}

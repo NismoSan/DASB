@@ -1,0 +1,57 @@
+{
+  "Number": 5254,
+  "Name": "Warrior Hallway2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Warrior Hallway2",
+  "Size": {
+    "Width": 16,
+    "Height": 7
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 3": {
+      "MapId": 5253,
+      "X": 5,
+      "Y": 3,
+      "Point": "5, 3"
+    },
+    "4, 1": {
+      "MapId": 5257,
+      "X": 2,
+      "Y": 9,
+      "Point": "2, 9"
+    },
+    "9, 1": {
+      "MapId": 5258,
+      "X": 2,
+      "Y": 9,
+      "Point": "2, 9"
+    },
+    "8, 6": {
+      "MapId": 5255,
+      "X": 8,
+      "Y": 1,
+      "Point": "8, 1"
+    },
+    "9, 6": {
+      "MapId": 5255,
+      "X": 8,
+      "Y": 1,
+      "Point": "8, 1"
+    },
+    "15, 3": {
+      "MapId": 5256,
+      "X": 1,
+      "Y": 8,
+      "Point": "1, 8"
+    },
+    "15, 4": {
+      "MapId": 5256,
+      "X": 1,
+      "Y": 8,
+      "Point": "1, 8"
+    }
+  },
+  "WorldMaps": {}
+}

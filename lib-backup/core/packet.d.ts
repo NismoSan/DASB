@@ -1,0 +1,30 @@
+export default class Packet {
+    opcode: number;
+    sequence: number;
+    position: number;
+    body: number[];
+    constructor(arg: number | number[]);
+    header(): number[];
+    bodyWithHeader(): number[];
+    buffer(): Buffer;
+    toString(): string;
+    remainder(): number;
+    read(length: number): number[] | 0;
+    readByte(): number;
+    readInt16(): number;
+    peekInt16(): number;
+    readUInt16(): number;
+    readInt32(): number;
+    readUInt32(): number;
+    readString8(): string;
+    readString16(): string;
+    write(buffer: number[]): void;
+    writeByte(value: number): void;
+    writeInt16(value: number): void;
+    writeUInt16(value: number): void;
+    writeInt32(value: number): void;
+    writeUInt32(value: number): void;
+    writeString(value: string): void;
+    writeString8(value: string): void;
+    writeString16(value: string): void;
+}

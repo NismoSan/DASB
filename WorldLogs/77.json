@@ -1,0 +1,39 @@
+{
+  "Number": 77,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Crypt 23-2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 0": {
+      "MapId": 73,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    },
+    "44, 0": {
+      "MapId": 72,
+      "X": 21,
+      "Y": 1,
+      "Point": "21, 1"
+    },
+    "6, 27": {
+      "MapId": 81,
+      "X": 36,
+      "Y": 1,
+      "Point": "36, 1"
+    },
+    "27, 13": {
+      "MapId": 82,
+      "X": 1,
+      "Y": 29,
+      "Point": "1, 29"
+    }
+  },
+  "WorldMaps": {}
+}

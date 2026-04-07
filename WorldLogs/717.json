@@ -1,0 +1,27 @@
+{
+  "Number": 717,
+  "Name": "Mileth Training Room",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mileth Training Room",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 6": {
+      "MapId": 500,
+      "X": 18,
+      "Y": 85,
+      "Point": "18, 85"
+    },
+    "11, 5": {
+      "MapId": 500,
+      "X": 18,
+      "Y": 84,
+      "Point": "18, 84"
+    }
+  },
+  "WorldMaps": {}
+}

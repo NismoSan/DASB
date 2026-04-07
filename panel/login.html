@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DASB - Login</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="panel.min.css">
+</head>
+<body class="login-page">
+  <div class="vignette-overlay"></div>
+
+  <div class="login-container">
+    <div class="login-card">
+      <div class="login-emblem">
+        <div class="emblem-shape"></div>
+        <h1>DASB</h1>
+        <p>DA Server Bot</p>
+      </div>
+
+      <form class="login-form" id="loginForm">
+        <div id="loginError" class="login-error"></div>
+
+        <div class="field">
+          <label for="username">Username</label>
+          <input type="text" id="username" name="username" autocomplete="username" required autofocus>
+        </div>
+
+        <div class="field">
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" autocomplete="current-password" required>
+        </div>
+
+        <button type="submit" class="login-btn" id="loginBtn">Enter</button>
+      </form>
+    </div>
+  </div>
+
+  <script defer src="login.js"></script>
+</body>
+</html>

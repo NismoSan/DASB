@@ -1,0 +1,63 @@
+{
+  "Number": 566,
+  "Name": "Unknown 566",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Shinewood Forest 36",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "49, 26": {
+      "MapId": 989,
+      "X": 2,
+      "Y": 35,
+      "Point": "2, 35"
+    },
+    "49, 25": {
+      "MapId": 989,
+      "X": 2,
+      "Y": 34,
+      "Point": "2, 34"
+    },
+    "49, 24": {
+      "MapId": 989,
+      "X": 2,
+      "Y": 33,
+      "Point": "2, 33"
+    },
+    "49, 27": {
+      "MapId": 989,
+      "X": 2,
+      "Y": 35,
+      "Point": "2, 35"
+    },
+    "32, 49": {
+      "MapId": 567,
+      "X": 45,
+      "Y": 1,
+      "Point": "45, 1"
+    },
+    "31, 49": {
+      "MapId": 567,
+      "X": 44,
+      "Y": 1,
+      "Point": "44, 1"
+    },
+    "30, 49": {
+      "MapId": 567,
+      "X": 43,
+      "Y": 1,
+      "Point": "43, 1"
+    },
+    "29, 49": {
+      "MapId": 567,
+      "X": 42,
+      "Y": 1,
+      "Point": "42, 1"
+    }
+  },
+  "WorldMaps": {}
+}

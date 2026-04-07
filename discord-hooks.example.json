@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "id": "example_1",
+      "name": "World Shouts",
+      "enabled": true,
+      "webhookUrl": "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN",
+      "messageTypes": [
+        "WorldShout"
+      ],
+      "pattern": null,
+      "botName": "World Shouts",
+      "botAvatar": null
+    }
+  ]
+}

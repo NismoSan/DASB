@@ -1,0 +1,27 @@
+{
+  "Number": 5252,
+  "Name": "Warrior Foyer",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Warrior Foyer",
+  "Size": {
+    "Width": 13,
+    "Height": 13
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 12": {
+      "MapId": 662,
+      "X": 64,
+      "Y": 78,
+      "Point": "64, 78"
+    },
+    "8, 0": {
+      "MapId": 5253,
+      "X": 3,
+      "Y": 14,
+      "Point": "3, 14"
+    }
+  },
+  "WorldMaps": {}
+}

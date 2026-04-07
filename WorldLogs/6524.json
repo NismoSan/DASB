@@ -1,0 +1,26 @@
+{
+  "Number": 6524,
+  "Name": "Franchesco's Tavern",
+  "Description": null,
+  "DisplayName": "Franchesco's Tavern",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 8": {
+      "MapId": 6228,
+      "X": 73,
+      "Y": 97,
+      "Point": "73, 97"
+    },
+    "19, 9": {
+      "MapId": 6228,
+      "X": 73,
+      "Y": 97,
+      "Point": "73, 97"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,33 @@
+{
+  "Number": 3614,
+  "Name": "Chaos 15",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 15",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "26, 0": {
+      "MapId": 3613,
+      "X": 33,
+      "Y": 66,
+      "Point": "33, 66"
+    },
+    "49, 42": {
+      "MapId": 3616,
+      "X": 3,
+      "Y": 75,
+      "Point": "3, 75"
+    },
+    "49, 43": {
+      "MapId": 3616,
+      "X": 3,
+      "Y": 75,
+      "Point": "3, 75"
+    }
+  },
+  "WorldMaps": {}
+}

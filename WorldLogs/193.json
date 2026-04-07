@@ -1,0 +1,27 @@
+{
+  "Number": 193,
+  "Name": "Piet Dungeon 3-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Dungeon 3-2",
+  "Size": {
+    "Width": 26,
+    "Height": 26
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 10": {
+      "MapId": 189,
+      "X": 15,
+      "Y": 14,
+      "Point": "15, 14"
+    },
+    "18, 5": {
+      "MapId": 198,
+      "X": 2,
+      "Y": 7,
+      "Point": "2, 7"
+    }
+  },
+  "WorldMaps": {}
+}

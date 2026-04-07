@@ -1,0 +1,21 @@
+{
+  "Number": 320,
+  "Name": "Dubhaim Castle West 1-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Dubhaim Castle West 1-1",
+  "Size": {
+    "Width": 22,
+    "Height": 22
+  },
+  "Flags": 0,
+  "Portals": {
+    "21, 11": {
+      "MapId": 319,
+      "X": 1,
+      "Y": 32,
+      "Point": "1, 32"
+    }
+  },
+  "WorldMaps": {}
+}

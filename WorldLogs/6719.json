@@ -1,0 +1,26 @@
+{
+  "Number": 6719,
+  "Name": "Nobis Tavern",
+  "Description": null,
+  "DisplayName": "Nobis Tavern",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 9": {
+      "MapId": 6700,
+      "X": 33,
+      "Y": 42,
+      "Point": "33, 42"
+    },
+    "19, 10": {
+      "MapId": 6700,
+      "X": 33,
+      "Y": 42,
+      "Point": "33, 42"
+    }
+  },
+  "WorldMaps": {}
+}

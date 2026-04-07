@@ -1,0 +1,39 @@
+{
+  "Number": 66,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Crypt 20-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 30": {
+      "MapId": 64,
+      "X": 43,
+      "Y": 1,
+      "Point": "43, 1"
+    },
+    "17, 0": {
+      "MapId": 63,
+      "X": 11,
+      "Y": 22,
+      "Point": "11, 22"
+    },
+    "2, 20": {
+      "MapId": 68,
+      "X": 43,
+      "Y": 23,
+      "Point": "43, 23"
+    },
+    "29, 45": {
+      "MapId": 70,
+      "X": 43,
+      "Y": 1,
+      "Point": "43, 1"
+    }
+  },
+  "WorldMaps": {}
+}

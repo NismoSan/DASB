@@ -1,0 +1,37 @@
+{
+  "Number": 452,
+  "Name": "West Woodland 10-1",
+  "Description": null,
+  "DisplayName": "West Woodland 10-1",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "23, 0": {
+      "MapId": 449,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "24, 0": {
+      "MapId": 449,
+      "X": 25,
+      "Y": 48,
+      "Point": "25, 48"
+    },
+    "0, 23": {
+      "MapId": 453,
+      "X": 24,
+      "Y": 0,
+      "Point": "24, 0"
+    },
+    "0, 24": {
+      "MapId": 453,
+      "X": 24,
+      "Y": 0,
+      "Point": "24, 0"
+    }
+  }
+}

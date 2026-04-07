@@ -1,0 +1,39 @@
+{
+  "Number": 657,
+  "Name": "Mine 12-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Mine 12-1",
+  "Size": {
+    "Width": 100,
+    "Height": 100
+  },
+  "Flags": 0,
+  "Portals": {
+    "47, 99": {
+      "MapId": 656,
+      "X": 40,
+      "Y": 1,
+      "Point": "40, 1"
+    },
+    "46, 99": {
+      "MapId": 656,
+      "X": 39,
+      "Y": 1,
+      "Point": "39, 1"
+    },
+    "65, 14": {
+      "MapId": 643,
+      "X": 2,
+      "Y": 53,
+      "Point": "2, 53"
+    },
+    "64, 14": {
+      "MapId": 643,
+      "X": 2,
+      "Y": 51,
+      "Point": "2, 51"
+    }
+  },
+  "WorldMaps": {}
+}

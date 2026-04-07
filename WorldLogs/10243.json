@@ -1,0 +1,39 @@
+{
+  "Number": 10243,
+  "Name": "Andor 143",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Andor 143",
+  "Size": {
+    "Width": 40,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "38, 19": {
+      "MapId": 10234,
+      "X": 3,
+      "Y": 22,
+      "Point": "3, 22"
+    },
+    "38, 20": {
+      "MapId": 10234,
+      "X": 5,
+      "Y": 22,
+      "Point": "5, 22"
+    },
+    "14, 1": {
+      "MapId": 10244,
+      "X": 17,
+      "Y": 28,
+      "Point": "17, 28"
+    },
+    "15, 1": {
+      "MapId": 10244,
+      "X": 18,
+      "Y": 28,
+      "Point": "18, 28"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,33 @@
+{
+  "Number": 7435,
+  "Name": "Loures Sewer Canal 35",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Loures Sewer Canal 35",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "15, 0": {
+      "MapId": 7434,
+      "X": 13,
+      "Y": 23,
+      "Point": "13, 23"
+    },
+    "14, 0": {
+      "MapId": 7434,
+      "X": 12,
+      "Y": 23,
+      "Point": "12, 23"
+    },
+    "19, 16": {
+      "MapId": 7436,
+      "X": 2,
+      "Y": 11,
+      "Point": "2, 11"
+    }
+  },
+  "WorldMaps": {}
+}

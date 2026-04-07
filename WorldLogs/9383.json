@@ -1,0 +1,37 @@
+{
+  "Number": 9383,
+  "Name": "Plamit Armory",
+  "Description": null,
+  "DisplayName": "Plamit Armory",
+  "Size": {
+    "Width": 21,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 14": {
+      "MapId": 9378,
+      "X": 33,
+      "Y": 38,
+      "Point": "33, 38"
+    },
+    "11, 14": {
+      "MapId": 9378,
+      "X": 33,
+      "Y": 39,
+      "Point": "33, 39"
+    },
+    "12, 14": {
+      "MapId": 9378,
+      "X": 33,
+      "Y": 40,
+      "Point": "33, 40"
+    },
+    "13, 14": {
+      "MapId": 9378,
+      "X": 33,
+      "Y": 41,
+      "Point": "33, 41"
+    }
+  }
+}

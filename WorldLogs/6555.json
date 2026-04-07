@@ -1,0 +1,39 @@
+{
+  "Number": 6555,
+  "Name": "Oren Ruins 1-18",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Oren Ruins 1-18",
+  "Size": {
+    "Width": 70,
+    "Height": 90
+  },
+  "Flags": 0,
+  "Portals": {
+    "69, 50": {
+      "MapId": 6554,
+      "X": 1,
+      "Y": 50,
+      "Point": "1, 50"
+    },
+    "69, 49": {
+      "MapId": 6554,
+      "X": 1,
+      "Y": 49,
+      "Point": "1, 49"
+    },
+    "69, 51": {
+      "MapId": 6554,
+      "X": 1,
+      "Y": 51,
+      "Point": "1, 51"
+    },
+    "69, 52": {
+      "MapId": 6554,
+      "X": 1,
+      "Y": 52,
+      "Point": "1, 52"
+    }
+  },
+  "WorldMaps": {}
+}

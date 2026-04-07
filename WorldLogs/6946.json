@@ -1,0 +1,51 @@
+{
+  "Number": 6946,
+  "Name": "Unknown 6946",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Guest House",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 9": {
+      "MapId": 2041,
+      "X": 66,
+      "Y": 3,
+      "Point": "66, 3"
+    },
+    "19, 10": {
+      "MapId": 2041,
+      "X": 66,
+      "Y": 4,
+      "Point": "66, 4"
+    },
+    "11, 0": {
+      "MapId": 2053,
+      "X": 68,
+      "Y": 97,
+      "Point": "68, 97"
+    },
+    "10, 0": {
+      "MapId": 2053,
+      "X": 67,
+      "Y": 97,
+      "Point": "67, 97"
+    },
+    "9, 0": {
+      "MapId": 2053,
+      "X": 66,
+      "Y": 97,
+      "Point": "66, 97"
+    },
+    "8, 0": {
+      "MapId": 2053,
+      "X": 65,
+      "Y": 97,
+      "Point": "65, 97"
+    }
+  },
+  "WorldMaps": {}
+}

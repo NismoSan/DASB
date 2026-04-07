@@ -1,0 +1,39 @@
+{
+  "Number": 187,
+  "Name": "Piet Dungeon 1-1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Dungeon 1-1",
+  "Size": {
+    "Width": 26,
+    "Height": 26
+  },
+  "Flags": 0,
+  "Portals": {
+    "9, 0": {
+      "MapId": 426,
+      "X": 20,
+      "Y": 18,
+      "Point": "20, 18"
+    },
+    "10, 0": {
+      "MapId": 426,
+      "X": 20,
+      "Y": 18,
+      "Point": "20, 18"
+    },
+    "11, 0": {
+      "MapId": 426,
+      "X": 20,
+      "Y": 18,
+      "Point": "20, 18"
+    },
+    "13, 3": {
+      "MapId": 190,
+      "X": 17,
+      "Y": 22,
+      "Point": "17, 22"
+    }
+  },
+  "WorldMaps": {}
+}

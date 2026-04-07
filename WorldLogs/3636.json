@@ -1,0 +1,27 @@
+{
+  "Number": 3636,
+  "Name": "Chaos Shelter",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos Shelter",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "15, 19": {
+      "MapId": 3624,
+      "X": 25,
+      "Y": 3,
+      "Point": "25, 3"
+    },
+    "14, 19": {
+      "MapId": 3624,
+      "X": 24,
+      "Y": 4,
+      "Point": "24, 4"
+    }
+  },
+  "WorldMaps": {}
+}

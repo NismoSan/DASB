@@ -1,0 +1,63 @@
+{
+  "Number": 6931,
+  "Name": "Grass Battle Field4",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Grass Battle Field4",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "17, 31": {
+      "MapId": 6930,
+      "X": 17,
+      "Y": 3,
+      "Point": "17, 3"
+    },
+    "20, 31": {
+      "MapId": 6930,
+      "X": 20,
+      "Y": 2,
+      "Point": "20, 2"
+    },
+    "20, 0": {
+      "MapId": 6932,
+      "X": 17,
+      "Y": 29,
+      "Point": "17, 29"
+    },
+    "17, 0": {
+      "MapId": 6932,
+      "X": 17,
+      "Y": 29,
+      "Point": "17, 29"
+    },
+    "18, 0": {
+      "MapId": 6932,
+      "X": 17,
+      "Y": 29,
+      "Point": "17, 29"
+    },
+    "19, 0": {
+      "MapId": 6932,
+      "X": 18,
+      "Y": 29,
+      "Point": "18, 29"
+    },
+    "18, 31": {
+      "MapId": 6930,
+      "X": 18,
+      "Y": 2,
+      "Point": "18, 2"
+    },
+    "19, 31": {
+      "MapId": 6930,
+      "X": 19,
+      "Y": 2,
+      "Point": "19, 2"
+    }
+  },
+  "WorldMaps": {}
+}

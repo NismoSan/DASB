@@ -1,0 +1,33 @@
+{
+  "Number": 3200,
+  "Name": "Loures Soccer Field",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Loures Soccer Field",
+  "Size": {
+    "Width": 43,
+    "Height": 68
+  },
+  "Flags": 0,
+  "Portals": {
+    "42, 34": {
+      "MapId": 3012,
+      "X": 1,
+      "Y": 3,
+      "Point": "1, 3"
+    },
+    "42, 35": {
+      "MapId": 3012,
+      "X": 1,
+      "Y": 4,
+      "Point": "1, 4"
+    },
+    "42, 36": {
+      "MapId": 3012,
+      "X": 1,
+      "Y": 5,
+      "Point": "1, 5"
+    }
+  },
+  "WorldMaps": {}
+}

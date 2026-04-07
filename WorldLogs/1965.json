@@ -1,0 +1,21 @@
+{
+  "Number": 1965,
+  "Name": "Unknown 1965",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tagor Tavern",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "14, 5": {
+      "MapId": 662,
+      "X": 91,
+      "Y": 8,
+      "Point": "91, 8"
+    }
+  },
+  "WorldMaps": {}
+}

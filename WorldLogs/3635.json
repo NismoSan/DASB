@@ -1,0 +1,45 @@
+{
+  "Number": 3635,
+  "Name": "Chaos Entrance",
+  "WalkSpot": "4, 8",
+  "Description": null,
+  "DisplayName": "Chaos Entrance",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 2": {
+      "MapId": 3634,
+      "X": 2,
+      "Y": 14,
+      "Point": "2, 14"
+    },
+    "10, 19": {
+      "MapId": 3058,
+      "X": 8,
+      "Y": 2,
+      "Point": "8, 2"
+    },
+    "11, 19": {
+      "MapId": 3058,
+      "X": 9,
+      "Y": 2,
+      "Point": "9, 2"
+    },
+    "7, 2": {
+      "MapId": 3634,
+      "X": 2,
+      "Y": 15,
+      "Point": "2, 15"
+    },
+    "5, 2": {
+      "MapId": 3634,
+      "X": 2,
+      "Y": 13,
+      "Point": "2, 13"
+    }
+  },
+  "WorldMaps": {}
+}

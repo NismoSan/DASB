@@ -1,0 +1,38 @@
+{
+  "Number": 6516,
+  "Name": "Oren Island Magic Shop1",
+  "Description": null,
+  "DisplayName": "Oren Island Magic Shop1",
+  "Size": {
+    "Width": 20,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "19, 9": {
+      "MapId": 6228,
+      "X": 34,
+      "Y": 125,
+      "Point": "34, 125"
+    },
+    "19, 10": {
+      "MapId": 6228,
+      "X": 34,
+      "Y": 125,
+      "Point": "34, 125"
+    },
+    "19, 11": {
+      "MapId": 6228,
+      "X": 34,
+      "Y": 125,
+      "Point": "34, 125"
+    },
+    "19, 12": {
+      "MapId": 6228,
+      "X": 34,
+      "Y": 125,
+      "Point": "34, 125"
+    }
+  },
+  "WorldMaps": {}
+}

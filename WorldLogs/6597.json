@@ -1,0 +1,21 @@
+{
+  "Number": 6597,
+  "Name": "Ruins Altar 3",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Ruins Altar 3",
+  "Size": {
+    "Width": 25,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 39": {
+      "MapId": 6568,
+      "X": 21,
+      "Y": 1,
+      "Point": "21, 1"
+    }
+  },
+  "WorldMaps": {}
+}

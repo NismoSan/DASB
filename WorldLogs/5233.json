@@ -1,0 +1,39 @@
+{
+  "Number": 5233,
+  "Name": "Coliseum Gauntlet",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Coliseum Gauntlet",
+  "Size": {
+    "Width": 14,
+    "Height": 30
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 29": {
+      "MapId": 5232,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    },
+    "11, 29": {
+      "MapId": 5232,
+      "X": 11,
+      "Y": 1,
+      "Point": "11, 1"
+    },
+    "12, 29": {
+      "MapId": 5232,
+      "X": 12,
+      "Y": 1,
+      "Point": "12, 1"
+    },
+    "13, 29": {
+      "MapId": 5232,
+      "X": 13,
+      "Y": 1,
+      "Point": "13, 1"
+    }
+  },
+  "WorldMaps": {}
+}

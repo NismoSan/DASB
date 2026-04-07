@@ -1,0 +1,21 @@
+{
+  "Number": 934,
+  "Name": "caladh beithir 25",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "caladh beithir 25",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 26": {
+      "MapId": 931,
+      "X": 40,
+      "Y": 16,
+      "Point": "40, 16"
+    }
+  },
+  "WorldMaps": {}
+}

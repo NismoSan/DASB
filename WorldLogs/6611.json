@@ -1,0 +1,51 @@
+{
+  "Number": 6611,
+  "Name": "Oren Island Jungle 10",
+  "WalkSpot": "32, 20",
+  "Description": null,
+  "DisplayName": "Oren Island Jungle 10",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "49, 28": {
+      "MapId": 6610,
+      "X": 2,
+      "Y": 24,
+      "Point": "2, 24"
+    },
+    "49, 24": {
+      "MapId": 6610,
+      "X": 2,
+      "Y": 24,
+      "Point": "2, 24"
+    },
+    "49, 25": {
+      "MapId": 6610,
+      "X": 2,
+      "Y": 24,
+      "Point": "2, 24"
+    },
+    "49, 26": {
+      "MapId": 6610,
+      "X": 3,
+      "Y": 24,
+      "Point": "3, 24"
+    },
+    "49, 27": {
+      "MapId": 6610,
+      "X": 3,
+      "Y": 24,
+      "Point": "3, 24"
+    },
+    "25, 11": {
+      "MapId": 6623,
+      "X": 13,
+      "Y": 7,
+      "Point": "13, 7"
+    }
+  },
+  "WorldMaps": {}
+}

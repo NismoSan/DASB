@@ -1,0 +1,20 @@
+{
+  "Number": 6602,
+  "Name": "Oren Island Jungle 1",
+  "Description": null,
+  "DisplayName": "Oren Island Jungle 1",
+  "Size": {
+    "Width": 70,
+    "Height": 70
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 14": {
+      "MapId": 6601,
+      "X": 67,
+      "Y": 33,
+      "Point": "67, 33"
+    }
+  },
+  "WorldMaps": {}
+}

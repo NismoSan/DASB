@@ -1,0 +1,33 @@
+{
+  "Number": 5251,
+  "Name": "Warrior Training Barracks",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Warrior Training Barrack",
+  "Size": {
+    "Width": 13,
+    "Height": 13
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 5": {
+      "MapId": 5253,
+      "X": 5,
+      "Y": 10,
+      "Point": "5, 10"
+    },
+    "12, 5": {
+      "MapId": 662,
+      "X": 73,
+      "Y": 72,
+      "Point": "73, 72"
+    },
+    "12, 4": {
+      "MapId": 662,
+      "X": 73,
+      "Y": 71,
+      "Point": "73, 71"
+    }
+  },
+  "WorldMaps": {}
+}

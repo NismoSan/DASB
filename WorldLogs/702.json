@@ -1,0 +1,39 @@
+{
+  "Number": 702,
+  "Name": "Grass Battle Field",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Grass Battle Field",
+  "Size": {
+    "Width": 32,
+    "Height": 32
+  },
+  "Flags": 0,
+  "Portals": {
+    "17, 31": {
+      "MapId": 701,
+      "X": 8,
+      "Y": 1,
+      "Point": "8, 1"
+    },
+    "18, 31": {
+      "MapId": 701,
+      "X": 9,
+      "Y": 1,
+      "Point": "9, 1"
+    },
+    "19, 31": {
+      "MapId": 701,
+      "X": 10,
+      "Y": 1,
+      "Point": "10, 1"
+    },
+    "20, 31": {
+      "MapId": 701,
+      "X": 11,
+      "Y": 1,
+      "Point": "11, 1"
+    }
+  },
+  "WorldMaps": {}
+}

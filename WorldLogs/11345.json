@@ -1,0 +1,21 @@
+{
+  "Number": 11345,
+  "Name": "Unknown 11345",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Muisir Hunting Ground 4",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "0, 24": {
+      "MapId": 11344,
+      "X": 48,
+      "Y": 24,
+      "Point": "48, 24"
+    }
+  },
+  "WorldMaps": {}
+}

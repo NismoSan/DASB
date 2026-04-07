@@ -1,0 +1,33 @@
+{
+  "Number": 181,
+  "Name": "Abel Restaurant",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Abel Restaurant",
+  "Size": {
+    "Width": 15,
+    "Height": 15
+  },
+  "Flags": 0,
+  "Portals": {
+    "13, 0": {
+      "MapId": 168,
+      "X": 10,
+      "Y": 13,
+      "Point": "10, 13"
+    },
+    "8, 14": {
+      "MapId": 502,
+      "X": 6,
+      "Y": 51,
+      "Point": "6, 51"
+    },
+    "9, 14": {
+      "MapId": 502,
+      "X": 7,
+      "Y": 51,
+      "Point": "7, 51"
+    }
+  },
+  "WorldMaps": {}
+}

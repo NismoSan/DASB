@@ -1,0 +1,33 @@
+{
+  "Number": 11540,
+  "Name": "Tavaly Town Hall",
+  "WalkSpot": "7, 6",
+  "Description": null,
+  "DisplayName": "Tavaly Town Hall",
+  "Size": {
+    "Width": 15,
+    "Height": 30
+  },
+  "Flags": 0,
+  "Portals": {
+    "7, 29": {
+      "MapId": 11500,
+      "X": 52,
+      "Y": 49,
+      "Point": "52, 49"
+    },
+    "9, 29": {
+      "MapId": 11500,
+      "X": 54,
+      "Y": 49,
+      "Point": "54, 49"
+    },
+    "8, 29": {
+      "MapId": 11500,
+      "X": 53,
+      "Y": 49,
+      "Point": "53, 49"
+    }
+  },
+  "WorldMaps": {}
+}

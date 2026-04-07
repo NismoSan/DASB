@@ -1,0 +1,21 @@
+{
+  "Number": 5117,
+  "Name": "Lynith Sea 7",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Lynith Sea 7",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "33, 49": {
+      "MapId": 5112,
+      "X": 32,
+      "Y": 1,
+      "Point": "32, 1"
+    }
+  },
+  "WorldMaps": {}
+}

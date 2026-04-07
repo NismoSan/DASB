@@ -1,0 +1,27 @@
+{
+  "Number": 950,
+  "Name": "Suomi Inn",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Suomi Inn",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "11, 2": {
+      "MapId": 503,
+      "X": 41,
+      "Y": 48,
+      "Point": "41, 48"
+    },
+    "6, 11": {
+      "MapId": 503,
+      "X": 32,
+      "Y": 56,
+      "Point": "32, 56"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,45 @@
+{
+  "Number": 3610,
+  "Name": "Chaos 11",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Chaos 11",
+  "Size": {
+    "Width": 80,
+    "Height": 80
+  },
+  "Flags": 0,
+  "Portals": {
+    "26, 0": {
+      "MapId": 3609,
+      "X": 30,
+      "Y": 67,
+      "Point": "30, 67"
+    },
+    "13, 79": {
+      "MapId": 3611,
+      "X": 46,
+      "Y": 3,
+      "Point": "46, 3"
+    },
+    "14, 79": {
+      "MapId": 3611,
+      "X": 46,
+      "Y": 3,
+      "Point": "46, 3"
+    },
+    "15, 79": {
+      "MapId": 3611,
+      "X": 46,
+      "Y": 3,
+      "Point": "46, 3"
+    },
+    "16, 79": {
+      "MapId": 3611,
+      "X": 46,
+      "Y": 4,
+      "Point": "46, 4"
+    }
+  },
+  "WorldMaps": {}
+}

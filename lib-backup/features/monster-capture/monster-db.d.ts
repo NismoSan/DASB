@@ -1,0 +1,12 @@
+import type { CapturedMonster, LeaderboardEntry } from './types';
+export declare function initMonsterSchema(): Promise<void>;
+export declare function saveMonster(mon: CapturedMonster): Promise<number>;
+export declare function updateMonster(mon: CapturedMonster): Promise<void>;
+export declare function getMonstersByOwner(ownerName: string): Promise<CapturedMonster[]>;
+export declare function getActiveMonster(ownerName: string): Promise<CapturedMonster | null>;
+export declare function setActiveMonster(ownerName: string, monsterId: number): Promise<boolean>;
+export declare function deleteMonster(monsterId: number, ownerName: string): Promise<boolean>;
+export declare function getMonsterCount(ownerName: string): Promise<number>;
+export declare function getMonsterById(monsterId: number): Promise<CapturedMonster | null>;
+export declare function renameMonster(monsterId: number, ownerName: string, nickname: string): Promise<boolean>;
+export declare function getLeaderboard(limit?: number): Promise<LeaderboardEntry[]>;

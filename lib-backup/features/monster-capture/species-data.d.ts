@@ -1,0 +1,21 @@
+import type { MonsterSpecies, Move, MonsterType, Nature, NatureModifier } from './types';
+export declare function getTypeEffectiveness(attackType: MonsterType, defendType: MonsterType): number;
+export declare function loadSpeciesData(config?: {
+    species?: MonsterSpecies[];
+    evolvedSpecies?: MonsterSpecies[];
+    moves?: Record<string, Move>;
+}): void;
+export declare function getAllSpecies(): MonsterSpecies[];
+export declare function getAllEvolvedSpecies(): MonsterSpecies[];
+export declare function getAllMoves(): Record<string, Move>;
+export declare function getSpeciesBySprite(sprite: number): MonsterSpecies | undefined;
+export declare function getSpeciesByName(name: string): MonsterSpecies | undefined;
+export declare function getRandomSpecies(): MonsterSpecies;
+export declare function getMove(name: string): Move | undefined;
+export declare const NATURE_MODIFIERS: Record<Nature, NatureModifier>;
+export declare function getRandomNature(): Nature;
+export declare function calculateStat(baseStat: number, level: number, nature: Nature, statKey: string): number;
+export declare function calculateHp(baseHp: number, level: number): number;
+export declare function calculateXpToNext(level: number): number;
+export declare function getMovesForLevel(species: MonsterSpecies, level: number): string[];
+export declare const TYPE_SPELL_PATTERNS: Record<MonsterType, string[]>;

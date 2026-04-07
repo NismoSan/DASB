@@ -1,0 +1,21 @@
+{
+  "Number": 386,
+  "Name": "Piet Empty Room 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Piet Empty Room 1",
+  "Size": {
+    "Width": 13,
+    "Height": 13
+  },
+  "Flags": 0,
+  "Portals": {
+    "12, 7": {
+      "MapId": 501,
+      "X": 30,
+      "Y": 12,
+      "Point": "30, 12"
+    }
+  },
+  "WorldMaps": {}
+}

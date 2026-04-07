@@ -1,0 +1,21 @@
+{
+  "Number": 319,
+  "Name": "Dubhaim Castle West Corridor",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Dubhaim Castle West Corr",
+  "Size": {
+    "Width": 9,
+    "Height": 40
+  },
+  "Flags": 0,
+  "Portals": {
+    "5, 39": {
+      "MapId": 340,
+      "X": 12,
+      "Y": 27,
+      "Point": "12, 27"
+    }
+  },
+  "WorldMaps": {}
+}

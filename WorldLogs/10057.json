@@ -1,0 +1,21 @@
+{
+  "Number": 10057,
+  "Name": "Noam Inn 2nd Floor",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Noam Inn 2nd Floor",
+  "Size": {
+    "Width": 6,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "1, 18": {
+      "MapId": 10056,
+      "X": 12,
+      "Y": 6,
+      "Point": "12, 6"
+    }
+  },
+  "WorldMaps": {}
+}

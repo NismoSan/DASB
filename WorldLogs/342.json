@@ -1,0 +1,27 @@
+{
+  "Number": 342,
+  "Name": "Path Temple 7",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Path Temple 7",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 1": {
+      "MapId": 345,
+      "X": 6,
+      "Y": 10,
+      "Point": "6, 10"
+    },
+    "1, 6": {
+      "MapId": 346,
+      "X": 10,
+      "Y": 6,
+      "Point": "10, 6"
+    }
+  },
+  "WorldMaps": {}
+}

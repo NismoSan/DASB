@@ -1,0 +1,25 @@
+{
+  "Number": 10001,
+  "Name": "Asilon Weapon Shop",
+  "Description": null,
+  "DisplayName": "Asilon Weapon Shop",
+  "Size": {
+    "Width": 21,
+    "Height": 16
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 14": {
+      "MapId": 10000,
+      "X": 12,
+      "Y": 34,
+      "Point": "12, 34"
+    },
+    "11, 14": {
+      "MapId": 10000,
+      "X": 12,
+      "Y": 34,
+      "Point": "12, 34"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 718,
+  "Name": "Tagor Church",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Tagor Church",
+  "Size": {
+    "Width": 18,
+    "Height": 25
+  },
+  "Flags": 0,
+  "Portals": {
+    "8, 24": {
+      "MapId": 662,
+      "X": 65,
+      "Y": 31,
+      "Point": "65, 31"
+    },
+    "9, 24": {
+      "MapId": 662,
+      "X": 66,
+      "Y": 31,
+      "Point": "66, 31"
+    }
+  },
+  "WorldMaps": {}
+}

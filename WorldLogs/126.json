@@ -1,0 +1,56 @@
+{
+  "Number": 126,
+  "Name": "Loures 2 Floor Corridor",
+  "Description": null,
+  "DisplayName": "Loures 2 Floor Corridor",
+  "Size": {
+    "Width": 5,
+    "Height": 33
+  },
+  "Flags": 0,
+  "Portals": {
+    "2, 32": {
+      "MapId": 109,
+      "X": 14,
+      "Y": 7,
+      "Point": "14, 7"
+    },
+    "0, 28": {
+      "MapId": 111,
+      "X": 6,
+      "Y": 5,
+      "Point": "6, 5"
+    },
+    "0, 22": {
+      "MapId": 112,
+      "X": 6,
+      "Y": 6,
+      "Point": "6, 6"
+    },
+    "0, 16": {
+      "MapId": 114,
+      "X": 14,
+      "Y": 10,
+      "Point": "14, 10"
+    },
+    "0, 10": {
+      "MapId": 116,
+      "X": 7,
+      "Y": 6,
+      "Point": "7, 6"
+    },
+    "0, 4": {
+      "MapId": 117,
+      "X": 7,
+      "Y": 6,
+      "Point": "7, 6"
+    },
+    "2, 0": {
+      "MapId": 119,
+      "X": 6,
+      "Y": 13,
+      "Point": "6, 13"
+    }
+  },
+  "WorldMaps": {}
+}

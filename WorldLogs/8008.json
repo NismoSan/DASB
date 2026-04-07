@@ -1,0 +1,39 @@
+{
+  "Number": 8008,
+  "Name": "Unknown Depths 8",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Unknown Depths 8",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "26, 20": {
+      "MapId": 8045,
+      "X": 12,
+      "Y": 8,
+      "Point": "12, 8"
+    },
+    "26, 24": {
+      "MapId": 8045,
+      "X": 7,
+      "Y": 12,
+      "Point": "7, 12"
+    },
+    "23, 1": {
+      "MapId": 8009,
+      "X": 31,
+      "Y": 46,
+      "Point": "31, 46"
+    },
+    "1, 29": {
+      "MapId": 8007,
+      "X": 46,
+      "Y": 26,
+      "Point": "46, 26"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,39 @@
+{
+  "Number": 1001,
+  "Name": "Gate of Lighter Slumber 1",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Gate of Lighter Slumber ",
+  "Size": {
+    "Width": 12,
+    "Height": 12
+  },
+  "Flags": 0,
+  "Portals": {
+    "6, 5": {
+      "MapId": 3079,
+      "X": 4,
+      "Y": 1,
+      "Point": "4, 1"
+    },
+    "5, 4": {
+      "MapId": 3079,
+      "X": 3,
+      "Y": 1,
+      "Point": "3, 1"
+    },
+    "4, 5": {
+      "MapId": 3079,
+      "X": 3,
+      "Y": 1,
+      "Point": "3, 1"
+    },
+    "5, 6": {
+      "MapId": 3079,
+      "X": 3,
+      "Y": 2,
+      "Point": "3, 2"
+    }
+  },
+  "WorldMaps": {}
+}

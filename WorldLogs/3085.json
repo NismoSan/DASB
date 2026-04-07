@@ -1,0 +1,45 @@
+{
+  "Number": 3085,
+  "Name": null,
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "Aosda Prayer Ground at K",
+  "Size": {
+    "Width": 16,
+    "Height": 20
+  },
+  "Flags": 0,
+  "Portals": {
+    "10, 5": {
+      "MapId": 3087,
+      "X": 7,
+      "Y": 6,
+      "Point": "7, 6"
+    },
+    "10, 4": {
+      "MapId": 3087,
+      "X": 7,
+      "Y": 5,
+      "Point": "7, 5"
+    },
+    "10, 13": {
+      "MapId": 3086,
+      "X": 7,
+      "Y": 5,
+      "Point": "7, 5"
+    },
+    "10, 14": {
+      "MapId": 3086,
+      "X": 7,
+      "Y": 6,
+      "Point": "7, 6"
+    },
+    "10, 15": {
+      "MapId": 3086,
+      "X": 7,
+      "Y": 6,
+      "Point": "7, 6"
+    }
+  },
+  "WorldMaps": {}
+}

@@ -1,0 +1,27 @@
+{
+  "Number": 460,
+  "Name": "West Woodland 17-2",
+  "WalkSpot": "0, 0",
+  "Description": null,
+  "DisplayName": "West Woodland 17-2",
+  "Size": {
+    "Width": 50,
+    "Height": 50
+  },
+  "Flags": 0,
+  "Portals": {
+    "25, 49": {
+      "MapId": 458,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    },
+    "26, 49": {
+      "MapId": 458,
+      "X": 23,
+      "Y": 1,
+      "Point": "23, 1"
+    }
+  },
+  "WorldMaps": {}
+}
